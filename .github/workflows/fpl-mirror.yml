@@ -1,0 +1,124 @@
+name: Mirror FPL + Build Combined CSV
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch bootstrap (prices/ownership/positions)
+        run: |
+          curl -fsSL "https://fantasy.premierleague.com/api/bootstrap-static/" -o bootstrap.json
+
+      - name: Determine current/next GW
+        id: gw
+        run: |
+          node - <<'NODE'
+          const fs = require('fs');
+          const boot = JSON.parse(fs.readFileSync('bootstrap.json','utf8'));
+          const ev = boot.events || [];
+          const cur = ev.find(e=>e.is_current);
+          const nxt = ev.find(e=>e.is_next);
+          const gw  = (cur && cur.id) || (nxt && nxt.id) || ev.reduce((a,b)=>a.id>b.id?a:b).id;
+          console.log(`gw=${gw}`);
+          fs.writeFileSync('gw.txt', String(gw));
+          NODE
+
+      - name: Read GW
+        run: echo "GW=$(cat gw.txt)" >> $GITHUB_ENV
+
+      - name: Fetch live (current/next GW)
+        run: |
+          curl -fsSL "https://fantasy.premierleague.com/api/event/${GW}/live/" -o "live_gw${GW}.json"
+
+      - name: Fetch all fixtures
+        run: |
+          curl -fsSL "https://fantasy.premierleague.com/api/fixtures/" -o fixtures.json
+
+      - name: Build combined CSV (feed_players.csv) + meta.json
+        run: |
+          node - <<'NODE'
+          const fs = require('fs');
+
+          const boot = JSON.parse(fs.readFileSync('bootstrap.json','utf8'));
+          const GW   = fs.readFileSync('gw.txt','utf8').trim();
+          const live = JSON.parse(fs.readFileSync(`live_gw${GW}.json`,'utf8'));
+
+          const teamsById = new Map(boot.teams.map(t => [t.id, t.name]));
+          const typesById = new Map(boot.element_types.map(t => [t.id, t.singular_name_short]));
+          const metaById  = new Map(boot.elements.map(e => [e.id, {
+            id: e.id,
+            web_name: e.web_name,
+            first_name: e.first_name,
+            second_name: e.second_name,
+            team: e.team,
+            element_type: e.element_type,
+            now_cost: e.now_cost, // tenths of a £
+            selected_by_percent: e.selected_by_percent,
+            transfers_in_event: e.transfers_in_event,
+            transfers_out_event: e.transfers_out_event
+          }]));
+
+          const rows = (live.elements || []).map(e => {
+            const m = metaById.get(e.id) || {};
+            const team = teamsById.get(m.team) || "";
+            const pos  = typesById.get(m.element_type) || "";
+            return {
+              id: e.id,
+              name: (m.web_name || `${m.first_name||""} ${m.second_name||""}`.trim()),
+              team,
+              position: pos,
+              cost: m.now_cost != null ? (m.now_cost/10).toFixed(1) : "",
+              sel: m.selected_by_percent ?? "",
+              tin: m.transfers_in_event ?? "",
+              tout: m.transfers_out_event ?? "",
+              minutes: e.stats?.minutes ?? "",
+              goals: e.stats?.goals_scored ?? "",
+              assists: e.stats?.assists ?? "",
+              cs: e.stats?.clean_sheets ?? "",
+              bonus: e.stats?.bonus ?? "",
+              bps: e.stats?.bps ?? "",
+              points: e.stats?.total_points ?? ""
+            };
+          });
+
+          const cols = ["id","name","team","position","cost","sel","tin","tout","minutes","goals","assists","cs","bonus","bps","points"];
+          const esc = v => {
+            const s = String(v ?? "");
+            return /[",\n]/.test(s) ? `"${s.replace(/"/g,'""')}"` : s;
+          };
+          const csv = [cols.join(",")].concat(rows.map(r => cols.map(c => esc(r[c])).join(","))).join("\n");
+
+          fs.mkdirSync('public', { recursive: true });
+          fs.writeFileSync('public/feed_players.csv', csv, 'utf8');
+
+          const meta = {
+            generated_at_utc: new Date().toISOString(),
+            gw: Number(GW),
+            counts: { players: rows.length }
+          };
+          fs.writeFileSync('public/meta.json', JSON.stringify(meta, null, 2));
+          NODE
+
+      - name: Move raw JSONs to public/
+        run: |
+          mv bootstrap.json public/
+          mv fixtures.json public/
+          mv "live_gw${GW}.json" public/
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/
+          git commit -m "Update FPL mirrors + feed [skip ci]" || echo "No changes"
+          git push
