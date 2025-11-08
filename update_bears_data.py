@@ -5,8 +5,8 @@ build_reco.py
 Reads the small live data files from public/ and entries/ and produces
 a single recommendation file for ChatGPT:
 
-    public/chatgpt_reco_gw{gw}.json
-    public/chatgpt_reco_latest.json
+    public/bears_reco_gw{gw}.json
+    public/bears_reco_latest.json
 
 This contains:
   - summary of Bears + Wigan squads
@@ -38,8 +38,8 @@ RECENT_FORM_PATH = PUBLIC_DIR / "recent_form.json"
 BEARS_ENTRY_PATTERN = "bears_gw{gw}.json"
 WIGAN_ENTRY_PATTERN = "wigan_gw{gw}.json"
 
-OUT_RECO_PATH = PUBLIC_DIR / "chatgpt_reco_gw{gw}.json"
-OUT_RECO_LATEST_PATH = PUBLIC_DIR / "chatgpt_reco_latest.json"
+OUT_RECO_GW_PATH = PUBLIC_DIR / "bears_reco_gw{gw}.json"
+OUT_RECO_LATEST_PATH = PUBLIC_DIR / "bears_reco_latest.json"
 
 
 # ---------- UTILS ----------
@@ -56,7 +56,7 @@ def save_json(path: Path, data):
     print(f"✅ wrote {path.relative_to(BASE_DIR)}")
 
 
-def _safe_float(v, default=0.0):
+def _safe_float(v, default: float = 0.0) -> float:
     if v is None:
         return default
     try:
@@ -66,6 +66,9 @@ def _safe_float(v, default=0.0):
 
 
 def detect_current_gw(meta: dict, bootstrap: dict) -> int:
+    """
+    Decide which GW we're working on, preferring meta.json.
+    """
     # meta.json first if present
     for key in ("current_event", "event", "gw"):
         if key in meta and isinstance(meta[key], int):
@@ -94,7 +97,7 @@ def load_squad(entry_path: Path) -> Dict:
         "entry_id": data.get("entry", None),
         "bank": data.get("entry_history", {}).get("bank", 0) / 10.0,
         "team_value": data.get("entry_history", {}).get("value", 0) / 10.0,
-        # this is just logged; free transfers logic happens inside FPL, not here
+        # this is actually "transfers used this GW", but it's fine for now
         "free_transfers": data.get("entry_history", {}).get("event_transfers", 0),
         "chip_active": data.get("active_chip", None),
         "picks": picks,
@@ -123,10 +126,26 @@ def summarise_xi(squad: Dict) -> Dict:
 
 
 def build_player_lookup(feed_df: pd.DataFrame) -> Dict[int, Dict]:
-    """Map player_id -> row dict from feed_players.csv."""
-    lookup = {}
+    """
+    Map player_id -> row dict from feed_players.csv, auto-detecting the
+    correct ID column (handles 'player_id', 'id', 'element', 'code').
+    """
+    # auto-detect ID column
+    id_col = None
+    for candidate in ["player_id", "id", "element", "code"]:
+        if candidate in feed_df.columns:
+            id_col = candidate
+            break
+
+    if not id_col:
+        raise KeyError(
+            f"No valid player ID column found in feed_players.csv. "
+            f"Columns = {feed_df.columns.tolist()}"
+        )
+
+    lookup: Dict[int, Dict] = {}
     for _, row in feed_df.iterrows():
-        pid = int(row["player_id"])
+        pid = int(row[id_col])
         lookup[pid] = row.to_dict()
     return lookup
 
@@ -213,6 +232,7 @@ def compute_expected_points_for_bears(
         if not base:
             continue
 
+        # recent_form keys are strings
         f = recent.get(str(pid), {}) if isinstance(recent, dict) else {}
         last5_pts = f.get("last5_points", 0)
         last5_mins = f.get("last5_minutes", 0) or 1
@@ -470,13 +490,10 @@ def main():
         },
     }
 
-    # write chatgpt_reco_gw{gw}.json
-    out_path = Path(str(OUT_RECO_PATH).format(gw=gw))
-    save_json(out_path, out)
-
-    # also write a stable 'latest' file so ChatGPT can always read the same URL
-    latest_path = OUT_RECO_LATEST_PATH
-    save_json(latest_path, out)
+    # write both GW-specific and "latest" files
+    gw_path = Path(str(OUT_RECO_GW_PATH).format(gw=gw))
+    save_json(gw_path, out)
+    save_json(OUT_RECO_LATEST_PATH, out)
 
     print("🎉 build_reco.py complete")
 
