@@ -27,8 +27,8 @@ jobs:
       - name: Mirror Bears + Wigan data (entries + core FPL)
         run: python update_bears_data.py
 
-      - name: Build model data (feed_players, team_strength, histories, recent_form)
-        run: python update_model_data.py
+      - name: Build model data (feed_players, team_strength, recent_form)
+        run: python update_bears_data.py
 
       - name: Commit and push updated data
         run: |
