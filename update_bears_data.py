@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import json
-import os
 from pathlib import Path
 from datetime import datetime
 from time import sleep
@@ -299,6 +298,111 @@ def build_recent_form(player_ids: set) -> dict:
     return recent
 
 
+def build_chatgpt_snapshot(bootstrap: dict, fixtures_map: dict, gw: int):
+    """
+    Build a small JSON snapshot for ChatGPT:
+    - Bears squad (15 players) with key info
+    - Wigan squad (15 players) with key info
+    """
+    # Load recent form if present
+    if RECENT_FORM_PATH.exists():
+        recent = load_json(RECENT_FORM_PATH)
+    else:
+        recent = {}
+
+    elements = bootstrap["elements"]
+    teams = {t["id"]: t["name"] for t in bootstrap["teams"]}
+    pos_map = {1: "GK", 2: "DEF", 3: "MID", 4: "FWD"}
+
+    elements_by_id = {e["id"]: e for e in elements}
+
+    def build_entry_block(entry_id: int, tag: str):
+        """Build Bears/Wigan block from their entry_gw{gw}.json."""
+        path = ENTRIES_DIR / f"{tag}_gw{gw}.json"
+        if not path.exists():
+            print(f"⚠️ {path.relative_to(BASE_DIR)} missing, skipping {tag} in chatgpt snapshot.")
+            return None
+
+        data = load_json(path)
+        hist = data.get("entry_history", {})
+        bank = _safe_float(hist.get("bank", 0)) / 10.0   # in millions
+        value = _safe_float(hist.get("value", 0)) / 10.0 # in millions
+        chip = data.get("active_chip")
+        ft = hist.get("event_transfers", 0)
+
+        players = []
+        for p in data.get("picks", []):
+            el_id = p.get("element")
+            elem = elements_by_id.get(el_id)
+            if not elem:
+                continue
+
+            team_id = elem["team"]
+            team_name = teams.get(team_id, f"Team{team_id}")
+            pos = pos_map.get(elem["element_type"])
+
+            # fixture info for this GW
+            info = fixtures_map.get(team_id, {})
+            fixture = None
+            fdr = None
+            is_home = None
+            if info:
+                opp_name = teams.get(info["opp"], f"Team{info['opp']}")
+                suffix = "(H)" if info["is_home"] else "(A)"
+                fixture = f"{opp_name} {suffix}"
+                fdr = info.get("fdr")
+                is_home = info.get("is_home")
+
+            # recent form (may be missing)
+            rf = recent.get(str(el_id), recent.get(el_id, {}))
+
+            players.append(
+                {
+                    "element": el_id,
+                    "web_name": elem["web_name"],
+                    "full_name": f"{elem['first_name']} {elem['second_name']}",
+                    "team_id": team_id,
+                    "team_name": team_name,
+                    "position": pos,
+                    "now_cost": _safe_float(elem.get("now_cost", 0)) / 10.0,
+                    "status": elem.get("status"),
+                    "chance_play_next": elem.get("chance_of_playing_next_round"),
+                    "is_captain": p.get("is_captain", False),
+                    "is_vice_captain": p.get("is_vice_captain", False),
+                    "multiplier": p.get("multiplier", 1),
+                    "pick_position": p.get("position"),
+                    "is_start": p.get("position", 99) <= 11,
+                    "is_bench": p.get("position", 99) > 11,
+                    "fixture": fixture,
+                    "fdr": fdr,
+                    "is_home": is_home,
+                    "last5_minutes": rf.get("last5_minutes"),
+                    "last5_points": rf.get("last5_points"),
+                    "last5_xgi": rf.get("last5_xgi"),
+                }
+            )
+
+        return {
+            "entry_id": entry_id,
+            "bank": bank,
+            "team_value": value,
+            "free_transfers": ft,
+            "chip_active": chip,
+            "players": players,
+        }
+
+    snapshot = {
+        "gw": gw,
+        "generated_utc": datetime.utcnow().isoformat(),
+        "bears": build_entry_block(BEARS_ID, "bears"),
+        "wigan": build_entry_block(WIGAN_ID, "wigan"),
+    }
+
+    out_path = PUBLIC_DIR / f"chatgpt_gw{gw}.json"
+    save_json(out_path, snapshot)
+    print(f"✅ wrote {out_path.relative_to(BASE_DIR)} for ChatGPT")
+
+
 def main():
     print("🔄 update_bears_data.py starting …")
 
@@ -327,6 +431,9 @@ def main():
         save_json(RECENT_FORM_PATH, recent_form)
     else:
         print("⚠️ No squad player IDs found; skipping recent_form.json")
+
+    # 5) compact snapshot for ChatGPT (Bears + Wigan only)
+    build_chatgpt_snapshot(bootstrap, fixtures_map, gw)
 
     print("🎉 update_bears_data.py complete")
 
