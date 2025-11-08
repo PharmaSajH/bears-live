@@ -1,20 +1,20 @@
 {
   "1": {
-    "last5_minutes": 409,
+    "last5_minutes": 412,
     "last5_points": 25,
     "last5_xgi": 0.0,
     "last5_starts": 0,
     "last5_appearances": 5
   },
   "5": {
-    "last5_minutes": 407,
+    "last5_minutes": 412,
     "last5_points": 43,
     "last5_xgi": 0.9600000000000001,
     "last5_starts": 0,
     "last5_appearances": 5
   },
   "6": {
-    "last5_minutes": 364,
+    "last5_minutes": 367,
     "last5_points": 20,
     "last5_xgi": 0.28,
     "last5_starts": 0,
@@ -174,5 +174,5 @@
     "last5_starts": 0,
     "last5_appearances": 4
   },
-  "generated_utc": "2025-11-08T18:47:36.799706"
+  "generated_utc": "2025-11-08T18:52:39.598870"
 }
