@@ -3,38 +3,41 @@ name: Update Bears FPL data
 on:
   schedule:
     - cron: "0 */6 * * *"    # every 6 hours
-  workflow_dispatch: {}      # allow manual run
+  workflow_dispatch: {}      # allow manual run from Actions tab
 
 permissions:
-  contents: write            # allow this workflow to push commits
+  contents: write            # allow pushing updates to the repo
 
 jobs:
   fetch-bears-and-wigan:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install pandas requests
 
-      - name: Run update script
+      - name: Mirror Bears + Wigan data (entries + core FPL)
         run: python update_bears_data.py
 
-      - name: Commit and push changes
+      - name: Build model data (feed_players, team_strength, histories, recent_form)
+        run: python update_model_data.py
+
+      - name: Commit and push updated data
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public || echo "Nothing to add"
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update Bears & Wigan FPL data"
+            git commit -m "Update FPL data [skip ci]"
             git push
           fi
