@@ -1,6 +1,6 @@
 {
   "gw": 11,
-  "generated_utc": "2025-11-08T15:48:23.796670",
+  "generated_utc": "2025-11-08T16:15:27.649524",
   "bears": {
     "entry_id": 10856343,
     "bank": 0.7,
@@ -234,9 +234,9 @@
         "fixture": "Burnley (H)",
         "fdr": 2,
         "is_home": true,
-        "last5_minutes": 405,
+        "last5_minutes": 412,
         "last5_points": 12,
-        "last5_xgi": 1.3199999999999998
+        "last5_xgi": 1.33
       },
       {
         "element": 249,
@@ -542,7 +542,7 @@
         "fixture": "Fulham (H)",
         "fdr": 2,
         "is_home": true,
-        "last5_minutes": 315,
+        "last5_minutes": 319,
         "last5_points": 14,
         "last5_xgi": 1.07
       },
