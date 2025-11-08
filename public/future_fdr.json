@@ -1,0 +1,1467 @@
+{
+  "gw_start": 11,
+  "gw_end": 19,
+  "teams": [
+    {
+      "team_id": 1,
+      "team_name": "Arsenal",
+      "short_name": "ARS",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": false,
+          "opp_team_id": 17,
+          "opp_team_name": "Sunderland",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": true,
+          "opp_team_id": 18,
+          "opp_team_name": "Spurs",
+          "fdr": 3
+        },
+        {
+          "gw": 13,
+          "is_home": false,
+          "opp_team_id": 7,
+          "opp_team_name": "Chelsea",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": true,
+          "opp_team_id": 5,
+          "opp_team_name": "Brentford",
+          "fdr": 3
+        },
+        {
+          "gw": 15,
+          "is_home": false,
+          "opp_team_id": 2,
+          "opp_team_name": "Aston Villa",
+          "fdr": 3
+        },
+        {
+          "gw": 16,
+          "is_home": true,
+          "opp_team_id": 20,
+          "opp_team_name": "Wolves",
+          "fdr": 2
+        },
+        {
+          "gw": 17,
+          "is_home": false,
+          "opp_team_id": 9,
+          "opp_team_name": "Everton",
+          "fdr": 3
+        },
+        {
+          "gw": 18,
+          "is_home": true,
+          "opp_team_id": 6,
+          "opp_team_name": "Brighton",
+          "fdr": 3
+        },
+        {
+          "gw": 19,
+          "is_home": true,
+          "opp_team_id": 2,
+          "opp_team_name": "Aston Villa",
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 2.888888888888889,
+      "easy_fixtures": 1,
+      "hard_fixtures": 0
+    },
+    {
+      "team_id": 2,
+      "team_name": "Aston Villa",
+      "short_name": "AVL",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": true,
+          "opp_team_id": 4,
+          "opp_team_name": "Bournemouth",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": false,
+          "opp_team_id": 11,
+          "opp_team_name": "Leeds",
+          "fdr": 3
+        },
+        {
+          "gw": 13,
+          "is_home": true,
+          "opp_team_id": 20,
+          "opp_team_name": "Wolves",
+          "fdr": 2
+        },
+        {
+          "gw": 14,
+          "is_home": false,
+          "opp_team_id": 6,
+          "opp_team_name": "Brighton",
+          "fdr": 3
+        },
+        {
+          "gw": 15,
+          "is_home": true,
+          "opp_team_id": 1,
+          "opp_team_name": "Arsenal",
+          "fdr": 4
+        },
+        {
+          "gw": 16,
+          "is_home": false,
+          "opp_team_id": 19,
+          "opp_team_name": "West Ham",
+          "fdr": 2
+        },
+        {
+          "gw": 17,
+          "is_home": true,
+          "opp_team_id": 14,
+          "opp_team_name": "Man Utd",
+          "fdr": 3
+        },
+        {
+          "gw": 18,
+          "is_home": false,
+          "opp_team_id": 7,
+          "opp_team_name": "Chelsea",
+          "fdr": 3
+        },
+        {
+          "gw": 19,
+          "is_home": false,
+          "opp_team_id": 1,
+          "opp_team_name": "Arsenal",
+          "fdr": 5
+        }
+      ],
+      "avg_fdr": 3.111111111111111,
+      "easy_fixtures": 2,
+      "hard_fixtures": 2
+    },
+    {
+      "team_id": 3,
+      "team_name": "Burnley",
+      "short_name": "BUR",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": false,
+          "opp_team_id": 19,
+          "opp_team_name": "West Ham",
+          "fdr": 2
+        },
+        {
+          "gw": 12,
+          "is_home": true,
+          "opp_team_id": 7,
+          "opp_team_name": "Chelsea",
+          "fdr": 3
+        },
+        {
+          "gw": 13,
+          "is_home": false,
+          "opp_team_id": 5,
+          "opp_team_name": "Brentford",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": true,
+          "opp_team_id": 8,
+          "opp_team_name": "Crystal Palace",
+          "fdr": 3
+        },
+        {
+          "gw": 15,
+          "is_home": false,
+          "opp_team_id": 15,
+          "opp_team_name": "Newcastle",
+          "fdr": 4
+        },
+        {
+          "gw": 16,
+          "is_home": true,
+          "opp_team_id": 10,
+          "opp_team_name": "Fulham",
+          "fdr": 2
+        },
+        {
+          "gw": 17,
+          "is_home": false,
+          "opp_team_id": 4,
+          "opp_team_name": "Bournemouth",
+          "fdr": 4
+        },
+        {
+          "gw": 18,
+          "is_home": true,
+          "opp_team_id": 9,
+          "opp_team_name": "Everton",
+          "fdr": 2
+        },
+        {
+          "gw": 19,
+          "is_home": true,
+          "opp_team_id": 15,
+          "opp_team_name": "Newcastle",
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 2.888888888888889,
+      "easy_fixtures": 3,
+      "hard_fixtures": 2
+    },
+    {
+      "team_id": 4,
+      "team_name": "Bournemouth",
+      "short_name": "BOU",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": false,
+          "opp_team_id": 2,
+          "opp_team_name": "Aston Villa",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": true,
+          "opp_team_id": 19,
+          "opp_team_name": "West Ham",
+          "fdr": 2
+        },
+        {
+          "gw": 13,
+          "is_home": false,
+          "opp_team_id": 17,
+          "opp_team_name": "Sunderland",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": true,
+          "opp_team_id": 9,
+          "opp_team_name": "Everton",
+          "fdr": 2
+        },
+        {
+          "gw": 15,
+          "is_home": true,
+          "opp_team_id": 7,
+          "opp_team_name": "Chelsea",
+          "fdr": 3
+        },
+        {
+          "gw": 16,
+          "is_home": false,
+          "opp_team_id": 14,
+          "opp_team_name": "Man Utd",
+          "fdr": 3
+        },
+        {
+          "gw": 17,
+          "is_home": true,
+          "opp_team_id": 3,
+          "opp_team_name": "Burnley",
+          "fdr": 2
+        },
+        {
+          "gw": 18,
+          "is_home": false,
+          "opp_team_id": 5,
+          "opp_team_name": "Brentford",
+          "fdr": 3
+        },
+        {
+          "gw": 19,
+          "is_home": false,
+          "opp_team_id": 7,
+          "opp_team_name": "Chelsea",
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 2.6666666666666665,
+      "easy_fixtures": 3,
+      "hard_fixtures": 0
+    },
+    {
+      "team_id": 5,
+      "team_name": "Brentford",
+      "short_name": "BRE",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": true,
+          "opp_team_id": 15,
+          "opp_team_name": "Newcastle",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": false,
+          "opp_team_id": 6,
+          "opp_team_name": "Brighton",
+          "fdr": 3
+        },
+        {
+          "gw": 13,
+          "is_home": true,
+          "opp_team_id": 3,
+          "opp_team_name": "Burnley",
+          "fdr": 2
+        },
+        {
+          "gw": 14,
+          "is_home": false,
+          "opp_team_id": 1,
+          "opp_team_name": "Arsenal",
+          "fdr": 5
+        },
+        {
+          "gw": 15,
+          "is_home": false,
+          "opp_team_id": 18,
+          "opp_team_name": "Spurs",
+          "fdr": 3
+        },
+        {
+          "gw": 16,
+          "is_home": true,
+          "opp_team_id": 11,
+          "opp_team_name": "Leeds",
+          "fdr": 2
+        },
+        {
+          "gw": 17,
+          "is_home": false,
+          "opp_team_id": 20,
+          "opp_team_name": "Wolves",
+          "fdr": 2
+        },
+        {
+          "gw": 18,
+          "is_home": true,
+          "opp_team_id": 4,
+          "opp_team_name": "Bournemouth",
+          "fdr": 3
+        },
+        {
+          "gw": 19,
+          "is_home": true,
+          "opp_team_id": 18,
+          "opp_team_name": "Spurs",
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 2.888888888888889,
+      "easy_fixtures": 3,
+      "hard_fixtures": 1
+    },
+    {
+      "team_id": 6,
+      "team_name": "Brighton",
+      "short_name": "BHA",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": false,
+          "opp_team_id": 8,
+          "opp_team_name": "Crystal Palace",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": true,
+          "opp_team_id": 5,
+          "opp_team_name": "Brentford",
+          "fdr": 3
+        },
+        {
+          "gw": 13,
+          "is_home": false,
+          "opp_team_id": 16,
+          "opp_team_name": "Nott'm Forest",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": true,
+          "opp_team_id": 2,
+          "opp_team_name": "Aston Villa",
+          "fdr": 3
+        },
+        {
+          "gw": 15,
+          "is_home": true,
+          "opp_team_id": 19,
+          "opp_team_name": "West Ham",
+          "fdr": 2
+        },
+        {
+          "gw": 16,
+          "is_home": false,
+          "opp_team_id": 12,
+          "opp_team_name": "Liverpool",
+          "fdr": 4
+        },
+        {
+          "gw": 17,
+          "is_home": true,
+          "opp_team_id": 17,
+          "opp_team_name": "Sunderland",
+          "fdr": 2
+        },
+        {
+          "gw": 18,
+          "is_home": false,
+          "opp_team_id": 1,
+          "opp_team_name": "Arsenal",
+          "fdr": 5
+        },
+        {
+          "gw": 19,
+          "is_home": false,
+          "opp_team_id": 19,
+          "opp_team_name": "West Ham",
+          "fdr": 2
+        }
+      ],
+      "avg_fdr": 3.0,
+      "easy_fixtures": 3,
+      "hard_fixtures": 2
+    },
+    {
+      "team_id": 7,
+      "team_name": "Chelsea",
+      "short_name": "CHE",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": true,
+          "opp_team_id": 20,
+          "opp_team_name": "Wolves",
+          "fdr": 2
+        },
+        {
+          "gw": 12,
+          "is_home": false,
+          "opp_team_id": 3,
+          "opp_team_name": "Burnley",
+          "fdr": 2
+        },
+        {
+          "gw": 13,
+          "is_home": true,
+          "opp_team_id": 1,
+          "opp_team_name": "Arsenal",
+          "fdr": 4
+        },
+        {
+          "gw": 14,
+          "is_home": false,
+          "opp_team_id": 11,
+          "opp_team_name": "Leeds",
+          "fdr": 3
+        },
+        {
+          "gw": 15,
+          "is_home": false,
+          "opp_team_id": 4,
+          "opp_team_name": "Bournemouth",
+          "fdr": 4
+        },
+        {
+          "gw": 16,
+          "is_home": true,
+          "opp_team_id": 9,
+          "opp_team_name": "Everton",
+          "fdr": 2
+        },
+        {
+          "gw": 17,
+          "is_home": false,
+          "opp_team_id": 15,
+          "opp_team_name": "Newcastle",
+          "fdr": 4
+        },
+        {
+          "gw": 18,
+          "is_home": true,
+          "opp_team_id": 2,
+          "opp_team_name": "Aston Villa",
+          "fdr": 3
+        },
+        {
+          "gw": 19,
+          "is_home": true,
+          "opp_team_id": 4,
+          "opp_team_name": "Bournemouth",
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.0,
+      "easy_fixtures": 3,
+      "hard_fixtures": 3
+    },
+    {
+      "team_id": 8,
+      "team_name": "Crystal Palace",
+      "short_name": "CRY",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": true,
+          "opp_team_id": 6,
+          "opp_team_name": "Brighton",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": false,
+          "opp_team_id": 20,
+          "opp_team_name": "Wolves",
+          "fdr": 2
+        },
+        {
+          "gw": 13,
+          "is_home": true,
+          "opp_team_id": 14,
+          "opp_team_name": "Man Utd",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": false,
+          "opp_team_id": 3,
+          "opp_team_name": "Burnley",
+          "fdr": 2
+        },
+        {
+          "gw": 15,
+          "is_home": false,
+          "opp_team_id": 10,
+          "opp_team_name": "Fulham",
+          "fdr": 3
+        },
+        {
+          "gw": 16,
+          "is_home": true,
+          "opp_team_id": 13,
+          "opp_team_name": "Man City",
+          "fdr": 4
+        },
+        {
+          "gw": 17,
+          "is_home": false,
+          "opp_team_id": 11,
+          "opp_team_name": "Leeds",
+          "fdr": 3
+        },
+        {
+          "gw": 18,
+          "is_home": true,
+          "opp_team_id": 18,
+          "opp_team_name": "Spurs",
+          "fdr": 3
+        },
+        {
+          "gw": 19,
+          "is_home": true,
+          "opp_team_id": 10,
+          "opp_team_name": "Fulham",
+          "fdr": 2
+        }
+      ],
+      "avg_fdr": 2.7777777777777777,
+      "easy_fixtures": 3,
+      "hard_fixtures": 1
+    },
+    {
+      "team_id": 9,
+      "team_name": "Everton",
+      "short_name": "EVE",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": true,
+          "opp_team_id": 10,
+          "opp_team_name": "Fulham",
+          "fdr": 2
+        },
+        {
+          "gw": 12,
+          "is_home": false,
+          "opp_team_id": 14,
+          "opp_team_name": "Man Utd",
+          "fdr": 3
+        },
+        {
+          "gw": 13,
+          "is_home": true,
+          "opp_team_id": 15,
+          "opp_team_name": "Newcastle",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": false,
+          "opp_team_id": 4,
+          "opp_team_name": "Bournemouth",
+          "fdr": 4
+        },
+        {
+          "gw": 15,
+          "is_home": true,
+          "opp_team_id": 16,
+          "opp_team_name": "Nott'm Forest",
+          "fdr": 2
+        },
+        {
+          "gw": 16,
+          "is_home": false,
+          "opp_team_id": 7,
+          "opp_team_name": "Chelsea",
+          "fdr": 3
+        },
+        {
+          "gw": 17,
+          "is_home": true,
+          "opp_team_id": 1,
+          "opp_team_name": "Arsenal",
+          "fdr": 4
+        },
+        {
+          "gw": 18,
+          "is_home": false,
+          "opp_team_id": 3,
+          "opp_team_name": "Burnley",
+          "fdr": 2
+        },
+        {
+          "gw": 19,
+          "is_home": false,
+          "opp_team_id": 16,
+          "opp_team_name": "Nott'm Forest",
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 2.888888888888889,
+      "easy_fixtures": 3,
+      "hard_fixtures": 2
+    },
+    {
+      "team_id": 10,
+      "team_name": "Fulham",
+      "short_name": "FUL",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": false,
+          "opp_team_id": 9,
+          "opp_team_name": "Everton",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": true,
+          "opp_team_id": 17,
+          "opp_team_name": "Sunderland",
+          "fdr": 2
+        },
+        {
+          "gw": 13,
+          "is_home": false,
+          "opp_team_id": 18,
+          "opp_team_name": "Spurs",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": true,
+          "opp_team_id": 13,
+          "opp_team_name": "Man City",
+          "fdr": 4
+        },
+        {
+          "gw": 15,
+          "is_home": true,
+          "opp_team_id": 8,
+          "opp_team_name": "Crystal Palace",
+          "fdr": 3
+        },
+        {
+          "gw": 16,
+          "is_home": false,
+          "opp_team_id": 3,
+          "opp_team_name": "Burnley",
+          "fdr": 2
+        },
+        {
+          "gw": 17,
+          "is_home": true,
+          "opp_team_id": 16,
+          "opp_team_name": "Nott'm Forest",
+          "fdr": 2
+        },
+        {
+          "gw": 18,
+          "is_home": false,
+          "opp_team_id": 19,
+          "opp_team_name": "West Ham",
+          "fdr": 2
+        },
+        {
+          "gw": 19,
+          "is_home": false,
+          "opp_team_id": 8,
+          "opp_team_name": "Crystal Palace",
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 2.6666666666666665,
+      "easy_fixtures": 4,
+      "hard_fixtures": 1
+    },
+    {
+      "team_id": 11,
+      "team_name": "Leeds",
+      "short_name": "LEE",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": false,
+          "opp_team_id": 16,
+          "opp_team_name": "Nott'm Forest",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": true,
+          "opp_team_id": 2,
+          "opp_team_name": "Aston Villa",
+          "fdr": 3
+        },
+        {
+          "gw": 13,
+          "is_home": false,
+          "opp_team_id": 13,
+          "opp_team_name": "Man City",
+          "fdr": 4
+        },
+        {
+          "gw": 14,
+          "is_home": true,
+          "opp_team_id": 7,
+          "opp_team_name": "Chelsea",
+          "fdr": 3
+        },
+        {
+          "gw": 15,
+          "is_home": true,
+          "opp_team_id": 12,
+          "opp_team_name": "Liverpool",
+          "fdr": 4
+        },
+        {
+          "gw": 16,
+          "is_home": false,
+          "opp_team_id": 5,
+          "opp_team_name": "Brentford",
+          "fdr": 3
+        },
+        {
+          "gw": 17,
+          "is_home": true,
+          "opp_team_id": 8,
+          "opp_team_name": "Crystal Palace",
+          "fdr": 3
+        },
+        {
+          "gw": 18,
+          "is_home": false,
+          "opp_team_id": 17,
+          "opp_team_name": "Sunderland",
+          "fdr": 3
+        },
+        {
+          "gw": 19,
+          "is_home": false,
+          "opp_team_id": 12,
+          "opp_team_name": "Liverpool",
+          "fdr": 4
+        }
+      ],
+      "avg_fdr": 3.3333333333333335,
+      "easy_fixtures": 0,
+      "hard_fixtures": 3
+    },
+    {
+      "team_id": 12,
+      "team_name": "Liverpool",
+      "short_name": "LIV",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": false,
+          "opp_team_id": 13,
+          "opp_team_name": "Man City",
+          "fdr": 4
+        },
+        {
+          "gw": 12,
+          "is_home": true,
+          "opp_team_id": 16,
+          "opp_team_name": "Nott'm Forest",
+          "fdr": 2
+        },
+        {
+          "gw": 13,
+          "is_home": false,
+          "opp_team_id": 19,
+          "opp_team_name": "West Ham",
+          "fdr": 2
+        },
+        {
+          "gw": 14,
+          "is_home": true,
+          "opp_team_id": 17,
+          "opp_team_name": "Sunderland",
+          "fdr": 2
+        },
+        {
+          "gw": 15,
+          "is_home": false,
+          "opp_team_id": 11,
+          "opp_team_name": "Leeds",
+          "fdr": 3
+        },
+        {
+          "gw": 16,
+          "is_home": true,
+          "opp_team_id": 6,
+          "opp_team_name": "Brighton",
+          "fdr": 3
+        },
+        {
+          "gw": 17,
+          "is_home": false,
+          "opp_team_id": 18,
+          "opp_team_name": "Spurs",
+          "fdr": 3
+        },
+        {
+          "gw": 18,
+          "is_home": true,
+          "opp_team_id": 20,
+          "opp_team_name": "Wolves",
+          "fdr": 2
+        },
+        {
+          "gw": 19,
+          "is_home": true,
+          "opp_team_id": 11,
+          "opp_team_name": "Leeds",
+          "fdr": 2
+        }
+      ],
+      "avg_fdr": 2.5555555555555554,
+      "easy_fixtures": 5,
+      "hard_fixtures": 1
+    },
+    {
+      "team_id": 13,
+      "team_name": "Man City",
+      "short_name": "MCI",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": true,
+          "opp_team_id": 12,
+          "opp_team_name": "Liverpool",
+          "fdr": 4
+        },
+        {
+          "gw": 12,
+          "is_home": false,
+          "opp_team_id": 15,
+          "opp_team_name": "Newcastle",
+          "fdr": 4
+        },
+        {
+          "gw": 13,
+          "is_home": true,
+          "opp_team_id": 11,
+          "opp_team_name": "Leeds",
+          "fdr": 2
+        },
+        {
+          "gw": 14,
+          "is_home": false,
+          "opp_team_id": 10,
+          "opp_team_name": "Fulham",
+          "fdr": 3
+        },
+        {
+          "gw": 15,
+          "is_home": true,
+          "opp_team_id": 17,
+          "opp_team_name": "Sunderland",
+          "fdr": 2
+        },
+        {
+          "gw": 16,
+          "is_home": false,
+          "opp_team_id": 8,
+          "opp_team_name": "Crystal Palace",
+          "fdr": 3
+        },
+        {
+          "gw": 17,
+          "is_home": true,
+          "opp_team_id": 19,
+          "opp_team_name": "West Ham",
+          "fdr": 2
+        },
+        {
+          "gw": 18,
+          "is_home": false,
+          "opp_team_id": 16,
+          "opp_team_name": "Nott'm Forest",
+          "fdr": 3
+        },
+        {
+          "gw": 19,
+          "is_home": false,
+          "opp_team_id": 17,
+          "opp_team_name": "Sunderland",
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 2.888888888888889,
+      "easy_fixtures": 3,
+      "hard_fixtures": 2
+    },
+    {
+      "team_id": 14,
+      "team_name": "Man Utd",
+      "short_name": "MUN",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": false,
+          "opp_team_id": 18,
+          "opp_team_name": "Spurs",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": true,
+          "opp_team_id": 9,
+          "opp_team_name": "Everton",
+          "fdr": 2
+        },
+        {
+          "gw": 13,
+          "is_home": false,
+          "opp_team_id": 8,
+          "opp_team_name": "Crystal Palace",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": true,
+          "opp_team_id": 19,
+          "opp_team_name": "West Ham",
+          "fdr": 2
+        },
+        {
+          "gw": 15,
+          "is_home": false,
+          "opp_team_id": 20,
+          "opp_team_name": "Wolves",
+          "fdr": 2
+        },
+        {
+          "gw": 16,
+          "is_home": true,
+          "opp_team_id": 4,
+          "opp_team_name": "Bournemouth",
+          "fdr": 3
+        },
+        {
+          "gw": 17,
+          "is_home": false,
+          "opp_team_id": 2,
+          "opp_team_name": "Aston Villa",
+          "fdr": 3
+        },
+        {
+          "gw": 18,
+          "is_home": true,
+          "opp_team_id": 15,
+          "opp_team_name": "Newcastle",
+          "fdr": 3
+        },
+        {
+          "gw": 19,
+          "is_home": true,
+          "opp_team_id": 20,
+          "opp_team_name": "Wolves",
+          "fdr": 2
+        }
+      ],
+      "avg_fdr": 2.5555555555555554,
+      "easy_fixtures": 4,
+      "hard_fixtures": 0
+    },
+    {
+      "team_id": 15,
+      "team_name": "Newcastle",
+      "short_name": "NEW",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": false,
+          "opp_team_id": 5,
+          "opp_team_name": "Brentford",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": true,
+          "opp_team_id": 13,
+          "opp_team_name": "Man City",
+          "fdr": 4
+        },
+        {
+          "gw": 13,
+          "is_home": false,
+          "opp_team_id": 9,
+          "opp_team_name": "Everton",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": true,
+          "opp_team_id": 18,
+          "opp_team_name": "Spurs",
+          "fdr": 3
+        },
+        {
+          "gw": 15,
+          "is_home": true,
+          "opp_team_id": 3,
+          "opp_team_name": "Burnley",
+          "fdr": 2
+        },
+        {
+          "gw": 16,
+          "is_home": false,
+          "opp_team_id": 17,
+          "opp_team_name": "Sunderland",
+          "fdr": 3
+        },
+        {
+          "gw": 17,
+          "is_home": true,
+          "opp_team_id": 7,
+          "opp_team_name": "Chelsea",
+          "fdr": 3
+        },
+        {
+          "gw": 18,
+          "is_home": false,
+          "opp_team_id": 14,
+          "opp_team_name": "Man Utd",
+          "fdr": 3
+        },
+        {
+          "gw": 19,
+          "is_home": false,
+          "opp_team_id": 3,
+          "opp_team_name": "Burnley",
+          "fdr": 2
+        }
+      ],
+      "avg_fdr": 2.888888888888889,
+      "easy_fixtures": 2,
+      "hard_fixtures": 1
+    },
+    {
+      "team_id": 16,
+      "team_name": "Nott'm Forest",
+      "short_name": "NFO",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": true,
+          "opp_team_id": 11,
+          "opp_team_name": "Leeds",
+          "fdr": 2
+        },
+        {
+          "gw": 12,
+          "is_home": false,
+          "opp_team_id": 12,
+          "opp_team_name": "Liverpool",
+          "fdr": 4
+        },
+        {
+          "gw": 13,
+          "is_home": true,
+          "opp_team_id": 6,
+          "opp_team_name": "Brighton",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": false,
+          "opp_team_id": 20,
+          "opp_team_name": "Wolves",
+          "fdr": 2
+        },
+        {
+          "gw": 15,
+          "is_home": false,
+          "opp_team_id": 9,
+          "opp_team_name": "Everton",
+          "fdr": 3
+        },
+        {
+          "gw": 16,
+          "is_home": true,
+          "opp_team_id": 18,
+          "opp_team_name": "Spurs",
+          "fdr": 3
+        },
+        {
+          "gw": 17,
+          "is_home": false,
+          "opp_team_id": 10,
+          "opp_team_name": "Fulham",
+          "fdr": 3
+        },
+        {
+          "gw": 18,
+          "is_home": true,
+          "opp_team_id": 13,
+          "opp_team_name": "Man City",
+          "fdr": 4
+        },
+        {
+          "gw": 19,
+          "is_home": true,
+          "opp_team_id": 9,
+          "opp_team_name": "Everton",
+          "fdr": 2
+        }
+      ],
+      "avg_fdr": 2.888888888888889,
+      "easy_fixtures": 3,
+      "hard_fixtures": 2
+    },
+    {
+      "team_id": 17,
+      "team_name": "Sunderland",
+      "short_name": "SUN",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": true,
+          "opp_team_id": 1,
+          "opp_team_name": "Arsenal",
+          "fdr": 4
+        },
+        {
+          "gw": 12,
+          "is_home": false,
+          "opp_team_id": 10,
+          "opp_team_name": "Fulham",
+          "fdr": 3
+        },
+        {
+          "gw": 13,
+          "is_home": true,
+          "opp_team_id": 4,
+          "opp_team_name": "Bournemouth",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": false,
+          "opp_team_id": 12,
+          "opp_team_name": "Liverpool",
+          "fdr": 4
+        },
+        {
+          "gw": 15,
+          "is_home": false,
+          "opp_team_id": 13,
+          "opp_team_name": "Man City",
+          "fdr": 4
+        },
+        {
+          "gw": 16,
+          "is_home": true,
+          "opp_team_id": 15,
+          "opp_team_name": "Newcastle",
+          "fdr": 3
+        },
+        {
+          "gw": 17,
+          "is_home": false,
+          "opp_team_id": 6,
+          "opp_team_name": "Brighton",
+          "fdr": 3
+        },
+        {
+          "gw": 18,
+          "is_home": true,
+          "opp_team_id": 11,
+          "opp_team_name": "Leeds",
+          "fdr": 2
+        },
+        {
+          "gw": 19,
+          "is_home": true,
+          "opp_team_id": 13,
+          "opp_team_name": "Man City",
+          "fdr": 4
+        }
+      ],
+      "avg_fdr": 3.3333333333333335,
+      "easy_fixtures": 1,
+      "hard_fixtures": 4
+    },
+    {
+      "team_id": 18,
+      "team_name": "Spurs",
+      "short_name": "TOT",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": true,
+          "opp_team_id": 14,
+          "opp_team_name": "Man Utd",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": false,
+          "opp_team_id": 1,
+          "opp_team_name": "Arsenal",
+          "fdr": 5
+        },
+        {
+          "gw": 13,
+          "is_home": true,
+          "opp_team_id": 10,
+          "opp_team_name": "Fulham",
+          "fdr": 2
+        },
+        {
+          "gw": 14,
+          "is_home": false,
+          "opp_team_id": 15,
+          "opp_team_name": "Newcastle",
+          "fdr": 4
+        },
+        {
+          "gw": 15,
+          "is_home": true,
+          "opp_team_id": 5,
+          "opp_team_name": "Brentford",
+          "fdr": 3
+        },
+        {
+          "gw": 16,
+          "is_home": false,
+          "opp_team_id": 16,
+          "opp_team_name": "Nott'm Forest",
+          "fdr": 3
+        },
+        {
+          "gw": 17,
+          "is_home": true,
+          "opp_team_id": 12,
+          "opp_team_name": "Liverpool",
+          "fdr": 4
+        },
+        {
+          "gw": 18,
+          "is_home": false,
+          "opp_team_id": 8,
+          "opp_team_name": "Crystal Palace",
+          "fdr": 3
+        },
+        {
+          "gw": 19,
+          "is_home": false,
+          "opp_team_id": 5,
+          "opp_team_name": "Brentford",
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.3333333333333335,
+      "easy_fixtures": 1,
+      "hard_fixtures": 3
+    },
+    {
+      "team_id": 19,
+      "team_name": "West Ham",
+      "short_name": "WHU",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": true,
+          "opp_team_id": 3,
+          "opp_team_name": "Burnley",
+          "fdr": 2
+        },
+        {
+          "gw": 12,
+          "is_home": false,
+          "opp_team_id": 4,
+          "opp_team_name": "Bournemouth",
+          "fdr": 4
+        },
+        {
+          "gw": 13,
+          "is_home": true,
+          "opp_team_id": 12,
+          "opp_team_name": "Liverpool",
+          "fdr": 4
+        },
+        {
+          "gw": 14,
+          "is_home": false,
+          "opp_team_id": 14,
+          "opp_team_name": "Man Utd",
+          "fdr": 3
+        },
+        {
+          "gw": 15,
+          "is_home": false,
+          "opp_team_id": 6,
+          "opp_team_name": "Brighton",
+          "fdr": 3
+        },
+        {
+          "gw": 16,
+          "is_home": true,
+          "opp_team_id": 2,
+          "opp_team_name": "Aston Villa",
+          "fdr": 3
+        },
+        {
+          "gw": 17,
+          "is_home": false,
+          "opp_team_id": 13,
+          "opp_team_name": "Man City",
+          "fdr": 4
+        },
+        {
+          "gw": 18,
+          "is_home": true,
+          "opp_team_id": 10,
+          "opp_team_name": "Fulham",
+          "fdr": 2
+        },
+        {
+          "gw": 19,
+          "is_home": true,
+          "opp_team_id": 6,
+          "opp_team_name": "Brighton",
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.111111111111111,
+      "easy_fixtures": 2,
+      "hard_fixtures": 3
+    },
+    {
+      "team_id": 20,
+      "team_name": "Wolves",
+      "short_name": "WOL",
+      "fixtures": [
+        {
+          "gw": 11,
+          "is_home": false,
+          "opp_team_id": 7,
+          "opp_team_name": "Chelsea",
+          "fdr": 3
+        },
+        {
+          "gw": 12,
+          "is_home": true,
+          "opp_team_id": 8,
+          "opp_team_name": "Crystal Palace",
+          "fdr": 3
+        },
+        {
+          "gw": 13,
+          "is_home": false,
+          "opp_team_id": 2,
+          "opp_team_name": "Aston Villa",
+          "fdr": 3
+        },
+        {
+          "gw": 14,
+          "is_home": true,
+          "opp_team_id": 16,
+          "opp_team_name": "Nott'm Forest",
+          "fdr": 2
+        },
+        {
+          "gw": 15,
+          "is_home": true,
+          "opp_team_id": 14,
+          "opp_team_name": "Man Utd",
+          "fdr": 3
+        },
+        {
+          "gw": 16,
+          "is_home": false,
+          "opp_team_id": 1,
+          "opp_team_name": "Arsenal",
+          "fdr": 5
+        },
+        {
+          "gw": 17,
+          "is_home": true,
+          "opp_team_id": 5,
+          "opp_team_name": "Brentford",
+          "fdr": 3
+        },
+        {
+          "gw": 18,
+          "is_home": false,
+          "opp_team_id": 12,
+          "opp_team_name": "Liverpool",
+          "fdr": 4
+        },
+        {
+          "gw": 19,
+          "is_home": false,
+          "opp_team_id": 14,
+          "opp_team_name": "Man Utd",
+          "fdr": 3
+        }
+      ],
+      "avg_fdr": 3.2222222222222223,
+      "easy_fixtures": 1,
+      "hard_fixtures": 2
+    }
+  ],
+  "generated_utc": "2025-11-08T19:10:52.388629"
+}
