@@ -92,6 +92,7 @@ def load_squad(entry_path: Path) -> Dict:
         "entry_id": data.get("entry", None),
         "bank": data.get("entry_history", {}).get("bank", 0) / 10.0,
         "team_value": data.get("entry_history", {}).get("value", 0) / 10.0,
+        # this is just logged; free transfers logic happens inside FPL, not here
         "free_transfers": data.get("entry_history", {}).get("event_transfers", 0),
         "chip_active": data.get("active_chip", None),
         "picks": picks,
@@ -437,37 +438,41 @@ def main():
         best_ft, bears_entry, feed_df, player_lookup, expected_points
     )
 
-    out = {
-        "gw": gw,
-        "generated_utc": datetime.utcnow().isoformat(),
-        "bears": bears_summary,
-        "wigan": wigan_summary,
-        "bears_players": squad_players,          # per-player stats + xPts
-        "model": {
-            "baseline": {
-                "xi": best_ft["base_xi"],
-                "expected_points": best_ft["base_total"],
+    out = (
+        {
+            "gw": gw,
+            "generated_utc": datetime.utcnow().isoformat(),
+            "bears": bears_summary,
+            "wigan": wigan_summary,
+            "bears_players": squad_players,          # per-player stats + xPts
+            "model": {
+                "baseline": {
+                    "xi": best_ft["base_xi"],
+                    "expected_points": best_ft["base_total"],
+                },
+                "best_ft": {
+                    "type": best_ft["type"],
+                    "out": best_ft["out"],
+                    "in": best_ft["in"],
+                    "gain_vs_hold": best_ft["gain_vs_hold"],
+                    "xi": best_ft["new_xi"],
+                    "expected_points": best_ft["new_total"],
+                },
+                "best_hit_minus4": {
+                    "type": best_hit["type"],
+                    "out": best_hit["out"],
+                    "in": best_hit["in"],
+                    "gain_vs_best_ft_minus4": best_hit["gain_vs_best_ft_minus4"],
+                    "xi": best_hit["new_xi"],
+                    "expected_points": best_hit["new_total"],
+                },
             },
-            "best_ft": {
-                "type": best_ft["type"],
-                "out": best_ft["out"],
-                "in": best_ft["in"],
-                "gain_vs_hold": best_ft["gain_vs_hold"],
-                "xi": best_ft["new_xi"],
-                "expected_points": best_ft["new_total"],
-            },
-            "best_hit_minus4": {
-                "type": best_hit["type"],
-                "out": best_hit["out"],
-                "in": best_hit["in"],
-                "gain_vs_best_ft_minus4": best_hit["gain_vs_best_ft_minus4"],
-                "xi": best_hit["new_xi"],
-                "expected_points": best_hit["new_total"],
-            },
-        },
-    }
+        }
+    )
 
-save_json(Path(str(OUT_RECO_PATH).format(gw=gw)), out)
+    # write chatgpt_reco_gw{gw}.json
+    out_path = Path(str(OUT_RECO_PATH).format(gw=gw))
+    save_json(out_path, out)
     print("🎉 build_reco.py complete")
 
 
