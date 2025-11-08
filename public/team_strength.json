@@ -1,0 +1,225 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Arsenal",
+      "short_name": "ARS",
+      "strength_overall_home": 1300,
+      "strength_overall_away": 1375,
+      "strength_attack_home": 1340,
+      "strength_attack_away": 1400,
+      "strength_defence_home": 1260,
+      "strength_defence_away": 1350
+    },
+    {
+      "id": 2,
+      "name": "Aston Villa",
+      "short_name": "AVL",
+      "strength_overall_home": 1145,
+      "strength_overall_away": 1185,
+      "strength_attack_home": 1150,
+      "strength_attack_away": 1170,
+      "strength_defence_home": 1140,
+      "strength_defence_away": 1200
+    },
+    {
+      "id": 3,
+      "name": "Burnley",
+      "short_name": "BUR",
+      "strength_overall_home": 1055,
+      "strength_overall_away": 1095,
+      "strength_attack_home": 1010,
+      "strength_attack_away": 1090,
+      "strength_defence_home": 1100,
+      "strength_defence_away": 1100
+    },
+    {
+      "id": 4,
+      "name": "Bournemouth",
+      "short_name": "BOU",
+      "strength_overall_home": 1150,
+      "strength_overall_away": 1220,
+      "strength_attack_home": 1100,
+      "strength_attack_away": 1240,
+      "strength_defence_home": 1200,
+      "strength_defence_away": 1200
+    },
+    {
+      "id": 5,
+      "name": "Brentford",
+      "short_name": "BRE",
+      "strength_overall_home": 1135,
+      "strength_overall_away": 1175,
+      "strength_attack_home": 1100,
+      "strength_attack_away": 1110,
+      "strength_defence_home": 1170,
+      "strength_defence_away": 1240
+    },
+    {
+      "id": 6,
+      "name": "Brighton",
+      "short_name": "BHA",
+      "strength_overall_home": 1150,
+      "strength_overall_away": 1160,
+      "strength_attack_home": 1090,
+      "strength_attack_away": 1110,
+      "strength_defence_home": 1210,
+      "strength_defence_away": 1210
+    },
+    {
+      "id": 7,
+      "name": "Chelsea",
+      "short_name": "CHE",
+      "strength_overall_home": 1180,
+      "strength_overall_away": 1190,
+      "strength_attack_home": 1140,
+      "strength_attack_away": 1160,
+      "strength_defence_home": 1220,
+      "strength_defence_away": 1220
+    },
+    {
+      "id": 8,
+      "name": "Crystal Palace",
+      "short_name": "CRY",
+      "strength_overall_home": 1165,
+      "strength_overall_away": 1205,
+      "strength_attack_home": 1150,
+      "strength_attack_away": 1150,
+      "strength_defence_home": 1180,
+      "strength_defence_away": 1260
+    },
+    {
+      "id": 9,
+      "name": "Everton",
+      "short_name": "EVE",
+      "strength_overall_home": 1100,
+      "strength_overall_away": 1130,
+      "strength_attack_home": 1110,
+      "strength_attack_away": 1130,
+      "strength_defence_home": 1090,
+      "strength_defence_away": 1130
+    },
+    {
+      "id": 10,
+      "name": "Fulham",
+      "short_name": "FUL",
+      "strength_overall_home": 1090,
+      "strength_overall_away": 1130,
+      "strength_attack_home": 1080,
+      "strength_attack_away": 1140,
+      "strength_defence_home": 1100,
+      "strength_defence_away": 1120
+    },
+    {
+      "id": 11,
+      "name": "Leeds",
+      "short_name": "LEE",
+      "strength_overall_home": 1095,
+      "strength_overall_away": 1145,
+      "strength_attack_home": 1080,
+      "strength_attack_away": 1100,
+      "strength_defence_home": 1110,
+      "strength_defence_away": 1190
+    },
+    {
+      "id": 12,
+      "name": "Liverpool",
+      "short_name": "LIV",
+      "strength_overall_home": 1230,
+      "strength_overall_away": 1265,
+      "strength_attack_home": 1170,
+      "strength_attack_away": 1210,
+      "strength_defence_home": 1290,
+      "strength_defence_away": 1320
+    },
+    {
+      "id": 13,
+      "name": "Man City",
+      "short_name": "MCI",
+      "strength_overall_home": 1250,
+      "strength_overall_away": 1305,
+      "strength_attack_home": 1210,
+      "strength_attack_away": 1230,
+      "strength_defence_home": 1290,
+      "strength_defence_away": 1380
+    },
+    {
+      "id": 14,
+      "name": "Man Utd",
+      "short_name": "MUN",
+      "strength_overall_home": 1135,
+      "strength_overall_away": 1205,
+      "strength_attack_home": 1100,
+      "strength_attack_away": 1150,
+      "strength_defence_home": 1170,
+      "strength_defence_away": 1260
+    },
+    {
+      "id": 15,
+      "name": "Newcastle",
+      "short_name": "NEW",
+      "strength_overall_home": 1160,
+      "strength_overall_away": 1220,
+      "strength_attack_home": 1170,
+      "strength_attack_away": 1180,
+      "strength_defence_home": 1150,
+      "strength_defence_away": 1260
+    },
+    {
+      "id": 16,
+      "name": "Nott'm Forest",
+      "short_name": "NFO",
+      "strength_overall_home": 1100,
+      "strength_overall_away": 1130,
+      "strength_attack_home": 1100,
+      "strength_attack_away": 1110,
+      "strength_defence_home": 1100,
+      "strength_defence_away": 1150
+    },
+    {
+      "id": 17,
+      "name": "Sunderland",
+      "short_name": "SUN",
+      "strength_overall_home": 1100,
+      "strength_overall_away": 1145,
+      "strength_attack_home": 1100,
+      "strength_attack_away": 1120,
+      "strength_defence_home": 1100,
+      "strength_defence_away": 1170
+    },
+    {
+      "id": 18,
+      "name": "Spurs",
+      "short_name": "TOT",
+      "strength_overall_home": 1165,
+      "strength_overall_away": 1175,
+      "strength_attack_home": 1130,
+      "strength_attack_away": 1150,
+      "strength_defence_home": 1200,
+      "strength_defence_away": 1200
+    },
+    {
+      "id": 19,
+      "name": "West Ham",
+      "short_name": "WHU",
+      "strength_overall_home": 1075,
+      "strength_overall_away": 1075,
+      "strength_attack_home": 1050,
+      "strength_attack_away": 1050,
+      "strength_defence_home": 1100,
+      "strength_defence_away": 1100
+    },
+    {
+      "id": 20,
+      "name": "Wolves",
+      "short_name": "WOL",
+      "strength_overall_home": 1070,
+      "strength_overall_away": 1085,
+      "strength_attack_home": 1050,
+      "strength_attack_away": 1050,
+      "strength_defence_home": 1090,
+      "strength_defence_away": 1120
+    }
+  ],
+  "generated_utc": "2025-11-08T13:55:29.963194"
+}
