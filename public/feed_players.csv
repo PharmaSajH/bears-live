@@ -1,12 +1,12 @@
 id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,points
-1,Raya,Arsenal,GKP,5.9,32.3,5259,1210,6,0,0,0,0,3,1
+1,Raya,Arsenal,GKP,5.9,32.3,5259,1210,17,0,0,0,0,3,1
 2,Arrizabalaga,Arsenal,GKP,4.2,0.5,16,59,0,0,0,0,0,0,0
 3,Hein,Arsenal,GKP,4.0,0.3,0,52,0,0,0,0,0,0,0
 4,Setford,Arsenal,GKP,4.0,0.2,15,39,0,0,0,0,0,0,0
-5,Gabriel,Arsenal,DEF,6.6,43.3,8963,439,6,0,0,0,0,3,1
-6,Saliba,Arsenal,DEF,6.0,11.6,772,1063,6,0,0,0,0,3,1
-7,Calafiori,Arsenal,DEF,5.8,16.2,1632,1795,6,0,0,0,0,3,1
-8,J.Timber,Arsenal,DEF,6.1,25.7,3457,1846,6,0,0,0,0,5,1
+5,Gabriel,Arsenal,DEF,6.6,43.3,8963,439,17,0,0,0,0,4,1
+6,Saliba,Arsenal,DEF,6.0,11.6,772,1063,17,0,0,0,0,3,1
+7,Calafiori,Arsenal,DEF,5.8,16.2,1632,1795,17,0,0,0,0,3,1
+8,J.Timber,Arsenal,DEF,6.1,25.7,3457,1846,17,0,0,0,0,5,1
 9,Kiwior,Arsenal,DEF,5.4,0.1,0,8,0,0,0,0,0,0,0
 10,Lewis-Skelly,Arsenal,DEF,5.2,1.6,58,263,0,0,0,0,0,0,0
 11,White,Arsenal,DEF,5.3,0.4,26,70,0,0,0,0,0,0,0
@@ -14,17 +14,17 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 13,Clarke,Arsenal,DEF,3.9,0.4,15,87,0,0,0,0,0,0,0
 14,Kacurri,Arsenal,DEF,3.9,0.1,0,30,0,0,0,0,0,0,0
 15,Nichols,Arsenal,DEF,3.9,0.2,4,39,0,0,0,0,0,0,0
-16,Saka,Arsenal,MID,10.1,17.1,1441,5401,6,0,0,0,0,3,1
+16,Saka,Arsenal,MID,10.1,17.1,1441,5401,17,0,0,0,0,3,1
 17,Ødegaard,Arsenal,MID,7.8,1.4,6,222,0,0,0,0,0,0,0
 18,Madueke,Arsenal,MID,6.8,0.6,3,88,0,0,0,0,0,0,0
 19,Martinelli,Arsenal,MID,6.8,0.9,9,461,0,0,0,0,0,0,0
-20,Trossard,Arsenal,MID,6.9,0.7,461,168,6,0,0,0,0,3,1
-21,Rice,Arsenal,MID,6.8,19.9,14085,1035,6,0,0,0,0,3,1
-22,Merino,Arsenal,MID,5.9,1.0,533,290,6,0,0,0,0,3,1
+20,Trossard,Arsenal,MID,6.9,0.7,461,168,17,0,0,0,0,3,1
+21,Rice,Arsenal,MID,6.8,19.9,14085,1035,17,0,0,0,0,5,1
+22,Merino,Arsenal,MID,5.9,1.0,533,290,17,0,0,0,0,2,1
 23,Fábio Vieira,Arsenal,MID,5.4,0.0,0,0,0,0,0,0,0,0,0
 24,Nørgaard,Arsenal,MID,5.2,0.1,10,15,0,0,0,0,0,0,0
 25,Nwaneri,Arsenal,MID,5.2,0.1,25,44,0,0,0,0,0,0,0
-26,Zubimendi,Arsenal,MID,5.4,2.9,66,2517,6,0,0,0,0,3,1
+26,Zubimendi,Arsenal,MID,5.4,2.9,66,2517,17,0,0,0,0,3,1
 27,Nelson,Brentford,MID,4.8,0.1,8,15,0,0,0,0,0,0,0
 28,Kabia,Arsenal,MID,4.5,0.1,0,13,0,0,0,0,0,0,0
 29,Sambi,Arsenal,MID,4.5,0.1,0,9,0,0,0,0,0,0,0
@@ -264,7 +264,7 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 263,Clyne,Crystal Palace,DEF,3.9,0.4,17,61,0,0,0,0,0,0,0
 264,Holding,Crystal Palace,DEF,4.0,0.0,0,1,0,0,0,0,0,0,0
 265,Kporha,Crystal Palace,DEF,4.0,0.0,1,0,0,0,0,0,0,0,0
-266,Eze,Arsenal,MID,7.6,13.9,1460,3718,6,0,0,0,0,3,1
+266,Eze,Arsenal,MID,7.6,13.9,1460,3718,17,0,0,0,0,3,1
 267,Sarr,Crystal Palace,MID,6.7,12.8,5687,1475,0,0,0,0,0,0,0
 268,Doucouré,Crystal Palace,MID,4.9,0.0,1,1,0,0,0,0,0,0,0
 269,Esse,Crystal Palace,MID,4.7,0.1,14,28,0,0,0,0,0,0,0
@@ -529,8 +529,8 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 528,Patterson,Sunderland,GKP,4.3,0.2,13,21,0,0,0,0,0,0,0
 529,Moore,Sunderland,GKP,3.9,0.4,51,21,0,0,0,0,0,0,0
 530,Nna Noukeu,Sunderland,GKP,3.9,0.1,18,10,0,0,0,0,0,0,0
-531,Ballard,Sunderland,DEF,4.6,2.4,271,203,6,0,0,0,0,3,1
-532,Hume,Sunderland,DEF,4.5,0.4,83,75,6,0,0,0,0,3,1
+531,Ballard,Sunderland,DEF,4.6,2.4,271,203,17,0,0,0,0,3,1
+532,Hume,Sunderland,DEF,4.5,0.4,83,75,17,0,0,0,0,3,1
 533,Alese,Sunderland,DEF,4.0,0.0,1,2,0,0,0,0,0,0,0
 534,Anderson,Sunderland,DEF,3.9,0.4,23,51,0,0,0,0,0,0,0
 535,Cirkin,Sunderland,DEF,4.0,0.0,1,1,0,0,0,0,0,0,0
@@ -539,18 +539,18 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 538,Johnson,Sunderland,DEF,3.9,0.3,7,31,0,0,0,0,0,0,0
 539,O'Nien,Sunderland,DEF,4.0,0.0,19,15,0,0,0,0,0,0,0
 540,Pembele,Sunderland,DEF,3.9,0.4,10,50,0,0,0,0,0,0,0
-541,Reinildo,Sunderland,DEF,4.0,4.3,193,431,6,0,0,0,0,3,1
+541,Reinildo,Sunderland,DEF,4.0,4.3,193,431,17,0,0,0,0,3,1
 542,Seelt,Sunderland,DEF,4.0,0.1,0,7,0,0,0,0,0,0,0
 543,Adingra,Sunderland,MID,5.1,0.5,22,123,0,0,0,0,0,0,0
 544,Diarra,Sunderland,MID,5.3,0.0,0,8,0,0,0,0,0,0,0
 545,Roberts,Sunderland,MID,5.4,0.0,0,0,0,0,0,0,0,0,0
 546,Aleksić,Sunderland,MID,4.9,0.0,0,2,0,0,0,0,0,0,0
-547,E.Le Fée,Sunderland,MID,4.9,0.4,64,72,6,0,0,0,0,2,1
+547,E.Le Fée,Sunderland,MID,4.9,0.4,64,72,17,0,0,0,0,1,1
 548,Mundle,Sunderland,MID,4.9,0.0,1,1,0,0,0,0,0,0,0
 549,Neil,Sunderland,MID,4.8,0.0,2,7,0,0,0,0,0,0,0
 550,Poveda,Sunderland,MID,4.8,0.0,5,6,0,0,0,0,0,0,0
 551,Rigg,Sunderland,MID,4.8,0.0,4,2,0,0,0,0,0,0,0
-552,Sadiki,Sunderland,MID,5.0,0.1,15,6,6,0,0,0,0,5,1
+552,Sadiki,Sunderland,MID,5.0,0.1,15,6,17,0,0,0,0,6,1
 553,Talbi,Sunderland,MID,5.0,0.3,46,64,0,0,0,0,0,0,0
 554,Ba,Sunderland,MID,4.3,0.5,549,140,0,0,0,0,0,0,0
 555,Browne,Sunderland,MID,4.5,0.0,0,5,0,0,0,0,0,0,0
@@ -558,7 +558,7 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 557,H.Jones,Sunderland,MID,4.4,0.1,9,10,0,0,0,0,0,0,0
 558,Matete,Sunderland,MID,4.4,0.2,22,44,0,0,0,0,0,0,0
 559,Triantis,Sunderland,MID,4.4,0.0,0,5,0,0,0,0,0,0,0
-560,Isidor,Sunderland,FWD,5.6,3.5,1673,923,6,0,0,0,0,2,1
+560,Isidor,Sunderland,FWD,5.6,3.5,1673,923,17,0,0,0,0,1,1
 561,Mayenda,Sunderland,FWD,5.4,0.7,47,148,0,0,0,0,0,0,0
 562,Abdullahi,Sunderland,FWD,4.3,0.4,126,88,0,0,0,0,0,0,0
 563,Luís Hemir,Sunderland,FWD,4.4,0.1,0,11,0,0,0,0,0,0,0
@@ -666,9 +666,9 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 665,Perri,Leeds,GKP,4.5,0.2,16,22,0,0,0,0,0,0,0
 666,Gyökeres,Arsenal,FWD,8.9,14.7,185,19761,0,0,0,0,0,0,0
 667,Aznou,Everton,DEF,4.3,0.1,4,7,0,0,0,0,0,0,0
-668,Xhaka,Sunderland,MID,5.1,5.7,4514,565,6,0,0,0,0,3,1
+668,Xhaka,Sunderland,MID,5.1,5.7,4514,565,17,0,0,0,0,4,1
 669,Ndoye,Nott'm Forest,MID,5.7,1.2,28,414,0,0,0,0,0,0,0
-670,Roefs,Sunderland,GKP,4.7,7.1,3546,509,6,0,0,0,0,3,1
+670,Roefs,Sunderland,GKP,4.7,7.1,3546,509,17,0,0,0,0,5,1
 671,Wilson,West Ham,FWD,5.8,0.4,155,74,70,1,0,0,0,33,6
 672,Hato,Chelsea,DEF,4.7,0.2,17,37,0,0,0,0,0,0,0
 673,J.Palhinha,Spurs,MID,5.5,1.8,612,1126,78,0,0,0,0,17,1
@@ -692,7 +692,7 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 691,Calvert-Lewin,Leeds,FWD,5.5,1.1,38,921,0,0,0,0,0,0,0
 692,Leoni,Liverpool,DEF,4.9,0.0,3,5,0,0,0,0,0,0,0
 693,Hutchinson,Nott'm Forest,MID,5.4,0.0,3,12,0,0,0,0,0,0,0
-694,Mukiele,Sunderland,DEF,4.2,5.6,2518,596,6,0,0,0,0,3,1
+694,Mukiele,Sunderland,DEF,4.2,5.6,2518,596,17,0,0,0,0,3,1
 695,Tchatchoua,Wolves,DEF,4.5,0.0,7,7,0,0,0,0,0,0,0
 696,Kalimuendo,Nott'm Forest,FWD,6.0,0.1,32,43,0,0,0,0,0,0,0
 697,Adli,Bournemouth,MID,5.4,0.0,12,11,0,0,0,0,0,0,0
@@ -722,7 +722,7 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 721,Milosavljević,Bournemouth,DEF,4.5,0.0,5,4,0,0,0,0,0,0,0
 722,Florentino,Burnley,MID,5.0,0.1,16,23,90,0,0,0,0,27,4
 723,Canvot,Crystal Palace,DEF,4.5,0.0,2,4,0,0,0,0,0,0,0
-724,Geertruida,Sunderland,DEF,4.5,0.0,7,9,6,0,0,0,0,3,1
+724,Geertruida,Sunderland,DEF,4.5,0.0,7,9,17,0,0,0,0,3,1
 725,Hincapie,Arsenal,DEF,5.4,0.0,5,9,0,0,0,0,0,0,0
 726,Kolo Muani,Spurs,FWD,6.9,0.3,288,187,45,0,0,0,0,2,1
 727,Chukwueze,Fulham,MID,5.3,0.0,10,10,31,0,0,0,0,0,1
@@ -733,7 +733,7 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 732,Uche,Crystal Palace,FWD,5.5,0.0,37,14,0,0,0,0,0,0,0
 733,Lammens,Man Utd,GKP,5.0,1.4,1723,586,90,0,0,0,0,5,1
 734,Bakwa,Nott'm Forest,MID,6.0,0.0,2,5,0,0,0,0,0,0,0
-735,Traoré,Sunderland,MID,5.5,0.0,47,22,6,0,0,0,0,2,1
+735,Traoré,Sunderland,MID,5.5,0.0,47,22,17,0,0,0,0,2,1
 736,Donnarumma,Man City,GKP,5.7,10.0,1686,1525,0,0,0,0,0,0,0
 737,Kusi-Asare,Fulham,FWD,4.5,0.1,38,34,0,0,0,0,0,0,0
 738,Fabianski,West Ham,GKP,4.5,0.0,0,49,0,0,0,0,0,0,0
