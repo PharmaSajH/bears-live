@@ -30,6 +30,9 @@ jobs:
       - name: Build model data (feed_players, team_strength, recent_form)
         run: python update_bears_data.py
 
+      - name: Build ChatGPT recommendation JSON
+        run: python build_reco.py
+
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
@@ -38,6 +41,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update FPL data [skip ci]"
+            git commit -m "Update FPL data and reco [skip ci]"
             git push
           fi
