@@ -4,12 +4,19 @@ build_reco.py
 
 Reads live data files from public/ and public/entries/ and produces:
 
-    public/bears_reco_gw{gw}.json
-    public/bears_reco_latest.json
+  - public/bears_reco_gw{gw}.json
+  - public/bears_reco_latest.json
 
-The file contains:
-  - Bears + Wigan summaries (bank, value, captain, XI, bench)
-  - Model view: baseline XI, best 1FT, best extra -4 if worthwhile
+Now also auto-ingests:
+  - public/model_state.json  (from post_gw_learning.py)
+  - public/chip_plan.json    (from chip_plan.py)
+
+So ChatGPT only needs ONE file (bears_reco_latest.json) to see:
+  - Bears + Wigan squads (XI, bench, bank, value, captain/vice)
+  - Model xPts for Bears squad
+  - Best FT and optional -4 path
+  - Current learning knobs (ceiling, minutes risk, hit thresholds)
+  - Chip planning hints
 """
 
 from __future__ import annotations
@@ -21,6 +28,7 @@ from typing import Dict, List, Tuple
 
 import pandas as pd
 
+
 # ---------- CONFIG ----------
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -31,6 +39,8 @@ BOOTSTRAP_PATH = PUBLIC_DIR / "bootstrap.json"
 META_PATH = PUBLIC_DIR / "meta.json"
 FEED_PLAYERS_PATH = PUBLIC_DIR / "feed_players.csv"
 RECENT_FORM_PATH = PUBLIC_DIR / "recent_form.json"
+MODEL_STATE_PATH = PUBLIC_DIR / "model_state.json"
+CHIP_PLAN_PATH = PUBLIC_DIR / "chip_plan.json"
 
 BEARS_ENTRY_PATTERN = "bears_gw{gw}.json"
 WIGAN_ENTRY_PATTERN = "wigan_gw{gw}.json"
@@ -41,7 +51,12 @@ OUT_RECO_LATEST = PUBLIC_DIR / "bears_reco_latest.json"
 
 # ---------- BASIC UTILS ----------
 
-def load_json(path: Path):
+def load_json(path: Path, default=None):
+    if default is None:
+        default = {}
+    if not path.exists():
+        print(f"⚠️ {path.relative_to(BASE_DIR)} not found, using default")
+        return default
     with path.open() as f:
         return json.load(f)
 
@@ -76,14 +91,13 @@ def _price_millions(raw) -> float:
 # ---------- GW DETECTION ----------
 
 def detect_current_gw(meta: dict, bootstrap: dict) -> int:
-    # Prefer meta.json
+    # prefer meta.json
     for key in ("current_event", "event", "gw"):
         if key in meta and isinstance(meta[key], int):
             print(f"ℹ️ GW from meta.json: {meta[key]}")
             return meta[key]
 
-    # Fallback to bootstrap
-    events = bootstrap.get("events", [])
+    events = bootstrap.get("events") or []
     current = next((e for e in events if e.get("is_current")), None)
     if current:
         print(f"ℹ️ GW from bootstrap (is_current): {current['id']}")
@@ -103,7 +117,6 @@ def detect_current_gw(meta: dict, bootstrap: dict) -> int:
 def load_entry_as_squad(entry_path: Path) -> Dict:
     """
     Read bears_gw{gw}.json / wigan_gw{gw}.json and normalise to:
-
       {
         "entry_id": int,
         "bank": float (millions),
@@ -112,8 +125,8 @@ def load_entry_as_squad(entry_path: Path) -> Dict:
         "picks": [ {...}, ... ]
       }
     """
-    data = load_json(entry_path)
-    hist = data.get("entry_history", {}) or {}
+    data = load_json(entry_path, default={})
+    hist = data.get("entry_history") or {}
     bank = hist.get("bank", 0) / 10.0
     value = hist.get("value", 0) / 10.0
 
@@ -155,13 +168,13 @@ def build_player_lookup(feed_df: pd.DataFrame) -> Dict[int, Dict]:
     """
     Map player_id -> row dict from feed_players.csv.
 
-    We auto-detect the id column name (player_id / id / element / code).
+    Auto-detects the id column name (player_id / id / element / code).
     """
     candidates = [c for c in feed_df.columns
                   if c.lower() in ("player_id", "id", "element", "code")]
     if not candidates:
         raise KeyError(
-            "feed_players.csv is missing a player id column "
+            "feed_players.csv missing player id column "
             "(expected one of: player_id, id, element, code)"
         )
     pid_col = candidates[0]
@@ -173,19 +186,37 @@ def build_player_lookup(feed_df: pd.DataFrame) -> Dict[int, Dict]:
     return lookup
 
 
+def default_model_state() -> dict:
+    now = datetime.utcnow().isoformat()
+    return {
+        "version": 1,
+        "created_utc": now,
+        "last_updated_utc": now,
+        "last_gw": None,
+        "ceiling_aggression": 1.00,
+        "minutes_risk_penalty": 1.00,
+        "differential_weight": 1.00,
+        "hit_threshold_ft_gain": 4.0,
+        "hit_threshold_double_gain": 7.0,
+        "history": [],
+    }
+
+
 def compute_expected_points_all(
     feed_df: pd.DataFrame,
     recent_form: Dict,
+    model_state: Dict,
 ) -> Tuple[Dict[int, float], Dict[int, Dict]]:
     """
-    Compute simple expected points for *all* players in feed_players.csv.
-    Returns:
-      - expected: player_id -> xPts
-      - info: player_id -> merged row dict (with xPts)
+    Compute expected points for *all* players in feed_players.csv.
+    Uses model_state knobs (ceiling_aggression, minutes_risk_penalty).
     """
     candidates = [c for c in feed_df.columns
                   if c.lower() in ("player_id", "id", "element", "code")]
     pid_col = candidates[0]
+
+    ceil = float(model_state.get("ceiling_aggression", 1.0))
+    mins_pen = float(model_state.get("minutes_risk_penalty", 1.0))
 
     expected: Dict[int, float] = {}
     info: Dict[int, Dict] = {}
@@ -204,14 +235,24 @@ def compute_expected_points_all(
         gw_xmins = _safe_float(row.get("gw_xmins", 80.0))
         fdr = _safe_float(row.get("gw_fdr", 3.0))
 
-        minutes_factor = gw_xmins / 90.0
-        fixture_factor = 1.0 + (3.0 - fdr) * 0.15  # FDR 2 better, 4 worse
+        base_minutes_factor = gw_xmins / 90.0
 
-        xpts = (
+        # minutes risk penalty: if low xMins, scale down more
+        if gw_xmins < 60:
+            minutes_factor = base_minutes_factor / max(mins_pen, 0.1)
+        else:
+            minutes_factor = base_minutes_factor
+
+        fixture_factor = 1.0 + (3.0 - fdr) * 0.15  # easier fixtures upweight, harder downweight
+
+        base_xpts = (
             0.5 * ppg +
             0.35 * (form_per90 / 90.0) +
             0.15 * xgi5
         ) * minutes_factor * fixture_factor
+
+        # ceiling aggression just scales the upside slightly
+        xpts = base_xpts * ceil
 
         expected[pid] = xpts
 
@@ -220,6 +261,7 @@ def compute_expected_points_all(
             "last5_minutes": mins5,
             "last5_points": pts5,
             "last5_xgi": xgi5,
+            "gw_xmins": gw_xmins,
             "expected_points_gw": xpts,
         })
         info[pid] = merged
@@ -235,7 +277,7 @@ def pick_best_xi(
     expected_points: Dict[int, float],
 ) -> Tuple[List[int], float]:
     """
-    Very simple greedy optimiser that respects:
+    Simple greedy optimiser that respects:
 
       - 1 GK
       - 3–5 DEF
@@ -249,7 +291,6 @@ def pick_best_xi(
         if pos in by_pos:
             by_pos[pos].append(pid)
 
-    # sort each bucket by expected points
     for pos in by_pos:
         by_pos[pos].sort(key=lambda x: expected_points.get(x, 0.0), reverse=True)
 
@@ -264,7 +305,7 @@ def pick_best_xi(
     xi.extend(by_pos["MID"][:2])
     xi.extend(by_pos["FWD"][:1])
 
-    # current counts
+    # counts
     pos_counts = {
         "GK": len([p for p in xi if player_lookup.get(p, {}).get("position") == "GK"]),
         "DEF": len([p for p in xi if player_lookup.get(p, {}).get("position") == "DEF"]),
@@ -274,7 +315,6 @@ def pick_best_xi(
 
     max_limits = {"GK": 1, "DEF": 5, "MID": 5, "FWD": 3}
 
-    # pool of remaining non-picked players from DEF/MID/FWD
     remaining: List[int] = []
     for pos in ("DEF", "MID", "FWD"):
         used = pos_counts[pos]
@@ -310,9 +350,11 @@ def search_best_single_transfer(
     squad: Dict,
     player_lookup: Dict[int, Dict],
     expected_points: Dict[int, float],
+    hit_threshold_ft_gain: float,
 ) -> Dict:
     """
-    Best 1FT compared to just holding (no chip logic, just pure xPts).
+    Best 1FT compared to just holding.
+    Only surfaces a "FT" if gain_vs_hold >= hit_threshold_ft_gain.
     """
     picks = {p["element"] for p in squad.get("picks", [])}
     bank = squad.get("bank", 0.0)
@@ -375,6 +417,15 @@ def search_best_single_transfer(
                     }
                 )
 
+    # apply threshold: if the best gain is below threshold, treat as HOLD
+    if best["type"] == "FT" and best["gain_vs_hold"] < hit_threshold_ft_gain:
+        best["type"] = "HOLD"
+        best["out"] = None
+        best["in"] = None
+        best["gain_vs_hold"] = 0.0
+        best["new_xi"] = best["base_xi"]
+        best["new_total"] = best["base_total"]
+
     return best
 
 
@@ -383,10 +434,12 @@ def maybe_search_second_transfer_hit(
     squad: Dict,
     player_lookup: Dict[int, Dict],
     expected_points: Dict[int, float],
+    hit_threshold_double_gain: float,
 ) -> Dict:
     """
     From best 1FT position, try a second transfer with a -4 hit.
-    Only keep if (new_total - 4) > best_ft["new_total"].
+    Only keep if:
+        (new_total - 4) - best_ft["new_total"] >= hit_threshold_double_gain
     """
     picks = {p["element"] for p in squad.get("picks", [])}
 
@@ -399,7 +452,6 @@ def maybe_search_second_transfer_hit(
     pos = {pid: player_lookup.get(pid, {}).get("position") for pid in player_lookup}
     team = {pid: _safe_int(player_lookup.get(pid, {}).get("team_id")) for pid in player_lookup}
 
-    # adjust bank for first transfer
     if best_ft.get("type") == "FT":
         bank = bank + price.get(best_ft["out"], 0.0) - price.get(best_ft["in"], 0.0)
 
@@ -453,7 +505,8 @@ def maybe_search_second_transfer_hit(
                     }
                 )
 
-    if best_hit["gain_vs_best_ft_minus4"] <= 0:
+    # apply threshold
+    if best_hit["type"] == "HIT-4" and best_hit["gain_vs_best_ft_minus4"] < hit_threshold_double_gain:
         return {
             "type": "NONE",
             "out": None,
@@ -471,13 +524,20 @@ def maybe_search_second_transfer_hit(
 def main():
     print("🔄 build_reco.py starting …")
 
-    meta = load_json(META_PATH)
-    bootstrap = load_json(BOOTSTRAP_PATH)
+    meta = load_json(META_PATH, default={})
+    bootstrap = load_json(BOOTSTRAP_PATH, default={})
     feed_df = pd.read_csv(FEED_PLAYERS_PATH)
-    recent_form = load_json(RECENT_FORM_PATH)
+    recent_form = load_json(RECENT_FORM_PATH, default={})
+
+    # new: model_state + chip_plan (optional but auto-ingested)
+    model_state = load_json(MODEL_STATE_PATH, default=default_model_state())
+    if "version" not in model_state:
+        model_state = default_model_state()
+
+    chip_plan = load_json(CHIP_PLAN_PATH, default={})
 
     gw = detect_current_gw(meta, bootstrap)
-    print(f"➡️  Using GW{gw} for reco")
+    print(f"➡️ Using GW{gw} for reco")
 
     bears_entry_path = ENTRIES_DIR / BEARS_ENTRY_PATTERN.format(gw=gw)
     wigan_entry_path = ENTRIES_DIR / WIGAN_ENTRY_PATTERN.format(gw=gw)
@@ -489,16 +549,34 @@ def main():
     wigan_summary = summarise_xi(wigan_squad)
 
     player_lookup = build_player_lookup(feed_df)
-    expected_points, _all_players = compute_expected_points_all(feed_df, recent_form)
 
-    best_ft = search_best_single_transfer(bears_squad, player_lookup, expected_points)
-    best_hit = maybe_search_second_transfer_hit(best_ft, bears_squad, player_lookup, expected_points)
+    expected_points, all_players_info = compute_expected_points_all(
+        feed_df, recent_form, model_state
+    )
+
+    # hit thresholds from model_state
+    hit_ft = float(model_state.get("hit_threshold_ft_gain", 4.0))
+    hit_double = float(model_state.get("hit_threshold_double_gain", 7.0))
+
+    best_ft = search_best_single_transfer(
+        bears_squad, player_lookup, expected_points, hit_ft
+    )
+    best_hit = maybe_search_second_transfer_hit(
+        best_ft, bears_squad, player_lookup, expected_points, hit_double
+    )
+
+    # only include Bears players (15-man squad) in the reco to keep size small
+    bears_ids = {p["element"] for p in bears_squad.get("picks", [])}
+    bears_players = {
+        str(pid): all_players_info.get(pid, {}) for pid in bears_ids
+    }
 
     out = {
         "gw": gw,
         "generated_utc": datetime.utcnow().isoformat(),
         "bears": bears_summary,
         "wigan": wigan_summary,
+        "bears_players": bears_players,
         "model": {
             "baseline": {
                 "xi": best_ft["base_xi"],
@@ -521,10 +599,20 @@ def main():
                 "expected_points": best_hit["new_total"],
             },
         },
+        "learning": {
+            "ceiling_aggression": model_state.get("ceiling_aggression"),
+            "minutes_risk_penalty": model_state.get("minutes_risk_penalty"),
+            "differential_weight": model_state.get("differential_weight"),
+            "hit_threshold_ft_gain": model_state.get("hit_threshold_ft_gain"),
+            "hit_threshold_double_gain": model_state.get("hit_threshold_double_gain"),
+            "last_gw_learned": model_state.get("last_gw"),
+        },
+        "chips": chip_plan,   # full chip_plan.json embedded so I can see it from one file
     }
 
     # Write GW-specific + latest files
-    save_json(OUT_RECO_TEMPLATE.with_name(OUT_RECO_TEMPLATE.name.format(gw=gw)), out)
+    gw_path = Path(str(OUT_RECO_TEMPLATE).format(gw=gw))
+    save_json(gw_path, out)
     save_json(OUT_RECO_LATEST, out)
 
     print("🎉 build_reco.py complete")
