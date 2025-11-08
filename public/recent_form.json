@@ -133,9 +133,9 @@
     "last5_appearances": 4
   },
   "419": {
-    "last5_minutes": 276,
+    "last5_minutes": 315,
     "last5_points": 14,
-    "last5_xgi": 1.0,
+    "last5_xgi": 1.07,
     "last5_starts": 0,
     "last5_appearances": 4
   },
@@ -154,9 +154,9 @@
     "last5_appearances": 5
   },
   "624": {
-    "last5_minutes": 365,
+    "last5_minutes": 405,
     "last5_points": 12,
-    "last5_xgi": 1.2,
+    "last5_xgi": 1.3199999999999998,
     "last5_starts": 0,
     "last5_appearances": 5
   },
@@ -174,5 +174,5 @@
     "last5_starts": 0,
     "last5_appearances": 4
   },
-  "generated_utc": "2025-11-08T15:08:15.477891"
+  "generated_utc": "2025-11-08T15:48:23.795637"
 }
