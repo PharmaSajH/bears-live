@@ -1,6 +1,6 @@
 {
   "gw": 11,
-  "generated_utc": "2025-11-08T16:15:27.651024",
+  "generated_utc": "2025-11-08T16:50:59.814134",
   "bears": {
     "bank": 0.7,
     "team_value": 101.4,
@@ -57,7 +57,7 @@
   },
   "transfers": [],
   "notes": [
-    "This is a scaffold file. Currently mirrors live FPL picks for Bears & Wigan.",
-    "In a later version, starting_xi / captain / transfers will come from the optimiser."
+    "This file mirrors live FPL squads.",
+    "Optimiser recommendations will populate here next."
   ]
 }
