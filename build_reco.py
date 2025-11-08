@@ -467,7 +467,7 @@ def main():
         },
     }
 
-    save_json(OUT_RECO_PATH.format(gw=gw), out)
+save_json(Path(str(OUT_RECO_PATH).format(gw=gw)), out)
     print("🎉 build_reco.py complete")
 
 
