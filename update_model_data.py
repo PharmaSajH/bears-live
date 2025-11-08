@@ -2,18 +2,16 @@
 """
 update_model_data.py
 
-Reads core FPL data from public/ (written by the mirror + update_bears_data.py)
+Reads core FPL data from public/ (written by update_bears_data.py)
 and builds the *model-facing* helper files:
 
-  - public/feed_players.csv     → per-player snapshot for this GW
-  - public/team_strength.json   → team strength metrics
-  - public/recent_form.json     → last-5-GW mins/points/xGI for Bears+Wigan squads
-  - public/bears_history.json   → full entry history for Bears
-  - public/wigan_history.json   → full entry history for Wigan
-
-This script is called by the GitHub Actions workflow:
-
-  - "Build model data (feed_players, team_strength, recent_form)"
+  - public/feed_players.csv          → per-player snapshot for this GW
+  - public/team_strength.json        → team strength metrics
+  - public/recent_form.json          → last-5-GW mins/points/xGI for Bears+Wigan squads
+  - public/bears_history.json        → full entry history for Bears
+  - public/wigan_history.json        → full entry history for Wigan
+  - public/future_fdr.json           → future fixture difficulty summary per team
+  - public/price_ownership_trend.json → time series of price & ownership for all players
 """
 
 from __future__ import annotations
@@ -41,6 +39,8 @@ META_PATH = PUBLIC_DIR / "meta.json"
 FEED_PLAYERS_PATH = PUBLIC_DIR / "feed_players.csv"
 TEAM_STRENGTH_PATH = PUBLIC_DIR / "team_strength.json"
 RECENT_FORM_PATH = PUBLIC_DIR / "recent_form.json"
+FUTURE_FDR_PATH = PUBLIC_DIR / "future_fdr.json"
+PRICE_OWNERSHIP_TREND_PATH = PUBLIC_DIR / "price_ownership_trend.json"
 
 BEARS_HISTORY_PATH = PUBLIC_DIR / "bears_history.json"
 WIGAN_HISTORY_PATH = PUBLIC_DIR / "wigan_history.json"
@@ -50,11 +50,10 @@ WIGAN_ID = 10855167      # Wigan Witches
 
 BASE_URL = "https://fantasy.premierleague.com/api"
 
-# Simple rate-limit for element-summary calls
-SUMMARY_SLEEP_SECONDS = 0.4   # ~ 2.5 req / sec, very safe
+SUMMARY_SLEEP_SECONDS = 0.4   # rate-limit for element-summary calls
 
 
-# ------------ SMALL HELPERS ------------
+# ------------ HELPERS ------------
 
 def _safe_float(v, default: float = 0.0) -> float:
     if v is None:
@@ -74,7 +73,12 @@ def _safe_int(v, default: int = 0) -> int:
         return default
 
 
-def load_json(path: Path):
+def load_json(path: Path, default=None):
+    if default is None:
+        default = {}
+    if not path.exists():
+        print(f"⚠️ {path.relative_to(BASE_DIR)} not found, using default")
+        return default
     with path.open() as f:
         return json.load(f)
 
@@ -161,6 +165,7 @@ def estimate_xmins(chance_play_next) -> float:
 def build_feed_players(bootstrap: dict, fixtures_map: Dict[int, dict], gw: int) -> pd.DataFrame:
     """
     Build a compact per-player table (feed_players.csv) used by build_reco.py.
+    Now includes injury/news fields from bootstrap.
     """
     elements = bootstrap["elements"]
     teams = bootstrap["teams"]
@@ -225,12 +230,19 @@ def build_feed_players(bootstrap: dict, fixtures_map: Dict[int, dict], gw: int) 
         "gw_fdr": "gw_fdr",
         "gw_is_home": "gw_is_home",
         "gw_xmins": "gw_xmins",
+        # NEW: injury/news sentiment
+        "news": "news",
+        "news_added": "news_added",
     }
 
-    out = df[list(cols.keys())].rename(columns=cols)
-    out["full_name"] = out["first_name"].astype(str).str.cat(
-        out["second_name"].astype(str),
-        sep=" ",
+    # some older API snapshots may not have news/news_added; use intersection
+    available_cols = [c for c in cols.keys() if c in df.columns]
+    out = df[available_cols].rename(columns=cols)
+    out["full_name"] = (
+        out.get("first_name", "").astype(str).str.cat(
+            out.get("second_name", "").astype(str),
+            sep=" ",
+        )
     )
 
     order = [
@@ -242,6 +254,12 @@ def build_feed_players(bootstrap: dict, fixtures_map: Dict[int, dict], gw: int) 
         "chance_play_next", "gw_xmins",
         "gw_fixture", "gw_fdr", "gw_is_home",
     ]
+    # keep injury/news at the end if present
+    if "news" in out.columns:
+        order.append("news")
+    if "news_added" in out.columns:
+        order.append("news_added")
+
     out = out[order]
     out["gw"] = gw
     out["generated_utc"] = datetime.utcnow().isoformat()
@@ -267,6 +285,77 @@ def build_team_strength(bootstrap: dict) -> dict:
             }
         )
     return {"teams": data, "generated_utc": datetime.utcnow().isoformat()}
+
+
+# ------------ FUTURE FIXTURE DIFFICULTY ------------
+
+def build_future_fdr(bootstrap: dict, fixtures: List[dict], current_gw: int, horizon: int = 8) -> dict:
+    """
+    For each team, summarise the next `horizon` GWs of fixture difficulty.
+    """
+    teams = {t["id"]: t for t in bootstrap.get("teams", [])}
+    upper_gw = current_gw + horizon
+
+    per_team = {}
+
+    for t_id, t in teams.items():
+        per_team[t_id] = {
+            "team_id": t_id,
+            "team_name": t["name"],
+            "short_name": t["short_name"],
+            "fixtures": [],
+        }
+
+    for f in fixtures:
+        gw = f.get("event")
+        if gw is None or gw < current_gw or gw > upper_gw:
+            continue
+
+        home = f["team_h"]
+        away = f["team_a"]
+        fdr_home = f.get("team_h_difficulty")
+        fdr_away = f.get("team_a_difficulty")
+
+        # home side
+        per_team[home]["fixtures"].append(
+            {
+                "gw": gw,
+                "is_home": True,
+                "opp_team_id": away,
+                "opp_team_name": teams.get(away, {}).get("name"),
+                "fdr": fdr_home,
+            }
+        )
+        # away side
+        per_team[away]["fixtures"].append(
+            {
+                "gw": gw,
+                "is_home": False,
+                "opp_team_id": home,
+                "opp_team_name": teams.get(home, {}).get("name"),
+                "fdr": fdr_away,
+            }
+        )
+
+    # summary stats
+    for t_id, rec in per_team.items():
+        fs = rec["fixtures"]
+        if not fs:
+            rec["avg_fdr"] = None
+            rec["easy_fixtures"] = 0
+            rec["hard_fixtures"] = 0
+            continue
+        fdr_vals = [f["fdr"] for f in fs if f["fdr"] is not None]
+        rec["avg_fdr"] = sum(fdr_vals) / len(fdr_vals) if fdr_vals else None
+        rec["easy_fixtures"] = sum(1 for f in fs if f["fdr"] is not None and f["fdr"] <= 2)
+        rec["hard_fixtures"] = sum(1 for f in fs if f["fdr"] is not None and f["fdr"] >= 4)
+
+    return {
+        "gw_start": current_gw,
+        "gw_end": upper_gw,
+        "teams": list(per_team.values()),
+        "generated_utc": datetime.utcnow().isoformat(),
+    }
 
 
 # ------------ ENTRY HISTORIES + RECENT FORM ------------
@@ -319,7 +408,6 @@ def build_recent_form(player_ids: Set[int]) -> dict:
         data = fetch_json(url)
         history = data.get("history", [])
 
-        # last 5 fixtures by round
         history_sorted = sorted(history, key=lambda h: h["round"])
         last5 = history_sorted[-5:]
 
@@ -337,12 +425,65 @@ def build_recent_form(player_ids: Set[int]) -> dict:
             "last5_appearances": apps,
         }
 
-        # gentle rate limit
         if i < len(player_ids) - 1:
             sleep(SUMMARY_SLEEP_SECONDS)
 
     recent["generated_utc"] = datetime.utcnow().isoformat()
     return recent
+
+
+# ------------ PRICE & OWNERSHIP TREND ------------
+
+def update_price_ownership_trend(feed_df: pd.DataFrame, gw: int):
+    """
+    Append a snapshot of price & ownership for ALL players into
+    price_ownership_trend.json.
+    """
+    now = datetime.utcnow().isoformat()
+
+    # Detect player_id column from feed_df
+    pid_col_candidates = [c for c in feed_df.columns
+                          if str(c).lower() in ("player_id", "id", "element", "code")]
+    if not pid_col_candidates:
+        print("⚠️ Could not find player_id column for trend; skipping.")
+        return
+
+    pid_col = pid_col_candidates[0]
+
+    selected_col = "selected_percent" if "selected_percent" in feed_df.columns else None
+    if selected_col is None:
+        print("⚠️ No selected_percent column found; skipping ownership trend.")
+        return
+
+    if "now_cost" not in feed_df.columns:
+        print("⚠️ No now_cost column found; skipping price trend.")
+        return
+
+    trend = load_json(PRICE_OWNERSHIP_TREND_PATH, default={"records": []})
+    records = trend.get("records", [])
+
+    for _, row in feed_df.iterrows():
+        pid = _safe_int(row[pid_col])
+        price = _safe_float(row["now_cost"]) / 10.0  # convert to millions
+        sel = _safe_float(row[selected_col])
+
+        records.append(
+            {
+                "timestamp_utc": now,
+                "gw": gw,
+                "player_id": pid,
+                "now_cost": price,
+                "selected_percent": sel,
+            }
+        )
+
+    # optional: cap records length to avoid unbounded growth
+    if len(records) > 200000:
+        records = records[-200000:]
+
+    trend["records"] = records
+    trend["generated_utc"] = now
+    save_json(PRICE_OWNERSHIP_TREND_PATH, trend)
 
 
 # ------------ MAIN ------------
@@ -351,7 +492,7 @@ def main():
     print("🔄 update_model_data.py starting …")
 
     bootstrap = load_json(BOOTSTRAP_PATH)
-    fixtures_raw = load_json(FIXTURES_PATH)
+    fixtures_raw = load_json(FIXTURES_PATH, default=[])
     gw = detect_current_gw(bootstrap)
     fixtures_map = build_fixture_map(fixtures_raw, gw)
 
@@ -365,16 +506,23 @@ def main():
     team_strength = build_team_strength(bootstrap)
     save_json(TEAM_STRENGTH_PATH, team_strength)
 
-    # 3) entry histories
+    # 3) future_fdr.json (next 8 GWs by default)
+    future_fdr = build_future_fdr(bootstrap, fixtures_raw, gw, horizon=8)
+    save_json(FUTURE_FDR_PATH, future_fdr)
+
+    # 4) entry histories
     update_entry_histories()
 
-    # 4) recent_form for Bears + Wigan squads
+    # 5) recent_form for Bears + Wigan squads
     player_ids = get_squad_player_ids(gw)
     if player_ids:
         recent_form = build_recent_form(player_ids)
         save_json(RECENT_FORM_PATH, recent_form)
     else:
         print("⚠️ No squad player IDs found; skipping recent_form.json")
+
+    # 6) price & ownership trend snapshot
+    update_price_ownership_trend(feed_df, gw)
 
     print("🎉 update_model_data.py complete")
 
