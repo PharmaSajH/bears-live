@@ -276,7 +276,6 @@ def build_recent_form(player_ids: set) -> dict:
         history_sorted = sorted(history, key=lambda h: h["round"])
         last5 = history_sorted[-5:]
 
-        # use safe numeric conversion because API sometimes returns strings
         mins   = sum(_safe_int(h.get("minutes", 0)) for h in last5)
         pts    = sum(_safe_int(h.get("total_points", 0)) for h in last5)
         xgi    = sum(_safe_float(h.get("expected_goal_involvements", 0.0)) for h in last5)
@@ -403,6 +402,79 @@ def build_chatgpt_snapshot(bootstrap: dict, fixtures_map: dict, gw: int):
     print(f"✅ wrote {out_path.relative_to(BASE_DIR)} for ChatGPT")
 
 
+def build_bears_reco(gw: int):
+    """
+    First version of bears_reco_gw{gw}.json:
+    - Mirrors current FPL picks for Bears and Wigan
+    - No optimisation yet (transfers list is empty)
+    """
+    bears_path = ENTRIES_DIR / f"bears_gw{gw}.json"
+    wigan_path = ENTRIES_DIR / f"wigan_gw{gw}.json"
+
+    if not bears_path.exists():
+        print(f"⚠️ {bears_path.relative_to(BASE_DIR)} missing, skipping bears_reco.")
+        return
+
+    if not wigan_path.exists():
+        print(f"⚠️ {wigan_path.relative_to(BASE_DIR)} missing, skipping bears_reco.")
+        return
+
+    bears = load_json(bears_path)
+    wigan = load_json(wigan_path)
+
+    def extract_entry_reco(entry: dict):
+        hist = entry.get("entry_history", {})
+        bank = _safe_float(hist.get("bank", 0)) / 10.0
+        value = _safe_float(hist.get("value", 0)) / 10.0
+        ft = hist.get("event_transfers", 0)
+        chip = entry.get("active_chip")
+
+        captain = None
+        vice = None
+        starting = []
+        bench = []
+
+        for p in entry.get("picks", []):
+            el_id = p.get("element")
+            pos = p.get("position", 99)
+            if p.get("is_captain"):
+                captain = el_id
+            if p.get("is_vice_captain"):
+                vice = el_id
+            if pos <= 11:
+                starting.append(el_id)
+            else:
+                bench.append(el_id)
+
+        return {
+            "bank": bank,
+            "team_value": value,
+            "free_transfers": ft,
+            "chip_active": chip,
+            "captain": captain,
+            "vice_captain": vice,
+            "starting_xi": starting,
+            "bench": bench,
+        }
+
+    reco = {
+        "gw": gw,
+        "generated_utc": datetime.utcnow().isoformat(),
+        "bears": extract_entry_reco(bears),
+        "wigan": extract_entry_reco(wigan),
+        # transfers is empty for now – we'll fill this when we add the optimiser logic
+        "transfers": [],
+        "notes": [
+            "This is a scaffold file. Currently mirrors live FPL picks for Bears & Wigan.",
+            "In a later version, starting_xi / captain / transfers will come from the optimiser."
+        ],
+    }
+
+    out_path = PUBLIC_DIR / f"bears_reco_gw{gw}.json"
+    save_json(out_path, reco)
+    print(f"✅ wrote {out_path.relative_to(BASE_DIR)} (mirror reco)")
+
+
 def main():
     print("🔄 update_bears_data.py starting …")
 
@@ -434,6 +506,9 @@ def main():
 
     # 5) compact snapshot for ChatGPT (Bears + Wigan only)
     build_chatgpt_snapshot(bootstrap, fixtures_map, gw)
+
+    # 6) scaffold recommendation file mirroring current picks
+    build_bears_reco(gw)
 
     print("🎉 update_bears_data.py complete")
 
