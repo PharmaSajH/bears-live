@@ -2,20 +2,15 @@
 """
 update_bears_data.py
 
-Light-weight script used by the "Mirror Bears + Wigan data" workflow step.
+Mirror live FPL data into the repo so other scripts can build the model.
 
-Responsibilities:
-  - Detect current gameweek from the live FPL API.
-  - Download the GW picks for:
-        * Birmingham Bears (your team)
-        * Wigan Witches (rival)
-  - Save them into public/entries as:
-        public/entries/bears_gw{gw}.json
-        public/entries/wigan_gw{gw}.json
-  - Write a tiny meta_log.json with GW + timestamp (handy for debugging).
-
-NO optimiser logic, NO feed_players / recent_form stuff lives here.
-That’s all handled by update_model_data.py and build_reco.py.
+Writes into public/:
+  - bootstrap.json        (full FPL bootstrap)
+  - fixtures.json         (all fixtures with FDR)
+  - meta.json             (current GW + timestamp)
+  - entries/bears_gw{gw}.json
+  - entries/wigan_gw{gw}.json
+  - live_gw{gw}.json      (BEST-EFFORT: live event data for the current GW)
 """
 
 import json
@@ -25,88 +20,86 @@ from pathlib import Path
 
 import requests
 
-# ------------ CONFIG ------------
+# --- CONFIG ---
+BEARS_ID = 10856343      # Birmingham Bears
+WIGAN_ID = 10855167      # Wigan Witches
+
+BASE_URL = "https://fantasy.premierleague.com/api"
 
 BASE_DIR = Path(__file__).resolve().parent
 PUBLIC_DIR = BASE_DIR / "public"
 ENTRIES_DIR = PUBLIC_DIR / "entries"
 
-BASE_URL = "https://fantasy.premierleague.com/api"
+os.makedirs(ENTRIES_DIR, exist_ok=True)
 
-# Your two teams
-BEARS_ID = 10856343     # Birmingham Bears
-WIGAN_ID = 10855167     # Wigan Witches
-
-
-# ------------ HELPERS ------------
 
 def fetch_json(url: str):
-    """GET a URL and return parsed JSON (raise for HTTP errors)."""
     r = requests.get(url)
     r.raise_for_status()
     return r.json()
 
 
-def save_json(path: Path, data):
-    """Write data as pretty JSON, creating parent dirs if needed."""
+def save(path: Path, data):
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w") as f:
         json.dump(data, f, indent=2)
-    print(f"✅ wrote {path.relative_to(BASE_DIR)}")
+    print(f"✅ Saved {path.relative_to(BASE_DIR)}")
 
 
 def detect_current_gw(bootstrap: dict) -> int:
-    """
-    Determine the current GW from bootstrap-static:
-      - prefer event with is_current = True
-      - otherwise fall back to latest finished event
-    """
     events = bootstrap.get("events", [])
-
     current = next((e for e in events if e.get("is_current")), None)
     if current:
-        gw = current["id"]
-        print(f"ℹ️ GW from bootstrap (is_current): {gw}")
-        return gw
+        return current["id"]
 
-    finished = [e for e in events if e.get("finished")]
-    if finished:
-        gw = max(finished, key=lambda e: e["id"])["id"]
-        print(f"ℹ️ GW from latest finished event: {gw}")
-        return gw
+    # fallback: earliest unfinished
+    unfinished = [e for e in events if not e.get("finished")]
+    if unfinished:
+        return min(unfinished, key=lambda e: e["id"])["id"]
 
-    raise RuntimeError("Could not determine current gameweek from bootstrap-static")
+    # last resort: max id
+    if events:
+        return max(events, key=lambda e: e["id"])["id"]
 
+    raise RuntimeError("Could not determine current GW from bootstrap")
 
-# ------------ MAIN ------------
 
 def main():
-    print("🔄 update_bears_data.py starting …")
-
-    # 1) Get bootstrap-static so we know which GW to hit
+    # 1) bootstrap & fixtures
     bootstrap = fetch_json(f"{BASE_URL}/bootstrap-static/")
+    fixtures = fetch_json(f"{BASE_URL}/fixtures/")
+
     gw = detect_current_gw(bootstrap)
+    print(f"ℹ️ Current GW (for mirroring): {gw}")
 
-    # 2) Fetch Bears GW picks
-    bears_url = f"{BASE_URL}/entry/{BEARS_ID}/event/{gw}/picks/"
-    bears_data = fetch_json(bears_url)
-    bears_path = ENTRIES_DIR / f"bears_gw{gw}.json"
-    save_json(bears_path, bears_data)
+    save(PUBLIC_DIR / "bootstrap.json", bootstrap)
+    save(PUBLIC_DIR / "fixtures.json", fixtures)
 
-    # 3) Fetch Wigan GW picks
-    wigan_url = f"{BASE_URL}/entry/{WIGAN_ID}/event/{gw}/picks/"
-    wigan_data = fetch_json(wigan_url)
-    wigan_path = ENTRIES_DIR / f"wigan_gw{gw}.json"
-    save_json(wigan_path, wigan_data)
+    # 2) entries picks for Bears & Wigan for this GW
+    bears = fetch_json(f"{BASE_URL}/entry/{BEARS_ID}/event/{gw}/picks/")
+    wigan = fetch_json(f"{BASE_URL}/entry/{WIGAN_ID}/event/{gw}/picks/")
 
-    # 4) Tiny meta log for sanity checks
-    meta_log = {
+    save(ENTRIES_DIR / f"bears_gw{gw}.json", bears)
+    save(ENTRIES_DIR / f"wigan_gw{gw}.json", wigan)
+
+    # 3) BEST-EFFORT: live GW event data for calibration
+    #    This will only exist once the GW has at least some matches played.
+    try:
+        live = fetch_json(f"{BASE_URL}/event/{gw}/live/")
+        save(PUBLIC_DIR / f"live_gw{gw}.json", live)
+        live_flag = True
+    except Exception as e:
+        print(f"⚠️ Could not fetch live data for GW{gw}: {e}")
+        live_flag = False
+
+    # 4) simple meta record for other scripts
+    meta = {
         "updated_utc": datetime.utcnow().isoformat(),
         "gw": gw,
-        "bears_entry_id": BEARS_ID,
-        "wigan_entry_id": WIGAN_ID,
+        "current_event": gw,
+        "live_available": live_flag,
     }
-    save_json(ENTRIES_DIR / "meta_log.json", meta_log)
+    save(PUBLIC_DIR / "meta.json", meta)
 
     print("🎉 update_bears_data.py complete")
 
