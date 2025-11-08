@@ -8,6 +8,28 @@ from time import sleep
 import requests
 import pandas as pd
 
+# ------------ SAFE CONVERSION HELPERS ------------
+
+def _safe_float(v, default=0.0):
+    """Convert value to float safely (handles strings, None, bad values)."""
+    if v is None:
+        return default
+    try:
+        return float(v)
+    except (TypeError, ValueError):
+        return default
+
+
+def _safe_int(v, default=0):
+    """Convert value to int safely (handles strings, None, bad values)."""
+    if v is None:
+        return default
+    try:
+        return int(v)
+    except (TypeError, ValueError):
+        return default
+
+
 # ------------ CONFIG ------------
 BASE_DIR = Path(__file__).resolve().parent
 PUBLIC_DIR = BASE_DIR / "public"
@@ -21,8 +43,8 @@ FEED_PLAYERS_PATH = PUBLIC_DIR / "feed_players.csv"
 TEAM_STRENGTH_PATH = PUBLIC_DIR / "team_strength.json"
 RECENT_FORM_PATH = PUBLIC_DIR / "recent_form.json"
 
-BEARS_ENTRY_FILE = ENTRIES_DIR / "bears_gw11.json"   # filename pattern; GW will be replaced
-WIGAN_ENTRY_FILE = ENTRIES_DIR / "wigan_gw11.json"   # filename pattern; GW will be replaced
+BEARS_ENTRY_FILE = ENTRIES_DIR / "bears_gw11.json"
+WIGAN_ENTRY_FILE = ENTRIES_DIR / "wigan_gw11.json"
 
 BEARS_ID = 10856343
 WIGAN_ID = 10855167
@@ -30,7 +52,7 @@ WIGAN_ID = 10855167
 BASE_URL = "https://fantasy.premierleague.com/api"
 
 # Simple rate-limit for element-summary calls
-SUMMARY_SLEEP_SECONDS = 0.4   # ~ 2.5 req / sec, very safe
+SUMMARY_SLEEP_SECONDS = 0.4   # ~2.5 req/sec, very safe
 
 
 # ------------ HELPERS ------------
@@ -72,10 +94,7 @@ def detect_current_gw(bootstrap: dict) -> int:
 
 
 def build_fixture_map(fixtures: list, gw: int) -> dict:
-    """
-    For a given GW, build:
-      { team_id: {"opp": opp_id, "is_home": bool, "fdr": int} }
-    """
+    """For a given GW, build a fixture mapping."""
     gw_fixtures = [f for f in fixtures if f.get("event") == gw]
     mapping = {}
 
@@ -92,10 +111,7 @@ def build_fixture_map(fixtures: list, gw: int) -> dict:
 
 
 def estimate_xmins(chance_play_next):
-    """
-    Simple xMins heuristic based on chance_of_playing_* from bootstrap.
-    Upgradeable later.
-    """
+    """Simple xMins heuristic based on chance_of_playing_* from bootstrap."""
     if chance_play_next is None:
         return 80
     try:
@@ -231,10 +247,7 @@ def update_entry_histories():
 
 
 def get_squad_player_ids(gw: int) -> set:
-    """
-    Read bears_gw{gw}.json and wigan_gw{gw}.json from public/entries
-    and return the union of all picked element IDs.
-    """
+    """Return all player IDs from Bears + Wigan for given GW."""
     ids = set()
     bears_path = ENTRIES_DIR / f"bears_gw{gw}.json"
     wigan_path = ENTRIES_DIR / f"wigan_gw{gw}.json"
@@ -253,10 +266,7 @@ def get_squad_player_ids(gw: int) -> set:
 
 
 def build_recent_form(player_ids: set) -> dict:
-    """
-    For each player_id in player_ids, call /element-summary/{id}/
-    and summarise last 5 GWs (mins, points, xGI).
-    """
+    """Fetch recent 5-game stats for each player in Bears + Wigan squads."""
     recent = {}
     for i, pid in enumerate(sorted(player_ids)):
         url = f"{BASE_URL}/element-summary/{pid}/"
@@ -267,11 +277,12 @@ def build_recent_form(player_ids: set) -> dict:
         history_sorted = sorted(history, key=lambda h: h["round"])
         last5 = history_sorted[-5:]
 
-        mins = sum(h.get("minutes", 0) for h in last5)
-        pts = sum(h.get("total_points", 0) for h in last5)
-        xgi = sum(h.get("expected_goal_involvements", 0.0) for h in last5)
-        starts = sum(1 for h in last5 if h.get("minutes", 0) >= 60)
-        apps = sum(1 for h in last5 if h.get("minutes", 0) > 0)
+        # use safe numeric conversion because API sometimes returns strings
+        mins   = sum(_safe_int(h.get("minutes", 0)) for h in last5)
+        pts    = sum(_safe_int(h.get("total_points", 0)) for h in last5)
+        xgi    = sum(_safe_float(h.get("expected_goal_involvements", 0.0)) for h in last5)
+        starts = sum(1 for h in last5 if h.get("started"))
+        apps   = sum(1 for h in last5 if _safe_int(h.get("minutes", 0)) > 0)
 
         recent[pid] = {
             "last5_minutes": mins,
@@ -281,7 +292,6 @@ def build_recent_form(player_ids: set) -> dict:
             "last5_appearances": apps,
         }
 
-        # gentle rate limit
         if i < len(player_ids) - 1:
             sleep(SUMMARY_SLEEP_SECONDS)
 
@@ -290,7 +300,7 @@ def build_recent_form(player_ids: set) -> dict:
 
 
 def main():
-    print("🔄 update_model_data.py starting …")
+    print("🔄 update_bears_data.py starting …")
 
     bootstrap = load_json(BOOTSTRAP_PATH)
     fixtures_raw = load_json(FIXTURES_PATH)
@@ -318,7 +328,7 @@ def main():
     else:
         print("⚠️ No squad player IDs found; skipping recent_form.json")
 
-    print("🎉 update_model_data.py complete")
+    print("🎉 update_bears_data.py complete")
 
 
 if __name__ == "__main__":
