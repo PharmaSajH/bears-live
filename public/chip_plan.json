@@ -1,0 +1,55 @@
+{
+  "generated_utc": "2025-11-08T18:23:17.362246",
+  "current_gw": 11,
+  "max_gw": 38,
+  "chips_available": {
+    "wildcard": true,
+    "freehit": true,
+    "benchboost": true,
+    "triple_captain": true
+  },
+  "model_state_snapshot": {
+    "version": 1,
+    "created_utc": "2025-11-08T18:23:17.291447",
+    "last_updated_utc": "2025-11-08T18:23:17.291594",
+    "last_gw": 11,
+    "ceiling_aggression": 1.0,
+    "minutes_risk_penalty": 1.0,
+    "differential_weight": 1.0,
+    "hit_threshold_ft_gain": 4.0,
+    "hit_threshold_double_gain": 7.0,
+    "history": [
+      {
+        "gw": 11,
+        "timestamp_utc": "2025-11-08T18:23:17.291596",
+        "bears_points": 0,
+        "wigan_points": 0,
+        "margin_vs_wigan": 0,
+        "hit_cost": 0,
+        "baseline_expected": 9.306749536631763,
+        "prediction_error": -9.306749536631763,
+        "knobs": {
+          "ceiling_aggression": 1.0,
+          "minutes_risk_penalty": 1.0,
+          "differential_weight": 1.0,
+          "hit_threshold_ft_gain": 4.0,
+          "hit_threshold_double_gain": 7.0
+        }
+      }
+    ]
+  },
+  "plan": {
+    "suggested": {
+      "triple_captain": 13,
+      "benchboost": 14,
+      "freehit": 11,
+      "wildcard": 12
+    },
+    "rationale": {
+      "triple_captain": "GW13: 5 easy fixtures. ceiling_aggression=1.00",
+      "benchboost": "GW14: 6 easy fixtures. Bench Boost follows TC week.",
+      "freehit": "GW11: 5 easy fixtures. Free Hit helps navigate toughest GW.",
+      "wildcard": "Wildcard ~3 weeks before FH (target GW12)."
+    }
+  }
+}

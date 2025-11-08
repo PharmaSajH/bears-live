@@ -1,6 +1,6 @@
 {
   "gw": 11,
-  "generated_utc": "2025-11-08T18:06:01.426394",
+  "generated_utc": "2025-11-08T18:23:17.204471",
   "bears": {
     "entry_id": null,
     "bank": 0.7,
@@ -76,7 +76,7 @@
       "type": "FT",
       "out": 373,
       "in": 5,
-      "gain_vs_hold": 3.4487010309278343,
+      "gain_vs_hold": 3.4499204389574754,
       "xi": [
         32,
         5,
@@ -90,7 +90,7 @@
         575,
         82
       ],
-      "expected_points": 12.755450567559597
+      "expected_points": 12.756669975589238
     },
     "best_hit_minus4": {
       "type": "NONE",
@@ -110,7 +110,7 @@
         575,
         82
       ],
-      "expected_points": 12.755450567559597
+      "expected_points": 12.756669975589238
     }
   }
 }
