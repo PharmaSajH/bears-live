@@ -2,16 +2,14 @@ name: Update Bears FPL data
 
 on:
   schedule:
-    # run every 6 hours
-    - cron: "0 */6 * * *"
-  # allow manual runs from the Actions tab
-  workflow_dispatch: {}
+    - cron: "0 */6 * * *"      # every 6 hours
+  workflow_dispatch: {}        # allow manual run from the Actions tab
 
 permissions:
-  contents: write
+  contents: write              # allow pushing updates to the repo
 
 jobs:
-  fetch-bears-and-wigan:
+  update-bears-fpl:
     runs-on: ubuntu-latest
 
     steps:
@@ -28,26 +26,31 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas requests
 
+      # 1) Mirror FPL core + Bears/Wigan entries
       - name: Mirror Bears + Wigan data (entries + core FPL)
         run: python update_bears_data.py
 
-      - name: Build model data (feed_players, team_strength, recent_form, histories)
+      # 2) Build model input data (feed_players, team_strength, recent_form, etc.)
+      - name: Build model data (feed_players, team_strength, recent_form)
         run: python update_model_data.py
 
+      # 3) Build Bears optimisation / reco JSON
       - name: Build ChatGPT recommendation JSON
         run: python build_reco.py
 
+      # 4) Apply post-GW learning (compare predicted vs actual, update weights)
       - name: Apply post-GW learning
         run: python post_gw_learning.py
 
-      - name: Build chip planning hints
+      # 5) Update chip planning hints (based on future fixtures etc.)
+      - name: Update chip planning hints
         run: python chip_plan.py
 
-      - name: Dump reco header for sanity
-        run: |
-          echo "Latest reco header:"
-          head -n 40 public/bears_reco_latest.json || echo "No reco file"
+      # 6) Build single full snapshot for ChatGPT (one file to upload)
+      - name: Build full FPL snapshot for ChatGPT
+        run: python build_full_snapshot.py
 
+      # 7) Commit and push updated data
       - name: Commit and push updated data
         run: |
           git config user.name "github-actions[bot]"
