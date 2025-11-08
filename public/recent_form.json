@@ -1,24 +1,24 @@
 {
   "1": {
-    "last5_minutes": 360,
-    "last5_points": 24,
+    "last5_minutes": 388,
+    "last5_points": 25,
     "last5_xgi": 0.0,
     "last5_starts": 0,
-    "last5_appearances": 4
+    "last5_appearances": 5
   },
   "5": {
-    "last5_minutes": 360,
-    "last5_points": 42,
+    "last5_minutes": 388,
+    "last5_points": 43,
     "last5_xgi": 0.9400000000000001,
     "last5_starts": 0,
-    "last5_appearances": 4
+    "last5_appearances": 5
   },
   "6": {
-    "last5_minutes": 315,
-    "last5_points": 19,
+    "last5_minutes": 337,
+    "last5_points": 20,
     "last5_xgi": 0.1,
     "last5_starts": 0,
-    "last5_appearances": 4
+    "last5_appearances": 5
   },
   "10": {
     "last5_minutes": 18,
@@ -133,9 +133,9 @@
     "last5_appearances": 4
   },
   "419": {
-    "last5_minutes": 319,
-    "last5_points": 14,
-    "last5_xgi": 1.07,
+    "last5_minutes": 360,
+    "last5_points": 16,
+    "last5_xgi": 1.11,
     "last5_starts": 0,
     "last5_appearances": 4
   },
@@ -154,9 +154,9 @@
     "last5_appearances": 5
   },
   "624": {
-    "last5_minutes": 412,
-    "last5_points": 12,
-    "last5_xgi": 1.33,
+    "last5_minutes": 450,
+    "last5_points": 13,
+    "last5_xgi": 1.3399999999999999,
     "last5_starts": 0,
     "last5_appearances": 5
   },
@@ -174,5 +174,5 @@
     "last5_starts": 0,
     "last5_appearances": 4
   },
-  "generated_utc": "2025-11-08T16:15:27.648267"
+  "generated_utc": "2025-11-08T18:06:00.881356"
 }
