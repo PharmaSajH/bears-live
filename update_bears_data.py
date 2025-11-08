@@ -1,57 +1,33 @@
-import requests
-import json
-from pathlib import Path
+import requests, json, os
+from datetime import datetime
 
-# === TEAM IDS (these are yours) ===
-BEARS_ID = 10856343        # Birmingham Bears
-WIGAN_ID = 10855167        # Wigan Witches
+# === CONFIG ===
+BEARS_ID = 10856343      # Sajjad Hussain (Birmingham Bears)
+WIGAN_ID = 10855167      # Rival (Wigan Witches)
+OUTPUT_DIR = "public/entries"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-BASE_URL = "https://fantasy.premierleague.com/api/"
+# === Get Current Gameweek ===
+meta = requests.get("https://fantasy.premierleague.com/api/bootstrap-static/").json()
+current_gw = next((e["id"] for e in meta["events"] if e["is_current"]), None)
 
-public_dir = Path("public")
-entries_dir = public_dir / "entries"
-public_dir.mkdir(exist_ok=True)
-entries_dir.mkdir(exist_ok=True)
+# === Fetch Team Data ===
+def fetch_team(entry_id, tag):
+    r = requests.get(f"https://fantasy.premierleague.com/api/entry/{entry_id}/event/{current_gw}/picks/")
+    if r.status_code == 200:
+        data = r.json()
+        path = f"{OUTPUT_DIR}/{tag}_gw{current_gw}.json"
+        with open(path, "w") as f:
+            json.dump(data, f, indent=2)
+        print(f"✅ Saved {tag}_gw{current_gw}.json")
+    else:
+        print(f"⚠️ Failed to fetch data for {tag}")
 
-def fetch_json(url: str):
-    r = requests.get(url)
-    r.raise_for_status()
-    return r.json()
+fetch_team(BEARS_ID, "bears")
+fetch_team(WIGAN_ID, "wigan")
 
-def save_json(path: Path, data):
-    path.write_text(json.dumps(data, indent=2))
-    print(f"Saved {path}")
-
-def main():
-    # 1️⃣ Bootstrap (players, prices, teams, events)
-    bootstrap = fetch_json(BASE_URL + "bootstrap-static/")
-    save_json(public_dir / "bootstrap.json", bootstrap)
-
-    # 2️⃣ Fixtures
-    fixtures = fetch_json(BASE_URL + "fixtures/")
-    save_json(public_dir / "fixtures.json", fixtures)
-
-    # 3️⃣ Detect current Gameweek from bootstrap
-    events = bootstrap.get("events", [])
-    current = next((e for e in events if e.get("is_current")), None)
-    if not current:
-        print("⚠️  No current Gameweek found in bootstrap; stopping GW fetch.")
-        return
-
-    gw = current["id"]
-    print(f"Detected current Gameweek: GW{gw}")
-
-    # 4️⃣ Birmingham Bears picks
-    bears_picks = fetch_json(
-        BASE_URL + f"entry/{BEARS_ID}/event/{gw}/picks/"
-    )
-    save_json(entries_dir / f"bears_gw{gw}.json", bears_picks)
-
-    # 5️⃣ Wigan Witches picks
-    wigan_picks = fetch_json(
-        BASE_URL + f"entry/{WIGAN_ID}/event/{gw}/picks/"
-    )
-    save_json(entries_dir / f"wigan_gw{gw}.json", wigan_picks)
-
-if __name__ == "__main__":
-    main()
+# === Timestamp Log ===
+log = {"updated": datetime.utcnow().isoformat()}
+with open(f"{OUTPUT_DIR}/meta_log.json", "w") as f:
+    json.dump(log, f, indent=2)
+print("✅ Update complete.")
