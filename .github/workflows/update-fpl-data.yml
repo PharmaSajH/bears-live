@@ -2,11 +2,13 @@ name: Update Bears FPL data
 
 on:
   schedule:
-    - cron: "0 */6 * * *"    # every 6 hours
-  workflow_dispatch: {}      # allow manual run from Actions tab
+    # run every 6 hours
+    - cron: "0 */6 * * *"
+  # allow manual runs from the Actions tab
+  workflow_dispatch: {}
 
 permissions:
-  contents: write            # allow pushing updates to the repo
+  contents: write
 
 jobs:
   fetch-bears-and-wigan:
@@ -22,21 +24,29 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install pandas requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install pandas requests
 
       - name: Mirror Bears + Wigan data (entries + core FPL)
         run: python update_bears_data.py
 
-      - name: Build model data (feed_players, team_strength, recent_form)
+      - name: Build model data (feed_players, team_strength, recent_form, histories)
         run: python update_model_data.py
 
       - name: Build ChatGPT recommendation JSON
         run: python build_reco.py
 
+      - name: Apply post-GW learning
+        run: python post_gw_learning.py
+
+      - name: Build chip planning hints
+        run: python chip_plan.py
+
       - name: Dump reco header for sanity
         run: |
-          echo "===== bears_reco_latest.json (top) ====="
-          head -40 public/bears_reco_latest.json || echo "Missing reco file"
+          echo "Latest reco header:"
+          head -n 40 public/bears_reco_latest.json || echo "No reco file"
 
       - name: Commit and push updated data
         run: |
