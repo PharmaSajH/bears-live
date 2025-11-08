@@ -63,9 +63,9 @@
     "last5_appearances": 4
   },
   "119": {
-    "last5_minutes": 413,
-    "last5_points": 40,
-    "last5_xgi": 2.5300000000000002,
+    "last5_minutes": 436,
+    "last5_points": 39,
+    "last5_xgi": 2.54,
     "last5_starts": 0,
     "last5_appearances": 5
   },
@@ -133,11 +133,11 @@
     "last5_appearances": 4
   },
   "419": {
-    "last5_minutes": 270,
-    "last5_points": 13,
+    "last5_minutes": 276,
+    "last5_points": 14,
     "last5_xgi": 1.0,
     "last5_starts": 0,
-    "last5_appearances": 3
+    "last5_appearances": 4
   },
   "430": {
     "last5_minutes": 351,
@@ -147,18 +147,18 @@
     "last5_appearances": 4
   },
   "575": {
-    "last5_minutes": 427,
-    "last5_points": 29,
-    "last5_xgi": 1.26,
+    "last5_minutes": 450,
+    "last5_points": 28,
+    "last5_xgi": 1.27,
     "last5_starts": 0,
     "last5_appearances": 5
   },
   "624": {
-    "last5_minutes": 360,
-    "last5_points": 11,
+    "last5_minutes": 365,
+    "last5_points": 12,
     "last5_xgi": 1.2,
     "last5_starts": 0,
-    "last5_appearances": 4
+    "last5_appearances": 5
   },
   "642": {
     "last5_minutes": 81,
@@ -174,5 +174,5 @@
     "last5_starts": 0,
     "last5_appearances": 4
   },
-  "generated_utc": "2025-11-08T13:55:41.970908"
+  "generated_utc": "2025-11-08T15:08:15.477891"
 }
