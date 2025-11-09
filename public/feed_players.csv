@@ -365,30 +365,30 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 364,Mateo Joseph,Leeds,FWD,5.0,0.0,0,3,0,0,0,0,0,0,0
 365,Nmecha,Leeds,FWD,5.0,0.6,407,587,73,1,0,0,0,31,6
 366,A.Becker,Liverpool,GKP,5.4,5.5,346,4935,0,0,0,0,0,0,0
-367,Mamardashvili,Liverpool,GKP,4.3,1.0,4332,605,45,0,0,0,0,6,5
+367,Mamardashvili,Liverpool,GKP,4.3,1.0,4332,605,55,0,0,0,0,9,6
 368,Pécsi,Liverpool,GKP,3.9,0.4,39,162,0,0,0,0,0,0,0
 369,Woodman,Liverpool,GKP,3.9,0.2,87,129,0,0,0,0,0,0,0
 370,Frimpong,Liverpool,DEF,5.8,5.1,33,4779,0,0,0,0,0,0,0
 371,Kerkez,Liverpool,DEF,5.7,3.4,440,2618,0,0,0,0,0,0,0
-372,Robertson,Liverpool,DEF,5.8,1.0,574,310,45,0,0,0,0,-5,0
-373,Virgil,Liverpool,DEF,5.9,23.0,12310,8835,45,0,0,0,0,-3,0
-374,Konaté,Liverpool,DEF,5.4,2.7,4010,1197,45,0,0,0,0,2,0
-375,Bradley,Liverpool,DEF,5.0,0.3,3142,240,45,0,0,0,0,3,0
+372,Robertson,Liverpool,DEF,5.8,1.0,574,310,55,0,0,0,0,-2,0
+373,Virgil,Liverpool,DEF,5.9,23.0,12310,8835,55,0,0,0,0,-3,0
+374,Konaté,Liverpool,DEF,5.4,2.7,4010,1197,55,0,0,0,0,3,0
+375,Bradley,Liverpool,DEF,5.0,0.3,3142,240,55,0,0,0,0,0,-1
 376,Gomez,Liverpool,DEF,4.9,0.1,54,101,0,0,0,0,0,0,0
 377,Tsimikas,Liverpool,DEF,4.8,0.1,0,30,0,0,0,0,0,0,0
 378,Nallo,Liverpool,DEF,3.8,0.3,714,414,0,0,0,0,0,0,0
 379,R.Williams,Liverpool,DEF,3.8,0.2,425,244,0,0,0,0,0,0,0
 380,Ramsay,Liverpool,DEF,3.8,0.2,916,191,0,0,0,0,0,0,0
-381,M.Salah,Liverpool,MID,14.2,24.3,4413,13354,45,0,0,0,0,5,1
-382,Wirtz,Liverpool,MID,8.0,7.2,2277,3617,45,0,0,0,0,5,1
+381,M.Salah,Liverpool,MID,14.2,24.3,4413,13354,55,0,0,0,0,5,1
+382,Wirtz,Liverpool,MID,8.0,7.2,2277,3617,55,0,0,0,0,6,1
 383,Luis Díaz,Liverpool,MID,8.0,0.0,0,9,0,0,0,0,0,0,0
 384,Gakpo,Liverpool,MID,7.6,13.3,13557,14092,0,0,0,0,0,0,0
 385,Chiesa,Liverpool,MID,6.4,0.3,163,322,0,0,0,0,0,0,0
-386,Mac Allister,Liverpool,MID,6.3,1.2,1704,606,45,0,0,0,0,0,0
-387,Szoboszlai,Liverpool,MID,6.6,4.9,26053,2571,45,0,0,0,0,4,1
+386,Mac Allister,Liverpool,MID,6.3,1.2,1704,606,55,0,0,0,0,1,0
+387,Szoboszlai,Liverpool,MID,6.6,4.9,26053,2571,55,0,0,0,0,3,1
 388,C.Jones,Liverpool,MID,5.4,0.1,92,47,0,0,0,0,0,0,0
 389,Elliott,Aston Villa,MID,5.4,0.2,89,298,0,0,0,0,0,0,0
-390,Gravenberch,Liverpool,MID,5.6,4.6,17762,2717,45,0,0,0,0,0,1
+390,Gravenberch,Liverpool,MID,5.6,4.6,17762,2717,55,0,0,0,0,1,1
 391,Gannon-Doak,Bournemouth,MID,4.9,0.0,19,30,0,0,0,0,0,0,0
 392,Endo,Liverpool,MID,4.9,0.1,55,43,0,0,0,0,0,0,0
 393,Bajcetic,Liverpool,MID,4.3,0.0,41,44,0,0,0,0,0,0,0
@@ -401,34 +401,34 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 400,Ortega Moreno,Man City,GKP,4.8,0.2,26,60,0,0,0,0,0,0,0
 401,Bettinelli,Man City,GKP,4.0,0.1,18,35,0,0,0,0,0,0,0
 402,Aït-Nouri,Man City,DEF,5.8,4.7,408,1916,0,0,0,0,0,0,0
-403,Gvardiol,Man City,DEF,5.8,5.1,1552,3007,45,0,0,0,0,11,1
+403,Gvardiol,Man City,DEF,5.8,5.1,1552,3007,55,0,0,0,0,10,1
 404,Akanji,Man City,DEF,5.4,0.3,0,109,0,0,0,0,0,0,0
 405,Aké,Man City,DEF,5.3,0.6,102,330,0,0,0,0,0,0,0
 406,Khusanov,Man City,DEF,5.4,0.3,82,129,0,0,0,0,0,0,0
-407,Matheus N.,Man City,DEF,5.3,0.7,668,759,45,0,1,0,0,19,4
-408,Rúben,Man City,DEF,5.5,4.4,1278,2127,45,0,0,0,0,9,1
+407,Matheus N.,Man City,DEF,5.3,0.7,668,759,55,0,1,0,0,21,4
+408,Rúben,Man City,DEF,5.5,4.4,1278,2127,55,0,0,0,0,11,1
 409,Stones,Man City,DEF,5.4,0.7,138,338,0,0,0,0,0,0,0
 410,Lewis,Man City,DEF,4.8,1.6,129,1309,0,0,0,0,0,0,0
-411,O’Reilly,Man City,DEF,4.9,1.3,4892,774,45,0,0,0,0,3,1
+411,O’Reilly,Man City,DEF,4.9,1.3,4892,774,55,0,0,0,0,4,1
 412,Vitor Reis,Man City,DEF,5.0,0.0,0,0,0,0,0,0,0,0,0
 413,Marmoush,Man City,MID,8.3,2.6,710,1341,0,0,0,0,0,0,0
-414,Foden,Man City,MID,8.0,4.4,7395,3454,45,0,0,0,0,2,1
-415,Savinho,Man City,MID,6.9,0.5,495,346,0,0,0,0,0,0,0
-416,Bernardo,Man City,MID,6.3,0.5,256,329,45,0,1,0,0,14,3
-417,Cherki,Man City,MID,6.3,3.2,13146,1148,45,0,0,0,0,3,1
-418,Doku,Man City,MID,6.4,4.4,4466,7340,45,0,0,0,0,12,1
+414,Foden,Man City,MID,8.0,4.4,7395,3454,55,0,0,0,0,1,1
+415,Savinho,Man City,MID,6.9,0.5,495,346,2,0,0,0,0,3,1
+416,Bernardo,Man City,MID,6.3,0.5,256,329,55,0,1,0,0,14,3
+417,Cherki,Man City,MID,6.3,3.2,13146,1148,52,0,0,0,0,2,1
+418,Doku,Man City,MID,6.4,4.4,4466,7340,55,0,0,0,0,18,1
 419,Grealish,Everton,MID,6.8,16.7,3870,39277,90,0,0,1,0,12,3
 420,Gündoğan,Man City,MID,6.3,0.1,0,26,0,0,0,0,0,0,0
 421,Rodrigo,Man City,MID,6.3,0.4,14,419,0,0,0,0,0,0,0
 422,Kovačić,Man City,MID,5.9,0.0,2,94,0,0,0,0,0,0,0
-423,N.Gonzalez,Man City,MID,5.9,0.1,286,64,45,1,0,0,0,26,5
+423,N.Gonzalez,Man City,MID,5.9,0.1,286,64,55,1,0,0,0,28,5
 424,Bobb,Man City,MID,5.3,0.3,105,313,0,0,0,0,0,0,0
 425,Echeverri,Man City,MID,5.4,0.0,0,2,0,0,0,0,0,0,0
 426,McAtee,Nott'm Forest,MID,5.1,0.1,51,87,0,0,0,0,0,0,0
 427,Reijnders,Man City,MID,5.5,20.2,2974,31007,0,0,0,0,0,0,0
 428,Nypan,Man City,MID,5.0,0.0,0,3,0,0,0,0,0,0,0
 429,Phillips,Man City,MID,4.8,0.1,41,43,0,0,0,0,0,0,0
-430,Haaland,Man City,FWD,14.8,70.4,19675,1673,45,1,0,0,0,26,3
+430,Haaland,Man City,FWD,14.8,70.4,19675,1673,55,1,0,0,0,27,3
 431,Bayindir,Man Utd,GKP,4.8,0.3,55,289,0,0,0,0,0,0,0
 432,Onana,Man Utd,GKP,4.9,0.2,0,56,0,0,0,0,0,0,0
 433,Harrison,Man Utd,GKP,4.0,0.0,0,0,0,0,0,0,0,0,0
@@ -659,7 +659,7 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 658,Fraser,Wolves,FWD,4.4,1.8,207,1216,0,0,0,0,0,0,0
 659,Walker-Peters,West Ham,DEF,4.3,0.3,133,93,7,1,0,0,0,17,7
 660,Stach,Leeds,MID,4.9,2.1,212,2960,90,0,0,0,0,13,2
-661,Ekitiké,Liverpool,FWD,8.6,15.6,19818,11818,45,0,0,0,0,2,1
+661,Ekitiké,Liverpool,FWD,8.6,15.6,19818,11818,55,0,0,0,0,3,1
 662,Mosquera,Arsenal,DEF,5.4,0.2,21,161,2,0,0,0,0,0,1
 663,J.Arias,Wolves,MID,5.1,0.2,19,196,0,0,0,0,0,0,0
 664,Lecomte,Fulham,GKP,4.0,0.6,18,163,0,0,0,0,0,0,0
@@ -734,7 +734,7 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 733,Lammens,Man Utd,GKP,5.0,1.4,4764,1929,90,0,0,0,0,5,1
 734,Bakwa,Nott'm Forest,MID,6.0,0.0,10,24,0,0,0,0,0,0,0
 735,Traoré,Sunderland,MID,5.5,0.0,292,85,63,0,0,0,0,6,2
-736,Donnarumma,Man City,GKP,5.7,10.0,7128,5159,45,0,0,0,0,4,1
+736,Donnarumma,Man City,GKP,5.7,10.0,7128,5159,55,0,0,0,0,4,1
 737,Kusi-Asare,Fulham,FWD,4.5,0.1,101,93,0,0,0,0,0,0,0
 738,Fabianski,West Ham,GKP,4.5,0.0,7,112,0,0,0,0,0,0,0
 739,Mukasa,Man City,MID,4.5,0.0,19,29,0,0,0,0,0,0,0
