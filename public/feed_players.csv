@@ -1,753 +1,753 @@
-player_id,web_name,full_name,team_id,team_name,position,now_cost,status,selected_percent,form,points_per_game,total_points,minutes_season,ict_index,influence,creativity,threat,chance_play_next,gw_xmins,gw_fixture,gw_fdr,gw_is_home,news,news_added,gw,generated_utc
-1,Raya,David Raya Martín,1,Arsenal,GK,59,a,32.4,4.8,4.8,53,990,16.9,159.6,10.2,0.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-2,Arrizabalaga,Kepa Arrizabalaga Revuelta,1,Arsenal,GK,42,a,0.5,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-3,Hein,Karl Hein,1,Arsenal,GK,40,u,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Sunderland (A),3,0,Has joined Werder Bremen on loan for the rest of the season.,2025-08-26T13:44:02.357864Z,11,2025-11-09T06:35:11.667687
-4,Setford,Tommy Setford,1,Arsenal,GK,40,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-5,Gabriel,Gabriel dos Santos Magalhães,1,Arsenal,DEF,66,a,43.4,8.5,7.4,81,990,46.8,317.6,62.6,88.0,100.0,80.0,Sunderland (A),3,0,,2025-10-24T14:00:07.880778Z,11,2025-11-09T06:35:11.667687
-6,Saliba,William Saliba,1,Arsenal,DEF,60,a,11.6,3.5,3.9,39,724,21.8,168.0,34.1,16.0,100.0,80.0,Sunderland (A),3,0,,2025-10-28T21:00:08.018508Z,11,2025-11-09T06:35:11.667687
-7,Calafiori,Riccardo Calafiori,1,Arsenal,DEF,58,a,16.1,4.8,5.5,61,856,41.9,150.0,89.3,181.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-8,J.Timber,Jurriën Timber,1,Arsenal,DEF,61,a,25.7,4.8,6.1,67,881,63.5,237.8,179.1,216.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-9,Kiwior,Jakub Kiwior,1,Arsenal,DEF,54,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Sunderland (A),3,0,has joined Porto on loan for the rest of the season.,2025-09-02T13:37:25.929594Z,11,2025-11-09T06:35:11.667687
-10,Lewis-Skelly,Myles Lewis-Skelly,1,Arsenal,DEF,52,a,1.6,0.5,0.9,6,86,2.0,9.8,7.2,4.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-11,White,Benjamin White,1,Arsenal,DEF,53,a,0.4,0.0,6.0,6,70,2.8,15.4,11.3,1.0,100.0,80.0,Sunderland (A),3,0,,2025-09-18T04:00:07.778280Z,11,2025-11-09T06:35:11.667687
-13,Clarke,Brayden Clarke,1,Arsenal,DEF,39,a,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-14,Kacurri,Maldini Kacurri,1,Arsenal,DEF,39,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Sunderland (A),3,0,has joined Morecambe on loan for the rest of the season.,2025-09-22T21:14:30.857843Z,11,2025-11-09T06:35:11.667687
-15,Nichols,Josh Nichols,1,Arsenal,DEF,39,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-16,Saka,Bukayo Saka,1,Arsenal,MID,101,a,17.1,6.2,5.0,45,681,68.0,194.2,257.3,229.0,100.0,80.0,Sunderland (A),3,0,,2025-08-23T22:30:05.759392Z,11,2025-11-09T06:35:11.667687
-17,Ødegaard,Martin Ødegaard,1,Arsenal,MID,78,i,1.4,0.0,2.2,13,201,13.0,43.0,65.0,22.0,0.0,0.0,Sunderland (A),3,0,Knee injury - Expected back 23 Nov,2025-10-04T20:00:07.945438Z,11,2025-11-09T06:35:11.667687
-18,Madueke,Noni Madueke,1,Arsenal,MID,68,i,0.6,0.0,2.0,10,304,24.6,30.2,111.7,105.0,0.0,0.0,Sunderland (A),3,0,Knee injury - Expected back 23 Nov,2025-09-21T22:30:05.839272Z,11,2025-11-09T06:35:11.667687
-19,Martinelli,Gabriel Martinelli Silva,1,Arsenal,MID,68,d,0.9,0.5,2.0,16,214,17.5,51.0,30.6,93.0,25.0,20.0,Sunderland (A),3,0,Muscle injury - 25% chance of playing,2025-10-28T21:00:08.076588Z,11,2025-11-09T06:35:11.667687
-20,Trossard,Leandro Trossard,1,Arsenal,MID,69,a,0.7,7.0,4.4,40,642,47.8,147.0,157.0,174.0,100.0,80.0,Sunderland (A),3,0,,2025-08-29T18:30:07.885490Z,11,2025-11-09T06:35:11.667687
-21,Rice,Declan Rice,1,Arsenal,MID,68,a,20.0,6.2,5.9,65,893,69.1,273.4,318.0,99.0,100.0,80.0,Sunderland (A),3,0,,2025-10-04T20:00:07.968078Z,11,2025-11-09T06:35:11.667687
-22,Merino,Mikel Merino Zazón,1,Arsenal,MID,59,a,1.0,2.0,2.3,23,413,25.2,97.0,74.2,84.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-23,Fábio Vieira,Fábio Ferreira Vieira,1,Arsenal,MID,54,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Sunderland (A),3,0,has joined Hamburger on loan for the rest of the season.,2025-09-02T13:38:06.128321Z,11,2025-11-09T06:35:11.667687
-24,Nørgaard,Christian Nørgaard,1,Arsenal,MID,52,a,0.1,0.5,1.0,2,14,1.4,6.4,0.1,7.0,100.0,80.0,Sunderland (A),3,0,,2025-08-18T08:00:05.297235Z,11,2025-11-09T06:35:11.667687
-25,Nwaneri,Ethan Nwaneri,1,Arsenal,MID,52,a,0.1,0.2,1.4,7,163,5.4,8.4,22.4,24.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-26,Zubimendi,Martín Zubimendi Ibáñez,1,Arsenal,MID,54,a,2.9,3.8,4.3,47,937,45.5,212.6,168.9,73.0,100.0,80.0,Sunderland (A),3,0,,2025-11-01T18:30:07.784912Z,11,2025-11-09T06:35:11.667687
-28,Kabia,Ismeal Kabia,1,Arsenal,MID,45,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Sunderland (A),3,0,has joined Shrewsbury Town on loan for the rest of the season.,2025-09-02T13:24:41.013511Z,11,2025-11-09T06:35:11.667687
-29,Sambi,Albert Sambi Lokonga,1,Arsenal,MID,45,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Sunderland (A),3,0,has joined Hamburger permanently.,2025-09-02T13:40:53.094922Z,11,2025-11-09T06:35:11.667687
-30,Havertz,Kai Havertz,1,Arsenal,FWD,73,i,0.3,0.0,1.0,1,30,0.6,2.8,0.8,2.0,0.0,0.0,Sunderland (A),3,0,Knee injury - Expected back 23 Nov,2025-08-20T13:00:06.498911Z,11,2025-11-09T06:35:11.667687
-31,G.Jesus,Gabriel Fernando de Jesus,1,Arsenal,FWD,64,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Sunderland (A),3,0,Knee injury - Expected back 23 Nov,2025-07-21T10:00:04.697564Z,11,2025-11-09T06:35:11.667687
-266,Eze,Eberechi Eze,1,Arsenal,MID,76,a,13.8,4.8,4.1,41,700,43.4,127.0,104.9,202.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-662,Mosquera,Cristhian Mosquera,1,Arsenal,DEF,54,a,0.2,0.5,2.0,14,294,9.0,67.4,14.0,8.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-666,Gyökeres,Viktor Gyökeres,1,Arsenal,FWD,89,d,14.5,2.8,3.7,37,801,57.7,158.6,106.9,312.0,25.0,20.0,Sunderland (A),3,0,Muscle injury - 25% chance of playing,2025-11-01T18:00:08.847750Z,11,2025-11-09T06:35:11.667687
-700,Dowman,Max Dowman,1,Arsenal,MID,43,a,0.4,0.0,2.5,5,27,2.8,1.0,0.8,26.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-711,Harriman-Annous,Andre Harriman-Annous,1,Arsenal,MID,45,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Sunderland (A),3,0,,,11,2025-11-09T06:35:11.667687
-725,Hincapie,Piero Hincapié,1,Arsenal,DEF,54,a,0.0,0.5,1.0,2,26,0.1,0.8,0.6,0.0,100.0,80.0,Sunderland (A),3,0,,2025-09-24T06:00:06.296709Z,11,2025-11-09T06:35:11.667687
-32,Martinez,Emiliano Martínez Romero,2,Aston Villa,GK,50,a,2.1,2.8,3.2,26,720,14.1,138.4,3.0,0.0,100.0,80.0,Bournemouth (H),3,1,,2025-10-03T14:00:08.570704Z,11,2025-11-09T06:35:11.667687
-33,M.Bizot,Marco Bizot,2,Aston Villa,GK,43,a,0.5,0.0,3.5,7,180,2.6,25.4,0.0,0.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-34,Gauci,Joe Gauci,2,Aston Villa,GK,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,Has joined Port Vale on loan for the rest of the season.,2025-08-12T07:40:37.843391Z,11,2025-11-09T06:35:11.667687
-35,Marschall,Filip Marschall,2,Aston Villa,GK,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,Has joined Stevenage permanently.,2025-07-30T14:08:21.698398Z,11,2025-11-09T06:35:11.667687
-36,Cash,Matty Cash,2,Aston Villa,DEF,46,a,5.3,4.2,4.6,46,876,40.9,221.2,138.2,48.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-37,Digne,Lucas Digne,2,Aston Villa,DEF,45,a,1.6,3.0,3.3,33,727,35.3,135.4,161.1,58.0,100.0,80.0,Bournemouth (H),3,1,,2025-10-23T13:30:07.954318Z,11,2025-11-09T06:35:11.667687
-38,Konsa,Ezri Konsa Ngoyo,2,Aston Villa,DEF,44,a,8.4,2.8,3.0,27,785,22.0,166.0,27.1,27.0,100.0,80.0,Bournemouth (H),3,1,,2025-08-16T19:30:05.327199Z,11,2025-11-09T06:35:11.667687
-39,Maatsen,Ian Maatsen,2,Aston Villa,DEF,43,a,0.4,0.8,0.9,6,169,15.1,49.0,78.7,22.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-40,Mings,Tyrone Mings,2,Aston Villa,DEF,44,d,0.8,0.2,3.4,24,497,19.0,120.2,44.6,25.0,25.0,20.0,Bournemouth (H),3,1,Hamstring injury - 25% chance of playing,2025-11-02T00:00:09.519584Z,11,2025-11-09T06:35:11.667687
-41,Pau,Pau Torres,2,Aston Villa,DEF,43,a,0.4,2.8,2.7,19,507,14.6,120.4,11.1,13.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-42,A.García,Andrés García,2,Aston Villa,DEF,39,i,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,Knock - Unknown return date,2025-10-23T13:30:07.986013Z,11,2025-11-09T06:35:11.667687
-43,Alex Moreno,Álex Moreno Lopera,2,Aston Villa,DEF,40,u,2.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,Has joined Girona permanently.,2025-08-26T13:45:03.013808Z,11,2025-11-09T06:35:11.667687
-44,Bogarde,Lamare Bogarde,2,Aston Villa,DEF,40,a,0.6,0.0,2.5,15,282,5.7,20.2,32.1,6.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-45,Sousa,Lino da Cruz Sousa,2,Aston Villa,DEF,39,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-46,Yasin,Yasin Özcan,2,Aston Villa,DEF,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,has joined Anderlecht on loan for the rest of the season.,2025-09-22T21:15:59.805053Z,11,2025-11-09T06:35:11.667687
-47,Rogers,Morgan Rogers,2,Aston Villa,MID,68,a,4.9,2.8,3.3,33,891,43.7,143.4,152.6,140.0,100.0,80.0,Bournemouth (H),3,1,,2025-08-10T22:00:04.458365Z,11,2025-11-09T06:35:11.667687
-48,Tielemans,Youri Tielemans,2,Aston Villa,MID,59,a,0.6,0.0,2.0,8,315,13.8,34.2,74.2,29.0,100.0,80.0,Bournemouth (H),3,1,,2025-09-14T22:00:07.795199Z,11,2025-11-09T06:35:11.667687
-49,Bailey,Leon Bailey,2,Aston Villa,MID,55,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,Has joined AS Roma on loan for the rest of the season.,2025-08-20T13:31:56.843157Z,11,2025-11-09T06:35:11.667687
-50,Buendía,Emiliano Buendía Stati,2,Aston Villa,MID,53,a,0.2,2.8,3.5,28,365,31.5,130.4,90.5,93.0,100.0,80.0,Bournemouth (H),3,1,,2025-10-31T00:00:08.522687Z,11,2025-11-09T06:35:11.667687
-51,Iling Jr,Samuel Iling-Junior,2,Aston Villa,MID,55,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,has joined West Bromwich Albion on loan for the rest of the season,2025-09-22T21:15:59.838578Z,11,2025-11-09T06:35:11.667687
-53,Malen,Donyell Malen,2,Aston Villa,MID,51,a,0.7,1.0,2.6,26,323,21.7,82.4,46.9,96.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-54,McGinn,John McGinn,2,Aston Villa,MID,54,a,0.6,1.5,2.7,27,767,33.2,111.8,169.6,49.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-55,Barkley,Ross Barkley,2,Aston Villa,MID,48,a,0.0,0.8,1.0,4,61,4.7,12.0,15.4,20.0,100.0,80.0,Bournemouth (H),3,1,,2025-08-10T22:00:04.469618Z,11,2025-11-09T06:35:11.667687
-56,Barrenechea,Enzo Barrenechea,2,Aston Villa,MID,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,Season-long loan to Benfica,2025-07-22T13:50:13.193555Z,11,2025-11-09T06:35:11.667687
-57,Dobbin,Lewis Dobbin,2,Aston Villa,MID,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,Has joined Preston North End on loan for the rest of the season.,2025-08-26T13:44:19.058961Z,11,2025-11-09T06:35:11.667687
-58,Kamara,Boubacar Kamara,2,Aston Villa,MID,49,a,0.2,1.5,2.6,21,564,25.2,131.0,97.4,24.0,100.0,80.0,Bournemouth (H),3,1,,2025-08-23T22:30:05.846310Z,11,2025-11-09T06:35:11.667687
-59,Onana,Amadou Onana,2,Aston Villa,MID,48,a,0.6,2.0,2.5,15,415,14.9,101.0,33.0,16.0,100.0,80.0,Bournemouth (H),3,1,,2025-08-29T18:30:08.037987Z,11,2025-11-09T06:35:11.667687
-60,Broggio,Ben Broggio,2,Aston Villa,MID,45,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-61,Dendoncker,Leander Dendoncker,2,Aston Villa,MID,45,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,Has joined Real Oviedo permanently.,2025-08-20T13:31:56.822248Z,11,2025-11-09T06:35:11.667687
-62,Jimoh-Aloba,Jamaldeen Jimoh-Aloba,2,Aston Villa,MID,45,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-63,Young,Kadan Young,2,Aston Villa,MID,44,a,0.6,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-64,Watkins,Ollie Watkins,2,Aston Villa,FWD,85,a,6.5,1.2,2.5,25,786,33.0,66.0,92.4,173.0,100.0,80.0,Bournemouth (H),3,1,,2025-10-13T11:00:08.391124Z,11,2025-11-09T06:35:11.667687
-65,Redmond,Zépiqueno Redmond,2,Aston Villa,FWD,45,u,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,has joined Huddersfield Town on loan for the rest of the season.,2025-09-02T13:26:36.441136Z,11,2025-11-09T06:35:11.667687
-389,Elliott,Harvey Elliott,2,Aston Villa,MID,54,a,0.2,0.0,1.0,4,97,4.4,8.6,17.8,18.0,100.0,80.0,Bournemouth (H),3,1,,2025-10-25T23:00:08.101116Z,11,2025-11-09T06:35:11.667687
-456,Sancho,Jadon Sancho,2,Aston Villa,MID,58,a,0.2,0.5,1.0,3,68,9.6,11.4,18.5,66.0,100.0,80.0,Bournemouth (H),3,1,,2025-10-01T21:00:06.405442Z,11,2025-11-09T06:35:11.667687
-677,Guessand,Evann Guessand,2,Aston Villa,MID,62,a,0.0,1.0,1.4,13,416,13.3,50.2,21.8,63.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-688,Wright,James Wright,2,Aston Villa,GK,40,a,0.5,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-701,Rowe,Triston Rowe,2,Aston Villa,DEF,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Bournemouth (H),3,1,has joined Annecy on loan for the rest of the season.,2025-09-22T21:15:59.825051Z,11,2025-11-09T06:35:11.667687
-702,Burrowes,Bradley Burrowes,2,Aston Villa,MID,45,a,0.1,0.0,1.0,1,16,0.0,0.0,0.3,0.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-703,Proctor,Sam Proctor,2,Aston Villa,GK,40,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-710,Patterson,Travis Patterson,2,Aston Villa,DEF,39,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Bournemouth (H),3,1,,,11,2025-11-09T06:35:11.667687
-719,Lindelöf,Victor Lindelöf,2,Aston Villa,DEF,45,a,0.0,0.0,1.0,3,21,0.4,3.0,0.4,0.0,100.0,80.0,Bournemouth (H),3,1,,2025-09-18T04:00:08.433120Z,11,2025-11-09T06:35:11.667687
-183,Weiss,Max Weiß,3,Burnley,GK,44,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-184,Green,Etienne Green,3,Burnley,GK,40,u,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,has joined FC Fredericia permanently.,2025-09-02T12:51:25.510909Z,11,2025-11-09T06:35:11.667687
-185,Hladký,Václav Hladký,3,Burnley,GK,40,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-186,Roberts,Connor Roberts,3,Burnley,DEF,44,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,Achilles injury - Unknown return date,2025-08-22T12:30:06.986449Z,11,2025-11-09T06:35:11.667687
-187,Walker,Kyle Walker,3,Burnley,DEF,44,a,1.6,4.5,2.6,29,990,25.6,189.0,52.4,14.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-188,Delcroix,Hannes Delcroix,3,Burnley,DEF,39,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-189,Dodgson,Owen Dodgson,3,Burnley,DEF,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,Has joined Stockport County on loan for the rest of the season.,2025-08-11T01:08:30.737822Z,11,2025-11-09T06:35:11.667687
-190,Ekdal,Hjalmar Ekdal,3,Burnley,DEF,40,a,1.1,0.2,2.9,20,533,21.7,130.2,26.4,61.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-191,Estève,Maxime Estève,3,Burnley,DEF,40,a,12.0,3.2,2.5,28,982,29.6,217.4,39.0,38.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-192,Hartman,Quilindschy Hartman,3,Burnley,DEF,40,a,0.9,3.8,3.3,36,977,45.4,242.2,176.3,36.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-193,Humphreys,Bashir Humphreys,3,Burnley,DEF,40,a,0.1,0.0,0.0,0,2,0.0,0.2,0.0,0.0,100.0,80.0,West Ham (A),2,0,,2025-08-10T22:00:04.557380Z,11,2025-11-09T06:35:11.667687
-194,Jordan,Jordan Beyer,3,Burnley,DEF,40,i,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,Hamstring injury - Unknown return date,2025-08-22T12:30:07.019474Z,11,2025-11-09T06:35:11.667687
-195,Lucas Pires,Lucas Pires Silva,3,Burnley,DEF,39,a,0.2,0.2,1.0,1,9,1.9,4.4,14.5,0.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-196,Sambo,Shurandy Sambo,3,Burnley,DEF,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,Has joined Sparta Rotterdam on loan for the rest of the season.,2025-08-19T13:36:42.853472Z,11,2025-11-09T06:35:11.667687
-197,Sonne,Oliver Sonne,3,Burnley,DEF,39,a,0.1,0.0,1.0,3,102,3.0,7.6,16.4,6.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-198,Tuanzebe,Axel Tuanzebe,3,Burnley,DEF,39,a,1.8,3.8,3.2,16,450,12.0,113.8,4.2,0.0,100.0,80.0,West Ham (A),2,0,,2025-08-22T12:30:07.036752Z,11,2025-11-09T06:35:11.667687
-199,Worrall,Joe Worrall,3,Burnley,DEF,39,a,0.2,0.0,1.0,4,19,1.2,11.2,0.3,0.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-200,Anthony,Jaidon Anthony,3,Burnley,MID,57,a,5.7,2.0,4.5,49,886,59.2,235.6,153.7,204.0,100.0,80.0,West Ham (A),2,0,,2025-10-07T11:30:07.662899Z,11,2025-11-09T06:35:11.667687
-201,Benson,Manuel Benson Hedilazio,3,Burnley,MID,54,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,has joined Swansea City on loan for the rest of the season.,2025-09-22T21:45:34.872207Z,11,2025-11-09T06:35:11.667687
-202,Bruun Larsen,Jacob Bruun Larsen,3,Burnley,MID,53,a,0.0,1.2,1.8,16,411,17.1,51.0,59.9,60.0,100.0,80.0,West Ham (A),2,0,,2025-09-14T22:00:08.065375Z,11,2025-11-09T06:35:11.667687
-203,Boateng,Enock Agyei,3,Burnley,MID,48,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-204,Churlinov,Darko Churlinov,3,Burnley,MID,49,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,has joined Kocaelispor  permanently.,2025-09-02T12:51:25.524903Z,11,2025-11-09T06:35:11.667687
-205,Cullen,Josh Cullen,3,Burnley,MID,50,a,2.3,4.0,4.8,53,941,50.1,273.4,149.2,77.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-206,Edwards,Marcus Edwards,3,Burnley,MID,47,a,0.1,0.5,1.0,3,22,2.6,3.2,1.4,24.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-207,Hannibal,Hannibal Mejbri,3,Burnley,MID,48,a,0.1,2.2,2.1,21,287,12.2,42.8,59.7,20.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-208,Koleosho,Luca Koleosho,3,Burnley,MID,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,Has joined Espanyol on loan for the rest of the season.,2025-08-22T14:15:37.649817Z,11,2025-11-09T06:35:11.667687
-209,Laurent,Josh Laurent,3,Burnley,MID,49,a,0.0,1.0,1.5,15,557,12.9,71.0,24.2,32.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-210,Tchaouna,Loum Tchaouna,3,Burnley,MID,49,a,0.0,2.2,2.2,22,435,13.8,58.6,35.0,44.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-211,A.Ramsey,Aaron Ramsey,3,Burnley,MID,44,u,2.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,has joined Leicester City on loan for the rest of the season.,2025-09-02T12:51:25.540742Z,11,2025-11-09T06:35:11.667687
-212,Adewumi,Oluwaseun Adewumi,3,Burnley,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,Has joined Cercle Brugge on loan for the rest of the season.,2025-08-15T12:03:26.649417Z,11,2025-11-09T06:35:11.667687
-213,Banel,Jaydon Banel,3,Burnley,MID,45,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-214,Trésor,Mike Trésor Ndayishimiye,3,Burnley,MID,44,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-215,Flemming,Zian Flemming,3,Burnley,FWD,53,a,0.3,5.2,3.1,25,343,26.1,129.8,31.2,105.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-216,Amdouni,Zeki Amdouni,3,Burnley,FWD,48,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,Knee injury - Unknown return date,2025-08-10T22:00:04.567659Z,11,2025-11-09T06:35:11.667687
-217,Foster,Lyle Foster,3,Burnley,FWD,50,a,1.7,1.8,3.5,28,578,27.4,117.2,76.5,84.0,100.0,80.0,West Ham (A),2,0,,2025-10-14T13:00:06.552171Z,11,2025-11-09T06:35:11.667687
-218,Barnes,Ashley Barnes,3,Burnley,FWD,43,a,1.3,0.2,1.0,1,7,0.1,0.2,0.3,0.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-219,Obafemi,Michael Obafemi,3,Burnley,FWD,44,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,West Ham (A),2,0,has joined VfL Bochum  on loan for the rest of the season.,2025-09-02T12:51:25.555230Z,11,2025-11-09T06:35:11.667687
-470,Dúbravka,Martin Dúbravka,3,Burnley,GK,40,a,34.4,3.8,3.2,35,990,34.6,344.2,0.0,0.0,100.0,80.0,West Ham (A),2,0,,2025-08-11T10:30:07.723845Z,11,2025-11-09T06:35:11.667687
-676,Ugochukwu,Lesley Ugochukwu,3,Burnley,MID,50,a,0.1,4.8,3.2,32,588,24.8,129.2,31.4,90.0,100.0,80.0,West Ham (A),2,0,,2025-09-14T22:00:08.706775Z,11,2025-11-09T06:35:11.667687
-680,Broja,Armando Broja,3,Burnley,FWD,52,a,0.1,0.5,1.0,5,75,2.0,8.4,2.4,8.0,100.0,80.0,West Ham (A),2,0,,2025-08-22T12:30:07.403187Z,11,2025-11-09T06:35:11.667687
-722,Florentino,Florentino Ibrain Morris Luís,3,Burnley,MID,50,a,0.1,4.0,3.5,28,657,26.6,159.6,74.7,31.0,,0.0,West Ham (A),2,0,,,11,2025-11-09T06:35:11.667687
-66,Neto,Norberto Murara Neto,4,Bournemouth,GK,45,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa (A),3,0,Has joined Botafogo permanently.,2025-08-11T01:25:12.553868Z,11,2025-11-09T06:35:11.667687
-67,Petrović,Đorđe Petrović,4,Bournemouth,GK,45,a,5.7,3.0,3.9,39,900,25.0,249.8,0.0,0.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-68,Dennis,Will Dennis,4,Bournemouth,GK,40,a,1.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-69,McKenna,Callan McKenna,4,Bournemouth,GK,40,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-70,Paulsen,Alex Paulsen,4,Bournemouth,GK,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa (A),3,0,Has joined Lechia Gdansk on loan for the rest of the season.,2025-08-27T12:50:21.648936Z,11,2025-11-09T06:35:11.667687
-71,Zabarnyi,Illia Zabarnyi,4,Bournemouth,DEF,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa (A),3,0,Has joined Paris Saint-Germain permanently.,2025-08-12T13:14:36.028170Z,11,2025-11-09T06:35:11.667687
-72,Senesi,Marcos Senesi Barón,4,Bournemouth,DEF,50,a,26.0,2.5,5.6,56,887,44.5,325.8,87.4,31.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-73,Smith,Adam Smith,4,Bournemouth,DEF,44,a,0.2,0.0,2.7,8,204,3.6,17.8,14.0,4.0,100.0,80.0,Aston Villa (A),3,0,,2025-08-31T01:00:07.918421Z,11,2025-11-09T06:35:11.667687
-74,Truffert,Adrien Truffert,4,Bournemouth,DEF,45,a,2.4,3.2,4.5,45,900,35.8,196.8,135.4,26.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-75,Akinmboni,Matai Akinmboni,4,Bournemouth,DEF,39,d,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,25.0,20.0,Aston Villa (A),3,0,Muscle injury - 25% chance of playing,2025-11-07T15:00:08.469996Z,11,2025-11-09T06:35:11.667687
-76,Bevan,Owen Bevan,4,Bournemouth,DEF,39,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-77,Hill,James Hill,4,Bournemouth,DEF,40,a,0.8,0.2,2.4,17,273,9.1,44.0,5.3,41.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-78,J.Araujo,Julián Araujo Zúñiga,4,Bournemouth,DEF,39,a,0.7,0.0,0.0,0,0,0.0,0.0,0.0,0.0,100.0,80.0,Aston Villa (A),3,0,,2025-08-28T17:00:07.495624Z,11,2025-11-09T06:35:11.667687
-79,Mepham,Chris Mepham,4,Bournemouth,DEF,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa (A),3,0,has joined West Bromwich Albion permanently.,2025-09-02T12:54:34.562307Z,11,2025-11-09T06:35:11.667687
-80,Soler,Julio Soler Barreto,4,Bournemouth,DEF,40,a,0.2,0.0,1.0,1,1,0.0,0.0,0.0,0.0,100.0,80.0,Aston Villa (A),3,0,,2025-10-16T08:00:09.313004Z,11,2025-11-09T06:35:11.667687
-81,Kluivert,Justin Kluivert,4,Bournemouth,MID,70,a,1.0,1.0,1.8,16,330,20.9,64.4,100.0,46.0,100.0,80.0,Aston Villa (A),3,0,,2025-08-10T22:00:04.480285Z,11,2025-11-09T06:35:11.667687
-82,Semenyo,Antoine Semenyo,4,Bournemouth,MID,81,a,64.5,2.2,7.5,75,900,77.2,331.2,159.2,280.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-84,Tavernier,Marcus Tavernier,4,Bournemouth,MID,55,a,1.7,4.5,4.5,45,766,48.3,165.6,176.4,139.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-85,Adams,Tyler Adams,4,Bournemouth,MID,50,a,0.5,4.2,3.5,35,863,34.5,197.6,58.6,88.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-86,Brooks,David Brooks,4,Bournemouth,MID,50,a,0.2,0.5,2.2,20,536,32.9,76.8,134.0,124.0,100.0,80.0,Aston Villa (A),3,0,,2025-10-17T13:00:10.379881Z,11,2025-11-09T06:35:11.667687
-87,Christie,Ryan Christie,4,Bournemouth,MID,50,a,0.1,1.8,1.9,15,199,15.0,64.8,31.7,53.0,100.0,80.0,Aston Villa (A),3,0,,2025-09-13T21:30:07.956994Z,11,2025-11-09T06:35:11.667687
-88,Cook,Lewis Cook,4,Bournemouth,MID,49,a,0.0,0.8,1.0,4,34,2.6,11.6,11.8,2.0,100.0,80.0,Aston Villa (A),3,0,,2025-09-24T06:00:05.966439Z,11,2025-11-09T06:35:11.667687
-89,Philip,Philip Billing,4,Bournemouth,MID,49,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa (A),3,0,Has joined Midtjylland permanently.,2025-08-27T12:49:57.472718Z,11,2025-11-09T06:35:11.667687
-90,Scott,Alex Scott,4,Bournemouth,MID,50,a,0.3,2.5,3.4,34,665,27.4,121.8,109.3,43.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-91,Sinisterra,Luis Sinisterra Lucumí,4,Bournemouth,MID,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa (A),3,0,Has joined Cruzeiro on loan for the rest of the season.,2025-08-26T13:43:19.913048Z,11,2025-11-09T06:35:11.667687
-92,Faivre,Romain Faivre,4,Bournemouth,MID,45,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa (A),3,0,has joined Al Taawoun permanently.,2025-09-11T13:43:59.477111Z,11,2025-11-09T06:35:11.667687
-93,H.Traorè,Hamed Traorè,4,Bournemouth,MID,45,u,0.4,0.0,4.0,4,16,3.1,21.2,10.0,0.0,0.0,0.0,Aston Villa (A),3,0,has joined Marseille on loan for the rest of the season.,2025-09-02T12:54:34.582455Z,11,2025-11-09T06:35:11.667687
-94,Sadi,Dominic Sadi,4,Bournemouth,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa (A),3,0,has joined Novi Pazar on loan for the rest of the season.,2025-09-22T21:51:49.974133Z,11,2025-11-09T06:35:11.667687
-95,Silcott-Duberry,Zain Silcott-Duberry,4,Bournemouth,MID,44,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa (A),3,0,has joined Olympiakos permanently.,2025-09-22T21:51:49.994072Z,11,2025-11-09T06:35:11.667687
-96,Winterburn,Ben Winterburn,4,Bournemouth,MID,45,u,0.0,0.0,1.0,1,6,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa (A),3,0,has joined Barnet on loan for the rest of the season.,2025-09-02T12:54:34.599400Z,11,2025-11-09T06:35:11.667687
-97,Evanilson,Francisco Evanilson de Lima Barbosa,4,Bournemouth,FWD,70,a,1.3,0.2,2.9,23,645,33.8,59.0,107.2,173.0,100.0,80.0,Aston Villa (A),3,0,,2025-10-19T01:30:09.447327Z,11,2025-11-09T06:35:11.667687
-98,Enes Ünal,Enes Ünal,4,Bournemouth,FWD,54,a,0.0,0.2,1.0,1,1,0.0,0.0,0.0,0.0,100.0,80.0,Aston Villa (A),3,0,,2025-07-21T10:00:04.802496Z,11,2025-11-09T06:35:11.667687
-99,Adu-Adjei,Daniel Adu-Adjei,4,Bournemouth,FWD,44,u,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Aston Villa (A),3,0,has joined HNK Rijeka permanently.,2025-09-22T21:19:25.247985Z,11,2025-11-09T06:35:11.667687
-100,Kroupi.Jr,Junior Kroupi,4,Bournemouth,FWD,46,a,4.7,5.0,4.1,29,224,30.7,142.4,28.9,136.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-391,Gannon-Doak,Ben Gannon-Doak,4,Bournemouth,MID,49,a,0.0,0.5,1.8,7,53,4.7,21.2,14.0,11.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-685,Diakité,Bafodé Diakité,4,Bournemouth,DEF,45,a,0.4,1.0,3.8,30,720,21.3,161.4,38.3,12.0,100.0,80.0,Aston Villa (A),3,0,,2025-09-13T21:30:08.472990Z,11,2025-11-09T06:35:11.667687
-687,Rees-Dottin,Remy Rees-Dottin,4,Bournemouth,MID,44,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-697,Adli,Amine Adli,4,Bournemouth,MID,54,a,0.0,0.5,1.0,7,183,13.7,52.8,50.4,34.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-713,A.Jimenez,Álex Jiménez Sánchez,4,Bournemouth,DEF,45,a,0.0,2.0,1.3,9,374,10.6,56.0,34.7,15.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-721,Milosavljević,Veljko Milosavljevic,4,Bournemouth,DEF,45,a,0.0,1.5,3.7,11,185,5.5,37.2,11.8,6.0,,0.0,Aston Villa (A),3,0,,,11,2025-11-09T06:35:11.667687
-27,Nelson,Reiss Nelson,5,Brentford,MID,48,a,0.1,0.2,1.0,1,15,1.5,4.8,1.6,9.0,100.0,80.0,Newcastle (H),3,1,,2025-09-26T15:00:07.964360Z,11,2025-11-09T06:35:11.667687
-83,O.Dango,Dango Ouattara,5,Brentford,MID,60,a,0.5,4.0,3.9,35,550,39.7,105.6,56.9,239.0,100.0,80.0,Newcastle (H),3,1,,2025-08-14T16:00:05.815568Z,11,2025-11-09T06:35:11.667687
-101,Kelleher,Caoimhín Kelleher,5,Brentford,GK,45,a,7.8,2.2,3.0,30,900,21.9,208.2,10.0,0.0,100.0,80.0,Newcastle (H),3,1,,2025-08-09T14:00:04.798673Z,11,2025-11-09T06:35:11.667687
-102,Balcombe,Ellery Balcombe,5,Brentford,GK,40,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-103,Cox,Matthew Cox,5,Brentford,GK,40,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-104,Eyestone,Julian Eyestone,5,Brentford,GK,40,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-105,Valdimarsson,Hákon Rafn Valdimarsson,5,Brentford,GK,39,a,0.7,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-106,Collins,Nathan Collins,5,Brentford,DEF,49,a,1.1,3.0,3.0,30,900,35.1,220.8,24.4,104.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-107,Lewis-Potter,Keane Lewis-Potter,5,Brentford,DEF,49,a,0.3,1.2,2.3,21,446,16.2,61.8,75.8,24.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-108,Ajer,Kristoffer Ajer,5,Brentford,DEF,44,a,0.2,2.8,2.7,19,388,19.0,82.8,14.8,91.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-109,Henry,Rico Henry,5,Brentford,DEF,43,a,0.1,0.2,0.7,5,169,3.9,16.4,12.4,12.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-110,Kayode,Michael Kayode,5,Brentford,DEF,45,a,0.4,2.8,3.0,30,862,37.6,177.6,177.1,21.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-111,Pinnock,Ethan Pinnock,5,Brentford,DEF,43,a,0.1,0.0,0.0,0,155,4.3,31.8,0.8,10.0,100.0,80.0,Newcastle (H),3,1,,2025-08-18T08:00:05.393517Z,11,2025-11-09T06:35:11.667687
-112,Roerslev,Mads Roerslev Rasmussen,5,Brentford,DEF,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle (H),3,1,Has joined Southampton permanently.,2025-08-22T14:17:15.662878Z,11,2025-11-09T06:35:11.667687
-113,Van den Berg,Sepp van den Berg,5,Brentford,DEF,45,a,0.6,3.0,3.2,32,900,32.0,201.4,15.6,102.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-114,Arthur,Benjamin Arthur,5,Brentford,DEF,39,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,100.0,80.0,Newcastle (H),3,1,,2025-10-31T17:00:08.779634Z,11,2025-11-09T06:35:11.667687
-115,Fredrick,Benjamin Fredrick,5,Brentford,DEF,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle (H),3,1,has joined Dender on loan for the rest of the season.,2025-09-22T21:16:59.169077Z,11,2025-11-09T06:35:11.667687
-116,Hickey,Aaron Hickey,5,Brentford,DEF,40,a,0.3,0.0,1.2,6,184,1.7,12.2,3.6,1.0,100.0,80.0,Newcastle (H),3,1,,2025-10-16T08:00:09.344205Z,11,2025-11-09T06:35:11.667687
-117,Ji-soo,Kim Ji-soo,5,Brentford,DEF,39,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle (H),3,1,has joined Kaiserslautern on loan for the rest of the season.,2025-09-22T21:16:59.154227Z,11,2025-11-09T06:35:11.667687
-118,Meghoma,Jayden Meghoma,5,Brentford,DEF,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle (H),3,1,Has joined Rangers on loan for the rest of the season.,2025-08-19T13:37:28.261506Z,11,2025-11-09T06:35:11.667687
-120,Schade,Kevin Schade,5,Brentford,MID,70,a,0.7,3.5,3.2,32,830,50.0,156.4,139.7,203.0,100.0,80.0,Newcastle (H),3,1,,2025-08-09T14:00:04.851048Z,11,2025-11-09T06:35:11.667687
-121,Damsgaard,Mikkel Damsgaard,5,Brentford,MID,58,a,0.6,3.0,3.9,31,632,43.9,152.4,201.7,84.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-122,Milambo,Antoni Milambo,5,Brentford,MID,52,i,0.0,0.0,1.0,1,45,0.6,4.0,1.8,0.0,0.0,0.0,Newcastle (H),3,1,Knee injury - Expected back 01 Jun,2025-10-16T08:00:09.362049Z,11,2025-11-09T06:35:11.667687
-123,Carvalho,Fábio Freitas Gouveia Carvalho,5,Brentford,MID,49,a,0.2,0.2,2.2,13,100,8.1,39.0,6.5,36.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-124,Henderson,Jordan Henderson,5,Brentford,MID,50,a,0.4,1.2,2.7,27,739,26.3,123.6,128.2,12.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-125,Janelt,Vitaly Janelt,5,Brentford,MID,49,a,0.0,1.5,1.5,9,139,7.2,21.6,35.7,16.0,100.0,80.0,Newcastle (H),3,1,,2025-08-09T14:00:04.867824Z,11,2025-11-09T06:35:11.667687
-126,Jensen,Mathias Jensen,5,Brentford,MID,49,a,0.1,2.0,2.5,20,208,18.9,101.4,51.2,36.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-127,Nunes,Gustavo Nunes Fernandes Gomes,5,Brentford,MID,49,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,100.0,80.0,Newcastle (H),3,1,,2025-08-09T14:00:04.884092Z,11,2025-11-09T06:35:11.667687
-128,Onyeka,Frank Onyeka,5,Brentford,MID,49,a,0.1,0.2,2.0,12,88,4.6,28.4,13.6,4.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-129,Yarmoliuk,Yehor Yarmoliuk,5,Brentford,MID,50,a,0.1,1.5,2.9,29,785,25.0,126.2,99.5,26.0,100.0,80.0,Newcastle (H),3,1,,2025-10-25T23:00:07.803030Z,11,2025-11-09T06:35:11.667687
-130,Donovan,Romelle Donovan,5,Brentford,MID,45,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-131,Konak,Yunus Emre Konak,5,Brentford,MID,44,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-132,Maghoma,Paris Maghoma,5,Brentford,MID,45,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,100.0,80.0,Newcastle (H),3,1,,2025-08-14T16:00:05.924672Z,11,2025-11-09T06:35:11.667687
-133,Peart-Harris,Myles Peart-Harris,5,Brentford,MID,44,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-134,Trevitt,Ryan Trevitt,5,Brentford,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Newcastle (H),3,1,Has joined Wigan on loan for the rest of the season,2025-08-11T01:07:54.335986Z,11,2025-11-09T06:35:11.667687
-136,Thiago,Igor Thiago Nascimento Rodrigues,5,Brentford,FWD,63,a,8.9,3.8,4.7,47,831,66.6,268.8,91.0,306.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-137,Morgan,Iwan Morgan,5,Brentford,FWD,44,a,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-748,Dasilva,Josh Dasilva,5,Brentford,MID,50,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Newcastle (H),3,1,,,11,2025-11-09T06:35:11.667687
-138,Steele,Jason Steele,6,Brighton,GK,43,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-139,Verbruggen,Bart Verbruggen,6,Brighton,GK,44,a,4.0,2.2,2.0,20,900,21.1,201.6,10.0,0.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-140,McGill,Tom McGill,6,Brighton,GK,40,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-141,Rushworth,Carl Rushworth,6,Brighton,GK,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,Has joined Coventry City on loan for the rest of the season.,2025-07-25T14:54:18.206318Z,11,2025-11-09T06:35:11.667687
-142,Scherpen,Kjell Scherpen,6,Brighton,GK,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,Has joined Union SG permanently,2025-07-25T14:53:26.961790Z,11,2025-11-09T06:35:11.667687
-143,Boscagli,Olivier Boscagli,6,Brighton,DEF,43,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-144,Coppola,Diego Coppola,6,Brighton,DEF,43,a,0.1,0.2,1.0,3,17,0.8,7.8,0.1,0.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-145,De Cuyper,Maxim De Cuyper,6,Brighton,DEF,43,a,1.9,0.2,1.9,15,406,24.3,84.0,84.8,73.0,100.0,80.0,Crystal Palace (A),3,0,,2025-09-13T21:30:07.998380Z,11,2025-11-09T06:35:11.667687
-146,Dunk,Lewis Dunk,6,Brighton,DEF,45,a,1.1,2.0,2.3,23,900,22.1,150.4,22.6,47.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-147,Estupiñan,Pervis Estupiñán Tenorio,6,Brighton,DEF,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,Has joined AC Milan permanently,2025-07-24T10:14:09.955203Z,11,2025-11-09T06:35:11.667687
-148,F.Kadıoğlu,Ferdi Kadıoğlu,6,Brighton,DEF,44,a,0.2,1.8,1.8,16,644,22.0,103.8,69.8,45.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-150,Lamptey,Tariq Lamptey,6,Brighton,DEF,44,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,has joined Fiorentina permanently.,2025-09-02T12:06:29.254107Z,11,2025-11-09T06:35:11.667687
-151,Van Hecke,Jan Paul van Hecke,6,Brighton,DEF,44,a,1.3,3.2,3.5,35,900,42.5,299.0,41.7,83.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-152,Veltman,Joël Veltman,6,Brighton,DEF,43,d,0.1,0.0,1.8,7,324,9.5,68.2,19.9,6.0,25.0,20.0,Crystal Palace (A),3,0,Calf injury - 25% chance of playing,2025-10-02T13:00:07.706508Z,11,2025-11-09T06:35:11.667687
-153,Webster,Adam Webster,6,Brighton,DEF,44,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,Knee injury - Unknown return date,2025-08-08T14:30:04.202011Z,11,2025-11-09T06:35:11.667687
-154,Cashin,Eiran Cashin,6,Brighton,DEF,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,Has joined Birmingham on loan for the rest of the season.,2025-07-28T11:50:54.390347Z,11,2025-11-09T06:35:11.667687
-155,Slater,Jacob Slater,6,Brighton,DEF,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,has joined Harrogate Town on loan until January.,2025-09-22T21:52:58.462370Z,11,2025-11-09T06:35:11.667687
-156,Tasker,Charlie Tasker,6,Brighton,DEF,39,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-157,Mitoma,Mitoma Kaoru,6,Brighton,MID,62,d,2.1,0.0,3.3,20,508,26.9,88.4,95.8,88.0,25.0,20.0,Crystal Palace (A),3,0,Knock - 25% chance of playing,2025-10-02T13:00:07.769683Z,11,2025-11-09T06:35:11.667687
-158,Georginio,Georginio Rutter,6,Brighton,MID,57,a,0.4,3.0,3.1,28,604,30.3,96.0,107.7,99.0,100.0,80.0,Crystal Palace (A),3,0,,2025-08-25T07:30:07.559102Z,11,2025-11-09T06:35:11.667687
-159,March,Solly March,6,Brighton,MID,58,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,Knee injury - Unknown return date,2025-08-10T18:00:05.450301Z,11,2025-11-09T06:35:11.667687
-160,Minteh,Yankuba Minteh,6,Brighton,MID,60,a,4.7,4.0,4.7,47,859,64.5,189.2,227.0,227.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-161,Enciso,Julio Enciso Espínola,6,Brighton,MID,54,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,has joined Strasbourg permanently.,2025-08-10T18:00:05.470138Z,11,2025-11-09T06:35:11.667687
-162,Gruda,Brajan Gruda,6,Brighton,MID,54,d,0.1,0.0,2.7,19,218,22.4,74.0,56.3,94.0,25.0,20.0,Crystal Palace (A),3,0,Knee injury - 25% chance of playing,2025-10-16T12:30:10.115478Z,11,2025-11-09T06:35:11.667687
-163,Hinshelwood,Jack Hinshelwood,6,Brighton,MID,51,i,0.0,0.0,1.3,4,107,1.2,9.4,2.0,0.0,0.0,0.0,Crystal Palace (A),3,0,Ankle injury - Unknown return date,2025-09-13T21:30:08.019508Z,11,2025-11-09T06:35:11.667687
-164,O'Riley,Matt O'Riley,6,Brighton,MID,55,u,0.4,0.0,6.0,12,177,19.0,60.8,66.6,63.0,0.0,0.0,Crystal Palace (A),3,0,has joined Marseille on loan for the rest of the season.,2025-09-02T12:06:29.272628Z,11,2025-11-09T06:35:11.667687
-165,Sima,Abdallah Sima,6,Brighton,MID,54,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,has joined Lens permanently.,2025-09-02T12:06:29.290672Z,11,2025-11-09T06:35:11.667687
-166,Ayari,Yasin Ayari,6,Brighton,MID,49,a,0.3,1.5,2.6,26,781,36.1,124.4,133.0,103.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-167,Baleba,Carlos Baleba,6,Brighton,MID,47,a,2.0,1.5,1.4,14,570,8.3,27.6,45.4,10.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-169,Gomez,Diego Gómez Amarilla,6,Brighton,MID,49,a,0.2,4.5,2.8,25,454,32.6,137.8,66.5,120.0,100.0,80.0,Crystal Palace (A),3,0,,2025-10-16T12:30:10.190452Z,11,2025-11-09T06:35:11.667687
-170,Milner,James Milner,6,Brighton,MID,50,d,0.1,1.2,2.1,15,187,16.8,79.6,71.2,17.0,25.0,20.0,Crystal Palace (A),3,0,Muscle injury - 25% chance of playing,2025-10-28T21:00:08.282346Z,11,2025-11-09T06:35:11.667687
-171,Sarmiento,Jeremy Sarmiento Morante,6,Brighton,MID,49,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,has joined Cremonese on loan for the rest of the season.,2025-09-02T12:06:29.308383Z,11,2025-11-09T06:35:11.667687
-172,Watson,Tom Watson,6,Brighton,MID,49,a,0.0,0.5,1.0,2,40,1.4,5.6,1.3,7.0,100.0,80.0,Crystal Palace (A),3,0,,2025-08-10T18:00:05.491553Z,11,2025-11-09T06:35:11.667687
-173,Wieffer,Mats Wieffer,6,Brighton,MID,49,a,0.3,5.2,4.1,33,549,29.2,153.4,92.7,45.0,100.0,80.0,Crystal Palace (A),3,0,,2025-09-01T10:30:07.953121Z,11,2025-11-09T06:35:11.667687
-174,Yalcouye,Malick Yalcouyé,6,Brighton,MID,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,Has joined Swansea City on loan for the rest of the season.,2025-08-15T12:03:00.771795Z,11,2025-11-09T06:35:11.667687
-175,Knight,Joe Knight,6,Brighton,MID,45,a,0.1,0.2,1.0,1,1,0.0,0.0,0.0,0.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-176,Mazilu,Adrian Mazilu,6,Brighton,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,has joined Dinamo Bucharest permanently.,2025-09-22T21:46:15.598017Z,11,2025-11-09T06:35:11.667687
-177,Moran,Andrew Moran,6,Brighton,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,Has joined Los Angeles FC on loan for the rest of the season.,2025-08-22T14:16:38.542849Z,11,2025-11-09T06:35:11.667687
-178,Welbeck,Danny Welbeck,6,Brighton,FWD,65,a,9.0,6.2,4.3,43,625,51.5,221.2,110.9,186.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-179,Ferguson,Evan Ferguson,6,Brighton,FWD,55,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Crystal Palace (A),3,0,Has joined AS Roma on loan for the rest of the season,2025-07-24T10:13:22.396984Z,11,2025-11-09T06:35:11.667687
-180,Tzimas,Stefanos Tzimas,6,Brighton,FWD,53,a,0.1,0.8,1.5,9,79,11.3,28.4,61.2,23.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-181,Kostoulas,Charalampos Kostoulas,6,Brighton,FWD,48,a,0.3,1.8,2.3,7,14,7.6,35.2,0.6,40.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-744,Oriola,Nehemiah Oriola,6,Brighton,MID,45,a,0.0,0.2,1.0,1,1,0.0,0.0,0.0,0.0,,0.0,Crystal Palace (A),3,0,,,11,2025-11-09T06:35:11.667687
-168,Buonanotte,Facundo Buonanotte,7,Chelsea,MID,47,a,0.1,0.0,1.0,1,45,3.9,5.6,25.1,8.0,100.0,80.0,Wolves (H),2,1,,2025-09-21T22:30:05.997985Z,11,2025-11-09T06:35:11.667687
-220,Sánchez,Robert Lynch Sánchez,7,Chelsea,GK,48,a,13.7,4.5,3.4,37,904,17.7,158.2,20.0,0.0,,0.0,Wolves (H),2,1,,,11,2025-11-09T06:35:11.667687
-221,Jörgensen,Filip Jörgensen,7,Chelsea,GK,44,a,0.2,0.0,1.0,1,84,0.9,9.4,0.0,0.0,,0.0,Wolves (H),2,1,,,11,2025-11-09T06:35:11.667687
-222,Penders,Mike Penders,7,Chelsea,GK,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves (H),2,1,Has joined RC Strasbourg on loan for the rest of the season.,2025-07-28T11:48:06.001822Z,11,2025-11-09T06:35:11.667687
-223,Slonina,Gabriel Słonina,7,Chelsea,GK,39,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Wolves (H),2,1,,,11,2025-11-09T06:35:11.667687
-224,Cucurella,Marc Cucurella Saseta,7,Chelsea,DEF,61,a,22.0,5.5,4.5,49,896,48.8,201.0,214.7,72.0,,0.0,Wolves (H),2,1,,,11,2025-11-09T06:35:11.667687
-225,James,Reece James,7,Chelsea,DEF,56,a,8.6,6.8,4.2,46,706,47.4,200.4,219.1,54.0,100.0,80.0,Wolves (H),2,1,,2025-10-13T09:30:08.256625Z,11,2025-11-09T06:35:11.667687
-226,Chalobah,Trevoh Chalobah,7,Chelsea,DEF,51,a,8.0,5.0,5.5,55,840,39.1,254.8,52.1,85.0,100.0,80.0,Wolves (H),2,1,,2025-09-28T00:00:08.404840Z,11,2025-11-09T06:35:11.667687
-227,Colwill,Levi Samuels Colwill,7,Chelsea,DEF,48,i,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves (H),2,1,Anterior cruciate ligament - Unknown return date,2025-08-08T14:30:04.255160Z,11,2025-11-09T06:35:11.667687
-228,Gusto,Malo Gusto,7,Chelsea,DEF,49,a,1.1,6.0,4.3,39,549,27.4,112.6,105.6,57.0,100.0,80.0,Wolves (H),2,1,,2025-10-18T18:30:08.275780Z,11,2025-11-09T06:35:11.667687
-229,B.Badiashile,Benoît Badiashile Mukinayi,7,Chelsea,DEF,44,i,0.0,0.0,0.0,0,65,1.8,16.0,1.7,0.0,0.0,0.0,Wolves (H),2,1,Muscle injury - Expected back 22 Nov,2025-10-17T12:30:08.541306Z,11,2025-11-09T06:35:11.667687
-230,Fofana,Wesley Fofana,7,Chelsea,DEF,44,a,0.2,3.0,3.0,15,307,6.9,54.6,8.0,5.0,100.0,80.0,Wolves (H),2,1,,2025-09-26T11:30:06.513349Z,11,2025-11-09T06:35:11.667687
-231,M.Sarr,Mamadou Sarr,7,Chelsea,DEF,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves (H),2,1,Has joined RC Strasbourg on loan for the rest of the season.,2025-08-11T01:09:37.642396Z,11,2025-11-09T06:35:11.667687
-232,Tosin,Tosin Adarabioyo,7,Chelsea,DEF,43,a,0.4,0.8,2.0,14,377,12.2,104.6,6.5,11.0,100.0,80.0,Wolves (H),2,1,,2025-09-26T11:30:06.530261Z,11,2025-11-09T06:35:11.667687
-233,Acheampong,Josh Acheampong,7,Chelsea,DEF,39,a,2.2,4.0,5.4,27,348,15.8,88.4,8.5,60.0,100.0,80.0,Wolves (H),2,1,,2025-09-24T11:30:08.237944Z,11,2025-11-09T06:35:11.667687
-234,Anselmino,Aarón Anselmino,7,Chelsea,DEF,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves (H),2,1,has joined Borussia Dortmund on loan for the rest of the season.,2025-09-02T11:35:16.308555Z,11,2025-11-09T06:35:11.667687
-235,Palmer,Cole Palmer,7,Chelsea,MID,103,i,9.0,0.0,3.7,11,144,12.9,44.4,19.2,65.0,0.0,0.0,Wolves (H),2,1,Groin Injury - Expected back 22 Nov,2025-09-20T23:30:06.610468Z,11,2025-11-09T06:35:11.667687
-236,Neto,Pedro Lomba Neto,7,Chelsea,MID,71,a,5.9,7.8,4.6,51,829,65.8,215.2,270.5,171.0,100.0,80.0,Wolves (H),2,1,,2025-11-07T13:00:08.317014Z,11,2025-11-09T06:35:11.667687
-237,Enzo,Enzo Fernández,7,Chelsea,MID,67,a,14.9,1.8,4.8,48,880,77.4,234.8,267.4,271.0,100.0,80.0,Wolves (H),2,1,,2025-10-13T09:30:08.310616Z,11,2025-11-09T06:35:11.667687
-238,Estêvão,Estêvão Almeida de Oliveira Gonçalves,7,Chelsea,MID,65,a,2.4,2.2,2.9,29,337,38.1,103.0,112.4,166.0,,0.0,Wolves (H),2,1,,,11,2025-11-09T06:35:11.667687
-239,Gittens,Jamie Bynoe-Gittens,7,Chelsea,MID,61,a,0.1,1.0,1.0,9,248,16.2,34.2,77.4,51.0,,0.0,Wolves (H),2,1,,,11,2025-11-09T06:35:11.667687
-240,Nkunku,Christopher Nkunku,7,Chelsea,MID,59,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves (H),2,1,has joined AC Milan permanently.,2025-09-02T11:35:16.323578Z,11,2025-11-09T06:35:11.667687
-241,Caicedo,Moisés Caicedo Corozo,7,Chelsea,MID,60,a,22.9,3.8,5.5,60,945,49.7,306.0,132.9,59.0,100.0,80.0,Wolves (H),2,1,,2025-10-17T12:30:08.605769Z,11,2025-11-09T06:35:11.667687
-243,George,Tyrique George,7,Chelsea,MID,49,a,0.1,0.2,1.0,4,142,7.1,8.2,7.0,56.0,,0.0,Wolves (H),2,1,,,11,2025-11-09T06:35:11.667687
-244,Lavia,Roméo Lavia,7,Chelsea,MID,49,i,0.0,0.5,1.0,4,105,1.8,9.6,7.5,2.0,0.0,0.0,Wolves (H),2,1,Thigh injury - Unknown return date,2025-11-06T09:30:08.519036Z,11,2025-11-09T06:35:11.667687
-245,Mudryk,Mykhailo Mudryk,7,Chelsea,MID,50,s,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves (H),2,1,Suspended - unknown return date,2025-07-21T10:00:04.824210Z,11,2025-11-09T06:35:11.667687
-246,Andrey Santos,Andrey Nascimento dos Santos,7,Chelsea,MID,45,a,0.3,0.5,0.9,7,227,11.3,26.6,44.1,42.0,100.0,80.0,Wolves (H),2,1,,2025-10-01T00:30:06.094463Z,11,2025-11-09T06:35:11.667687
-247,D.Essugo,Dário Luís Essugo,7,Chelsea,MID,43,i,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves (H),2,1,Thigh injury - Expected back 04 Jan,2025-09-11T07:00:06.794916Z,11,2025-11-09T06:35:11.667687
-248,Paez,Kendry Páez Andrade,7,Chelsea,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves (H),2,1,Has joined RC Strasbourg on loan for the rest of the season.,2025-08-11T01:09:37.664358Z,11,2025-11-09T06:35:11.667687
-249,João Pedro,João Pedro Junqueira de Jesus,7,Chelsea,FWD,75,a,48.1,5.0,5.4,59,929,76.5,275.6,214.2,280.0,,0.0,Wolves (H),2,1,,,11,2025-11-09T06:35:11.667687
-250,Delap,Liam Delap,7,Chelsea,FWD,62,a,1.0,0.5,1.5,6,154,7.0,11.0,6.7,57.0,100.0,80.0,Wolves (H),2,1,,2025-10-30T11:30:08.513670Z,11,2025-11-09T06:35:11.667687
-251,N.Jackson,Nicolas Jackson,7,Chelsea,FWD,65,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Wolves (H),2,1,has joined Bayern Munich on loan for the rest of the season.,2025-09-02T11:35:16.339917Z,11,2025-11-09T06:35:11.667687
-252,Marc Guiu,Marc Guiu Paz,7,Chelsea,FWD,42,a,7.0,1.0,1.2,7,162,4.9,1.0,4.3,60.0,100.0,80.0,Wolves (H),2,1,,2025-09-24T11:30:08.351112Z,11,2025-11-09T06:35:11.667687
-453,Garnacho,Alejandro Garnacho Ferreyra,7,Chelsea,MID,64,a,0.6,5.2,4.0,24,342,33.4,94.4,90.4,149.0,,0.0,Wolves (H),2,1,,,11,2025-11-09T06:35:11.667687
-672,Hato,Jorrel Hato,7,Chelsea,DEF,47,a,0.2,0.0,0.8,3,166,3.2,24.0,3.3,6.0,,0.0,Wolves (H),2,1,,,11,2025-11-09T06:35:11.667687
-743,Emenalo,Landon Emenalo,7,Chelsea,MID,45,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Wolves (H),2,1,,,11,2025-11-09T06:35:11.667687
-253,Henderson,Dean Henderson,8,Crystal Palace,GK,50,a,7.6,2.2,3.6,36,900,19.8,190.4,10.0,0.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-254,Benitez,Walter Benítez,8,Crystal Palace,GK,40,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,100.0,80.0,Brighton (H),3,1,,2025-09-19T14:49:12.216385Z,11,2025-11-09T06:35:11.667687
-255,Matthews,Remi Matthews,8,Crystal Palace,GK,40,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-256,Muñoz,Daniel Muñoz Mejía,8,Crystal Palace,DEF,57,a,15.6,4.5,5.4,54,900,49.6,220.4,106.3,171.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-257,Lacroix,Maxence Lacroix,8,Crystal Palace,DEF,50,a,3.7,3.2,5.0,50,900,30.8,227.6,31.5,50.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-258,Mitchell,Tyrick Mitchell,8,Crystal Palace,DEF,50,a,2.2,2.2,4.4,44,900,43.7,212.6,144.7,79.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-259,Sosa,Borna Sosa,8,Crystal Palace,DEF,48,a,0.1,0.2,1.0,1,1,0.0,0.0,0.0,0.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-260,Guéhi,Marc Guéhi,8,Crystal Palace,DEF,51,a,35.2,4.5,6.4,64,900,43.5,244.0,88.1,103.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-261,Richards,Chris Richards,8,Crystal Palace,DEF,45,a,3.3,2.8,4.4,44,900,32.3,239.6,48.4,34.0,100.0,80.0,Brighton (H),3,1,,2025-10-28T21:00:08.429177Z,11,2025-11-09T06:35:11.667687
-262,Chadi Riad,Chadi Riad Dnanou,8,Crystal Palace,DEF,40,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,100.0,80.0,Brighton (H),3,1,,2025-07-21T10:00:04.863209Z,11,2025-11-09T06:35:11.667687
-263,Clyne,Nathaniel Clyne,8,Crystal Palace,DEF,39,a,0.4,0.0,1.0,1,4,0.4,3.4,0.5,0.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-264,Holding,Rob Holding,8,Crystal Palace,DEF,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton (H),3,1,Has joined Colorado Rapids permanently.,2025-08-11T01:12:01.613357Z,11,2025-11-09T06:35:11.667687
-265,Kporha,Caleb Kporha,8,Crystal Palace,DEF,40,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton (H),3,1,Back injury - Unknown return date,2025-08-10T22:30:04.775923Z,11,2025-11-09T06:35:11.667687
-267,Sarr,Ismaïla Sarr,8,Crystal Palace,MID,67,a,12.8,1.8,5.4,43,702,41.4,172.0,82.8,158.0,100.0,80.0,Brighton (H),3,1,,2025-09-01T10:30:08.125928Z,11,2025-11-09T06:35:11.667687
-268,Doucouré,Cheick Doucouré,8,Crystal Palace,MID,49,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton (H),3,1,Knee injury - Unknown return date,2025-07-21T10:00:04.882113Z,11,2025-11-09T06:35:11.667687
-269,Esse,Romain Esse,8,Crystal Palace,MID,47,a,0.1,0.0,1.0,1,24,0.7,4.6,0.4,2.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-270,Hughes,Will Hughes,8,Crystal Palace,MID,48,a,0.1,0.5,1.6,13,439,18.2,57.8,99.7,24.0,100.0,80.0,Brighton (H),3,1,,2025-10-03T14:00:08.854796Z,11,2025-11-09T06:35:11.667687
-271,Kamada,Daichi Kamada,8,Crystal Palace,MID,50,a,0.2,2.2,3.6,29,676,23.6,77.8,108.4,50.0,100.0,80.0,Brighton (H),3,1,,2025-08-10T22:30:04.831701Z,11,2025-11-09T06:35:11.667687
-272,Lerma,Jefferson Lerma Solís,8,Crystal Palace,MID,49,a,0.1,2.8,2.1,19,270,14.0,50.4,35.4,54.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-273,Wharton,Adam Wharton,8,Crystal Palace,MID,50,a,0.4,1.0,2.9,23,631,31.9,88.0,218.5,14.0,100.0,80.0,Brighton (H),3,1,,2025-10-31T16:30:08.463118Z,11,2025-11-09T06:35:11.667687
-274,Agbinone,Asher Agbinone,8,Crystal Palace,MID,44,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-275,Ahamada,Naouirou Ahamada,8,Crystal Palace,MID,44,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-276,Devenny,Justin Devenny,8,Crystal Palace,MID,43,a,1.1,0.2,1.1,9,157,12.1,16.2,31.4,73.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-277,Ebiowei,Malcolm Ebiowei,8,Crystal Palace,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton (H),3,1,Has joined Blackpool permanently.,2025-08-11T01:12:01.633662Z,11,2025-11-09T06:35:11.667687
-278,J.Rak-Sakyi,Jesurun Rak-Sakyi,8,Crystal Palace,MID,44,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton (H),3,1,has joined Caykur Rizespor on loan for the rest of the season.,2025-09-22T09:16:14.064898Z,11,2025-11-09T06:35:11.667687
-279,M.França,Matheus França de Oliveira,8,Crystal Palace,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton (H),3,1,Has joined CR Vasco da Gama on loan for the rest of the season.,2025-08-10T22:30:04.849181Z,11,2025-11-09T06:35:11.667687
-280,Ozoh,David Ozoh,8,Crystal Palace,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton (H),3,1,Has joined Derby County on loan for the rest of the season.,2025-07-30T14:07:45.618291Z,11,2025-11-09T06:35:11.667687
-281,Rodney,Kaden Rodney,8,Crystal Palace,MID,45,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-282,Umeh,Franco Umeh-Chibueze,8,Crystal Palace,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brighton (H),3,1,has joined Portsmouth permanently.,2025-09-22T21:43:58.439788Z,11,2025-11-09T06:35:11.667687
-283,Mateta,Jean-Philippe Mateta,8,Crystal Palace,FWD,80,a,28.3,7.0,4.8,48,869,70.5,261.4,40.3,403.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-284,Nketiah,Eddie Nketiah,8,Crystal Palace,FWD,54,i,0.4,0.5,1.6,8,107,14.8,43.6,45.9,58.0,0.0,0.0,Brighton (H),3,1,Hamstring injury - Expected back 22 Nov,2025-10-30T15:00:09.954721Z,11,2025-11-09T06:35:11.667687
-285,Édouard,Odsonne Édouard,8,Crystal Palace,FWD,50,u,0.2,0.0,1.0,1,2,0.2,2.0,0.0,0.0,0.0,0.0,Brighton (H),3,1,has joined RC Lens permanently.,2025-08-28T17:00:07.862344Z,11,2025-11-09T06:35:11.667687
-286,Marsh,Zach Marsh,8,Crystal Palace,FWD,45,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-690,Cardines,Rio Cardines,8,Crystal Palace,MID,44,d,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,75.0,80.0,Brighton (H),3,1,Groin Injury - 75% chance of playing,2025-11-05T22:30:08.408448Z,11,2025-11-09T06:35:11.667687
-712,Yeremy,Yéremy Pino Santos,8,Crystal Palace,MID,58,a,0.1,1.2,1.8,14,505,22.6,46.8,114.2,68.0,100.0,80.0,Brighton (H),3,1,,2025-09-20T23:30:07.351615Z,11,2025-11-09T06:35:11.667687
-723,Canvot,Jaydee Canvot,8,Crystal Palace,DEF,45,a,0.0,0.2,1.0,1,1,0.1,0.4,0.1,0.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-732,Uche,Christantus Uche,8,Crystal Palace,FWD,55,a,0.0,0.2,1.0,3,8,2.3,3.4,0.8,19.0,,0.0,Brighton (H),3,1,,,11,2025-11-09T06:35:11.667687
-242,Dewsbury-Hall,Kiernan Dewsbury-Hall,9,Everton,MID,49,a,2.8,3.8,3.5,35,885,50.2,144.6,271.1,86.0,100.0,80.0,Fulham (H),2,1,,2025-09-29T21:30:07.878074Z,11,2025-11-09T06:35:11.667687
-287,Pickford,Jordan Pickford,9,Everton,GK,55,a,9.6,3.0,3.8,42,990,28.2,282.2,0.1,0.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-288,Travers,Mark Travers,9,Everton,GK,44,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-289,Tyrer,Harry Tyrer,9,Everton,GK,39,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-290,Branthwaite,Jarrad Branthwaite,9,Everton,DEF,53,i,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham (H),2,1,Hamstring injury - Unknown return date,2025-10-17T14:00:10.203776Z,11,2025-11-09T06:35:11.667687
-291,Tarkowski,James Tarkowski,9,Everton,DEF,54,a,6.0,2.8,3.9,43,990,40.6,260.4,74.4,70.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-292,Mykolenko,Vitalii Mykolenko,9,Everton,DEF,49,a,0.4,2.5,2.1,17,715,21.0,120.8,62.0,28.0,100.0,80.0,Fulham (H),2,1,,2025-09-05T10:00:06.495475Z,11,2025-11-09T06:35:11.667687
-293,O'Brien,Jake O'Brien,9,Everton,DEF,49,a,0.4,1.2,2.5,28,868,26.5,141.0,74.3,48.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-294,Coleman,Séamus Coleman,9,Everton,DEF,43,a,0.1,0.0,1.0,2,2,0.0,0.0,0.0,0.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-295,Keane,Michael Keane,9,Everton,DEF,45,a,1.1,5.2,5.1,56,964,41.8,293.4,20.2,105.0,100.0,80.0,Fulham (H),2,1,,2025-10-06T07:30:07.973751Z,11,2025-11-09T06:35:11.667687
-296,Patterson,Nathan Patterson,9,Everton,DEF,44,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham (H),2,1,Foot injury - Expected back 23 Nov,2025-10-17T14:30:10.578096Z,11,2025-11-09T06:35:11.667687
-297,Dixon,Roman Dixon,9,Everton,DEF,39,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-298,Welch,Reece Welch,9,Everton,DEF,39,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-299,Ndiaye,Iliman Ndiaye,9,Everton,MID,66,a,11.9,4.5,5.0,55,914,67.5,278.8,193.3,202.0,100.0,80.0,Fulham (H),2,1,,2025-11-04T11:00:08.204329Z,11,2025-11-09T06:35:11.667687
-300,McNeil,Dwight McNeil,9,Everton,MID,56,a,0.1,0.5,1.0,3,51,2.0,1.6,11.7,8.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-301,Alcaraz,Carlos Alcaraz Durán,9,Everton,MID,52,a,0.1,0.8,1.0,8,242,9.8,23.2,24.3,51.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-302,Gana,Idrissa Gana Gueye,9,Everton,MID,54,a,0.1,4.5,3.8,42,949,39.2,174.4,107.1,110.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-303,Garner,James Garner,9,Everton,MID,50,a,0.8,2.2,3.8,42,990,53.1,239.4,196.5,95.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-304,Iroegbunam,Tim Iroegbunam,9,Everton,MID,49,a,0.0,1.8,2.2,18,337,10.1,67.0,20.6,13.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-305,Armstrong,Harrison Armstrong,9,Everton,MID,45,u,0.1,0.0,1.0,1,1,0.0,0.0,0.0,0.0,0.0,0.0,Fulham (H),2,1,has joined Preston North End on loan for the rest of the season.,2025-09-02T11:36:28.006606Z,11,2025-11-09T06:35:11.667687
-306,Bates,Callum Bates,9,Everton,MID,44,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-307,Ebere,Coby Ebere,9,Everton,MID,44,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-308,Heath,Isaac Heath,9,Everton,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham (H),2,1,has joined Accrington on loan for the rest of the season.,2025-09-02T12:26:54.658601Z,11,2025-11-09T06:35:11.667687
-309,Metcalfe,Jenson Metcalfe,9,Everton,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham (H),2,1,Has joined Bradford City permanently.,2025-07-25T14:54:45.196473Z,11,2025-11-09T06:35:11.667687
-310,Barry,Thierno Barry,9,Everton,FWD,57,a,0.3,1.0,1.1,12,380,9.3,15.0,34.3,56.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-311,Beto,Norberto Bercique Gomes Betuncal,9,Everton,FWD,52,a,3.2,1.5,1.9,21,606,33.3,78.6,47.9,217.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-312,Y.Chermiti,Youssef Ramalho Chermiti,9,Everton,FWD,49,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham (H),2,1,has joined Rangers permanently.,2025-09-02T12:26:54.689038Z,11,2025-11-09T06:35:11.667687
-313,Sherif,Martin Sherif,9,Everton,FWD,44,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham (H),2,1,has joined Rotherham United on loan for the rest of the season.,2025-09-22T21:18:55.519763Z,11,2025-11-09T06:35:11.667687
-419,Grealish,Jack Grealish,9,Everton,MID,68,a,16.8,1.5,4.3,43,826,80.7,244.6,317.5,244.0,100.0,80.0,Fulham (H),2,1,,2025-10-04T03:00:08.987148Z,11,2025-11-09T06:35:11.667687
-630,King,Tom King,9,Everton,GK,39,a,1.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-667,Aznou,Adam Aznou,9,Everton,DEF,43,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,100.0,80.0,Fulham (H),2,1,,2025-08-29T10:30:08.715230Z,11,2025-11-09T06:35:11.667687
-704,Onyango,Tyler Onyango,9,Everton,MID,45,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Fulham (H),2,1,has joined Stockport County on loan for the rest of the season.,2025-09-02T12:26:54.674165Z,11,2025-11-09T06:35:11.667687
-705,Campbell,Elijah Campbell,9,Everton,DEF,39,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-707,Dibling,Tyler Dibling,9,Everton,MID,54,a,0.0,0.0,0.8,3,62,0.5,3.0,1.1,2.0,,0.0,Fulham (H),2,1,,,11,2025-11-09T06:35:11.667687
-728,Röhl,Merlin Röhl,9,Everton,MID,50,a,0.0,0.8,1.0,4,91,3.2,11.4,13.3,7.0,100.0,80.0,Fulham (H),2,1,,2025-10-17T14:00:10.607430Z,11,2025-11-09T06:35:11.667687
-314,Leno,Bernd Leno,10,Fulham,GK,50,a,1.6,3.5,3.1,34,990,26.5,265.4,0.0,0.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-315,Benda,Steven Benda,10,Fulham,GK,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Everton (A),3,0,Has joined Millwall on loan for the rest of the season.,2025-07-28T11:48:41.553663Z,11,2025-11-09T06:35:11.667687
-316,Robinson,Antonee Robinson,10,Fulham,DEF,49,i,0.5,0.0,1.0,3,61,4.1,13.6,22.8,4.0,0.0,0.0,Everton (A),3,0,Knee injury - Unknown return date,2025-10-17T01:00:10.471151Z,11,2025-11-09T06:35:11.667687
-317,Andersen,Joachim Andersen,10,Fulham,DEF,45,a,2.8,2.5,3.9,39,851,31.1,232.6,31.3,47.0,100.0,80.0,Everton (A),3,0,,2025-10-18T20:00:09.645414Z,11,2025-11-09T06:35:11.667687
-318,Bassey,Calvin Bassey,10,Fulham,DEF,45,a,0.6,2.5,2.5,28,908,20.9,166.8,28.5,13.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-319,Castagne,Timothy Castagne,10,Fulham,DEF,44,a,0.1,0.8,1.4,10,397,15.8,68.8,52.5,37.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-320,Diop,Issa Diop,10,Fulham,DEF,44,a,0.1,0.5,1.3,4,223,4.0,34.0,1.7,4.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-321,J.Cuenca,Jorge Cuenca Barreno,10,Fulham,DEF,44,a,0.0,1.0,2.3,7,168,5.1,40.6,4.6,6.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-322,Tete,Kenny Tete,10,Fulham,DEF,45,a,0.2,2.8,3.2,26,720,26.3,149.6,69.9,43.0,100.0,80.0,Everton (A),3,0,,2025-09-29T00:30:06.414184Z,11,2025-11-09T06:35:11.667687
-323,Amissah,Samuel Amissah,10,Fulham,DEF,39,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-324,Iwobi,Alex Iwobi,10,Fulham,MID,65,a,1.5,2.5,3.6,40,899,57.5,176.4,300.3,98.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-325,Smith Rowe,Emile Smith Rowe,10,Fulham,MID,56,a,0.4,1.0,1.5,16,216,18.0,57.4,58.0,64.0,100.0,80.0,Everton (A),3,0,,2025-10-28T21:00:08.536299Z,11,2025-11-09T06:35:11.667687
-326,Adama,Adama Traoré Diarra,10,Fulham,MID,52,a,0.2,1.2,1.2,11,242,12.9,19.0,58.9,55.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-327,Andreas,Andreas Hoelgebaum Pereira,10,Fulham,MID,53,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Everton (A),3,0,has joined Palmeiras permanently.,2025-09-02T13:24:11.133813Z,11,2025-11-09T06:35:11.667687
-328,Sessegnon,Ryan Sessegnon,10,Fulham,MID,54,a,0.6,6.0,4.7,47,836,39.0,201.8,89.1,100.0,100.0,80.0,Everton (A),3,0,,2025-08-22T14:00:07.804630Z,11,2025-11-09T06:35:11.667687
-329,Wilson,Harry Wilson,10,Fulham,MID,52,a,0.4,3.2,3.4,34,652,39.5,131.6,129.3,135.0,100.0,80.0,Everton (A),3,0,,2025-10-28T21:00:08.556552Z,11,2025-11-09T06:35:11.667687
-330,Berge,Sander Berge,10,Fulham,MID,49,a,0.1,2.8,2.5,27,958,26.1,119.4,111.9,29.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-331,Cairney,Tom Cairney,10,Fulham,MID,49,a,0.0,1.0,1.1,8,196,7.3,14.6,35.1,22.0,100.0,80.0,Everton (A),3,0,,2025-10-18T20:00:09.684225Z,11,2025-11-09T06:35:11.667687
-332,Lukić,Saša Lukić,10,Fulham,MID,50,s,0.1,2.2,3.0,27,677,41.5,125.2,219.7,71.0,0.0,0.0,Everton (A),3,0,Suspended until 29 Nov,2025-11-08T18:30:08.726840Z,11,2025-11-09T06:35:11.667687
-333,Godo,Martial Godo,10,Fulham,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Everton (A),3,0,has joined Strasbourg permanently.,2025-09-02T13:30:29.210428Z,11,2025-11-09T06:35:11.667687
-334,Harris,Luke Harris,10,Fulham,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Everton (A),3,0,Has joined Oxford United on loan for the rest of the season.,2025-07-28T11:48:41.571901Z,11,2025-11-09T06:35:11.667687
-335,King,Josh King,10,Fulham,MID,45,a,4.0,1.8,1.7,19,659,27.8,71.8,79.1,134.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-336,Reed,Harrison Reed,10,Fulham,MID,43,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-337,Raúl,Raúl Jiménez Rodríguez,10,Fulham,FWD,62,a,0.9,3.2,2.5,25,449,27.7,77.6,49.4,157.0,100.0,80.0,Everton (A),3,0,,2025-10-29T18:00:08.542122Z,11,2025-11-09T06:35:11.667687
-338,Muniz,Rodrigo Muniz Carvalho,10,Fulham,FWD,54,d,1.0,0.5,2.4,17,348,22.2,61.8,42.0,122.0,75.0,80.0,Everton (A),3,0,Hamstring injury - 75% chance of playing,2025-11-08T19:00:09.014811Z,11,2025-11-09T06:35:11.667687
-664,Lecomte,Benjamin Lecomte,10,Fulham,GK,40,a,0.6,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-727,Chukwueze,Samuel Chukwueze,10,Fulham,MID,53,a,0.0,0.5,1.8,7,77,8.7,21.2,26.7,39.0,100.0,80.0,Everton (A),3,0,,2025-10-17T16:00:11.395453Z,11,2025-11-09T06:35:11.667687
-731,Kevin,Kevin Santos Lopes de Macedo,10,Fulham,MID,59,a,0.1,1.8,1.2,10,314,17.5,58.2,69.4,47.0,100.0,80.0,Everton (A),3,0,,2025-09-24T06:30:08.624024Z,11,2025-11-09T06:35:11.667687
-737,Kusi-Asare,Jonah Kusi-Asare,10,Fulham,FWD,45,a,0.1,0.2,1.0,1,1,0.0,0.0,0.0,0.0,,0.0,Everton (A),3,0,,,11,2025-11-09T06:35:11.667687
-339,Meslier,Illan Meslier,11,Leeds,GK,43,a,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Nott'm Forest (A),3,0,,,11,2025-11-09T06:35:11.667687
-340,Cairns,Alex Cairns,11,Leeds,GK,40,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Nott'm Forest (A),3,0,,,11,2025-11-09T06:35:11.667687
-341,Darlow,Karl Darlow,11,Leeds,GK,40,a,2.3,0.2,2.0,10,450,10.5,105.0,0.0,0.0,,0.0,Nott'm Forest (A),3,0,,,11,2025-11-09T06:35:11.667687
-342,Bogle,Jayden Bogle,11,Leeds,DEF,45,a,0.2,1.0,2.7,27,868,26.5,122.2,65.7,77.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-09-20T23:30:06.793765Z,11,2025-11-09T06:35:11.667687
-343,Struijk,Pascal Struijk,11,Leeds,DEF,44,a,0.3,0.0,3.0,24,720,23.9,148.8,30.5,59.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-10-23T13:30:08.346349Z,11,2025-11-09T06:35:11.667687
-344,Bijol,Jaka Bijol,11,Leeds,DEF,39,a,0.1,1.2,2.5,5,180,5.1,37.2,11.3,2.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-07-21T10:00:04.901206Z,11,2025-11-09T06:35:11.667687
-345,Bornauw,Sebastiaan Bornauw,11,Leeds,DEF,39,d,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,75.0,80.0,Nott'm Forest (A),3,0,Knee injury - 75% chance of playing,2025-11-07T15:00:08.770628Z,11,2025-11-09T06:35:11.667687
-346,Byram,Sam Byram,11,Leeds,DEF,39,a,0.2,0.0,1.0,1,7,0.0,0.0,0.0,0.0,,0.0,Nott'm Forest (A),3,0,,,11,2025-11-09T06:35:11.667687
-347,Gudmundsson,Gabriel Gudmundsson,11,Leeds,DEF,40,a,4.6,0.8,2.6,26,830,39.3,171.0,175.3,47.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-10-25T09:30:08.635945Z,11,2025-11-09T06:35:11.667687
-348,Rodon,Joe Rodon,11,Leeds,DEF,41,a,6.4,3.8,4.5,45,900,42.5,273.2,29.8,122.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-09-05T10:00:06.564684Z,11,2025-11-09T06:35:11.667687
-349,Schmidt,Isaac Schmidt,11,Leeds,DEF,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest (A),3,0,has joined Werder Bremen on loan for the rest of the season.,2025-09-02T12:00:32.361624Z,11,2025-11-09T06:35:11.667687
-350,Aaronson,Brenden Aaronson,11,Leeds,MID,54,a,0.2,3.8,3.4,34,636,42.5,125.2,148.5,151.0,,0.0,Nott'm Forest (A),3,0,,,11,2025-11-09T06:35:11.667687
-351,Gnonto,Wilfried Gnonto,11,Leeds,MID,52,a,0.1,0.0,1.5,6,191,5.3,15.8,21.4,16.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-09-18T14:30:08.147956Z,11,2025-11-09T06:35:11.667687
-352,Harrison,Jack Harrison,11,Leeds,MID,52,a,0.1,1.0,1.1,10,253,11.5,30.0,48.6,35.0,,0.0,Nott'm Forest (A),3,0,,,11,2025-11-09T06:35:11.667687
-353,James,Daniel James,11,Leeds,MID,53,a,0.1,0.8,1.4,10,268,13.5,24.4,72.8,37.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-10-01T21:30:06.176228Z,11,2025-11-09T06:35:11.667687
-354,Ampadu,Ethan Ampadu,11,Leeds,MID,49,a,0.1,1.8,2.8,22,697,20.5,115.2,72.1,17.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-10-23T13:30:08.371584Z,11,2025-11-09T06:35:11.667687
-355,Greenwood,Sam Greenwood,11,Leeds,MID,49,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest (A),3,0,has joined Pogon Szczecin permanently.,2025-09-02T12:00:32.393623Z,11,2025-11-09T06:35:11.667687
-356,Gruev,Ilia Gruev,11,Leeds,MID,48,a,0.0,0.0,1.4,7,211,3.6,25.0,8.9,2.0,,0.0,Nott'm Forest (A),3,0,,,11,2025-11-09T06:35:11.667687
-357,Ramazani,Largie Ramazani,11,Leeds,MID,49,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest (A),3,0,has joined Valencia on loan for the rest of the season.,2025-09-02T12:00:32.377624Z,11,2025-11-09T06:35:11.667687
-358,Tanaka,Tanaka Ao,11,Leeds,MID,48,a,0.1,1.5,1.6,13,320,9.0,19.8,62.4,10.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-08-24T01:30:06.493361Z,11,2025-11-09T06:35:11.667687
-359,Crew,Charlie Crew,11,Leeds,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest (A),3,0,Has joined Doncaster Rovers on loan for the rest of the season.,2025-08-11T01:12:36.647868Z,11,2025-11-09T06:35:11.667687
-360,Gelhardt,Joe Gelhardt,11,Leeds,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest (A),3,0,Has joined Hull City on loan for the rest of the season.,2025-08-11T11:07:52.207439Z,11,2025-11-09T06:35:11.667687
-361,Gyabi,Darko Gyabi,11,Leeds,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest (A),3,0,has joined Hull City permanently.,2025-09-02T13:38:58.066167Z,11,2025-11-09T06:35:11.667687
-362,Piroe,Joël Piroe,11,Leeds,FWD,50,a,0.4,0.2,1.2,5,162,9.1,5.0,12.0,77.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-09-11T17:30:06.758854Z,11,2025-11-09T06:35:11.667687
-363,Bamford,Patrick Bamford,11,Leeds,FWD,49,u,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest (A),3,0,has departed the club as a free agent.,2025-09-02T12:00:32.408955Z,11,2025-11-09T06:35:11.667687
-364,Mateo Joseph,Mateo Joseph Fernández-Regatillo,11,Leeds,FWD,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Nott'm Forest (A),3,0,Has joined RCD Mallorca on loan for the rest of the season.,2025-08-11T11:07:32.622877Z,11,2025-11-09T06:35:11.667687
-365,Nmecha,Lukas Nmecha,11,Leeds,FWD,50,a,0.6,0.8,1.5,15,199,14.3,49.8,12.1,82.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-09-11T17:30:06.775545Z,11,2025-11-09T06:35:11.667687
-493,Longstaff,Sean Longstaff,11,Leeds,MID,49,a,1.1,2.2,3.7,37,714,54.7,204.0,292.4,50.0,,0.0,Nott'm Forest (A),3,0,,,11,2025-11-09T06:35:11.667687
-660,Stach,Anton Stach,11,Leeds,MID,49,a,2.1,0.8,4.0,36,708,44.5,141.6,209.5,93.0,,0.0,Nott'm Forest (A),3,0,,,11,2025-11-09T06:35:11.667687
-665,Perri,Lucas Estella Perri,11,Leeds,GK,45,a,0.2,0.8,3.0,15,450,8.7,87.4,0.0,0.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-09-11T17:30:07.176029Z,11,2025-11-09T06:35:11.667687
-691,Calvert-Lewin,Dominic Calvert-Lewin,11,Leeds,FWD,55,d,1.1,1.5,3.0,24,598,33.8,62.8,109.1,172.0,75.0,80.0,Nott'm Forest (A),3,0,Thigh injury - 75% chance of playing,2025-11-03T09:30:09.059059Z,11,2025-11-09T06:35:11.667687
-698,Okafor,Noah Okafor,11,Leeds,MID,55,a,0.2,1.5,3.9,27,425,28.4,109.0,59.6,115.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-10-17T00:30:11.157914Z,11,2025-11-09T06:35:11.667687
-706,Justin,James Justin,11,Leeds,DEF,40,a,0.2,0.2,0.8,4,77,1.8,15.4,1.1,2.0,,0.0,Nott'm Forest (A),3,0,,,11,2025-11-09T06:35:11.667687
-741,Gray,Harry Gray,11,Leeds,FWD,45,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,100.0,80.0,Nott'm Forest (A),3,0,,2025-10-02T14:30:07.989923Z,11,2025-11-09T06:35:11.667687
-366,A.Becker,Alisson Becker,12,Liverpool,GK,54,i,5.5,0.0,3.3,20,540,10.7,106.8,0.1,0.0,0.0,0.0,Man City (A),4,0,Muscle injury - Expected back 22 Nov,2025-10-01T00:30:06.184759Z,11,2025-11-09T06:35:11.667687
-367,Mamardashvili,Giorgi Mamardashvili,12,Liverpool,GK,43,a,1.0,2.5,3.0,12,360,9.8,98.8,0.0,0.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-368,Pécsi,Ármin Pécsi,12,Liverpool,GK,39,a,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-369,Woodman,Freddie Woodman,12,Liverpool,GK,39,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-370,Frimpong,Jeremie Frimpong,12,Liverpool,DEF,58,i,5.1,0.2,1.8,7,83,6.6,19.4,17.3,29.0,0.0,0.0,Man City (A),4,0,Hamstring injury - Unknown return date,2025-10-23T09:00:08.355744Z,11,2025-11-09T06:35:11.667687
-371,Kerkez,Milos Kerkez,12,Liverpool,DEF,57,a,3.4,1.8,2.2,20,660,29.2,142.2,86.0,63.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-372,Robertson,Andrew Robertson,12,Liverpool,DEF,58,a,1.0,2.2,2.2,11,236,21.1,62.6,100.8,47.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-373,Virgil,Virgil van Dijk,12,Liverpool,DEF,59,a,23.0,2.8,4.0,40,900,41.2,308.2,44.8,60.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-374,Konaté,Ibrahima Konaté,12,Liverpool,DEF,54,a,2.7,3.5,3.8,38,832,31.4,208.0,72.2,33.0,100.0,80.0,Man City (A),4,0,,2025-10-05T01:30:08.114532Z,11,2025-11-09T06:35:11.667687
-375,Bradley,Conor Bradley,12,Liverpool,DEF,50,a,0.2,3.0,1.9,15,447,13.2,57.0,47.3,29.0,100.0,80.0,Man City (A),4,0,,2025-08-10T23:00:06.506922Z,11,2025-11-09T06:35:11.667687
-376,Gomez,Joe Gomez,12,Liverpool,DEF,49,a,0.1,0.2,1.0,3,36,2.0,14.6,0.8,6.0,100.0,80.0,Man City (A),4,0,,2025-08-10T23:00:06.519894Z,11,2025-11-09T06:35:11.667687
-377,Tsimikas,Konstantinos Tsimikas,12,Liverpool,DEF,48,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man City (A),4,0,has joined AS Roma on loan for the rest of the season.,2025-09-22T09:16:54.545563Z,11,2025-11-09T06:35:11.667687
-378,Nallo,Amara Nallo,12,Liverpool,DEF,38,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,100.0,80.0,Man City (A),4,0,,2025-10-30T11:30:08.685763Z,11,2025-11-09T06:35:11.667687
-379,R.Williams,Rhys Williams,12,Liverpool,DEF,38,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-380,Ramsay,Calvin Ramsay,12,Liverpool,DEF,38,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-381,M.Salah,Mohamed Salah,12,Liverpool,MID,142,a,24.3,4.5,5.2,52,894,78.9,221.4,271.8,296.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-382,Wirtz,Florian Wirtz,12,Liverpool,MID,80,a,7.2,1.0,1.7,17,604,43.1,73.8,227.3,130.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-383,Luis Díaz,Luis Díaz Marulanda,12,Liverpool,MID,80,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man City (A),4,0,Has joined Bayern Munch permanently.,2025-07-30T14:05:01.491481Z,11,2025-11-09T06:35:11.667687
-384,Gakpo,Cody Gakpo,12,Liverpool,MID,76,a,13.3,3.0,4.5,45,795,75.3,195.8,291.9,264.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-385,Chiesa,Federico Chiesa,12,Liverpool,MID,64,a,0.3,1.2,2.7,19,110,17.7,98.0,16.7,62.0,100.0,80.0,Man City (A),4,0,,2025-10-03T09:30:08.615318Z,11,2025-11-09T06:35:11.667687
-386,Mac Allister,Alexis Mac Allister,12,Liverpool,MID,63,a,1.2,2.2,2.7,24,564,27.6,100.4,129.4,46.0,100.0,80.0,Man City (A),4,0,,2025-08-28T17:30:07.822110Z,11,2025-11-09T06:35:11.667687
-387,Szoboszlai,Dominik Szoboszlai,12,Liverpool,MID,66,a,4.8,4.0,4.3,43,900,65.3,241.6,292.7,118.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-388,C.Jones,Curtis Jones,12,Liverpool,MID,54,a,0.1,0.8,1.6,13,322,15.8,58.8,66.3,33.0,100.0,80.0,Man City (A),4,0,,2025-10-25T23:00:08.088311Z,11,2025-11-09T06:35:11.667687
-390,Gravenberch,Ryan Gravenberch,12,Liverpool,MID,56,a,4.5,3.2,6.2,50,691,41.0,225.4,121.1,63.0,100.0,80.0,Man City (A),4,0,,2025-10-20T00:30:09.747338Z,11,2025-11-09T06:35:11.667687
-392,Endo,Endo Wataru,12,Liverpool,MID,49,a,0.1,0.0,1.5,6,36,3.9,28.8,10.9,0.0,100.0,80.0,Man City (A),4,0,,2025-10-13T09:30:08.494382Z,11,2025-11-09T06:35:11.667687
-393,Bajcetic,Stefan Bajčetić Maquieira,12,Liverpool,MID,43,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man City (A),4,0,Hamstring injury - Unknown return date,2025-09-12T10:00:06.938334Z,11,2025-11-09T06:35:11.667687
-394,McConnell,James McConnell,12,Liverpool,MID,44,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man City (A),4,0,has joined Ajax on loan for the rest of the season.,2025-09-22T21:23:24.738341Z,11,2025-11-09T06:35:11.667687
-395,Morton,Tyler Morton,12,Liverpool,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man City (A),4,0,Has joined Lyon permanently.,2025-08-11T01:13:11.403187Z,11,2025-11-09T06:35:11.667687
-396,Nyoni,Trey Nyoni,12,Liverpool,MID,43,a,0.6,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-397,Darwin,Darwin Núñez Ribeiro,12,Liverpool,FWD,65,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man City (A),4,0,Has joined Al-Hilal permanently.,2025-08-11T11:06:59.061616Z,11,2025-11-09T06:35:11.667687
-398,Danns,Jayden Danns,12,Liverpool,FWD,44,i,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man City (A),4,0,Hamstring injury - Unknown return date,2025-10-17T01:00:10.583515Z,11,2025-11-09T06:35:11.667687
-499,Isak,Alexander Isak,12,Liverpool,FWD,104,d,4.7,0.5,2.5,10,250,8.7,21.8,21.5,50.0,75.0,80.0,Man City (A),4,0,Lack of match fitness - 75% chance of playing,2025-10-23T07:30:08.636044Z,11,2025-11-09T06:35:11.667687
-661,Ekitiké,Hugo Ekitiké,12,Liverpool,FWD,86,a,15.6,1.2,4.2,38,575,35.0,154.6,71.5,132.0,100.0,80.0,Man City (A),4,0,,2025-10-01T00:30:06.331343Z,11,2025-11-09T06:35:11.667687
-686,Ngumoha,Rio Ngumoha,12,Liverpool,MID,45,a,0.5,0.2,2.2,9,30,8.8,39.2,22.7,25.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-692,Leoni,Giovanni Leoni,12,Liverpool,DEF,49,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man City (A),4,0,Knee injury - Expected back 01 Sep,2025-09-24T06:00:06.281394Z,11,2025-11-09T06:35:11.667687
-746,Morrison,Kieran Morrison,12,Liverpool,MID,45,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man City (A),4,0,,,11,2025-11-09T06:35:11.667687
-182,Trafford,James Trafford,13,Man City,GK,47,a,1.1,0.0,3.7,11,270,10.1,100.2,0.0,0.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-399,Ederson M.,Ederson Santana de Moraes,13,Man City,GK,53,u,0.9,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool (H),4,1,has joined Fenerbache permanently.,2025-09-02T13:32:35.715838Z,11,2025-11-09T06:35:11.667687
-400,Ortega Moreno,Stefan Ortega Moreno,13,Man City,GK,48,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-401,Bettinelli,Marcus Bettinelli,13,Man City,GK,40,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,100.0,80.0,Liverpool (H),4,1,,2025-08-22T12:00:07.134628Z,11,2025-11-09T06:35:11.667687
-402,Aït-Nouri,Rayan Aït-Nouri,13,Man City,DEF,58,a,4.7,0.2,2.8,11,203,7.8,44.0,27.5,7.0,100.0,80.0,Liverpool (H),4,1,,2025-10-17T13:00:10.922539Z,11,2025-11-09T06:35:11.667687
-403,Gvardiol,Joško Gvardiol,13,Man City,DEF,58,a,5.1,1.0,4.7,28,519,20.2,125.0,46.3,31.0,100.0,80.0,Liverpool (H),4,1,,2025-08-15T14:00:07.606174Z,11,2025-11-09T06:35:11.667687
-404,Akanji,Manuel Akanji,13,Man City,DEF,54,u,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool (H),4,1,has joined Inter Milan on loan for the rest of the season.,2025-09-02T13:32:35.738667Z,11,2025-11-09T06:35:11.667687
-405,Aké,Nathan Aké,13,Man City,DEF,53,a,0.6,1.5,2.0,10,201,7.6,37.4,24.9,13.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-406,Khusanov,Abdukodir Khusanov,13,Man City,DEF,54,a,0.3,0.0,2.8,11,227,4.8,42.4,5.2,0.0,100.0,80.0,Liverpool (H),4,1,,2025-09-21T22:30:06.201489Z,11,2025-11-09T06:35:11.667687
-407,Matheus N.,Matheus Nunes,13,Man City,DEF,53,a,0.7,2.8,4.0,32,603,24.4,142.0,75.6,26.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-408,Rúben,Rúben dos Santos Gato Alves Dias,13,Man City,DEF,55,a,4.4,3.0,3.9,39,815,24.4,195.4,33.8,14.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-409,Stones,John Stones,13,Man City,DEF,54,a,0.7,0.5,2.2,11,324,9.1,69.6,19.3,2.0,100.0,80.0,Liverpool (H),4,1,,2025-09-12T13:00:10.101362Z,11,2025-11-09T06:35:11.667687
-410,Lewis,Rico Lewis,13,Man City,DEF,48,a,1.6,0.2,3.0,15,172,9.4,47.2,32.2,15.0,100.0,80.0,Liverpool (H),4,1,,2025-09-05T10:00:06.653551Z,11,2025-11-09T06:35:11.667687
-411,O’Reilly,Nico O'Reilly,13,Man City,DEF,49,a,1.2,5.0,4.4,40,593,37.1,176.2,117.9,77.0,100.0,80.0,Liverpool (H),4,1,,2025-09-05T10:00:06.671127Z,11,2025-11-09T06:35:11.667687
-412,Vitor Reis,Vitor de Oliveira Nunes dos Reis,13,Man City,DEF,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool (H),4,1,Has joined Girona on loan for the rest of the season.,2025-08-11T01:23:23.836966Z,11,2025-11-09T06:35:11.667687
-413,Marmoush,Omar Marmoush,13,Man City,MID,83,a,2.6,0.5,2.2,11,162,13.9,38.2,36.4,65.0,100.0,80.0,Liverpool (H),4,1,,2025-10-17T13:00:10.956609Z,11,2025-11-09T06:35:11.667687
-414,Foden,Phil Foden,13,Man City,MID,80,a,4.4,2.0,3.5,28,621,57.7,134.8,341.0,101.0,100.0,80.0,Liverpool (H),4,1,,2025-08-10T23:00:06.538510Z,11,2025-11-09T06:35:11.667687
-415,Savinho,Sávio Moreira de Oliveira,13,Man City,MID,69,a,0.5,2.0,2.1,15,351,26.6,54.2,80.9,132.0,100.0,80.0,Liverpool (H),4,1,,2025-08-15T14:00:07.649098Z,11,2025-11-09T06:35:11.667687
-416,Bernardo,Bernardo Mota Veiga de Carvalho e Silva,13,Man City,MID,63,a,0.5,1.2,2.0,20,550,26.4,85.0,155.1,24.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-417,Cherki,Rayan Cherki,13,Man City,MID,63,a,3.1,3.0,3.8,19,161,23.1,100.2,88.8,41.0,100.0,80.0,Liverpool (H),4,1,,2025-09-01T10:30:08.352331Z,11,2025-11-09T06:35:11.667687
-418,Doku,Jérémy Doku,13,Man City,MID,64,a,4.4,1.0,3.3,33,544,57.0,139.0,261.1,171.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-420,Gündoğan,İlkay Gündoğan,13,Man City,MID,63,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool (H),4,1,has joined Galatasaray permanently.,2025-09-05T08:55:41.702765Z,11,2025-11-09T06:35:11.667687
-421,Rodrigo,Rodrigo 'Rodri' Hernandez Cascante,13,Man City,MID,63,d,0.4,0.2,2.0,12,292,12.0,50.6,50.9,19.0,25.0,20.0,Liverpool (H),4,1,Muscle injury - 25% chance of playing,2025-11-07T16:00:08.654141Z,11,2025-11-09T06:35:11.667687
-422,Kovačić,Mateo Kovačić,13,Man City,MID,59,i,0.0,0.2,1.0,1,4,0.3,2.6,0.8,0.0,0.0,0.0,Liverpool (H),4,1,Ankle injury - Unknown return date,2025-11-03T09:30:08.601064Z,11,2025-11-09T06:35:11.667687
-423,N.Gonzalez,Nico González Iglesias,13,Man City,MID,59,a,0.1,2.2,2.2,20,554,23.3,114.0,92.5,27.0,100.0,80.0,Liverpool (H),4,1,,2025-10-22T10:00:08.540683Z,11,2025-11-09T06:35:11.667687
-424,Bobb,Oscar Bobb,13,Man City,MID,53,a,0.3,0.8,2.2,18,451,28.2,67.6,141.1,72.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-425,Echeverri,Claudio Echeverri,13,Man City,MID,54,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool (H),4,1,Has joined Bayer Leverkusen on loan for the rest of the season.,2025-08-21T14:03:07.217793Z,11,2025-11-09T06:35:11.667687
-427,Reijnders,Tijjani Reijnders,13,Man City,MID,55,a,20.3,0.8,3.4,34,757,46.3,139.4,164.2,163.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-428,Nypan,Sverre Nypan,13,Man City,MID,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Liverpool (H),4,1,Has joined Middlesbrough on loan for the rest of the season.,2025-08-19T13:38:08.307876Z,11,2025-11-09T06:35:11.667687
-429,Phillips,Kalvin Phillips,13,Man City,MID,48,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-430,Haaland,Erling Haaland,13,Man City,FWD,148,a,70.4,7.0,9.8,98,854,116.0,489.0,63.4,607.0,100.0,80.0,Liverpool (H),4,1,,2025-09-24T06:00:06.159318Z,11,2025-11-09T06:35:11.667687
-736,Donnarumma,Gianluigi Donnarumma,13,Man City,GK,57,a,10.0,2.5,3.6,25,630,10.0,98.8,0.0,0.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-739,Mukasa,Divine Mukasa,13,Man City,MID,45,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-740,Mfuni,Stephen Mfuni,13,Man City,DEF,40,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-742,McAidoo,Ryan McAidoo,13,Man City,MID,45,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Liverpool (H),4,1,,,11,2025-11-09T06:35:11.667687
-119,Mbeumo,Bryan Mbeumo,14,Man Utd,MID,84,a,30.6,8.2,5.5,60,955,95.5,271.4,350.9,333.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-431,Bayindir,Altay Bayındır,14,Man Utd,GK,48,a,0.3,0.0,1.8,11,540,12.8,118.4,10.0,0.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-432,Onana,André Onana,14,Man Utd,GK,49,u,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs (A),3,0,has joined Trabzonspor on loan for the rest of the season.,2025-09-12T15:53:11.993916Z,11,2025-11-09T06:35:11.667687
-433,Harrison,Elyh Harrison,14,Man Utd,GK,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs (A),3,0,On loan to Shrewsbury Town,2025-07-23T18:48:43.383466Z,11,2025-11-09T06:35:11.667687
-434,Heaton,Tom Heaton,14,Man Utd,GK,39,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-435,Mee,Dermot Mee,14,Man Utd,GK,39,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-436,De Ligt,Matthijs de Ligt,14,Man Utd,DEF,50,a,2.9,3.2,3.5,39,990,36.7,242.8,44.5,81.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-437,Martinez,Lisandro Martínez,14,Man Utd,DEF,48,i,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs (A),3,0,Knee injury - Unknown return date,2025-08-10T23:00:06.577034Z,11,2025-11-09T06:35:11.667687
-438,Mazraoui,Noussair Mazraoui,14,Man Utd,DEF,49,a,0.2,0.2,2.0,10,200,6.6,41.4,16.9,8.0,100.0,80.0,Spurs (A),3,0,,2025-09-26T15:00:08.532805Z,11,2025-11-09T06:35:11.667687
-439,D.Leon,Diego León Blanco,14,Man Utd,DEF,42,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-440,Dalot,Diogo Dalot Teixeira,14,Man Utd,DEF,44,a,1.0,1.5,2.4,22,592,25.7,101.4,128.7,27.0,100.0,80.0,Spurs (A),3,0,,2025-09-05T10:00:06.729240Z,11,2025-11-09T06:35:11.667687
-441,Dorgu,Patrick Dorgu,14,Man Utd,DEF,43,a,2.9,1.5,1.6,16,622,32.1,112.0,124.4,84.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-442,Maguire,Harry Maguire,14,Man Utd,DEF,44,d,0.8,4.2,4.1,33,341,14.3,86.8,16.3,40.0,75.0,80.0,Spurs (A),3,0,Hamstring injury - 75% chance of playing,2025-11-08T18:30:08.844225Z,11,2025-11-09T06:35:11.667687
-443,Shaw,Luke Shaw,14,Man Utd,DEF,45,a,0.5,3.2,2.5,28,933,20.5,155.0,45.1,5.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-444,Yoro,Leny Yoro,14,Man Utd,DEF,44,a,1.7,0.8,2.1,23,638,15.5,107.4,24.6,24.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-445,Amass,Harry Amass,14,Man Utd,DEF,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs (A),3,0,has joined Sheffield Wednesday on loan for the rest of the season.,2025-09-02T13:39:58.762783Z,11,2025-11-09T06:35:11.667687
-446,Fredricson,Tyler Fredricson,14,Man Utd,DEF,39,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-447,Heaven,Ayden Heaven,14,Man Utd,DEF,38,a,1.1,0.8,2.0,4,28,3.9,28.6,10.3,0.0,100.0,80.0,Spurs (A),3,0,,2025-10-14T13:00:06.698643Z,11,2025-11-09T06:35:11.667687
-448,Malacia,Tyrell Malacia,14,Man Utd,DEF,39,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-449,B.Fernandes,Bruno Borges Fernandes,14,Man Utd,MID,89,a,16.2,5.5,4.5,50,980,92.2,313.0,413.3,194.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-450,Cunha,Matheus Santos Carneiro da Cunha,14,Man Utd,MID,79,a,4.4,4.2,2.6,26,683,45.7,132.2,148.0,177.0,100.0,80.0,Spurs (A),3,0,,2025-08-31T01:00:08.314117Z,11,2025-11-09T06:35:11.667687
-451,Rashford,Marcus Rashford,14,Man Utd,MID,70,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs (A),3,0,Has joined Barcelona on loan for the rest of the season,2025-07-24T10:12:59.455702Z,11,2025-11-09T06:35:11.667687
-452,Amad,Amad Diallo,14,Man Utd,MID,63,a,1.5,5.8,3.7,37,753,55.1,189.6,204.3,156.0,100.0,80.0,Spurs (A),3,0,,2025-09-26T15:00:08.569110Z,11,2025-11-09T06:35:11.667687
-454,Antony,Antony dos Santos,14,Man Utd,MID,59,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs (A),3,0,has joined Real Betis permanently.,2025-09-02T13:30:59.559397Z,11,2025-11-09T06:35:11.667687
-455,Mount,Mason Mount,14,Man Utd,MID,59,a,0.3,1.0,2.8,22,349,22.1,64.0,89.6,67.0,100.0,80.0,Spurs (A),3,0,,2025-10-24T14:00:08.382202Z,11,2025-11-09T06:35:11.667687
-457,Casemiro,Carlos Henrique Casimiro,14,Man Utd,MID,55,d,1.0,8.0,4.7,47,617,40.0,207.8,96.5,95.0,75.0,80.0,Spurs (A),3,0,Knock - 75% chance of playing,2025-11-08T18:30:08.862942Z,11,2025-11-09T06:35:11.667687
-458,Mainoo,Kobbie Mainoo,14,Man Utd,MID,47,d,0.5,0.5,1.0,7,138,9.1,29.4,56.6,5.0,75.0,80.0,Spurs (A),3,0,Knock - 75% chance of playing,2025-11-08T18:30:08.882474Z,11,2025-11-09T06:35:11.667687
-459,Ugarte,Manuel Ugarte Ribeiro,14,Man Utd,MID,48,a,0.1,0.8,1.4,13,299,8.2,54.6,26.4,2.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-460,Collyer,Toby Collyer,14,Man Utd,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs (A),3,0,Has joined West Bromwich Albion on loan for the rest of the season.,2025-08-19T13:36:56.708077Z,11,2025-11-09T06:35:11.667687
-461,Fitzgerald,Jayce Fitzgerald,14,Man Utd,MID,44,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-462,J.Fletcher,Jack Fletcher,14,Man Utd,MID,44,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-463,Kone,Sékou Koné,14,Man Utd,MID,44,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-464,Moorhouse,Jack Moorhouse,14,Man Utd,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs (A),3,0,has joined Leyton Orient on loan for the rest of the season.,2025-09-22T21:21:54.592776Z,11,2025-11-09T06:35:11.667687
-465,Højlund,Rasmus Højlund,14,Man Utd,FWD,63,u,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs (A),3,0,has joined Napoli on loan for the rest of the season.,2025-09-02T13:30:59.575548Z,11,2025-11-09T06:35:11.667687
-466,Zirkzee,Joshua Zirkzee,14,Man Utd,FWD,58,a,0.4,0.2,1.0,4,82,8.9,13.6,17.1,60.0,100.0,80.0,Spurs (A),3,0,,2025-08-10T23:00:06.602693Z,11,2025-11-09T06:35:11.667687
-467,Obi,Chido Obi,14,Man Utd,FWD,43,a,1.5,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-468,Wheatley,Ethan Wheatley,14,Man Utd,FWD,45,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Spurs (A),3,0,has joined Northampton Town on loan for the rest of the season.,2025-09-22T21:18:26.096577Z,11,2025-11-09T06:35:11.667687
-681,Šeško,Benjamin Sesko,14,Man Utd,FWD,73,d,4.9,2.0,2.8,31,616,43.5,122.6,97.8,221.0,75.0,80.0,Spurs (A),3,0,Knee injury - 75% chance of playing,2025-11-08T18:30:09.316829Z,11,2025-11-09T06:35:11.667687
-733,Lammens,Senne Lammens,14,Man Utd,GK,50,a,1.4,1.8,3.2,16,450,11.1,110.8,0.0,0.0,,0.0,Spurs (A),3,0,,,11,2025-11-09T06:35:11.667687
-52,J.Ramsey,Jacob Ramsey,15,Newcastle,MID,53,a,0.2,0.2,0.8,3,124,9.0,23.4,57.3,9.0,100.0,80.0,Brentford (A),3,0,,2025-08-31T01:30:07.565346Z,11,2025-11-09T06:35:11.667687
-135,Wissa,Yoane Wissa,15,Newcastle,FWD,73,i,0.5,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford (A),3,0,Knee injury - Expected back 22 Nov,2025-09-12T10:00:06.619832Z,11,2025-11-09T06:35:11.667687
-469,Pope,Nick Pope,15,Newcastle,GK,52,a,12.0,2.0,4.9,49,900,25.7,258.0,0.0,0.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-471,Gillespie,Mark Gillespie,15,Newcastle,GK,40,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-472,Odysseas,Odysseas Vlachodimos,15,Newcastle,GK,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford (A),3,0,Has joined Sevilla on loan for the rest of the season.,2025-08-13T15:41:50.078613Z,11,2025-11-09T06:35:11.667687
-473,Hall,Lewis Hall,15,Newcastle,DEF,52,a,0.7,0.0,3.0,9,133,3.9,27.4,4.0,7.0,100.0,80.0,Brentford (A),3,0,,2025-10-06T07:30:08.142766Z,11,2025-11-09T06:35:11.667687
-474,Schär,Fabian Schär,15,Newcastle,DEF,54,a,1.8,0.5,4.2,25,424,15.7,112.0,27.0,17.0,100.0,80.0,Brentford (A),3,0,,2025-09-19T11:30:08.392759Z,11,2025-11-09T06:35:11.667687
-475,Botman,Sven Botman,15,Newcastle,DEF,49,a,0.6,0.5,3.5,28,552,21.2,135.2,34.3,43.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-476,Burn,Dan Burn,15,Newcastle,DEF,52,a,10.2,1.2,4.8,48,900,25.3,161.8,48.4,43.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-477,Livramento,Tino Livramento,15,Newcastle,DEF,49,i,2.8,0.0,6.2,37,526,14.3,71.4,56.3,16.0,0.0,0.0,Brentford (A),3,0,Knee injury - Expected back 22 Nov,2025-09-29T00:30:06.563882Z,11,2025-11-09T06:35:11.667687
-478,Trippier,Kieran Trippier,15,Newcastle,DEF,50,a,2.5,0.8,3.8,30,609,33.1,101.8,226.5,4.0,100.0,80.0,Brentford (A),3,0,,2025-09-19T11:30:08.407420Z,11,2025-11-09T06:35:11.667687
-479,Krafth,Emil Krafth,15,Newcastle,DEF,43,a,0.0,0.0,0.0,0,45,0.3,1.4,1.2,0.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-480,Lascelles,Jamaal Lascelles,15,Newcastle,DEF,43,a,0.1,0.0,0.5,1,19,1.7,10.2,0.0,7.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-481,A.Murphy,Alex Murphy,15,Newcastle,DEF,39,a,0.6,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-482,Ashby,Harrison Ashby,15,Newcastle,DEF,39,i,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford (A),3,0,Thigh injury - Unknown return date,2025-10-17T14:00:10.381414Z,11,2025-11-09T06:35:11.667687
-483,Pivas,Miodrag Pivaš,15,Newcastle,DEF,39,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-484,Targett,Matt Targett,15,Newcastle,DEF,40,u,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford (A),3,0,has joined Middlesbrough on loan for the rest of the season.,2025-09-02T12:49:12.555659Z,11,2025-11-09T06:35:11.667687
-485,Gordon,Anthony Gordon,15,Newcastle,MID,74,d,2.1,1.2,1.7,12,461,26.4,40.8,95.8,130.0,50.0,45.0,Brentford (A),3,0,Hip injury - 50% chance of playing,2025-11-06T09:30:08.733043Z,11,2025-11-09T06:35:11.667687
-486,Elanga,Anthony Elanga,15,Newcastle,MID,67,a,3.5,0.8,1.5,15,398,22.8,44.0,114.7,69.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-487,Barnes,Harvey Barnes,15,Newcastle,MID,63,a,0.4,0.8,1.5,15,388,23.4,34.2,101.5,101.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-488,Bruno G.,Bruno Guimarães Rodriguez Moura,15,Newcastle,MID,66,a,3.7,4.0,5.1,46,805,53.3,204.8,228.3,100.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-489,J.Murphy,Jacob Murphy,15,Newcastle,MID,61,a,1.2,4.2,3.8,34,490,44.6,134.8,93.1,219.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-490,Joelinton,Joelinton Cássio Apolinário de Lira,15,Newcastle,MID,59,a,0.3,1.8,2.5,20,626,25.9,68.6,82.0,107.0,100.0,80.0,Brentford (A),3,0,,2025-10-17T13:00:11.069838Z,11,2025-11-09T06:35:11.667687
-491,Tonali,Sandro Tonali,15,Newcastle,MID,54,a,1.3,1.2,2.8,28,793,45.8,146.0,219.1,92.0,100.0,80.0,Brentford (A),3,0,,2025-10-24T10:30:09.210286Z,11,2025-11-09T06:35:11.667687
-492,Antoñito C.,Antoñito Cordero Campillo,15,Newcastle,MID,49,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford (A),3,0,has joined KVC Westerlo on loan for the rest of the season.,2025-09-22T21:20:47.006379Z,11,2025-11-09T06:35:11.667687
-494,Willock,Joe Willock,15,Newcastle,MID,50,a,0.1,0.0,2.0,4,86,1.8,10.6,2.2,6.0,100.0,80.0,Brentford (A),3,0,,2025-08-10T23:30:07.136690Z,11,2025-11-09T06:35:11.667687
-495,Hayden,Isaac Hayden,15,Newcastle,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford (A),3,0,Has departed the club as a free agent.,2025-08-11T01:17:33.103826Z,11,2025-11-09T06:35:11.667687
-496,Kuol,Garang Kuol,15,Newcastle,MID,44,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford (A),3,0,has joined Sparta Prague permanently.,2025-09-22T21:20:47.021681Z,11,2025-11-09T06:35:11.667687
-497,L.Miley,Lewis Miley,15,Newcastle,MID,44,a,2.1,1.5,1.9,13,272,10.9,45.0,52.3,10.0,100.0,80.0,Brentford (A),3,0,,2025-10-13T11:30:08.705391Z,11,2025-11-09T06:35:11.667687
-498,White,Joe White,15,Newcastle,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Brentford (A),3,0,Has joined Leyton Orient on loan for the rest of the season.,2025-07-30T14:07:15.215025Z,11,2025-11-09T06:35:11.667687
-500,Osula,William Osula,15,Newcastle,FWD,55,i,0.3,1.5,1.8,18,213,12.1,41.2,14.2,68.0,0.0,0.0,Brentford (A),3,0,Ankle injury - Unknown return date,2025-11-06T09:30:08.761577Z,11,2025-11-09T06:35:11.667687
-501,Neave,Sean Neave,15,Newcastle,FWD,44,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-674,Ramsdale,Aaron Ramsdale,15,Newcastle,GK,48,a,0.6,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-684,Thiaw,Malick Thiaw,15,Newcastle,DEF,49,a,0.5,1.0,3.3,23,542,19.3,116.2,19.8,56.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-689,Seung soo,Seung-Soo Park,15,Newcastle,MID,44,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-714,Woltemade,Nick Woltemade,15,Newcastle,FWD,74,a,22.6,2.8,5.0,35,523,36.8,145.0,61.8,158.0,,0.0,Brentford (A),3,0,,,11,2025-11-09T06:35:11.667687
-12,Zinchenko,Oleksandr Zinchenko,16,Nott'm Forest,DEF,49,i,0.2,0.2,1.7,5,253,13.0,62.6,52.4,15.0,0.0,0.0,Leeds (H),2,1,Muscle injury - Unknown return date,2025-10-24T09:00:07.804001Z,11,2025-11-09T06:35:11.667687
-426,McAtee,James McAtee,16,Nott'm Forest,MID,51,a,0.1,0.0,1.0,4,126,6.1,14.0,39.8,6.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-502,Sels,Matz Sels,16,Nott'm Forest,GK,48,a,8.2,1.5,2.1,21,900,25.6,255.4,0.0,0.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-503,C.Miguel,Carlos Miguel dos Santos Pereira,16,Nott'm Forest,GK,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds (H),2,1,Has joined Palmeiras permanently.,2025-08-20T13:32:34.630338Z,11,2025-11-09T06:35:11.667687
-504,Turner,Matt Turner,16,Nott'm Forest,GK,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds (H),2,1,Has joined Lyon permanently.,2025-08-11T01:18:09.881299Z,11,2025-11-09T06:35:11.667687
-505,Milenković,Nikola Milenković,16,Nott'm Forest,DEF,52,a,3.8,0.8,1.5,15,900,23.2,150.6,26.0,54.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-506,Murillo,Murillo Costa dos Santos,16,Nott'm Forest,DEF,53,a,2.0,1.2,1.7,12,559,14.3,122.6,14.8,6.0,100.0,80.0,Leeds (H),2,1,,2025-10-03T14:00:09.032869Z,11,2025-11-09T06:35:11.667687
-507,Aina,Ola Aina,16,Nott'm Forest,DEF,47,i,2.4,0.0,2.0,6,270,9.8,53.8,33.3,11.0,0.0,0.0,Leeds (H),2,1,Hamstring injury - Expected back 13 Dec,2025-09-11T06:30:07.556962Z,11,2025-11-09T06:35:11.667687
-508,N.Williams,Neco Williams,16,Nott'm Forest,DEF,47,a,3.4,0.8,1.8,18,900,43.1,198.0,126.1,107.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-509,David Carmo,David Mota Veiga Teixeira do Carmo,16,Nott'm Forest,DEF,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds (H),2,1,has joined Real Oviedo on loan for the rest of the season.,2025-09-02T13:08:17.187888Z,11,2025-11-09T06:35:11.667687
-510,Jair Cunha,Jair Paula da Cunha Filho,16,Nott'm Forest,DEF,43,a,0.1,0.0,3.0,3,90,2.6,26.0,0.4,0.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-511,Morato,Felipe Rodrigues da Silva,16,Nott'm Forest,DEF,44,a,0.1,0.0,1.4,7,436,9.8,89.4,5.5,3.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-512,O.Richards,Omar Richards,16,Nott'm Forest,DEF,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds (H),2,1,has joined Rio Ave on loan for the rest of the season.,2025-09-02T12:23:02.662537Z,11,2025-11-09T06:35:11.667687
-513,Abbott,Zach Abbott,16,Nott'm Forest,DEF,39,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-514,Boly,Willy Boly,16,Nott'm Forest,DEF,39,a,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-515,Gibbs-White,Morgan Gibbs-White,16,Nott'm Forest,MID,73,a,3.2,3.0,3.0,30,819,48.0,114.8,199.0,170.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-516,Hudson-Odoi,Callum Hudson-Odoi,16,Nott'm Forest,MID,58,d,0.7,1.0,2.2,22,567,42.4,105.0,212.9,105.0,25.0,20.0,Leeds (H),2,1,Dead leg - 25% chance of playing,2025-11-05T22:30:08.175849Z,11,2025-11-09T06:35:11.667687
-517,Anderson,Elliot Anderson,16,Nott'm Forest,MID,53,a,3.0,2.5,3.2,32,900,53.8,184.8,274.5,77.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-518,Jota,João Pedro Ferreira da Silva,16,Nott'm Forest,MID,54,u,0.0,0.0,1.0,1,11,1.0,5.0,0.5,4.0,0.0,0.0,Leeds (H),2,1,has joined Besiktas on loan for the rest of the season.,2025-09-12T15:53:40.376767Z,11,2025-11-09T06:35:11.667687
-519,Dominguez,Nicolás Domínguez,16,Nott'm Forest,MID,50,a,0.0,0.2,0.5,1,52,2.2,7.0,14.4,0.0,100.0,80.0,Leeds (H),2,1,,2025-07-21T10:00:04.988497Z,11,2025-11-09T06:35:11.667687
-520,O'Brien,Lewis O'Brien,16,Nott'm Forest,MID,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds (H),2,1,Has joined Wrexham permanently.,2025-07-25T14:55:12.030109Z,11,2025-11-09T06:35:11.667687
-521,Sangaré,Ibrahim Sangaré,16,Nott'm Forest,MID,49,a,0.1,0.5,1.9,13,442,13.1,59.6,35.0,36.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-522,Yates,Ryan Yates,16,Nott'm Forest,MID,47,a,0.1,1.5,1.7,10,209,9.1,46.2,24.8,21.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-523,Da Silva Moreira,Eric da Silva Moreira,16,Nott'm Forest,MID,45,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds (H),2,1,has joined Rio Ave on loan for the rest of the season.,2025-09-02T12:23:02.683095Z,11,2025-11-09T06:35:11.667687
-524,Stamenic,Marko Stamenić,16,Nott'm Forest,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds (H),2,1,Has joined Swansea City permanently.,2025-08-20T13:32:34.645399Z,11,2025-11-09T06:35:11.667687
-525,Wood,Chris Wood,16,Nott'm Forest,FWD,72,d,6.1,0.2,3.1,25,538,29.8,77.6,49.6,179.0,25.0,20.0,Leeds (H),2,1,Knee injury - 25% chance of playing,2025-10-24T09:00:08.418318Z,11,2025-11-09T06:35:11.667687
-526,Igor Jesus,Igor Jesus Maciel da Cruz,16,Nott'm Forest,FWD,58,a,0.7,1.8,1.4,13,268,13.5,23.8,35.0,81.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-527,Awoniyi,Taiwo Awoniyi,16,Nott'm Forest,FWD,52,a,0.4,0.8,1.0,3,102,7.1,8.6,25.4,37.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-669,Ndoye,Dan Ndoye,16,Nott'm Forest,MID,57,a,1.2,0.8,3.0,27,665,29.5,103.0,109.3,82.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-675,Gunn,Angus Gunn,16,Nott'm Forest,GK,40,i,1.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds (H),2,1,Knee injury - Unknown return date,2025-10-31T00:00:09.154875Z,11,2025-11-09T06:35:11.667687
-693,Hutchinson,Omari Hutchinson,16,Nott'm Forest,MID,54,a,0.0,0.2,1.0,5,97,13.8,25.0,73.9,42.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-696,Kalimuendo,Arnaud Kalimuendo,16,Nott'm Forest,FWD,60,a,0.1,0.2,1.0,6,66,4.1,2.8,16.4,22.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-699,Douglas Luiz,Douglas Luiz Soares de Paulo,16,Nott'm Forest,MID,50,i,0.0,0.5,1.8,7,185,8.0,23.2,46.5,10.0,0.0,0.0,Leeds (H),2,1,Hamstring injury - Unknown return date,2025-11-01T18:30:08.443766Z,11,2025-11-09T06:35:11.667687
-715,John,John Victor Maciel Furtado,16,Nott'm Forest,GK,40,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-716,Savona,Nicolò Savona,16,Nott'm Forest,DEF,45,a,0.0,2.2,2.0,10,339,14.4,84.2,18.4,41.0,,0.0,Leeds (H),2,1,,,11,2025-11-09T06:35:11.667687
-729,Cuiabano,Luis Eduardo Soares da Silva,16,Nott'm Forest,DEF,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Leeds (H),2,1,has joined Botafogo on loan for the rest of the season.,2025-09-05T08:56:15.818633Z,11,2025-11-09T06:35:11.667687
-734,Bakwa,Dilane Bakwa,16,Nott'm Forest,MID,60,i,0.0,0.0,1.2,5,172,15.3,30.2,73.7,49.0,0.0,0.0,Leeds (H),2,1,Knock - Unknown return date,2025-10-24T09:00:08.676633Z,11,2025-11-09T06:35:11.667687
-528,Patterson,Anthony Patterson,17,Sunderland,GK,43,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-529,Moore,Simon Moore,17,Sunderland,GK,39,a,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-530,Nna Noukeu,Blondy Nna Noukeu,17,Sunderland,GK,39,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-531,Ballard,Daniel Ballard,17,Sunderland,DEF,46,a,2.5,6.5,5.4,49,579,48.5,253.8,55.1,175.0,100.0,80.0,Arsenal (H),4,1,,2025-08-23T22:30:06.243330Z,11,2025-11-09T06:35:11.667687
-532,Hume,Trai Hume,17,Sunderland,DEF,45,a,0.4,3.8,3.7,41,978,32.8,153.0,126.1,48.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-533,Alese,Aji Alese,17,Sunderland,DEF,40,d,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,50.0,45.0,Arsenal (H),4,1,Shoulder injury - 50% chance of playing,2025-07-21T10:00:05.007315Z,11,2025-11-09T06:35:11.667687
-534,Anderson,Joe Anderson,17,Sunderland,DEF,39,a,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-535,Cirkin,Dennis Cirkin,17,Sunderland,DEF,40,d,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,50.0,45.0,Arsenal (H),4,1,Wrist Injury - 50% chance of playing,2025-07-21T10:00:05.027113Z,11,2025-11-09T06:35:11.667687
-536,Hjelde,Leo Fuhr Hjelde,17,Sunderland,DEF,40,d,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,50.0,45.0,Arsenal (H),4,1,Achilles injury - 50% chance of playing,2025-07-21T10:00:05.047173Z,11,2025-11-09T06:35:11.667687
-537,Huggins,Niall Huggins,17,Sunderland,DEF,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal (H),4,1,has joined Wycombe Wanderers on loan for the rest of the season.,2025-09-02T13:34:00.250364Z,11,2025-11-09T06:35:11.667687
-538,Johnson,Zak Johnson,17,Sunderland,DEF,39,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-539,O'Nien,Luke O'Nien,17,Sunderland,DEF,40,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,100.0,80.0,Arsenal (H),4,1,,2025-07-21T10:00:05.068622Z,11,2025-11-09T06:35:11.667687
-540,Pembele,Timothée Pembélé,17,Sunderland,DEF,39,a,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-541,Reinildo,Reinildo Mandava,17,Sunderland,DEF,40,a,4.3,1.0,2.2,18,662,15.4,108.4,26.0,19.0,100.0,80.0,Arsenal (H),4,1,,2025-09-21T22:30:06.385468Z,11,2025-11-09T06:35:11.667687
-542,Seelt,Jenson Seelt,17,Sunderland,DEF,40,u,0.1,0.0,1.0,2,133,3.6,33.6,2.4,0.0,0.0,0.0,Arsenal (H),4,1,has joined Wolfsburg on loan for the rest of the season.,2025-09-02T13:40:22.421351Z,11,2025-11-09T06:35:11.667687
-543,Adingra,Simon Adingra,17,Sunderland,MID,51,a,0.5,0.2,2.0,14,297,11.5,28.4,79.1,8.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-544,Diarra,Habib Diarra,17,Sunderland,MID,53,i,0.0,0.0,3.0,12,345,8.0,10.6,31.0,45.0,0.0,0.0,Arsenal (H),4,1,Groin Injury - Expected back 03 Dec,2025-09-21T22:30:06.402407Z,11,2025-11-09T06:35:11.667687
-545,Roberts,Patrick Roberts,17,Sunderland,MID,54,u,0.0,0.0,1.0,1,27,1.4,1.8,7.3,5.0,0.0,0.0,Arsenal (H),4,1,has joined Birmingham City on loan for the rest of the season.,2025-09-02T13:33:32.438579Z,11,2025-11-09T06:35:11.667687
-546,Aleksić,Milan Aleksić,17,Sunderland,MID,49,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal (H),4,1,has joined Cracovia on loan for the rest of the season.,2025-09-08T09:11:30.805435Z,11,2025-11-09T06:35:11.667687
-547,E.Le Fée,Enzo Le Fée,17,Sunderland,MID,49,a,0.4,3.5,3.4,34,692,35.8,160.0,147.9,51.0,100.0,80.0,Arsenal (H),4,1,,2025-09-13T21:30:08.349570Z,11,2025-11-09T06:35:11.667687
-548,Mundle,Romaine Mundle,17,Sunderland,MID,49,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal (H),4,1,Hamstring injury - Expected back 22 Nov,2025-08-10T23:30:07.214806Z,11,2025-11-09T06:35:11.667687
-549,Neil,Dan Neil,17,Sunderland,MID,48,a,0.0,0.2,1.0,2,2,0.2,2.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-550,Poveda,Ian Poveda-Ocampo,17,Sunderland,MID,48,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-551,Rigg,Chris Rigg,17,Sunderland,MID,48,a,0.0,1.0,1.3,8,186,4.3,9.0,25.6,7.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-552,Sadiki,Noah Sadiki,17,Sunderland,MID,50,a,0.1,3.0,2.4,26,983,26.8,114.8,129.2,23.0,100.0,80.0,Arsenal (H),4,1,,2025-10-14T21:30:07.514008Z,11,2025-11-09T06:35:11.667687
-553,Talbi,Chemsdine Talbi,17,Sunderland,MID,50,a,0.3,3.5,3.1,34,587,25.2,83.6,90.7,78.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-554,Ba,Abdoullah Ba,17,Sunderland,MID,43,a,0.5,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-555,Browne,Alan Browne,17,Sunderland,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal (H),4,1,has joined Middlesbrough on loan for the rest of the season.,2025-09-02T13:31:41.354124Z,11,2025-11-09T06:35:11.667687
-556,Ekwah,Pierre Ekwah Elimby,17,Sunderland,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal (H),4,1,Has joined AS Saint-Etienne permanently.,2025-08-14T14:03:00.702056Z,11,2025-11-09T06:35:11.667687
-557,H.Jones,Harrison Jones,17,Sunderland,MID,44,a,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-558,Matete,Jay Matete,17,Sunderland,MID,44,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-559,Triantis,Nectarios Triantis,17,Sunderland,MID,44,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal (H),4,1,has joined Minnesota United permanently.,2025-09-22T21:19:57.157510Z,11,2025-11-09T06:35:11.667687
-560,Isidor,Wilson Isidor,17,Sunderland,FWD,56,a,3.5,3.2,3.7,41,670,37.5,137.6,10.8,228.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-561,Mayenda,Eliezer Mayenda Dossou,17,Sunderland,FWD,54,a,0.7,0.5,2.3,16,260,12.3,48.2,24.6,52.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-562,Abdullahi,Ahmed Abdullahi,17,Sunderland,FWD,43,a,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-563,Luís Hemir,Luís Hemir Silva Semedo,17,Sunderland,FWD,44,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal (H),4,1,has joined Moreirense on loan for the rest of the season.,2025-09-22T21:17:57.534387Z,11,2025-11-09T06:35:11.667687
-564,Rusyn,Nazarii Rusyn,17,Sunderland,FWD,44,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Arsenal (H),4,1,has joined Arka on loan for the rest of the season.,2025-09-05T08:56:38.449926Z,11,2025-11-09T06:35:11.667687
-668,Xhaka,Granit Xhaka,17,Sunderland,MID,51,a,5.7,5.0,4.7,52,990,58.1,300.4,244.6,37.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-670,Roefs,Robin Roefs,17,Sunderland,GK,47,a,7.1,3.8,5.1,56,990,34.3,323.8,20.0,0.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-678,Masuaku,Arthur Masuaku,17,Sunderland,DEF,39,a,0.8,0.0,0.3,1,125,4.9,21.8,20.1,7.0,100.0,80.0,Arsenal (H),4,1,,2025-08-11T13:51:46.232630Z,11,2025-11-09T06:35:11.667687
-683,Alderete,Omar Alderete,17,Sunderland,DEF,41,i,5.0,1.5,5.6,45,667,34.4,228.4,38.6,77.0,0.0,0.0,Arsenal (H),4,1,Head injury - Expected back 22 Nov,2025-10-23T13:30:08.702646Z,11,2025-11-09T06:35:11.667687
-694,Mukiele,Nordi Mukiele,17,Sunderland,DEF,42,a,5.7,6.0,5.7,51,810,36.9,233.0,74.9,61.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-724,Geertruida,Lutsharel Geertruida,17,Sunderland,DEF,45,a,0.0,1.5,1.2,10,337,11.6,74.8,18.4,22.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-730,Brobbey,Brian Brobbey,17,Sunderland,FWD,55,a,0.1,2.8,2.3,14,106,9.4,59.6,10.9,23.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-735,Traoré,Bertrand Traoré,17,Sunderland,MID,55,a,0.0,3.0,2.2,13,358,18.0,42.0,58.3,79.0,,0.0,Arsenal (H),4,1,,,11,2025-11-09T06:35:11.667687
-565,Vicario,Guglielmo Vicario,18,Spurs,GK,50,a,9.9,3.0,4.3,47,990,28.7,286.8,0.1,0.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-566,Austin,Brandon Austin,18,Spurs,GK,39,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-567,Kinsky,Antonín Kinský,18,Spurs,GK,39,a,1.9,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-568,Pedro Porro,Pedro Porro Sauceda,18,Spurs,DEF,55,a,17.6,4.0,4.2,46,863,41.3,179.2,207.8,25.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-569,Romero,Cristian Romero,18,Spurs,DEF,50,a,4.1,0.5,3.8,34,747,28.0,178.0,30.2,73.0,100.0,80.0,Man Utd (H),3,1,,2025-10-20T00:30:09.989300Z,11,2025-11-09T06:35:11.667687
-570,Danso,Kevin Danso,18,Spurs,DEF,43,a,0.1,2.2,1.7,12,257,6.8,64.4,3.4,0.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-571,Davies,Ben Davies,18,Spurs,DEF,43,i,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,Hamstring injury - Unknown return date,2025-10-14T13:00:06.756853Z,11,2025-11-09T06:35:11.667687
-572,Dragusin,Radu Drăgușin,18,Spurs,DEF,45,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,Knee injury - Unknown return date,2025-07-21T10:00:05.088977Z,11,2025-11-09T06:35:11.667687
-573,Spence,Djed Spence,18,Spurs,DEF,45,a,1.6,2.5,3.1,31,758,18.1,92.0,56.5,34.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-574,Udogie,Destiny Udogie,18,Spurs,DEF,44,a,0.4,1.2,1.7,12,341,19.7,77.0,71.7,48.0,100.0,80.0,Man Utd (H),3,1,,2025-10-20T00:30:10.028354Z,11,2025-11-09T06:35:11.667687
-575,Van de Ven,Micky van de Ven,18,Spurs,DEF,48,a,33.4,6.5,5.3,58,979,40.8,253.4,33.9,120.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-576,Phillips,Ashley Phillips,18,Spurs,DEF,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,Has joined Stoke City on loan for the rest of the season.,2025-07-25T14:55:41.438809Z,11,2025-11-09T06:35:11.667687
-577,Takai,Takai Kōta,18,Spurs,DEF,40,i,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,Thigh injury - Expected back 23 Nov,2025-08-10T23:30:07.262578Z,11,2025-11-09T06:35:11.667687
-578,Vuskovic,Luka Vušković,18,Spurs,DEF,39,u,0.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,has joined Hamburger SV on loan for the rest of the season.,2025-09-02T13:17:42.706711Z,11,2025-11-09T06:35:11.667687
-579,Son,Son Heung-min,18,Spurs,MID,85,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,Has joined Los Angeles FC permanently.,2025-08-11T01:22:33.649224Z,11,2025-11-09T06:35:11.667687
-580,Johnson,Brennan Johnson,18,Spurs,MID,67,a,3.0,1.5,2.5,28,467,25.1,117.8,68.9,64.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-581,Maddison,James Maddison,18,Spurs,MID,69,i,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,Anterior cruciate ligament - Unknown return date,2025-08-08T13:57:59.638052Z,11,2025-11-09T06:35:11.667687
-582,Kudus,Mohammed Kudus,18,Spurs,MID,66,d,23.4,1.5,4.5,45,875,66.2,206.4,264.1,192.0,50.0,45.0,Man Utd (H),3,1,Knock - 50% chance of playing,2025-11-05T15:30:08.650723Z,11,2025-11-09T06:35:11.667687
-583,Kulusevski,Dejan Kulusevski,18,Spurs,MID,64,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,Knee injury - Unknown return date,2025-07-21T10:00:05.109205Z,11,2025-11-09T06:35:11.667687
-584,Tel,Mathys Tel,18,Spurs,MID,63,a,0.1,2.0,2.9,23,246,14.5,75.2,10.1,59.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-585,Bentancur,Rodrigo Bentancur,18,Spurs,MID,53,a,0.4,5.2,3.5,35,655,28.1,144.6,78.4,57.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-586,Bergvall,Lucas Bergvall,18,Spurs,MID,54,i,0.3,0.8,2.7,24,409,22.8,92.2,41.6,93.0,0.0,0.0,Man Utd (H),3,1,Head injury - Expected back 23 Nov,2025-11-01T22:00:08.633383Z,11,2025-11-09T06:35:11.667687
-587,Bissouma,Yves Bissouma,18,Spurs,MID,52,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,Ankle injury - Unknown return date,2025-08-22T13:47:04.343594Z,11,2025-11-09T06:35:11.667687
-588,Odobert,Wilson Odobert,18,Spurs,MID,53,a,0.0,2.5,1.9,19,376,24.8,62.8,97.2,88.0,100.0,80.0,Man Utd (H),3,1,,2025-10-23T14:00:09.078476Z,11,2025-11-09T06:35:11.667687
-589,Solomon,Manor Solomon,18,Spurs,MID,54,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,has joined Villarreal CF on loan for the rest of the season.,2025-09-02T13:17:42.731308Z,11,2025-11-09T06:35:11.667687
-590,Bryan,Bryan Gil Salvatierra,18,Spurs,MID,49,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,has joined Girona permanently.,2025-09-22T09:26:56.310666Z,11,2025-11-09T06:35:11.667687
-591,Gray,Archie Gray,18,Spurs,MID,48,i,0.1,0.0,2.0,4,71,2.2,6.0,13.2,2.0,0.0,0.0,Man Utd (H),3,1,Calf injury - Unknown return date,2025-10-31T09:00:09.658347Z,11,2025-11-09T06:35:11.667687
-592,Moore,Mikey Moore,18,Spurs,MID,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,Has joined Rangers on loan for the rest of the season.,2025-08-11T01:19:38.328172Z,11,2025-11-09T06:35:11.667687
-593,P.M.Sarr,Pape Matar Sarr,18,Spurs,MID,49,a,1.6,3.2,3.7,37,570,28.4,139.6,67.0,77.0,100.0,80.0,Man Utd (H),3,1,,2025-09-24T22:30:08.387253Z,11,2025-11-09T06:35:11.667687
-594,Min-hyeok,Yang Min-hyeok,18,Spurs,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,Has joined Portsmouth on loan for the rest of the season.,2025-08-11T01:24:33.782871Z,11,2025-11-09T06:35:11.667687
-595,Olusesi,Callum Olusesi,18,Spurs,MID,44,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-596,Solanke,Dominic Solanke-Mitchell,18,Spurs,FWD,72,i,0.9,0.0,1.0,2,31,3.1,6.0,0.3,25.0,0.0,0.0,Man Utd (H),3,1,Ankle injury - Expected back 23 Nov,2025-09-12T16:30:09.183639Z,11,2025-11-09T06:35:11.667687
-597,Richarlison,Richarlison de Andrade,18,Spurs,FWD,64,a,7.8,3.0,4.0,44,631,51.0,191.4,65.6,253.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-598,Lankshear,Will Lankshear,18,Spurs,FWD,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Man Utd (H),3,1,Has joined Oxford United on loan for the rest of the season.,2025-08-11T01:18:54.659436Z,11,2025-11-09T06:35:11.667687
-599,Scarlett,Dane Scarlett,18,Spurs,FWD,43,a,0.6,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-673,J.Palhinha,João Maria Lobo Alves Palhares Costa Palhinha Gonçalves,18,Spurs,MID,55,a,1.8,5.2,4.6,51,861,38.3,241.2,50.0,91.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-717,Xavi,Xavi Simons,18,Spurs,MID,67,a,1.4,2.5,2.5,20,530,22.5,75.2,111.0,39.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-726,Kolo Muani,Randal Kolo Muani,18,Spurs,FWD,69,a,0.3,1.5,1.5,6,189,3.6,8.2,22.8,8.0,100.0,80.0,Man Utd (H),3,1,,2025-09-24T06:00:06.307596Z,11,2025-11-09T06:35:11.667687
-745,Byfield,Jun'ai Byfield,18,Spurs,DEF,40,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-750,Rowswell,James Rowswell,18,Spurs,DEF,40,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-751,Akhamrich,Yusuf Akhamrich,18,Spurs,MID,45,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Man Utd (H),3,1,,,11,2025-11-09T06:35:11.667687
-149,Igor,Igor Julio dos Santos de Paulo,19,West Ham,DEF,45,a,0.1,0.5,1.0,3,13,1.3,2.8,10.3,0.0,100.0,80.0,Burnley (H),2,1,,2025-08-10T18:00:05.419085Z,11,2025-11-09T06:35:11.667687
-600,Areola,Alphonse Areola,19,West Ham,GK,43,a,2.1,2.2,2.1,15,630,18.8,187.2,0.0,0.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-601,Foderingham,Wes Foderingham,19,West Ham,GK,40,u,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Burnley (H),2,1,has joined Aris Limassol permanently.,2025-09-11T13:43:36.667461Z,11,2025-11-09T06:35:11.667687
-602,Hegyi,Krisztián Hegyi,19,West Ham,GK,39,a,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-603,Diouf,El Hadji Malick Diouf,19,West Ham,DEF,43,a,3.1,1.2,2.8,31,945,38.5,204.4,137.0,43.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-604,Emerson,Emerson Palmieri dos Santos,19,West Ham,DEF,44,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Burnley (H),2,1,has joined Marseille permanently.,2025-09-02T13:30:06.113081Z,11,2025-11-09T06:35:11.667687
-605,Kilman,Maximilian Kilman,19,West Ham,DEF,43,a,0.2,1.8,1.8,20,990,33.3,245.8,42.4,45.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-606,Mavropanos,Konstantinos Mavropanos,19,West Ham,DEF,44,i,0.1,0.2,2.8,17,495,18.6,128.8,2.7,55.0,0.0,0.0,Burnley (H),2,1,Muscle injury - Expected back 22 Nov,2025-10-23T14:00:09.099071Z,11,2025-11-09T06:35:11.667687
-607,N.Aguerd,Nayef Aguerd,19,West Ham,DEF,44,u,0.0,0.0,1.5,3,180,5.1,39.0,3.9,8.0,0.0,0.0,Burnley (H),2,1,has joined Marseille permanently.,2025-09-02T12:20:05.254985Z,11,2025-11-09T06:35:11.667687
-608,Scarles,Ollie Scarles,19,West Ham,DEF,44,i,0.0,0.2,0.5,1,69,0.9,8.0,1.2,0.0,0.0,0.0,Burnley (H),2,1,Shoulder injury - Expected back 27 Dec,2025-10-25T09:30:08.953324Z,11,2025-11-09T06:35:11.667687
-609,Todibo,Jean-Clair Todibo,19,West Ham,DEF,43,a,0.1,1.5,1.2,7,486,13.1,110.0,16.4,4.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-610,Wan-Bissaka,Aaron Wan-Bissaka,19,West Ham,DEF,43,a,5.7,3.0,2.0,14,561,19.0,98.6,76.3,14.0,100.0,80.0,Burnley (H),2,1,,2025-09-18T14:00:08.212742Z,11,2025-11-09T06:35:11.667687
-611,Casey,Kaelan Casey,19,West Ham,DEF,40,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Burnley (H),2,1,Has joined Swansea City on loan for the rest of the season.,2025-08-11T01:20:17.436361Z,11,2025-11-09T06:35:11.667687
-612,L.Paquetá,Lucas Tolentino Coelho de Lima,19,West Ham,MID,59,s,2.8,4.0,4.1,45,959,64.7,263.0,247.8,135.0,0.0,0.0,Burnley (H),2,1,Suspended until 30 Nov,2025-11-08T18:30:09.200525Z,11,2025-11-09T06:35:11.667687
-613,Souček,Tomáš Souček,19,West Ham,MID,57,a,0.2,5.5,3.2,26,422,33.1,134.8,18.7,176.0,100.0,80.0,Burnley (H),2,1,,2025-09-13T21:30:08.395458Z,11,2025-11-09T06:35:11.667687
-614,Ward-Prowse,James Ward-Prowse,19,West Ham,MID,57,a,0.2,0.0,2.2,11,414,23.9,56.6,176.3,6.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-615,Summerville,Crysencio Summerville,19,West Ham,MID,55,a,0.1,2.2,2.6,23,639,26.3,77.8,84.5,100.0,100.0,80.0,Burnley (H),2,1,,2025-07-21T10:00:05.129084Z,11,2025-11-09T06:35:11.667687
-616,Álvarez,Edson Álvarez Velázquez,19,West Ham,MID,49,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Burnley (H),2,1,Has joined Fenerbahçe on loan for the rest of the season.,2025-08-26T13:45:35.073930Z,11,2025-11-09T06:35:11.667687
-617,Cornet,Maxwel Cornet,19,West Ham,MID,49,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Burnley (H),2,1,has joined Genoa on loan for the rest of the season.,2025-09-02T12:21:17.687537Z,11,2025-11-09T06:35:11.667687
-618,G.Rodriguez,Guido Rodríguez,19,West Ham,MID,48,a,0.0,0.2,1.5,3,89,0.8,3.4,2.5,2.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-619,L.Guilherme,Luis Guilherme Lira dos Santos,19,West Ham,MID,49,a,0.0,0.0,1.0,3,54,0.4,1.6,0.6,4.0,100.0,80.0,Burnley (H),2,1,,2025-08-21T14:30:06.529194Z,11,2025-11-09T06:35:11.667687
-620,Earthy,George Earthy,19,West Ham,MID,45,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Burnley (H),2,1,Hamstring injury - Expected back 22 Nov,2025-10-02T14:30:07.920085Z,11,2025-11-09T06:35:11.667687
-621,Irving,Andy Irving,19,West Ham,MID,44,a,0.3,1.0,1.3,8,149,7.0,29.6,38.3,2.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-622,Orford,Lewis Orford,19,West Ham,MID,44,u,0.1,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Burnley (H),2,1,has joined Stevenage on loan for the rest of the season.,2025-09-02T12:14:36.944075Z,11,2025-11-09T06:35:11.667687
-623,Potts,Freddie Potts,19,West Ham,MID,44,a,0.6,1.8,1.7,10,282,14.0,60.4,78.4,2.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-624,Bowen,Jarrod Bowen,19,West Ham,FWD,77,a,7.8,2.8,4.2,46,990,69.4,224.6,196.3,272.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-625,Füllkrug,Niclas Füllkrug,19,West Ham,FWD,56,i,0.7,0.0,1.7,10,379,21.9,24.8,72.3,125.0,0.0,0.0,Burnley (H),2,1,Muscle injury - Expected back 22 Nov,2025-10-14T13:00:06.800734Z,11,2025-11-09T06:35:11.667687
-626,Marshall,Callum Marshall,19,West Ham,FWD,44,a,0.7,0.2,1.0,2,58,0.8,1.2,0.1,7.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-659,Walker-Peters,Kyle Walker-Peters,19,West Ham,DEF,43,a,0.3,2.5,2.1,21,465,22.1,103.8,49.3,67.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-671,Wilson,Callum Wilson,19,West Ham,FWD,58,a,0.4,2.8,2.8,22,365,28.0,89.6,27.8,165.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-679,Hermansen,Mads Hermansen,19,West Ham,GK,44,a,0.2,0.0,2.2,9,360,8.5,84.8,0.0,0.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-708,M.Fernandes,Mateus Gonçalo Espanha Fernandes,19,West Ham,MID,55,a,0.1,3.8,3.1,28,642,35.6,149.4,167.8,39.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-718,S.Magassa,Soungoutou Magassa,19,West Ham,MID,50,a,0.0,0.5,1.0,6,189,4.3,35.8,7.5,0.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-738,Fabianski,Lukasz Fabianski,19,West Ham,GK,45,d,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,25.0,20.0,Burnley (H),2,1,Back injury - 25% chance of playing,2025-11-07T08:00:09.026724Z,11,2025-11-09T06:35:11.667687
-747,Mayers,Ezra Mayers,19,West Ham,DEF,40,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-752,Golambeckis,Airidas Golambeckis,19,West Ham,DEF,40,a,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Burnley (H),2,1,,,11,2025-11-09T06:35:11.667687
-627,Johnstone,Sam Johnstone,20,Wolves,GK,45,a,0.1,1.8,2.1,15,630,19.5,194.8,0.1,0.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-628,José Sá,José Malheiro de Sá,20,Wolves,GK,43,a,1.2,0.0,1.2,5,360,5.5,44.0,10.0,0.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-629,Bentley,Daniel Bentley,20,Wolves,GK,40,a,0.6,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-631,Agbadou,Emmanuel Agbadou,20,Wolves,DEF,43,a,0.2,-0.8,1.4,11,560,24.2,162.2,39.9,39.0,100.0,80.0,Chelsea (A),3,0,,2025-11-01T18:00:08.787249Z,11,2025-11-09T06:35:11.667687
-632,Doherty,Matt Doherty,20,Wolves,DEF,44,i,0.1,0.5,0.5,2,291,7.6,49.4,21.8,4.0,0.0,0.0,Chelsea (A),3,0,Knee injury - Expected back 22 Nov,2025-10-31T09:00:09.720618Z,11,2025-11-09T06:35:11.667687
-633,H.Bueno,Hugo Bueno López,20,Wolves,DEF,44,a,0.1,1.0,1.9,21,792,50.9,187.6,252.9,67.0,100.0,80.0,Chelsea (A),3,0,,2025-08-31T01:30:08.567399Z,11,2025-11-09T06:35:11.667687
-634,Mosquera,Yerson Mosquera Valdelamar,20,Wolves,DEF,43,a,0.1,-0.8,0.2,1,182,4.2,20.2,0.7,21.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-635,R.Gomes,Rodrigo Martins Gomes,20,Wolves,DEF,45,i,0.1,0.8,2.2,13,331,20.5,60.2,40.4,103.0,0.0,0.0,Chelsea (A),3,0,Groin Injury - Expected back 17 Jan,2025-10-31T09:00:09.735105Z,11,2025-11-09T06:35:11.667687
-636,S.Bueno,Santiago Ignacio Bueno,20,Wolves,DEF,44,a,0.1,2.0,3.1,25,664,30.7,190.6,48.2,68.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-637,Toti,Toti Gomes,20,Wolves,DEF,43,a,0.1,0.2,0.8,6,525,17.8,93.8,57.1,27.0,100.0,80.0,Chelsea (A),3,0,,2025-10-03T14:00:09.220271Z,11,2025-11-09T06:35:11.667687
-638,Hoever,Ki-Jana Hoever,20,Wolves,DEF,39,a,0.9,0.8,1.0,5,249,13.1,56.4,60.2,13.0,100.0,80.0,Chelsea (A),3,0,,2025-08-23T23:00:08.490117Z,11,2025-11-09T06:35:11.667687
-639,Meupiyou,Bastien Meupiyou Menadjou,20,Wolves,DEF,40,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea (A),3,0,On loan to FC Alverca,2025-07-23T18:49:36.204721Z,11,2025-11-09T06:35:11.667687
-640,Pedro Lima,Pedro Cardoso de Lima,20,Wolves,DEF,40,u,0.5,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea (A),3,0,has joined Porto on loan for the rest of the season.,2025-09-02T13:11:07.466362Z,11,2025-11-09T06:35:11.667687
-641,Pond,Alfie Pond,20,Wolves,DEF,39,a,1.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-642,Hee Chan,Hwang Hee-chan,20,Wolves,MID,58,a,0.1,0.8,2.0,16,366,13.7,53.2,32.9,51.0,100.0,80.0,Chelsea (A),3,0,,2025-10-17T16:00:11.280022Z,11,2025-11-09T06:35:11.667687
-643,André,André Trindade da Costa Neto,20,Wolves,MID,53,a,0.1,2.0,2.3,25,703,14.4,95.6,41.8,7.0,100.0,80.0,Chelsea (A),3,0,,2025-09-24T06:30:08.481734Z,11,2025-11-09T06:35:11.667687
-644,Bellegarde,Jean-Ricner Bellegarde,20,Wolves,MID,52,a,0.0,1.2,1.3,13,474,18.5,49.8,74.1,62.0,100.0,80.0,Chelsea (A),3,0,,2025-10-17T16:00:11.298468Z,11,2025-11-09T06:35:11.667687
-645,Fer López,Fer López González,20,Wolves,MID,52,a,0.0,0.2,1.4,7,116,11.0,27.0,52.0,32.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-646,Gomes,João Victor Gomes da Silva,20,Wolves,MID,53,a,0.1,1.5,2.2,24,835,26.6,120.0,108.9,35.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-647,Guedes,Gonçalo Manuel Ganchinho Guedes,20,Wolves,MID,55,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea (A),3,0,Has joined Real Sociedad permanently.,2025-08-11T01:21:19.226169Z,11,2025-11-09T06:35:11.667687
-648,Munetsi,Marshall Munetsi,20,Wolves,MID,54,a,0.1,4.0,3.2,35,802,38.7,158.4,59.6,169.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-649,B.Traore,Boubacar Traoré,20,Wolves,MID,50,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea (A),3,0,Has joined FC Metz on loan for the rest of the season.,2025-07-25T14:53:52.740212Z,11,2025-11-09T06:35:11.667687
-650,Chirewa,Tawanda Chirewa,20,Wolves,MID,44,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-651,Edozie,Tom Edozie,20,Wolves,MID,44,a,0.3,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-652,Gonzalez,Enso González Medina,20,Wolves,MID,44,a,1.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-653,Hodge,Joe Hodge,20,Wolves,MID,45,u,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea (A),3,0,Signed by CD Tondela,2025-07-23T18:50:21.231185Z,11,2025-11-09T06:35:11.667687
-654,Strand Larsen,Jørgen Strand Larsen,20,Wolves,FWD,63,a,1.2,3.0,2.3,21,707,28.3,60.4,61.7,163.0,100.0,80.0,Chelsea (A),3,0,,2025-10-03T14:00:09.236895Z,11,2025-11-09T06:35:11.667687
-655,Fábio Silva,Fábio Soares Silva,20,Wolves,FWD,49,u,0.2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea (A),3,0,has joined Borussia Dortmund permanently.,2025-09-02T13:11:07.488555Z,11,2025-11-09T06:35:11.667687
-656,Kalajdžić,Saša Kalajdžić,20,Wolves,FWD,49,u,0.1,0.0,1.0,1,14,0.7,1.0,4.3,2.0,0.0,0.0,Chelsea (A),3,0,has joined LASK on loan for the rest of the season.,2025-09-08T09:11:55.060395Z,11,2025-11-09T06:35:11.667687
-657,Chiwome,Leon Chiwome,20,Wolves,FWD,44,i,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,Chelsea (A),3,0,Knee injury - Unknown return date,2025-07-21T10:00:05.148649Z,11,2025-11-09T06:35:11.667687
-658,Fraser,Nathan Fraser,20,Wolves,FWD,44,a,1.8,0.0,0.0,0,0,0.0,0.0,0.0,0.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-663,J.Arias,Jhon Arias,20,Wolves,MID,51,a,0.2,1.2,1.9,19,545,31.7,83.4,153.9,80.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-682,Møller Wolfe,David Møller Wolfe,20,Wolves,DEF,44,a,0.1,0.2,1.6,8,149,6.3,37.0,20.9,4.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-695,Tchatchoua,Jackson Tchatchoua,20,Wolves,DEF,45,a,0.0,0.8,1.2,12,517,22.9,117.8,93.5,18.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-709,Krejčí,Ladislav Krejcí,20,Wolves,DEF,45,a,0.1,1.2,2.1,17,720,39.5,206.8,75.2,112.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-720,Tolu,Tolu Arokodare,20,Wolves,FWD,55,a,0.1,0.8,1.3,9,208,9.8,13.4,16.4,71.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
-749,Mané,Mateus Mané,20,Wolves,FWD,45,a,0.0,1.0,1.0,1,20,0.9,0.0,10.8,0.0,,0.0,Chelsea (A),3,0,,,11,2025-11-09T06:35:11.667687
+id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,points
+1,Raya,Arsenal,GKP,5.9,32.4,8811,4505,90,0,0,0,0,-2,1
+2,Arrizabalaga,Arsenal,GKP,4.2,0.5,28,150,0,0,0,0,0,0,0
+3,Hein,Arsenal,GKP,4.0,0.3,0,100,0,0,0,0,0,0,0
+4,Setford,Arsenal,GKP,4.0,0.2,38,82,0,0,0,0,0,0,0
+5,Gabriel,Arsenal,DEF,6.6,43.4,16318,2362,90,0,0,0,0,5,1
+6,Saliba,Arsenal,DEF,6.0,11.6,1465,3167,90,0,0,0,0,3,1
+7,Calafiori,Arsenal,DEF,5.8,16.1,3344,6284,90,0,0,0,0,-1,1
+8,J.Timber,Arsenal,DEF,6.1,25.7,6411,7787,90,0,0,0,0,7,1
+9,Kiwior,Arsenal,DEF,5.4,0.1,0,19,0,0,0,0,0,0,0
+10,Lewis-Skelly,Arsenal,DEF,5.2,1.6,117,758,0,0,0,0,0,0,0
+11,White,Arsenal,DEF,5.3,0.4,50,197,0,0,0,0,0,0,0
+12,Zinchenko,Nott'm Forest,DEF,4.9,0.2,4,155,0,0,0,0,0,0,0
+13,Clarke,Arsenal,DEF,3.9,0.4,39,159,0,0,0,0,0,0,0
+14,Kacurri,Arsenal,DEF,3.9,0.1,0,67,0,0,0,0,0,0,0
+15,Nichols,Arsenal,DEF,3.9,0.2,12,81,0,0,0,0,0,0,0
+16,Saka,Arsenal,MID,10.1,17.1,7510,8465,90,1,0,0,3,42,12
+17,Ødegaard,Arsenal,MID,7.8,1.4,16,426,0,0,0,0,0,0,0
+18,Madueke,Arsenal,MID,6.8,0.6,8,179,0,0,0,0,0,0,0
+19,Martinelli,Arsenal,MID,6.8,0.9,14,1014,0,0,0,0,0,0,0
+20,Trossard,Arsenal,MID,6.9,0.7,3059,386,90,1,0,0,2,32,9
+21,Rice,Arsenal,MID,6.8,20.0,27405,5045,90,0,0,0,0,16,2
+22,Merino,Arsenal,MID,5.9,1.0,1530,714,90,0,1,0,0,14,5
+23,Fábio Vieira,Arsenal,MID,5.4,0.0,0,3,0,0,0,0,0,0,0
+24,Nørgaard,Arsenal,MID,5.2,0.1,28,46,0,0,0,0,0,0,0
+25,Nwaneri,Arsenal,MID,5.2,0.1,35,99,0,0,0,0,0,0,0
+26,Zubimendi,Arsenal,MID,5.4,2.9,458,4360,90,0,1,0,0,24,4
+27,Nelson,Brentford,MID,4.8,0.1,14,30,0,0,0,0,0,0,0
+28,Kabia,Arsenal,MID,4.5,0.1,0,39,0,0,0,0,0,0,0
+29,Sambi,Arsenal,MID,4.5,0.1,0,18,0,0,0,0,0,0,0
+30,Havertz,Arsenal,FWD,7.3,0.3,25,51,0,0,0,0,0,0,0
+31,G.Jesus,Arsenal,FWD,6.4,0.0,17,17,0,0,0,0,0,0,0
+32,Martinez,Aston Villa,GKP,5.0,2.1,1231,488,0,0,0,0,0,0,0
+33,M.Bizot,Aston Villa,GKP,4.3,0.5,20,185,0,0,0,0,0,0,0
+34,Gauci,Aston Villa,GKP,4.0,0.1,0,37,0,0,0,0,0,0,0
+35,Marschall,Aston Villa,GKP,4.0,0.0,0,3,0,0,0,0,0,0,0
+36,Cash,Aston Villa,DEF,4.6,5.3,3383,1198,0,0,0,0,0,0,0
+37,Digne,Aston Villa,DEF,4.5,1.6,384,341,0,0,0,0,0,0,0
+38,Konsa,Aston Villa,DEF,4.4,8.4,787,1940,0,0,0,0,0,0,0
+39,Maatsen,Aston Villa,DEF,4.3,0.4,67,119,0,0,0,0,0,0,0
+40,Mings,Aston Villa,DEF,4.4,0.8,5,827,0,0,0,0,0,0,0
+41,Pau,Aston Villa,DEF,4.3,0.4,182,84,0,0,0,0,0,0,0
+42,A.García,Aston Villa,DEF,3.9,0.3,7,141,0,0,0,0,0,0,0
+43,Alex Moreno,Aston Villa,DEF,4.0,2.3,0,801,0,0,0,0,0,0,0
+44,Bogarde,Aston Villa,DEF,4.0,0.6,111,274,0,0,0,0,0,0,0
+45,Sousa,Aston Villa,DEF,3.9,0.3,57,82,0,0,0,0,0,0,0
+46,Yasin,Aston Villa,DEF,4.0,0.1,0,37,0,0,0,0,0,0,0
+47,Rogers,Aston Villa,MID,6.8,4.9,2964,1679,0,0,0,0,0,0,0
+48,Tielemans,Aston Villa,MID,5.9,0.6,140,76,0,0,0,0,0,0,0
+49,Bailey,Aston Villa,MID,5.5,0.1,0,15,0,0,0,0,0,0,0
+50,Buendía,Aston Villa,MID,5.3,0.2,261,109,0,0,0,0,0,0,0
+51,Iling Jr,Aston Villa,MID,5.5,0.0,0,1,0,0,0,0,0,0,0
+52,J.Ramsey,Newcastle,MID,5.3,0.2,46,51,0,0,0,0,0,0,0
+53,Malen,Aston Villa,MID,5.1,0.7,315,512,0,0,0,0,0,0,0
+54,McGinn,Aston Villa,MID,5.4,0.6,272,305,0,0,0,0,0,0,0
+55,Barkley,Aston Villa,MID,4.8,0.0,33,17,0,0,0,0,0,0,0
+56,Barrenechea,Aston Villa,MID,5.0,0.0,0,0,0,0,0,0,0,0,0
+57,Dobbin,Aston Villa,MID,5.0,0.0,0,0,0,0,0,0,0,0,0
+58,Kamara,Aston Villa,MID,4.9,0.2,103,100,0,0,0,0,0,0,0
+59,Onana,Aston Villa,MID,4.8,0.6,306,173,0,0,0,0,0,0,0
+60,Broggio,Aston Villa,MID,4.5,0.3,118,134,0,0,0,0,0,0,0
+61,Dendoncker,Aston Villa,MID,4.5,0.1,0,28,0,0,0,0,0,0,0
+62,Jimoh-Aloba,Aston Villa,MID,4.5,0.1,27,20,0,0,0,0,0,0,0
+63,Young,Aston Villa,MID,4.4,0.6,124,262,0,0,0,0,0,0,0
+64,Watkins,Aston Villa,FWD,8.5,6.5,1514,1885,0,0,0,0,0,0,0
+65,Redmond,Aston Villa,FWD,4.5,0.4,0,107,0,0,0,0,0,0,0
+66,Neto,Bournemouth,GKP,4.5,0.1,0,30,0,0,0,0,0,0,0
+67,Petrović,Bournemouth,GKP,4.5,5.7,3734,855,0,0,0,0,0,0,0
+68,Dennis,Bournemouth,GKP,4.0,1.0,80,154,0,0,0,0,0,0,0
+69,McKenna,Bournemouth,GKP,4.0,0.2,12,29,0,0,0,0,0,0,0
+70,Paulsen,Bournemouth,GKP,4.0,0.1,0,15,0,0,0,0,0,0,0
+71,Zabarnyi,Bournemouth,DEF,5.0,0.0,0,2,0,0,0,0,0,0,0
+72,Senesi,Bournemouth,DEF,5.0,26.0,5559,4401,0,0,0,0,0,0,0
+73,Smith,Bournemouth,DEF,4.4,0.2,21,42,0,0,0,0,0,0,0
+74,Truffert,Bournemouth,DEF,4.5,2.4,1987,495,0,0,0,0,0,0,0
+75,Akinmboni,Bournemouth,DEF,3.9,0.3,1,240,0,0,0,0,0,0,0
+76,Bevan,Bournemouth,DEF,3.9,0.2,27,42,0,0,0,0,0,0,0
+77,Hill,Bournemouth,DEF,4.0,0.8,124,306,0,0,0,0,0,0,0
+78,J.Araujo,Bournemouth,DEF,3.9,0.7,54,164,0,0,0,0,0,0,0
+79,Mepham,Bournemouth,DEF,4.0,0.1,0,18,0,0,0,0,0,0,0
+80,Soler,Bournemouth,DEF,4.0,0.2,37,48,0,0,0,0,0,0,0
+81,Kluivert,Bournemouth,MID,7.0,1.0,1048,851,0,0,0,0,0,0,0
+82,Semenyo,Bournemouth,MID,8.1,64.5,8244,5296,0,0,0,0,0,0,0
+83,O.Dango,Brentford,MID,6.0,0.5,452,334,0,0,0,0,0,0,0
+84,Tavernier,Bournemouth,MID,5.5,1.7,2318,885,0,0,0,0,0,0,0
+85,Adams,Bournemouth,MID,5.0,0.5,714,160,0,0,0,0,0,0,0
+86,Brooks,Bournemouth,MID,5.0,0.2,43,95,0,0,0,0,0,0,0
+87,Christie,Bournemouth,MID,5.0,0.1,22,41,0,0,0,0,0,0,0
+88,Cook,Bournemouth,MID,4.9,0.0,20,12,0,0,0,0,0,0,0
+89,Philip,Bournemouth,MID,4.9,0.0,0,3,0,0,0,0,0,0,0
+90,Scott,Bournemouth,MID,5.0,0.3,164,159,0,0,0,0,0,0,0
+91,Sinisterra,Bournemouth,MID,5.0,0.0,0,2,0,0,0,0,0,0,0
+92,Faivre,Bournemouth,MID,4.5,0.1,0,23,0,0,0,0,0,0,0
+93,H.Traorè,Bournemouth,MID,4.5,0.4,0,184,0,0,0,0,0,0,0
+94,Sadi,Bournemouth,MID,4.5,0.0,0,13,0,0,0,0,0,0,0
+95,Silcott-Duberry,Bournemouth,MID,4.4,0.1,0,53,0,0,0,0,0,0,0
+96,Winterburn,Bournemouth,MID,4.5,0.0,0,12,0,0,0,0,0,0,0
+97,Evanilson,Bournemouth,FWD,7.0,1.3,949,606,0,0,0,0,0,0,0
+98,Enes Ünal,Bournemouth,FWD,5.4,0.0,98,25,0,0,0,0,0,0,0
+99,Adu-Adjei,Bournemouth,FWD,4.4,0.2,0,66,0,0,0,0,0,0,0
+100,Kroupi.Jr,Bournemouth,FWD,4.6,4.7,9199,1568,0,0,0,0,0,0,0
+101,Kelleher,Brentford,GKP,4.5,7.8,809,1410,0,0,0,0,0,0,0
+102,Balcombe,Brentford,GKP,4.0,0.3,25,46,0,0,0,0,0,0,0
+103,Cox,Brentford,GKP,4.0,0.1,11,25,0,0,0,0,0,0,0
+104,Eyestone,Brentford,GKP,4.0,0.1,12,15,0,0,0,0,0,0,0
+105,Valdimarsson,Brentford,GKP,3.9,0.7,448,152,0,0,0,0,0,0,0
+106,Collins,Brentford,DEF,4.9,1.1,146,372,0,0,0,0,0,0,0
+107,Lewis-Potter,Brentford,DEF,4.9,0.3,27,98,0,0,0,0,0,0,0
+108,Ajer,Brentford,DEF,4.4,0.2,41,41,0,0,0,0,0,0,0
+109,Henry,Brentford,DEF,4.3,0.1,14,31,0,0,0,0,0,0,0
+110,Kayode,Brentford,DEF,4.5,0.4,154,181,0,0,0,0,0,0,0
+111,Pinnock,Brentford,DEF,4.3,0.1,13,37,0,0,0,0,0,0,0
+112,Roerslev,Brentford,DEF,4.5,0.0,0,2,0,0,0,0,0,0,0
+113,Van den Berg,Brentford,DEF,4.5,0.6,152,202,0,0,0,0,0,0,0
+114,Arthur,Brentford,DEF,3.9,0.2,23,39,0,0,0,0,0,0,0
+115,Fredrick,Brentford,DEF,4.0,0.1,0,16,0,0,0,0,0,0,0
+116,Hickey,Brentford,DEF,4.0,0.3,54,88,0,0,0,0,0,0,0
+117,Ji-soo,Brentford,DEF,3.9,0.1,0,48,0,0,0,0,0,0,0
+118,Meghoma,Brentford,DEF,4.0,0.1,0,8,0,0,0,0,0,0,0
+119,Mbeumo,Man Utd,MID,8.4,30.6,77845,1453,90,1,0,0,0,19,7
+120,Schade,Brentford,MID,7.0,0.7,823,565,0,0,0,0,0,0,0
+121,Damsgaard,Brentford,MID,5.8,0.6,264,288,0,0,0,0,0,0,0
+122,Milambo,Brentford,MID,5.2,0.0,4,13,0,0,0,0,0,0,0
+123,Carvalho,Brentford,MID,4.9,0.2,29,100,0,0,0,0,0,0,0
+124,Henderson,Brentford,MID,5.0,0.4,126,219,0,0,0,0,0,0,0
+125,Janelt,Brentford,MID,4.9,0.0,3,12,0,0,0,0,0,0,0
+126,Jensen,Brentford,MID,4.9,0.1,34,47,0,0,0,0,0,0,0
+127,Nunes,Brentford,MID,4.9,0.0,7,6,0,0,0,0,0,0,0
+128,Onyeka,Brentford,MID,4.9,0.1,9,15,0,0,0,0,0,0,0
+129,Yarmoliuk,Brentford,MID,5.0,0.1,8,36,0,0,0,0,0,0,0
+130,Donovan,Brentford,MID,4.5,0.1,51,46,0,0,0,0,0,0,0
+131,Konak,Brentford,MID,4.4,0.2,22,69,0,0,0,0,0,0,0
+132,Maghoma,Brentford,MID,4.5,0.0,14,11,0,0,0,0,0,0,0
+133,Peart-Harris,Brentford,MID,4.4,0.0,8,7,0,0,0,0,0,0,0
+134,Trevitt,Brentford,MID,4.5,0.0,0,2,0,0,0,0,0,0,0
+135,Wissa,Newcastle,FWD,7.3,0.5,19,123,0,0,0,0,0,0,0
+136,Thiago,Brentford,FWD,6.3,8.9,11827,4073,0,0,0,0,0,0,0
+137,Morgan,Brentford,FWD,4.4,0.4,119,170,0,0,0,0,0,0,0
+138,Steele,Brighton,GKP,4.3,0.3,9,59,0,0,0,0,0,0,0
+139,Verbruggen,Brighton,GKP,4.4,4.0,560,817,0,0,0,0,0,0,0
+140,McGill,Brighton,GKP,4.0,0.3,20,38,0,0,0,0,0,0,0
+141,Rushworth,Brighton,GKP,4.0,0.0,0,0,0,0,0,0,0,0,0
+142,Scherpen,Brighton,GKP,4.0,0.0,0,2,0,0,0,0,0,0,0
+143,Boscagli,Brighton,DEF,4.3,0.1,7,25,0,0,0,0,0,0,0
+144,Coppola,Brighton,DEF,4.3,0.1,2,9,0,0,0,0,0,0,0
+145,De Cuyper,Brighton,DEF,4.3,1.9,55,739,0,0,0,0,0,0,0
+146,Dunk,Brighton,DEF,4.5,1.1,212,253,0,0,0,0,0,0,0
+147,Estupiñan,Brighton,DEF,4.5,0.0,0,1,0,0,0,0,0,0,0
+148,F.Kadıoğlu,Brighton,DEF,4.4,0.2,68,44,0,0,0,0,0,0,0
+149,Igor,West Ham,DEF,4.5,0.1,20,28,7,0,0,0,0,-1,1
+150,Lamptey,Brighton,DEF,4.4,0.1,0,35,0,0,0,0,0,0,0
+151,Van Hecke,Brighton,DEF,4.4,1.3,679,352,0,0,0,0,0,0,0
+152,Veltman,Brighton,DEF,4.3,0.1,2,71,0,0,0,0,0,0,0
+153,Webster,Brighton,DEF,4.4,0.0,0,0,0,0,0,0,0,0,0
+154,Cashin,Brighton,DEF,4.0,0.0,0,2,0,0,0,0,0,0,0
+155,Slater,Brighton,DEF,4.0,0.1,0,22,0,0,0,0,0,0,0
+156,Tasker,Brighton,DEF,3.9,0.1,15,36,0,0,0,0,0,0,0
+157,Mitoma,Brighton,MID,6.2,2.1,16,1643,0,0,0,0,0,0,0
+158,Georginio,Brighton,MID,5.7,0.4,208,213,0,0,0,0,0,0,0
+159,March,Brighton,MID,5.8,0.0,2,4,0,0,0,0,0,0,0
+160,Minteh,Brighton,MID,6.0,4.7,5189,1410,0,0,0,0,0,0,0
+161,Enciso,Brighton,MID,5.4,0.0,0,1,0,0,0,0,0,0,0
+162,Gruda,Brighton,MID,5.4,0.1,2,37,0,0,0,0,0,0,0
+163,Hinshelwood,Brighton,MID,5.1,0.0,2,10,0,0,0,0,0,0,0
+164,O'Riley,Brighton,MID,5.5,0.4,0,118,0,0,0,0,0,0,0
+165,Sima,Brighton,MID,5.4,0.0,0,2,0,0,0,0,0,0,0
+166,Ayari,Brighton,MID,4.9,0.3,55,181,0,0,0,0,0,0,0
+167,Baleba,Brighton,MID,4.7,2.0,654,763,0,0,0,0,0,0,0
+168,Buonanotte,Chelsea,MID,4.7,0.1,21,31,0,0,0,0,0,0,0
+169,Gomez,Brighton,MID,4.9,0.2,521,129,0,0,0,0,0,0,0
+170,Milner,Brighton,MID,5.0,0.1,4,124,0,0,0,0,0,0,0
+171,Sarmiento,Brighton,MID,4.9,0.0,0,3,0,0,0,0,0,0,0
+172,Watson,Brighton,MID,4.9,0.0,9,13,0,0,0,0,0,0,0
+173,Wieffer,Brighton,MID,4.9,0.3,1420,128,0,0,0,0,0,0,0
+174,Yalcouye,Brighton,MID,5.0,0.0,0,0,0,0,0,0,0,0,0
+175,Knight,Brighton,MID,4.5,0.1,29,28,0,0,0,0,0,0,0
+176,Mazilu,Brighton,MID,4.5,0.0,0,8,0,0,0,0,0,0,0
+177,Moran,Brighton,MID,4.5,0.0,0,6,0,0,0,0,0,0,0
+178,Welbeck,Brighton,FWD,6.5,9.0,18422,2317,0,0,0,0,0,0,0
+179,Ferguson,Brighton,FWD,5.5,0.0,0,3,0,0,0,0,0,0,0
+180,Tzimas,Brighton,FWD,5.3,0.1,37,54,0,0,0,0,0,0,0
+181,Kostoulas,Brighton,FWD,4.8,0.3,219,140,0,0,0,0,0,0,0
+182,Trafford,Man City,GKP,4.7,1.1,27,328,0,0,0,0,0,0,0
+183,Weiss,Burnley,GKP,4.4,0.1,11,25,0,0,0,0,0,0,0
+184,Green,Burnley,GKP,4.0,0.2,0,42,0,0,0,0,0,0,0
+185,Hladký,Burnley,GKP,4.0,0.2,12,28,0,0,0,0,0,0,0
+186,Roberts,Burnley,DEF,4.4,0.0,0,12,0,0,0,0,0,0,0
+187,Walker,Burnley,DEF,4.4,1.6,373,956,90,0,0,0,0,6,0
+188,Delcroix,Burnley,DEF,3.9,0.2,10,71,0,0,0,0,0,0,0
+189,Dodgson,Burnley,DEF,4.0,0.0,0,3,0,0,0,0,0,0,0
+190,Ekdal,Burnley,DEF,4.0,1.1,45,787,0,0,0,0,0,0,0
+191,Estève,Burnley,DEF,4.0,12.0,936,3680,90,0,0,0,0,8,3
+192,Hartman,Burnley,DEF,4.0,0.9,1085,469,80,0,0,0,0,8,1
+193,Humphreys,Burnley,DEF,4.0,0.1,5,20,0,0,0,0,0,0,0
+194,Jordan,Burnley,DEF,4.0,0.1,2,14,0,0,0,0,0,0,0
+195,Lucas Pires,Burnley,DEF,3.9,0.2,11,50,9,0,0,0,0,1,1
+196,Sambo,Burnley,DEF,4.0,0.0,0,6,0,0,0,0,0,0,0
+197,Sonne,Burnley,DEF,3.9,0.1,7,36,0,0,0,0,0,0,0
+198,Tuanzebe,Burnley,DEF,3.9,1.8,747,360,90,0,0,0,0,5,3
+199,Worrall,Burnley,DEF,3.9,0.2,8,69,0,0,0,0,0,0,0
+200,Anthony,Burnley,MID,5.7,5.7,667,12639,80,0,0,0,0,8,2
+201,Benson,Burnley,MID,5.4,0.0,0,2,0,0,0,0,0,0,0
+202,Bruun Larsen,Burnley,MID,5.3,0.0,13,14,23,0,0,0,0,4,1
+203,Boateng,Burnley,MID,4.8,0.0,7,11,0,0,0,0,0,0,0
+204,Churlinov,Burnley,MID,4.9,0.0,0,2,0,0,0,0,0,0,0
+205,Cullen,Burnley,MID,5.0,2.3,1862,1346,90,1,0,0,3,35,10
+206,Edwards,Burnley,MID,4.7,0.1,22,32,9,0,0,0,0,5,1
+207,Hannibal,Burnley,MID,4.8,0.1,147,51,19,0,1,0,0,15,4
+208,Koleosho,Burnley,MID,5.0,0.0,0,0,0,0,0,0,0,0,0
+209,Laurent,Burnley,MID,4.9,0.0,7,15,0,0,0,0,0,0,0
+210,Tchaouna,Burnley,MID,4.9,0.0,5,14,66,0,0,0,0,7,2
+211,A.Ramsey,Burnley,MID,4.4,2.1,0,802,0,0,0,0,0,0,0
+212,Adewumi,Burnley,MID,4.5,0.0,0,3,0,0,0,0,0,0,0
+213,Banel,Burnley,MID,4.5,0.0,15,23,0,0,0,0,0,0,0
+214,Trésor,Burnley,MID,4.4,0.1,16,35,0,0,0,0,0,0,0
+215,Flemming,Burnley,FWD,5.3,0.3,1601,245,70,1,0,0,0,24,5
+216,Amdouni,Burnley,FWD,4.8,0.0,5,5,0,0,0,0,0,0,0
+217,Foster,Burnley,FWD,5.0,1.7,630,1974,0,0,0,0,0,0,0
+218,Barnes,Burnley,FWD,4.3,1.3,531,505,0,0,0,0,0,0,0
+219,Obafemi,Burnley,FWD,4.4,0.1,0,48,0,0,0,0,0,0,0
+220,Sánchez,Chelsea,GKP,4.8,13.7,3144,2119,90,0,0,1,0,19,6
+221,Jörgensen,Chelsea,GKP,4.4,0.2,22,64,0,0,0,0,0,0,0
+222,Penders,Chelsea,GKP,4.0,0.0,0,0,0,0,0,0,0,0,0
+223,Slonina,Chelsea,GKP,3.9,0.1,60,45,0,0,0,0,0,0,0
+224,Cucurella,Chelsea,DEF,6.1,22.0,4105,3599,90,0,0,1,0,28,6
+225,James,Chelsea,DEF,5.6,8.6,4593,6056,13,0,0,0,0,2,1
+226,Chalobah,Chelsea,DEF,5.1,8.0,2725,1585,90,0,0,1,0,25,6
+227,Colwill,Chelsea,DEF,4.8,0.1,3,22,0,0,0,0,0,0,0
+228,Gusto,Chelsea,DEF,4.9,1.1,1225,196,76,1,0,1,3,44,15
+229,B.Badiashile,Chelsea,DEF,4.4,0.0,2,4,0,0,0,0,0,0,0
+230,Fofana,Chelsea,DEF,4.4,0.2,343,42,90,0,0,1,0,29,6
+231,M.Sarr,Chelsea,DEF,4.5,0.0,0,2,0,0,0,0,0,0,0
+232,Tosin,Chelsea,DEF,4.3,0.4,39,381,0,0,0,0,0,0,0
+233,Acheampong,Chelsea,DEF,3.9,2.2,1231,1985,0,0,0,0,0,0,0
+234,Anselmino,Chelsea,DEF,4.0,0.1,0,8,0,0,0,0,0,0,0
+235,Palmer,Chelsea,MID,10.3,9.0,359,2731,0,0,0,0,0,0,0
+236,Neto,Chelsea,MID,7.1,5.9,5423,7163,76,1,0,1,0,38,8
+237,Enzo,Chelsea,MID,6.7,14.9,3837,10556,82,0,0,1,0,20,3
+238,Estêvão,Chelsea,MID,6.5,2.4,3297,1597,26,0,1,0,0,17,4
+239,Gittens,Chelsea,MID,6.1,0.1,80,157,7,0,0,0,0,4,1
+240,Nkunku,Chelsea,MID,5.9,0.1,0,14,0,0,0,0,0,0,0
+241,Caicedo,Chelsea,MID,6.0,22.9,19291,5440,90,0,0,1,0,12,2
+242,Dewsbury-Hall,Everton,MID,4.9,2.8,923,1284,88,0,1,1,1,34,9
+243,George,Chelsea,MID,4.9,0.1,30,38,0,0,0,0,0,0,0
+244,Lavia,Chelsea,MID,4.9,0.0,2,60,0,0,0,0,0,0,0
+245,Mudryk,Chelsea,MID,5.0,0.0,3,3,0,0,0,0,0,0,0
+246,Andrey Santos,Chelsea,MID,4.5,0.3,147,204,7,0,0,0,0,3,1
+247,D.Essugo,Chelsea,MID,4.3,0.1,66,81,0,0,0,0,0,0,0
+248,Paez,Chelsea,MID,4.5,0.0,0,0,0,0,0,0,0,0,0
+249,João Pedro,Chelsea,FWD,7.5,48.1,22038,8508,82,1,0,1,1,39,7
+250,Delap,Chelsea,FWD,6.2,1.0,701,336,63,0,0,1,0,9,2
+251,N.Jackson,Chelsea,FWD,6.5,0.1,0,13,0,0,0,0,0,0,0
+252,Marc Guiu,Chelsea,FWD,4.2,7.0,4310,2888,13,0,0,0,0,-5,1
+253,Henderson,Crystal Palace,GKP,5.0,7.6,2906,1339,0,0,0,0,0,0,0
+254,Benitez,Crystal Palace,GKP,4.0,0.3,22,72,0,0,0,0,0,0,0
+255,Matthews,Crystal Palace,GKP,4.0,0.1,12,23,0,0,0,0,0,0,0
+256,Muñoz,Crystal Palace,DEF,5.7,15.6,6521,2182,0,0,0,0,0,0,0
+257,Lacroix,Crystal Palace,DEF,5.0,3.7,1209,857,0,0,0,0,0,0,0
+258,Mitchell,Crystal Palace,DEF,5.0,2.2,233,625,0,0,0,0,0,0,0
+259,Sosa,Crystal Palace,DEF,4.8,0.1,34,38,0,0,0,0,0,0,0
+260,Guéhi,Crystal Palace,DEF,5.1,35.2,14242,1410,0,0,0,0,0,0,0
+261,Richards,Crystal Palace,DEF,4.5,3.3,1155,631,0,0,0,0,0,0,0
+262,Chadi Riad,Crystal Palace,DEF,4.0,0.0,12,8,0,0,0,0,0,0,0
+263,Clyne,Crystal Palace,DEF,3.9,0.4,33,140,0,0,0,0,0,0,0
+264,Holding,Crystal Palace,DEF,4.0,0.0,0,2,0,0,0,0,0,0,0
+265,Kporha,Crystal Palace,DEF,4.0,0.0,2,0,0,0,0,0,0,0,0
+266,Eze,Arsenal,MID,7.6,13.8,2600,13892,87,0,0,0,0,14,2
+267,Sarr,Crystal Palace,MID,6.7,12.8,12685,3286,0,0,0,0,0,0,0
+268,Doucouré,Crystal Palace,MID,4.9,0.0,1,4,0,0,0,0,0,0,0
+269,Esse,Crystal Palace,MID,4.7,0.1,44,55,0,0,0,0,0,0,0
+270,Hughes,Crystal Palace,MID,4.8,0.1,31,33,0,0,0,0,0,0,0
+271,Kamada,Crystal Palace,MID,5.0,0.2,113,93,0,0,0,0,0,0,0
+272,Lerma,Crystal Palace,MID,4.9,0.1,44,21,0,0,0,0,0,0,0
+273,Wharton,Crystal Palace,MID,5.0,0.4,139,156,0,0,0,0,0,0,0
+274,Agbinone,Crystal Palace,MID,4.4,0.1,14,24,0,0,0,0,0,0,0
+275,Ahamada,Crystal Palace,MID,4.4,0.0,11,11,0,0,0,0,0,0,0
+276,Devenny,Crystal Palace,MID,4.3,1.1,1486,481,0,0,0,0,0,0,0
+277,Ebiowei,Crystal Palace,MID,4.5,0.0,0,0,0,0,0,0,0,0,0
+278,J.Rak-Sakyi,Crystal Palace,MID,4.4,0.0,0,15,0,0,0,0,0,0,0
+279,M.França,Crystal Palace,MID,4.5,0.0,0,0,0,0,0,0,0,0,0
+280,Ozoh,Crystal Palace,MID,4.5,0.0,0,0,0,0,0,0,0,0,0
+281,Rodney,Crystal Palace,MID,4.5,0.0,25,23,0,0,0,0,0,0,0
+282,Umeh,Crystal Palace,MID,4.5,0.0,0,3,0,0,0,0,0,0,0
+283,Mateta,Crystal Palace,FWD,8.0,28.3,44641,2401,0,0,0,0,0,0,0
+284,Nketiah,Crystal Palace,FWD,5.4,0.4,24,637,0,0,0,0,0,0,0
+285,Édouard,Crystal Palace,FWD,5.0,0.2,0,71,0,0,0,0,0,0,0
+286,Marsh,Crystal Palace,FWD,4.5,0.3,198,151,0,0,0,0,0,0,0
+287,Pickford,Everton,GKP,5.5,9.6,918,2422,90,0,0,1,0,33,7
+288,Travers,Everton,GKP,4.4,0.1,6,37,0,0,0,0,0,0,0
+289,Tyrer,Everton,GKP,3.9,0.1,42,17,0,0,0,0,0,0,0
+290,Branthwaite,Everton,DEF,5.3,0.2,6,46,0,0,0,0,0,0,0
+291,Tarkowski,Everton,DEF,5.4,6.0,375,3333,90,0,0,1,0,23,5
+292,Mykolenko,Everton,DEF,4.9,0.4,93,132,90,0,0,1,0,28,6
+293,O'Brien,Everton,DEF,4.9,0.4,30,344,1,0,0,0,0,3,1
+294,Coleman,Everton,DEF,4.3,0.1,14,43,0,0,0,0,0,0,0
+295,Keane,Everton,DEF,4.5,1.1,2284,383,90,1,0,1,3,38,15
+296,Patterson,Everton,DEF,4.4,0.0,3,13,0,0,0,0,0,0,0
+297,Dixon,Everton,DEF,3.9,0.2,7,40,0,0,0,0,0,0,0
+298,Welch,Everton,DEF,3.9,0.1,7,32,0,0,0,0,0,0,0
+299,Ndiaye,Everton,MID,6.6,11.9,9943,5156,90,0,0,1,0,18,3
+300,McNeil,Everton,MID,5.6,0.1,20,78,0,0,0,0,0,0,0
+301,Alcaraz,Everton,MID,5.2,0.1,19,48,0,0,0,0,0,0,0
+302,Gana,Everton,MID,5.4,0.1,197,62,90,1,0,1,2,37,10
+303,Garner,Everton,MID,5.0,0.8,243,904,90,0,0,1,0,17,3
+304,Iroegbunam,Everton,MID,4.9,0.0,16,5,66,0,1,1,0,18,5
+305,Armstrong,Everton,MID,4.5,0.1,0,25,0,0,0,0,0,0,0
+306,Bates,Everton,MID,4.4,0.1,20,31,0,0,0,0,0,0,0
+307,Ebere,Everton,MID,4.4,0.0,10,20,0,0,0,0,0,0,0
+308,Heath,Everton,MID,4.5,0.0,0,5,0,0,0,0,0,0,0
+309,Metcalfe,Everton,MID,4.5,0.0,0,0,0,0,0,0,0,0,0
+310,Barry,Everton,FWD,5.7,0.3,177,149,78,0,0,1,0,1,2
+311,Beto,Everton,FWD,5.2,3.2,743,2713,11,0,0,0,0,0,1
+312,Y.Chermiti,Everton,FWD,4.9,0.1,0,10,0,0,0,0,0,0,0
+313,Sherif,Everton,FWD,4.4,0.1,0,52,0,0,0,0,0,0,0
+314,Leno,Fulham,GKP,5.0,1.6,310,493,90,0,0,0,0,8,2
+315,Benda,Fulham,GKP,4.0,0.0,0,0,0,0,0,0,0,0,0
+316,Robinson,Fulham,DEF,4.9,0.5,2,318,0,0,0,0,0,0,0
+317,Andersen,Fulham,DEF,4.5,2.8,549,571,90,0,0,0,0,7,3
+318,Bassey,Fulham,DEF,4.5,0.6,99,316,90,0,0,0,0,10,2
+319,Castagne,Fulham,DEF,4.4,0.1,7,79,0,0,0,0,0,0,0
+320,Diop,Fulham,DEF,4.4,0.1,5,29,0,0,0,0,0,0,0
+321,J.Cuenca,Fulham,DEF,4.4,0.0,6,11,0,0,0,0,0,0,0
+322,Tete,Fulham,DEF,4.5,0.2,41,45,90,0,0,0,0,18,3
+323,Amissah,Fulham,DEF,3.9,0.1,14,35,0,0,0,0,0,0,0
+324,Iwobi,Fulham,MID,6.5,1.5,375,1519,90,0,0,0,0,18,2
+325,Smith Rowe,Fulham,MID,5.6,0.4,91,194,3,0,0,0,0,2,1
+326,Adama,Fulham,MID,5.2,0.2,30,77,15,0,0,0,0,5,1
+327,Andreas,Fulham,MID,5.3,0.1,0,24,0,0,0,0,0,0,0
+328,Sessegnon,Fulham,MID,5.4,0.6,2397,587,90,0,0,0,0,10,4
+329,Wilson,Fulham,MID,5.2,0.4,319,217,58,0,0,0,0,5,1
+330,Berge,Fulham,MID,4.9,0.1,23,29,90,0,0,0,0,18,2
+331,Cairney,Fulham,MID,4.9,0.0,4,10,0,0,0,0,0,0,0
+332,Lukić,Fulham,MID,5.0,0.1,10,140,45,0,0,0,0,0,0
+333,Godo,Fulham,MID,4.5,0.0,0,10,0,0,0,0,0,0,0
+334,Harris,Fulham,MID,4.5,0.0,0,1,0,0,0,0,0,0,0
+335,King,Fulham,MID,4.5,4.0,2158,2221,45,0,0,0,0,11,1
+336,Reed,Fulham,MID,4.3,0.2,54,112,0,0,0,0,0,0,0
+337,Raúl,Fulham,FWD,6.2,0.9,410,535,57,0,0,0,0,5,1
+338,Muniz,Fulham,FWD,5.4,1.0,246,585,16,0,0,0,0,5,1
+339,Meslier,Leeds,GKP,4.3,0.4,14,93,0,0,0,0,0,0,0
+340,Cairns,Leeds,GKP,4.0,0.2,7,20,0,0,0,0,0,0,0
+341,Darlow,Leeds,GKP,4.0,2.3,128,561,0,0,0,0,0,0,0
+342,Bogle,Leeds,DEF,4.5,0.2,17,98,0,0,0,0,0,0,0
+343,Struijk,Leeds,DEF,4.4,0.3,19,169,0,0,0,0,0,0,0
+344,Bijol,Leeds,DEF,3.9,0.1,142,64,0,0,0,0,0,0,0
+345,Bornauw,Leeds,DEF,3.9,0.1,2,47,0,0,0,0,0,0,0
+346,Byram,Leeds,DEF,3.9,0.2,12,71,0,0,0,0,0,0,0
+347,Gudmundsson,Leeds,DEF,4.0,4.6,302,1670,0,0,0,0,0,0,0
+348,Rodon,Leeds,DEF,4.1,6.4,1955,1671,0,0,0,0,0,0,0
+349,Schmidt,Leeds,DEF,4.0,0.1,0,19,0,0,0,0,0,0,0
+350,Aaronson,Leeds,MID,5.4,0.2,65,190,0,0,0,0,0,0,0
+351,Gnonto,Leeds,MID,5.2,0.1,12,17,0,0,0,0,0,0,0
+352,Harrison,Leeds,MID,5.2,0.1,12,24,0,0,0,0,0,0,0
+353,James,Leeds,MID,5.3,0.1,12,26,0,0,0,0,0,0,0
+354,Ampadu,Leeds,MID,4.9,0.1,12,34,0,0,0,0,0,0,0
+355,Greenwood,Leeds,MID,4.9,0.0,0,12,0,0,0,0,0,0,0
+356,Gruev,Leeds,MID,4.8,0.0,2,9,0,0,0,0,0,0,0
+357,Ramazani,Leeds,MID,4.9,0.0,0,3,0,0,0,0,0,0,0
+358,Tanaka,Leeds,MID,4.8,0.1,19,37,0,0,0,0,0,0,0
+359,Crew,Leeds,MID,4.5,0.0,0,0,0,0,0,0,0,0,0
+360,Gelhardt,Leeds,MID,4.5,0.0,0,5,0,0,0,0,0,0,0
+361,Gyabi,Leeds,MID,4.5,0.0,0,10,0,0,0,0,0,0,0
+362,Piroe,Leeds,FWD,5.0,0.4,83,164,0,0,0,0,0,0,0
+363,Bamford,Leeds,FWD,4.9,0.4,0,136,0,0,0,0,0,0,0
+364,Mateo Joseph,Leeds,FWD,5.0,0.0,0,1,0,0,0,0,0,0,0
+365,Nmecha,Leeds,FWD,5.0,0.6,128,332,0,0,0,0,0,0,0
+366,A.Becker,Liverpool,GKP,5.4,5.5,205,2941,0,0,0,0,0,0,0
+367,Mamardashvili,Liverpool,GKP,4.3,1.0,2307,341,0,0,0,0,0,0,0
+368,Pécsi,Liverpool,GKP,3.9,0.4,24,94,0,0,0,0,0,0,0
+369,Woodman,Liverpool,GKP,3.9,0.2,46,80,0,0,0,0,0,0,0
+370,Frimpong,Liverpool,DEF,5.8,5.1,19,2856,0,0,0,0,0,0,0
+371,Kerkez,Liverpool,DEF,5.7,3.4,248,1453,0,0,0,0,0,0,0
+372,Robertson,Liverpool,DEF,5.8,1.0,292,176,0,0,0,0,0,0,0
+373,Virgil,Liverpool,DEF,5.9,23.0,6918,5088,0,0,0,0,0,0,0
+374,Konaté,Liverpool,DEF,5.4,2.7,2241,661,0,0,0,0,0,0,0
+375,Bradley,Liverpool,DEF,5.0,0.2,1636,129,0,0,0,0,0,0,0
+376,Gomez,Liverpool,DEF,4.9,0.1,40,67,0,0,0,0,0,0,0
+377,Tsimikas,Liverpool,DEF,4.8,0.1,0,19,0,0,0,0,0,0,0
+378,Nallo,Liverpool,DEF,3.8,0.3,377,232,0,0,0,0,0,0,0
+379,R.Williams,Liverpool,DEF,3.8,0.2,233,131,0,0,0,0,0,0,0
+380,Ramsay,Liverpool,DEF,3.8,0.2,492,93,0,0,0,0,0,0,0
+381,M.Salah,Liverpool,MID,14.2,24.3,2795,7598,0,0,0,0,0,0,0
+382,Wirtz,Liverpool,MID,8.0,7.2,1276,2077,0,0,0,0,0,0,0
+383,Luis Díaz,Liverpool,MID,8.0,0.0,0,7,0,0,0,0,0,0,0
+384,Gakpo,Liverpool,MID,7.6,13.3,8866,7118,0,0,0,0,0,0,0
+385,Chiesa,Liverpool,MID,6.4,0.3,92,197,0,0,0,0,0,0,0
+386,Mac Allister,Liverpool,MID,6.3,1.2,978,329,0,0,0,0,0,0,0
+387,Szoboszlai,Liverpool,MID,6.6,4.8,16126,1411,0,0,0,0,0,0,0
+388,C.Jones,Liverpool,MID,5.4,0.1,55,27,0,0,0,0,0,0,0
+389,Elliott,Aston Villa,MID,5.4,0.2,53,153,0,0,0,0,0,0,0
+390,Gravenberch,Liverpool,MID,5.6,4.5,11670,1409,0,0,0,0,0,0,0
+391,Gannon-Doak,Bournemouth,MID,4.9,0.0,10,17,0,0,0,0,0,0,0
+392,Endo,Liverpool,MID,4.9,0.1,31,24,0,0,0,0,0,0,0
+393,Bajcetic,Liverpool,MID,4.3,0.0,26,26,0,0,0,0,0,0,0
+394,McConnell,Liverpool,MID,4.4,0.0,0,8,0,0,0,0,0,0,0
+395,Morton,Liverpool,MID,4.5,0.0,0,1,0,0,0,0,0,0,0
+396,Nyoni,Liverpool,MID,4.3,0.6,294,457,0,0,0,0,0,0,0
+397,Darwin,Liverpool,FWD,6.5,0.1,0,11,0,0,0,0,0,0,0
+398,Danns,Liverpool,FWD,4.4,0.1,7,48,0,0,0,0,0,0,0
+399,Ederson M.,Man City,GKP,5.3,0.9,0,177,0,0,0,0,0,0,0
+400,Ortega Moreno,Man City,GKP,4.8,0.2,12,36,0,0,0,0,0,0,0
+401,Bettinelli,Man City,GKP,4.0,0.1,10,18,0,0,0,0,0,0,0
+402,Aït-Nouri,Man City,DEF,5.8,4.7,238,1017,0,0,0,0,0,0,0
+403,Gvardiol,Man City,DEF,5.8,5.1,755,1761,0,0,0,0,0,0,0
+404,Akanji,Man City,DEF,5.4,0.3,0,69,0,0,0,0,0,0,0
+405,Aké,Man City,DEF,5.3,0.6,59,176,0,0,0,0,0,0,0
+406,Khusanov,Man City,DEF,5.4,0.3,45,72,0,0,0,0,0,0,0
+407,Matheus N.,Man City,DEF,5.3,0.7,246,438,0,0,0,0,0,0,0
+408,Rúben,Man City,DEF,5.5,4.4,619,1249,0,0,0,0,0,0,0
+409,Stones,Man City,DEF,5.4,0.7,82,192,0,0,0,0,0,0,0
+410,Lewis,Man City,DEF,4.8,1.6,63,759,0,0,0,0,0,0,0
+411,O’Reilly,Man City,DEF,4.9,1.2,2626,416,0,0,0,0,0,0,0
+412,Vitor Reis,Man City,DEF,5.0,0.0,0,0,0,0,0,0,0,0,0
+413,Marmoush,Man City,MID,8.3,2.6,408,733,0,0,0,0,0,0,0
+414,Foden,Man City,MID,8.0,4.4,4114,2132,0,0,0,0,0,0,0
+415,Savinho,Man City,MID,6.9,0.5,312,189,0,0,0,0,0,0,0
+416,Bernardo,Man City,MID,6.3,0.5,113,190,0,0,0,0,0,0,0
+417,Cherki,Man City,MID,6.3,3.1,7318,593,0,0,0,0,0,0,0
+418,Doku,Man City,MID,6.4,4.4,1530,4749,0,0,0,0,0,0,0
+419,Grealish,Everton,MID,6.8,16.8,2274,24463,90,0,0,1,0,12,3
+420,Gündoğan,Man City,MID,6.3,0.1,0,14,0,0,0,0,0,0,0
+421,Rodrigo,Man City,MID,6.3,0.4,7,231,0,0,0,0,0,0,0
+422,Kovačić,Man City,MID,5.9,0.0,0,65,0,0,0,0,0,0,0
+423,N.Gonzalez,Man City,MID,5.9,0.1,55,36,0,0,0,0,0,0,0
+424,Bobb,Man City,MID,5.3,0.3,60,177,0,0,0,0,0,0,0
+425,Echeverri,Man City,MID,5.4,0.0,0,2,0,0,0,0,0,0,0
+426,McAtee,Nott'm Forest,MID,5.1,0.1,32,42,0,0,0,0,0,0,0
+427,Reijnders,Man City,MID,5.5,20.3,1803,17417,0,0,0,0,0,0,0
+428,Nypan,Man City,MID,5.0,0.0,0,2,0,0,0,0,0,0,0
+429,Phillips,Man City,MID,4.8,0.1,20,21,0,0,0,0,0,0,0
+430,Haaland,Man City,FWD,14.8,70.4,11330,911,0,0,0,0,0,0,0
+431,Bayindir,Man Utd,GKP,4.8,0.3,20,186,0,0,0,0,0,0,0
+432,Onana,Man Utd,GKP,4.9,0.2,0,39,0,0,0,0,0,0,0
+433,Harrison,Man Utd,GKP,4.0,0.0,0,0,0,0,0,0,0,0,0
+434,Heaton,Man Utd,GKP,3.9,0.3,73,74,0,0,0,0,0,0,0
+435,Mee,Man Utd,GKP,3.9,0.1,20,28,0,0,0,0,0,0,0
+436,De Ligt,Man Utd,DEF,5.0,2.9,3707,559,90,1,0,0,0,20,9
+437,Martinez,Man Utd,DEF,4.8,0.1,8,26,0,0,0,0,0,0,0
+438,Mazraoui,Man Utd,DEF,4.9,0.2,99,63,57,0,0,0,0,5,1
+439,D.Leon,Man Utd,DEF,4.2,0.1,7,30,0,0,0,0,0,0,0
+440,Dalot,Man Utd,DEF,4.4,1.0,118,693,10,0,0,0,0,-5,0
+441,Dorgu,Man Utd,DEF,4.3,2.9,474,1044,79,0,0,1,0,24,5
+442,Maguire,Man Utd,DEF,4.4,0.8,630,472,71,0,0,1,0,18,6
+443,Shaw,Man Utd,DEF,4.5,0.5,561,300,90,0,0,0,0,6,1
+444,Yoro,Man Utd,DEF,4.4,1.7,140,1529,18,0,0,0,0,-5,0
+445,Amass,Man Utd,DEF,4.0,0.1,0,17,0,0,0,0,0,0,0
+446,Fredricson,Man Utd,DEF,3.9,0.1,5,44,0,0,0,0,0,0,0
+447,Heaven,Man Utd,DEF,3.8,1.1,2370,556,0,0,0,0,0,0,0
+448,Malacia,Man Utd,DEF,3.9,0.3,22,122,0,0,0,0,0,0,0
+449,B.Fernandes,Man Utd,MID,8.9,16.2,5304,7128,90,0,1,0,0,20,5
+450,Cunha,Man Utd,MID,7.9,4.4,2135,3316,71,0,0,1,0,2,3
+451,Rashford,Man Utd,MID,7.0,0.0,0,1,0,0,0,0,0,0,0
+452,Amad,Man Utd,MID,6.3,1.5,6731,374,90,0,1,0,3,28,8
+453,Garnacho,Chelsea,MID,6.4,0.6,8142,252,90,0,2,1,2,40,11
+454,Antony,Man Utd,MID,5.9,0.1,0,6,0,0,0,0,0,0,0
+455,Mount,Man Utd,MID,5.9,0.3,107,285,18,0,0,0,0,4,1
+456,Sancho,Aston Villa,MID,5.8,0.2,123,92,0,0,0,0,0,0,0
+457,Casemiro,Man Utd,MID,5.5,1.0,3875,1386,71,0,0,1,0,13,5
+458,Mainoo,Man Utd,MID,4.7,0.5,90,433,0,0,0,0,0,0,0
+459,Ugarte,Man Utd,MID,4.8,0.1,53,97,18,0,0,0,0,8,1
+460,Collyer,Man Utd,MID,4.5,0.0,0,10,0,0,0,0,0,0,0
+461,Fitzgerald,Man Utd,MID,4.4,0.0,4,17,0,0,0,0,0,0,0
+462,J.Fletcher,Man Utd,MID,4.4,0.1,7,23,0,0,0,0,0,0,0
+463,Kone,Man Utd,MID,4.4,0.1,12,35,0,0,0,0,0,0,0
+464,Moorhouse,Man Utd,MID,4.5,0.0,0,9,0,0,0,0,0,0,0
+465,Højlund,Man Utd,FWD,6.3,0.3,0,64,0,0,0,0,0,0,0
+466,Zirkzee,Man Utd,FWD,5.8,0.4,206,200,0,0,0,0,0,0,0
+467,Obi,Man Utd,FWD,4.3,1.5,273,759,0,0,0,0,0,0,0
+468,Wheatley,Man Utd,FWD,4.5,0.1,0,27,0,0,0,0,0,0,0
+469,Pope,Newcastle,GKP,5.2,12.0,1422,5085,0,0,0,0,0,0,0
+470,Dúbravka,Burnley,GKP,4.0,34.4,2997,3218,90,0,0,0,0,2,2
+471,Gillespie,Newcastle,GKP,4.0,0.1,9,22,0,0,0,0,0,0,0
+472,Odysseas,Newcastle,GKP,4.0,0.0,0,6,0,0,0,0,0,0,0
+473,Hall,Newcastle,DEF,5.2,0.7,66,145,0,0,0,0,0,0,0
+474,Schär,Newcastle,DEF,5.4,1.8,171,758,0,0,0,0,0,0,0
+475,Botman,Newcastle,DEF,4.9,0.6,71,343,0,0,0,0,0,0,0
+476,Burn,Newcastle,DEF,5.2,10.2,1523,6165,0,0,0,0,0,0,0
+477,Livramento,Newcastle,DEF,4.9,2.8,21,2643,0,0,0,0,0,0,0
+478,Trippier,Newcastle,DEF,5.0,2.5,168,1413,0,0,0,0,0,0,0
+479,Krafth,Newcastle,DEF,4.3,0.0,8,12,0,0,0,0,0,0,0
+480,Lascelles,Newcastle,DEF,4.3,0.1,8,16,0,0,0,0,0,0,0
+481,A.Murphy,Newcastle,DEF,3.9,0.6,64,146,0,0,0,0,0,0,0
+482,Ashby,Newcastle,DEF,3.9,0.1,8,55,0,0,0,0,0,0,0
+483,Pivas,Newcastle,DEF,3.9,0.2,9,55,0,0,0,0,0,0,0
+484,Targett,Newcastle,DEF,4.0,0.2,0,52,0,0,0,0,0,0,0
+485,Gordon,Newcastle,MID,7.4,2.1,64,6115,0,0,0,0,0,0,0
+486,Elanga,Newcastle,MID,6.7,3.5,189,1662,0,0,0,0,0,0,0
+487,Barnes,Newcastle,MID,6.3,0.4,58,206,0,0,0,0,0,0,0
+488,Bruno G.,Newcastle,MID,6.6,3.7,1347,2477,0,0,0,0,0,0,0
+489,J.Murphy,Newcastle,MID,6.1,1.2,924,611,0,0,0,0,0,0,0
+490,Joelinton,Newcastle,MID,5.9,0.3,163,164,0,0,0,0,0,0,0
+491,Tonali,Newcastle,MID,5.4,1.3,362,720,0,0,0,0,0,0,0
+492,Antoñito C.,Newcastle,MID,4.9,0.0,0,5,0,0,0,0,0,0,0
+493,Longstaff,Leeds,MID,4.9,1.1,286,887,0,0,0,0,0,0,0
+494,Willock,Newcastle,MID,5.0,0.1,24,23,0,0,0,0,0,0,0
+495,Hayden,Newcastle,MID,4.5,0.0,0,0,0,0,0,0,0,0,0
+496,Kuol,Newcastle,MID,4.4,0.0,0,11,0,0,0,0,0,0,0
+497,L.Miley,Newcastle,MID,4.4,2.1,714,955,0,0,0,0,0,0,0
+498,White,Newcastle,MID,4.5,0.0,0,2,0,0,0,0,0,0,0
+499,Isak,Liverpool,FWD,10.4,4.7,349,3922,0,0,0,0,0,0,0
+500,Osula,Newcastle,FWD,5.5,0.3,10,523,0,0,0,0,0,0,0
+501,Neave,Newcastle,FWD,4.4,0.2,72,80,0,0,0,0,0,0,0
+502,Sels,Nott'm Forest,GKP,4.8,8.2,169,3955,0,0,0,0,0,0,0
+503,C.Miguel,Nott'm Forest,GKP,4.0,0.1,0,25,0,0,0,0,0,0,0
+504,Turner,Nott'm Forest,GKP,4.0,0.1,0,21,0,0,0,0,0,0,0
+505,Milenković,Nott'm Forest,DEF,5.2,3.8,51,1986,0,0,0,0,0,0,0
+506,Murillo,Nott'm Forest,DEF,5.3,2.0,156,633,0,0,0,0,0,0,0
+507,Aina,Nott'm Forest,DEF,4.7,2.4,1,1252,0,0,0,0,0,0,0
+508,N.Williams,Nott'm Forest,DEF,4.7,3.4,133,1626,0,0,0,0,0,0,0
+509,David Carmo,Nott'm Forest,DEF,4.5,0.0,0,5,0,0,0,0,0,0,0
+510,Jair Cunha,Nott'm Forest,DEF,4.3,0.1,5,15,0,0,0,0,0,0,0
+511,Morato,Nott'm Forest,DEF,4.4,0.1,10,26,0,0,0,0,0,0,0
+512,O.Richards,Nott'm Forest,DEF,4.5,0.0,0,4,0,0,0,0,0,0,0
+513,Abbott,Nott'm Forest,DEF,3.9,0.2,13,46,0,0,0,0,0,0,0
+514,Boly,Nott'm Forest,DEF,3.9,0.4,30,129,0,0,0,0,0,0,0
+515,Gibbs-White,Nott'm Forest,MID,7.3,3.2,690,1935,0,0,0,0,0,0,0
+516,Hudson-Odoi,Nott'm Forest,MID,5.8,0.7,8,1359,0,0,0,0,0,0,0
+517,Anderson,Nott'm Forest,MID,5.3,3.0,373,1558,0,0,0,0,0,0,0
+518,Jota,Nott'm Forest,MID,5.4,0.0,0,10,0,0,0,0,0,0,0
+519,Dominguez,Nott'm Forest,MID,5.0,0.0,5,10,0,0,0,0,0,0,0
+520,O'Brien,Nott'm Forest,MID,5.0,0.0,0,0,0,0,0,0,0,0,0
+521,Sangaré,Nott'm Forest,MID,4.9,0.1,6,18,0,0,0,0,0,0,0
+522,Yates,Nott'm Forest,MID,4.7,0.1,91,37,0,0,0,0,0,0,0
+523,Da Silva Moreira,Nott'm Forest,MID,4.5,0.1,0,17,0,0,0,0,0,0,0
+524,Stamenic,Nott'm Forest,MID,4.5,0.0,0,4,0,0,0,0,0,0,0
+525,Wood,Nott'm Forest,FWD,7.2,6.1,22,5057,0,0,0,0,0,0,0
+526,Igor Jesus,Nott'm Forest,FWD,5.8,0.7,461,461,0,0,0,0,0,0,0
+527,Awoniyi,Nott'm Forest,FWD,5.2,0.4,131,109,0,0,0,0,0,0,0
+528,Patterson,Sunderland,GKP,4.3,0.2,26,50,0,0,0,0,0,0,0
+529,Moore,Sunderland,GKP,3.9,0.4,87,65,0,0,0,0,0,0,0
+530,Nna Noukeu,Sunderland,GKP,3.9,0.1,36,25,0,0,0,0,0,0,0
+531,Ballard,Sunderland,DEF,4.6,2.5,11130,360,90,1,1,0,0,24,10
+532,Hume,Sunderland,DEF,4.5,0.4,197,243,90,0,0,0,0,7,1
+533,Alese,Sunderland,DEF,4.0,0.0,2,2,0,0,0,0,0,0,0
+534,Anderson,Sunderland,DEF,3.9,0.4,44,144,0,0,0,0,0,0,0
+535,Cirkin,Sunderland,DEF,4.0,0.0,1,1,0,0,0,0,0,0,0
+536,Hjelde,Sunderland,DEF,4.0,0.0,1,3,0,0,0,0,0,0,0
+537,Huggins,Sunderland,DEF,4.0,0.1,0,27,0,0,0,0,0,0,0
+538,Johnson,Sunderland,DEF,3.9,0.3,19,77,0,0,0,0,0,0,0
+539,O'Nien,Sunderland,DEF,4.0,0.0,30,35,0,0,0,0,0,0,0
+540,Pembele,Sunderland,DEF,3.9,0.4,21,134,0,0,0,0,0,0,0
+541,Reinildo,Sunderland,DEF,4.0,4.3,606,1281,90,0,0,0,0,-4,0
+542,Seelt,Sunderland,DEF,4.0,0.1,0,23,0,0,0,0,0,0,0
+543,Adingra,Sunderland,MID,5.1,0.5,53,283,26,0,0,0,0,1,1
+544,Diarra,Sunderland,MID,5.3,0.0,3,15,0,0,0,0,0,0,0
+545,Roberts,Sunderland,MID,5.4,0.0,0,0,0,0,0,0,0,0,0
+546,Aleksić,Sunderland,MID,4.9,0.0,0,7,0,0,0,0,0,0,0
+547,E.Le Fée,Sunderland,MID,4.9,0.4,193,182,63,0,0,0,0,5,2
+548,Mundle,Sunderland,MID,4.9,0.0,1,2,0,0,0,0,0,0,0
+549,Neil,Sunderland,MID,4.8,0.0,7,20,0,0,0,0,0,0,0
+550,Poveda,Sunderland,MID,4.8,0.0,7,10,0,0,0,0,0,0,0
+551,Rigg,Sunderland,MID,4.8,0.0,11,18,0,0,0,0,0,0,0
+552,Sadiki,Sunderland,MID,5.0,0.1,91,22,90,0,0,0,0,16,4
+553,Talbi,Sunderland,MID,5.0,0.3,124,210,26,0,0,0,0,4,1
+554,Ba,Sunderland,MID,4.3,0.5,1232,365,0,0,0,0,0,0,0
+555,Browne,Sunderland,MID,4.5,0.0,0,15,0,0,0,0,0,0,0
+556,Ekwah,Sunderland,MID,4.5,0.0,0,3,0,0,0,0,0,0,0
+557,H.Jones,Sunderland,MID,4.4,0.1,18,19,0,0,0,0,0,0,0
+558,Matete,Sunderland,MID,4.4,0.2,62,105,0,0,0,0,0,0,0
+559,Triantis,Sunderland,MID,4.4,0.0,0,16,0,0,0,0,0,0,0
+560,Isidor,Sunderland,FWD,5.6,3.5,4651,2559,62,0,0,0,0,3,2
+561,Mayenda,Sunderland,FWD,5.4,0.7,114,384,3,0,0,0,0,3,1
+562,Abdullahi,Sunderland,FWD,4.3,0.4,291,217,0,0,0,0,0,0,0
+563,Luís Hemir,Sunderland,FWD,4.4,0.1,0,30,0,0,0,0,0,0,0
+564,Rusyn,Sunderland,FWD,4.4,0.1,0,32,0,0,0,0,0,0,0
+565,Vicario,Spurs,GKP,5.0,9.9,681,8564,90,0,0,0,0,-1,1
+566,Austin,Spurs,GKP,3.9,0.3,65,79,0,0,0,0,0,0,0
+567,Kinsky,Spurs,GKP,3.9,1.9,245,419,0,0,0,0,0,0,0
+568,Pedro Porro,Spurs,DEF,5.5,17.6,883,11524,66,0,0,0,0,7,2
+569,Romero,Spurs,DEF,5.0,4.1,246,2398,87,0,0,0,0,7,1
+570,Danso,Spurs,DEF,4.3,0.1,36,107,2,0,0,0,0,-6,0
+571,Davies,Spurs,DEF,4.3,0.1,2,35,0,0,0,0,0,0,0
+572,Dragusin,Spurs,DEF,4.5,0.0,1,3,0,0,0,0,0,0,0
+573,Spence,Spurs,DEF,4.5,1.6,170,1177,90,0,0,0,0,8,1
+574,Udogie,Spurs,DEF,4.4,0.4,104,138,23,0,1,0,0,12,4
+575,Van de Ven,Spurs,DEF,4.8,33.4,12782,7696,90,0,0,0,0,4,1
+576,Phillips,Spurs,DEF,4.0,0.0,0,6,0,0,0,0,0,0,0
+577,Takai,Spurs,DEF,4.0,0.1,1,19,0,0,0,0,0,0,0
+578,Vuskovic,Spurs,DEF,3.9,0.4,0,105,0,0,0,0,0,0,0
+579,Son,Spurs,MID,8.5,0.1,0,16,0,0,0,0,0,0,0
+580,Johnson,Spurs,MID,6.7,3.0,277,1835,90,0,0,0,0,9,1
+581,Maddison,Spurs,MID,6.9,0.1,6,17,0,0,0,0,0,0,0
+582,Kudus,Spurs,MID,6.6,23.4,202,85139,0,0,0,0,0,0,0
+583,Kulusevski,Spurs,MID,6.4,0.0,6,7,0,0,0,0,0,0,0
+584,Tel,Spurs,MID,6.3,0.1,209,89,11,1,0,0,0,22,6
+585,Bentancur,Spurs,MID,5.3,0.4,325,641,11,0,0,0,0,6,1
+586,Bergvall,Spurs,MID,5.4,0.3,8,598,0,0,0,0,0,0,0
+587,Bissouma,Spurs,MID,5.2,0.0,2,12,0,0,0,0,0,0,0
+588,Odobert,Spurs,MID,5.3,0.0,99,19,45,0,1,0,3,28,7
+589,Solomon,Spurs,MID,5.4,0.0,0,2,0,0,0,0,0,0,0
+590,Bryan,Spurs,MID,4.9,0.0,0,9,0,0,0,0,0,0,0
+591,Gray,Spurs,MID,4.8,0.1,1,66,0,0,0,0,0,0,0
+592,Moore,Spurs,MID,5.0,0.0,0,1,0,0,0,0,0,0,0
+593,P.M.Sarr,Spurs,MID,4.9,1.6,574,1219,90,0,0,0,0,10,2
+594,Min-hyeok,Spurs,MID,4.5,0.0,0,4,0,0,0,0,0,0,0
+595,Olusesi,Spurs,MID,4.4,0.2,23,73,0,0,0,0,0,0,0
+596,Solanke,Spurs,FWD,7.2,0.9,16,225,0,0,0,0,0,0,0
+597,Richarlison,Spurs,FWD,6.4,7.8,2187,4616,90,1,0,0,1,25,6
+598,Lankshear,Spurs,FWD,4.5,0.0,0,4,0,0,0,0,0,0,0
+599,Scarlett,Spurs,FWD,4.3,0.6,488,311,0,0,0,0,0,0,0
+600,Areola,West Ham,GKP,4.3,2.1,246,533,90,0,0,0,0,10,2
+601,Foderingham,West Ham,GKP,4.0,0.3,0,105,0,0,0,0,0,0,0
+602,Hegyi,West Ham,GKP,3.9,0.2,134,42,0,0,0,0,0,0,0
+603,Diouf,West Ham,DEF,4.3,3.1,163,2432,90,0,0,0,0,11,1
+604,Emerson,West Ham,DEF,4.4,0.1,0,15,0,0,0,0,0,0,0
+605,Kilman,West Ham,DEF,4.3,0.2,17,88,90,0,0,0,0,5,1
+606,Mavropanos,West Ham,DEF,4.4,0.1,0,29,0,0,0,0,0,0,0
+607,N.Aguerd,West Ham,DEF,4.4,0.0,0,7,0,0,0,0,0,0,0
+608,Scarles,West Ham,DEF,4.4,0.0,1,11,0,0,0,0,0,0,0
+609,Todibo,West Ham,DEF,4.3,0.1,7,33,90,0,0,0,0,6,1
+610,Wan-Bissaka,West Ham,DEF,4.3,5.7,268,1136,90,0,0,0,0,3,3
+611,Casey,West Ham,DEF,4.0,0.1,0,29,0,0,0,0,0,0,0
+612,L.Paquetá,West Ham,MID,5.9,2.8,779,8429,82,0,1,0,0,22,4
+613,Souček,West Ham,MID,5.7,0.2,732,63,28,1,1,0,3,35,12
+614,Ward-Prowse,West Ham,MID,5.7,0.2,53,126,0,0,0,0,0,0,0
+615,Summerville,West Ham,MID,5.5,0.1,117,118,82,0,1,0,0,11,5
+616,Álvarez,West Ham,MID,4.9,0.1,0,6,0,0,0,0,0,0,0
+617,Cornet,West Ham,MID,4.9,0.0,0,2,0,0,0,0,0,0,0
+618,G.Rodriguez,West Ham,MID,4.8,0.0,10,15,0,0,0,0,0,0,0
+619,L.Guilherme,West Ham,MID,4.9,0.0,1,4,0,0,0,0,0,0,0
+620,Earthy,West Ham,MID,4.5,0.0,5,27,0,0,0,0,0,0,0
+621,Irving,West Ham,MID,4.4,0.3,63,186,0,0,0,0,0,0,0
+622,Orford,West Ham,MID,4.4,0.1,0,17,0,0,0,0,0,0,0
+623,Potts,West Ham,MID,4.4,0.6,634,248,61,0,0,0,0,19,4
+624,Bowen,West Ham,FWD,7.7,7.8,1289,13928,90,0,0,0,0,9,2
+625,Füllkrug,West Ham,FWD,5.6,0.7,7,310,0,0,0,0,0,0,0
+626,Marshall,West Ham,FWD,4.4,0.7,106,226,0,0,0,0,0,0,0
+627,Johnstone,Wolves,GKP,4.5,0.1,26,44,90,0,0,0,0,10,2
+628,José Sá,Wolves,GKP,4.3,1.2,39,420,0,0,0,0,0,0,0
+629,Bentley,Wolves,GKP,4.0,0.6,24,98,0,0,0,0,0,0,0
+630,King,Everton,GKP,3.9,1.3,1192,318,0,0,0,0,0,0,0
+631,Agbadou,Wolves,DEF,4.3,0.2,5,124,0,0,0,0,0,0,0
+632,Doherty,Wolves,DEF,4.4,0.1,1,67,0,0,0,0,0,0,0
+633,H.Bueno,Wolves,DEF,4.4,0.1,13,42,90,0,0,0,0,-3,1
+634,Mosquera,Wolves,DEF,4.3,0.1,7,10,0,0,0,0,0,0,0
+635,R.Gomes,Wolves,DEF,4.5,0.1,1,78,0,0,0,0,0,0,0
+636,S.Bueno,Wolves,DEF,4.4,0.1,15,60,90,0,0,0,0,3,1
+637,Toti,Wolves,DEF,4.3,0.1,15,32,90,0,0,0,0,1,1
+638,Hoever,Wolves,DEF,3.9,0.9,84,246,0,0,0,0,0,0,0
+639,Meupiyou,Wolves,DEF,4.0,0.0,0,1,0,0,0,0,0,0,0
+640,Pedro Lima,Wolves,DEF,4.0,0.5,0,156,0,0,0,0,0,0,0
+641,Pond,Wolves,DEF,3.9,1.4,132,402,0,0,0,0,0,0,0
+642,Hee Chan,Wolves,MID,5.8,0.1,42,61,69,0,0,0,0,6,2
+643,André,Wolves,MID,5.3,0.1,13,28,90,0,0,0,0,3,1
+644,Bellegarde,Wolves,MID,5.2,0.0,5,17,69,0,0,0,0,8,2
+645,Fer López,Wolves,MID,5.2,0.0,4,10,0,0,0,0,0,0,0
+646,Gomes,Wolves,MID,5.3,0.1,20,46,90,0,0,0,0,10,2
+647,Guedes,Wolves,MID,5.5,0.0,0,1,0,0,0,0,0,0,0
+648,Munetsi,Wolves,MID,5.4,0.1,61,95,20,0,0,0,0,1,0
+649,B.Traore,Wolves,MID,5.0,0.0,0,0,0,0,0,0,0,0,0
+650,Chirewa,Wolves,MID,4.4,0.3,14,93,0,0,0,0,0,0,0
+651,Edozie,Wolves,MID,4.4,0.3,22,125,0,0,0,0,0,0,0
+652,Gonzalez,Wolves,MID,4.4,1.4,113,545,0,0,0,0,0,0,0
+653,Hodge,Wolves,MID,4.5,0.0,0,9,0,0,0,0,0,0,0
+654,Strand Larsen,Wolves,FWD,6.3,1.2,193,567,90,0,0,0,0,6,2
+655,Fábio Silva,Wolves,FWD,4.9,0.2,0,50,0,0,0,0,0,0,0
+656,Kalajdžić,Wolves,FWD,4.9,0.1,0,8,0,0,0,0,0,0,0
+657,Chiwome,Wolves,FWD,4.4,0.0,9,12,0,0,0,0,0,0,0
+658,Fraser,Wolves,FWD,4.4,1.8,125,653,0,0,0,0,0,0,0
+659,Walker-Peters,West Ham,DEF,4.3,0.3,60,60,7,1,0,0,0,17,7
+660,Stach,Leeds,MID,4.9,2.1,121,1881,0,0,0,0,0,0,0
+661,Ekitiké,Liverpool,FWD,8.6,15.6,12439,6494,0,0,0,0,0,0,0
+662,Mosquera,Arsenal,DEF,5.4,0.2,8,111,2,0,0,0,0,0,1
+663,J.Arias,Wolves,MID,5.1,0.2,11,112,0,0,0,0,0,0,0
+664,Lecomte,Fulham,GKP,4.0,0.6,7,97,0,0,0,0,0,0,0
+665,Perri,Leeds,GKP,4.5,0.2,35,60,0,0,0,0,0,0,0
+666,Gyökeres,Arsenal,FWD,8.9,14.5,337,41239,0,0,0,0,0,0,0
+667,Aznou,Everton,DEF,4.3,0.1,7,16,0,0,0,0,0,0,0
+668,Xhaka,Sunderland,MID,5.1,5.7,13521,1359,90,0,0,0,0,15,3
+669,Ndoye,Nott'm Forest,MID,5.7,1.2,63,908,0,0,0,0,0,0,0
+670,Roefs,Sunderland,GKP,4.7,7.1,9593,1134,90,0,0,0,0,16,2
+671,Wilson,West Ham,FWD,5.8,0.4,447,149,70,1,0,0,1,33,7
+672,Hato,Chelsea,DEF,4.7,0.2,26,81,0,0,0,0,0,0,0
+673,J.Palhinha,Spurs,MID,5.5,1.8,1574,2203,78,0,0,0,0,18,3
+674,Ramsdale,Newcastle,GKP,4.8,0.6,36,128,0,0,0,0,0,0,0
+675,Gunn,Nott'm Forest,GKP,4.0,1.4,6,427,0,0,0,0,0,0,0
+676,Ugochukwu,Burnley,MID,5.0,0.1,121,118,70,0,1,0,0,16,5
+677,Guessand,Aston Villa,MID,6.2,0.0,23,15,0,0,0,0,0,0,0
+678,Masuaku,Sunderland,DEF,3.9,0.8,95,237,0,0,0,0,0,0,0
+679,Hermansen,West Ham,GKP,4.4,0.2,9,82,0,0,0,0,0,0,0
+680,Broja,Burnley,FWD,5.2,0.1,31,49,19,0,0,0,0,4,1
+681,Šeško,Man Utd,FWD,7.3,4.9,653,17786,32,0,0,0,0,-4,1
+682,Møller Wolfe,Wolves,DEF,4.4,0.1,1,16,0,0,0,0,0,0,0
+683,Alderete,Sunderland,DEF,4.1,5.0,141,9651,0,0,0,0,0,0,0
+684,Thiaw,Newcastle,DEF,4.9,0.5,106,336,0,0,0,0,0,0,0
+685,Diakité,Bournemouth,DEF,4.5,0.4,64,166,0,0,0,0,0,0,0
+686,Ngumoha,Liverpool,MID,4.5,0.5,172,442,0,0,0,0,0,0,0
+687,Rees-Dottin,Bournemouth,MID,4.4,0.1,23,48,0,0,0,0,0,0,0
+688,Wright,Aston Villa,GKP,4.0,0.5,9,80,0,0,0,0,0,0,0
+689,Seung soo,Newcastle,MID,4.4,0.3,53,110,0,0,0,0,0,0,0
+690,Cardines,Crystal Palace,MID,4.4,0.4,5,473,0,0,0,0,0,0,0
+691,Calvert-Lewin,Leeds,FWD,5.5,1.1,69,1949,0,0,0,0,0,0,0
+692,Leoni,Liverpool,DEF,4.9,0.0,3,7,0,0,0,0,0,0,0
+693,Hutchinson,Nott'm Forest,MID,5.4,0.0,7,29,0,0,0,0,0,0,0
+694,Mukiele,Sunderland,DEF,4.2,5.7,9240,1215,90,0,1,0,0,12,4
+695,Tchatchoua,Wolves,DEF,4.5,0.0,14,17,90,0,0,0,0,-1,1
+696,Kalimuendo,Nott'm Forest,FWD,6.0,0.1,71,78,0,0,0,0,0,0,0
+697,Adli,Bournemouth,MID,5.4,0.0,23,24,0,0,0,0,0,0,0
+698,Okafor,Leeds,MID,5.5,0.2,59,213,0,0,0,0,0,0,0
+699,Douglas Luiz,Nott'm Forest,MID,5.0,0.0,1,93,0,0,0,0,0,0,0
+700,Dowman,Arsenal,MID,4.3,0.4,1068,398,0,0,0,0,0,0,0
+701,Rowe,Aston Villa,DEF,4.0,0.1,0,32,0,0,0,0,0,0,0
+702,Burrowes,Aston Villa,MID,4.5,0.1,11,18,0,0,0,0,0,0,0
+703,Proctor,Aston Villa,GKP,4.0,0.2,8,41,0,0,0,0,0,0,0
+704,Onyango,Everton,MID,4.5,0.1,0,26,0,0,0,0,0,0,0
+705,Campbell,Everton,DEF,3.9,0.2,92,54,0,0,0,0,0,0,0
+706,Justin,Leeds,DEF,4.0,0.2,26,67,0,0,0,0,0,0,0
+707,Dibling,Everton,MID,5.4,0.0,7,20,0,0,0,0,0,0,0
+708,M.Fernandes,West Ham,MID,5.5,0.1,75,91,90,0,0,0,0,18,1
+709,Krejčí,Wolves,DEF,4.5,0.1,17,32,90,0,0,0,0,0,1
+710,Patterson,Aston Villa,DEF,3.9,0.2,180,137,0,0,0,0,0,0,0
+711,Harriman-Annous,Arsenal,MID,4.5,0.0,2,7,0,0,0,0,0,0,0
+712,Yeremy,Crystal Palace,MID,5.8,0.1,235,117,0,0,0,0,0,0,0
+713,A.Jimenez,Bournemouth,DEF,4.5,0.0,13,9,0,0,0,0,0,0,0
+714,Woltemade,Newcastle,FWD,7.4,22.6,5987,24486,0,0,0,0,0,0,0
+715,John,Nott'm Forest,GKP,4.0,0.3,24,87,0,0,0,0,0,0,0
+716,Savona,Nott'm Forest,DEF,4.5,0.0,24,47,0,0,0,0,0,0,0
+717,Xavi,Spurs,MID,6.7,1.4,457,2194,78,0,0,0,0,15,2
+718,S.Magassa,West Ham,MID,5.0,0.0,6,11,19,0,0,0,0,2,1
+719,Lindelöf,Aston Villa,DEF,4.5,0.0,27,27,0,0,0,0,0,0,0
+720,Tolu,Wolves,FWD,5.5,0.1,56,60,0,0,0,0,0,0,0
+721,Milosavljević,Bournemouth,DEF,4.5,0.0,12,12,0,0,0,0,0,0,0
+722,Florentino,Burnley,MID,5.0,0.1,35,49,90,0,0,0,0,27,4
+723,Canvot,Crystal Palace,DEF,4.5,0.0,4,5,0,0,0,0,0,0,0
+724,Geertruida,Sunderland,DEF,4.5,0.0,19,19,86,0,0,0,0,8,1
+725,Hincapie,Arsenal,DEF,5.4,0.0,17,26,0,0,0,0,0,0,0
+726,Kolo Muani,Spurs,FWD,6.9,0.3,458,406,45,0,0,0,0,2,1
+727,Chukwueze,Fulham,MID,5.3,0.0,21,18,31,0,0,0,0,0,1
+728,Röhl,Everton,MID,5.0,0.0,5,9,23,0,0,0,0,3,1
+729,Cuiabano,Nott'm Forest,DEF,4.5,0.0,0,0,0,0,0,0,0,0,0
+730,Brobbey,Sunderland,FWD,5.5,0.1,807,81,27,1,0,0,1,26,6
+731,Kevin,Fulham,MID,5.9,0.1,41,54,86,0,0,0,0,4,2
+732,Uche,Crystal Palace,FWD,5.5,0.0,79,28,0,0,0,0,0,0,0
+733,Lammens,Man Utd,GKP,5.0,1.4,3024,1132,90,0,0,0,0,5,1
+734,Bakwa,Nott'm Forest,MID,6.0,0.0,4,13,0,0,0,0,0,0,0
+735,Traoré,Sunderland,MID,5.5,0.0,155,45,63,0,0,0,0,6,2
+736,Donnarumma,Man City,GKP,5.7,10.0,3988,2962,0,0,0,0,0,0,0
+737,Kusi-Asare,Fulham,FWD,4.5,0.1,66,57,0,0,0,0,0,0,0
+738,Fabianski,West Ham,GKP,4.5,0.0,2,82,0,0,0,0,0,0,0
+739,Mukasa,Man City,MID,4.5,0.0,11,12,0,0,0,0,0,0,0
+740,Mfuni,Man City,DEF,4.0,0.0,12,18,0,0,0,0,0,0,0
+741,Gray,Leeds,FWD,4.5,0.1,117,58,0,0,0,0,0,0,0
+742,McAidoo,Man City,MID,4.5,0.0,6,7,0,0,0,0,0,0,0
+743,Emenalo,Chelsea,MID,4.5,0.0,11,9,0,0,0,0,0,0,0
+744,Oriola,Brighton,MID,4.5,0.0,9,3,0,0,0,0,0,0,0
+745,Byfield,Spurs,DEF,4.0,0.0,10,14,0,0,0,0,0,0,0
+746,Morrison,Liverpool,MID,4.5,0.0,8,9,0,0,0,0,0,0,0
+747,Mayers,West Ham,DEF,4.0,0.0,17,5,0,0,0,0,0,0,0
+748,Dasilva,Brentford,MID,5.0,0.0,3,3,0,0,0,0,0,0,0
+749,Mané,Wolves,FWD,4.5,0.0,27,4,20,0,0,0,0,1,1
+750,Rowswell,Spurs,DEF,4.0,0.0,0,0,0,0,0,0,0,0,0
+751,Akhamrich,Spurs,MID,4.5,0.0,3,0,0,0,0,0,0,0,0
+752,Golambeckis,West Ham,DEF,4.0,0.0,0,0,0,0,0,0,0,0,0
