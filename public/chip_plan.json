@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2025-11-09T12:47:59.767840",
+  "generated_utc": "2025-11-09T18:32:24.622621",
   "current_gw": 11,
   "max_gw": 38,
   "chips_available": {
@@ -11,7 +11,7 @@
   "model_state_snapshot": {
     "version": 1,
     "created_utc": "2025-11-08T18:23:17.291447",
-    "last_updated_utc": "2025-11-09T12:47:59.707268",
+    "last_updated_utc": "2025-11-09T18:32:24.562570",
     "last_gw": 11,
     "ceiling_aggression": 1.0,
     "minutes_risk_penalty": 1.0,
