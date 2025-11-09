@@ -663,7 +663,7 @@ id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,point
 662,Mosquera,Arsenal,DEF,5.4,0.2,24,189,2,0,0,0,0,0,1
 663,J.Arias,Wolves,MID,5.1,0.2,21,217,0,0,0,0,0,0,0
 664,Lecomte,Fulham,GKP,4.0,0.6,20,192,0,0,0,0,0,0,0
-665,Perri,Leeds,GKP,4.5,0.2,80,124,90,0,0,0,0,5,2
+665,Perri,Leeds,GKP,4.5,0.2,80,124,90,0,0,0,0,7,2
 666,Gyökeres,Arsenal,FWD,8.9,14.3,646,73226,0,0,0,0,0,0,0
 667,Aznou,Everton,DEF,4.3,0.1,11,41,0,0,0,0,0,0,0
 668,Xhaka,Sunderland,MID,5.1,5.9,27879,3052,90,0,0,0,0,15,3
