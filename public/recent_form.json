@@ -29,7 +29,7 @@
   },
   "32": {
     "last5_minutes": 450,
-    "last5_points": 24,
+    "last5_points": 26,
     "last5_xgi": 0.0,
     "last5_starts": 0,
     "last5_appearances": 5
@@ -51,7 +51,7 @@
   "64": {
     "last5_minutes": 334,
     "last5_points": 9,
-    "last5_xgi": 0.9800000000000001,
+    "last5_xgi": 1.17,
     "last5_starts": 0,
     "last5_appearances": 5
   },
@@ -174,5 +174,5 @@
     "last5_starts": 0,
     "last5_appearances": 5
   },
-  "generated_utc": "2025-11-09T18:32:23.865184"
+  "generated_utc": "2025-11-10T02:06:04.401907"
 }
