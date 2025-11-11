@@ -1,753 +1,753 @@
 id,name,team,position,cost,sel,tin,tout,minutes,goals,assists,cs,bonus,bps,points
-1,Raya,Arsenal,GKP,5.9,32.3,25670,26666,90,0,0,0,0,-2,1
-2,Arrizabalaga,Arsenal,GKP,4.2,0.4,134,659,0,0,0,0,0,0,0
-3,Hein,Arsenal,GKP,4.0,0.3,0,370,0,0,0,0,0,0,0
-4,Setford,Arsenal,GKP,4.0,0.2,133,347,0,0,0,0,0,0,0
-5,Gabriel,Arsenal,DEF,6.6,43.7,61470,11559,90,0,0,0,0,6,1
-6,Saliba,Arsenal,DEF,6.0,11.6,6142,13161,90,0,0,0,0,4,1
-7,Calafiori,Arsenal,DEF,5.8,16.0,14424,26026,90,0,0,0,0,-1,1
-8,J.Timber,Arsenal,DEF,6.1,25.6,25714,34788,90,0,0,0,0,7,1
-9,Kiwior,Arsenal,DEF,5.4,0.1,0,44,0,0,0,0,0,0,0
-10,Lewis-Skelly,Arsenal,DEF,5.1,1.6,582,3126,0,0,0,0,0,0,0
-11,White,Arsenal,DEF,5.3,0.4,258,755,0,0,0,0,0,0,0
-12,Zinchenko,Nott'm Forest,DEF,4.9,0.2,20,561,0,0,0,0,0,0,0
-13,Clarke,Arsenal,DEF,3.9,0.4,147,704,0,0,0,0,0,0,0
-14,Kacurri,Arsenal,DEF,3.9,0.1,0,214,0,0,0,0,0,0,0
-15,Nichols,Arsenal,DEF,3.9,0.2,37,277,0,0,0,0,0,0,0
-16,Saka,Arsenal,MID,10.1,17.4,47460,18925,90,1,0,0,3,40,12
-17,Ødegaard,Arsenal,MID,7.8,1.4,72,1501,0,0,0,0,0,0,0
-18,Madueke,Arsenal,MID,6.8,0.6,27,696,0,0,0,0,0,0,0
-19,Martinelli,Arsenal,MID,6.8,0.9,31,3494,0,0,0,0,0,0,0
-20,Trossard,Arsenal,MID,6.9,0.8,15850,1577,90,1,0,0,2,32,9
-21,Rice,Arsenal,MID,6.9,20.4,94967,23565,90,0,0,0,0,16,2
-22,Merino,Arsenal,MID,5.9,1.0,4667,2692,90,0,1,0,0,15,5
+1,Raya,Arsenal,GKP,5.9,32.3,25740,26786,90,0,0,0,0,-2,1
+2,Arrizabalaga,Arsenal,GKP,4.2,0.4,135,662,0,0,0,0,0,0,0
+3,Hein,Arsenal,GKP,4.0,0.3,0,372,0,0,0,0,0,0,0
+4,Setford,Arsenal,GKP,4.0,0.2,135,347,0,0,0,0,0,0,0
+5,Gabriel,Arsenal,DEF,6.6,43.7,61715,11614,90,0,0,0,0,6,1
+6,Saliba,Arsenal,DEF,6.0,11.6,6177,13224,90,0,0,0,0,4,1
+7,Calafiori,Arsenal,DEF,5.8,16.0,14489,26108,90,0,0,0,0,-1,1
+8,J.Timber,Arsenal,DEF,6.1,25.6,25854,34911,90,0,0,0,0,7,1
+9,Kiwior,Arsenal,DEF,5.4,0.1,0,45,0,0,0,0,0,0,0
+10,Lewis-Skelly,Arsenal,DEF,5.1,1.6,586,3143,0,0,0,0,0,0,0
+11,White,Arsenal,DEF,5.3,0.4,258,756,0,0,0,0,0,0,0
+12,Zinchenko,Nott'm Forest,DEF,4.9,0.2,20,566,0,0,0,0,0,0,0
+13,Clarke,Arsenal,DEF,3.9,0.4,148,708,0,0,0,0,0,0,0
+14,Kacurri,Arsenal,DEF,3.9,0.1,0,215,0,0,0,0,0,0,0
+15,Nichols,Arsenal,DEF,3.9,0.2,37,278,0,0,0,0,0,0,0
+16,Saka,Arsenal,MID,10.1,17.4,47623,18984,90,1,0,0,3,40,12
+17,Ødegaard,Arsenal,MID,7.8,1.4,73,1513,0,0,0,0,0,0,0
+18,Madueke,Arsenal,MID,6.8,0.6,27,703,0,0,0,0,0,0,0
+19,Martinelli,Arsenal,MID,6.8,0.9,31,3504,0,0,0,0,0,0,0
+20,Trossard,Arsenal,MID,6.9,0.8,15894,1582,90,1,0,0,2,32,9
+21,Rice,Arsenal,MID,6.9,20.4,95280,23660,90,0,0,0,0,16,2
+22,Merino,Arsenal,MID,5.9,1.0,4682,2706,90,0,1,0,0,15,5
 23,Fábio Vieira,Arsenal,MID,5.4,0.0,0,7,0,0,0,0,0,0,0
-24,Nørgaard,Arsenal,MID,5.2,0.1,122,243,0,0,0,0,0,0,0
-25,Nwaneri,Arsenal,MID,5.1,0.1,129,402,0,0,0,0,0,0,0
-26,Zubimendi,Arsenal,MID,5.4,2.9,4365,9629,90,0,1,0,1,27,5
-27,Nelson,Brentford,MID,4.8,0.1,73,121,1,0,0,0,0,5,1
-28,Kabia,Arsenal,MID,4.5,0.1,0,148,0,0,0,0,0,0,0
+24,Nørgaard,Arsenal,MID,5.2,0.1,123,244,0,0,0,0,0,0,0
+25,Nwaneri,Arsenal,MID,5.1,0.1,130,403,0,0,0,0,0,0,0
+26,Zubimendi,Arsenal,MID,5.4,2.9,4383,9648,90,0,1,0,1,27,5
+27,Nelson,Brentford,MID,4.8,0.1,73,122,1,0,0,0,0,5,1
+28,Kabia,Arsenal,MID,4.5,0.1,0,149,0,0,0,0,0,0,0
 29,Sambi,Arsenal,MID,4.5,0.1,0,67,0,0,0,0,0,0,0
-30,Havertz,Arsenal,FWD,7.3,0.3,81,194,0,0,0,0,0,0,0
+30,Havertz,Arsenal,FWD,7.3,0.3,82,196,0,0,0,0,0,0,0
 31,G.Jesus,Arsenal,FWD,6.4,0.0,62,74,0,0,0,0,0,0,0
-32,Martinez,Aston Villa,GKP,5.0,2.3,28625,1674,90,0,0,1,2,36,14
-33,M.Bizot,Aston Villa,GKP,4.3,0.5,89,783,0,0,0,0,0,0,0
+32,Martinez,Aston Villa,GKP,5.0,2.3,28825,1683,90,0,0,1,2,36,14
+33,M.Bizot,Aston Villa,GKP,4.3,0.5,91,787,0,0,0,0,0,0,0
 34,Gauci,Aston Villa,GKP,4.0,0.1,0,125,0,0,0,0,0,0,0
 35,Marschall,Aston Villa,GKP,4.0,0.0,0,7,0,0,0,0,0,0,0
-36,Cash,Aston Villa,DEF,4.6,5.5,24974,3681,90,0,0,1,0,21,6
-37,Digne,Aston Villa,DEF,4.5,1.6,5368,1024,90,0,1,1,0,29,9
-38,Konsa,Aston Villa,DEF,4.4,8.4,5426,5683,90,0,0,1,0,25,6
-39,Maatsen,Aston Villa,DEF,4.2,0.4,299,635,0,0,0,0,0,0,0
-40,Mings,Aston Villa,DEF,4.4,0.8,10,3103,0,0,0,0,0,0,0
-41,Pau,Aston Villa,DEF,4.3,0.4,1451,320,90,0,0,1,0,25,6
-42,A.García,Aston Villa,DEF,3.9,0.2,27,530,0,0,0,0,0,0,0
-43,Alex Moreno,Aston Villa,DEF,4.0,2.3,0,3111,0,0,0,0,0,0,0
-44,Bogarde,Aston Villa,DEF,4.0,0.6,487,1178,9,0,0,0,0,5,1
-45,Sousa,Aston Villa,DEF,3.9,0.3,284,347,0,0,0,0,0,0,0
-46,Yasin,Aston Villa,DEF,4.0,0.1,0,164,0,0,0,0,0,0,0
-47,Rogers,Aston Villa,MID,6.8,4.9,15692,8532,85,0,0,1,0,1,2
-48,Tielemans,Aston Villa,MID,5.9,0.6,853,334,19,0,1,0,0,17,4
-49,Bailey,Aston Villa,MID,5.5,0.1,0,69,0,0,0,0,0,0,0
-50,Buendía,Aston Villa,MID,5.3,0.4,18863,518,70,1,0,1,3,44,11
+36,Cash,Aston Villa,DEF,4.6,5.5,25071,3696,90,0,0,1,0,21,6
+37,Digne,Aston Villa,DEF,4.5,1.6,5390,1029,90,0,1,1,0,29,9
+38,Konsa,Aston Villa,DEF,4.4,8.4,5459,5705,90,0,0,1,0,25,6
+39,Maatsen,Aston Villa,DEF,4.2,0.4,301,637,0,0,0,0,0,0,0
+40,Mings,Aston Villa,DEF,4.4,0.8,10,3108,0,0,0,0,0,0,0
+41,Pau,Aston Villa,DEF,4.3,0.4,1462,324,90,0,0,1,0,25,6
+42,A.García,Aston Villa,DEF,3.9,0.2,27,532,0,0,0,0,0,0,0
+43,Alex Moreno,Aston Villa,DEF,4.0,2.3,0,3120,0,0,0,0,0,0,0
+44,Bogarde,Aston Villa,DEF,4.0,0.6,487,1181,9,0,0,0,0,5,1
+45,Sousa,Aston Villa,DEF,3.9,0.3,286,348,0,0,0,0,0,0,0
+46,Yasin,Aston Villa,DEF,4.0,0.1,0,166,0,0,0,0,0,0,0
+47,Rogers,Aston Villa,MID,6.8,4.9,15738,8556,85,0,0,1,0,1,2
+48,Tielemans,Aston Villa,MID,5.9,0.6,855,335,19,0,1,0,0,17,4
+49,Bailey,Aston Villa,MID,5.5,0.1,0,70,0,0,0,0,0,0,0
+50,Buendía,Aston Villa,MID,5.3,0.4,18939,521,70,1,0,1,3,44,11
 51,Iling Jr,Aston Villa,MID,5.5,0.0,0,11,0,0,0,0,0,0,0
 52,J.Ramsey,Newcastle,MID,5.3,0.2,214,281,66,0,0,0,0,15,2
-53,Malen,Aston Villa,MID,5.1,0.7,2735,1710,9,1,0,0,0,20,6
-54,McGinn,Aston Villa,MID,5.4,0.6,1366,1346,70,0,0,1,0,15,3
-55,Barkley,Aston Villa,MID,4.8,0.0,261,67,19,1,0,0,0,29,6
+53,Malen,Aston Villa,MID,5.1,0.7,2744,1715,9,1,0,0,0,20,6
+54,McGinn,Aston Villa,MID,5.4,0.6,1373,1351,70,0,0,1,0,15,3
+55,Barkley,Aston Villa,MID,4.8,0.0,261,69,19,1,0,0,0,29,6
 56,Barrenechea,Aston Villa,MID,5.0,0.0,0,0,0,0,0,0,0,0,0
 57,Dobbin,Aston Villa,MID,5.0,0.0,0,9,0,0,0,0,0,0,0
-58,Kamara,Aston Villa,MID,4.9,0.2,499,445,80,0,0,1,0,10,2
-59,Onana,Aston Villa,MID,4.8,0.7,4108,658,70,1,0,1,1,33,9
-60,Broggio,Aston Villa,MID,4.5,0.3,463,599,0,0,0,0,0,0,0
+58,Kamara,Aston Villa,MID,4.9,0.2,502,449,80,0,0,1,0,10,2
+59,Onana,Aston Villa,MID,4.8,0.7,4121,662,70,1,0,1,1,33,9
+60,Broggio,Aston Villa,MID,4.5,0.3,466,601,0,0,0,0,0,0,0
 61,Dendoncker,Aston Villa,MID,4.5,0.1,0,97,0,0,0,0,0,0,0
 62,Jimoh-Aloba,Aston Villa,MID,4.5,0.1,112,126,0,0,0,0,0,0,0
-63,Young,Aston Villa,MID,4.4,0.6,492,1216,0,0,0,0,0,0,0
-64,Watkins,Aston Villa,FWD,8.5,6.5,6412,9742,80,0,0,1,0,3,2
-65,Redmond,Aston Villa,FWD,4.5,0.4,0,394,0,0,0,0,0,0,0
+63,Young,Aston Villa,MID,4.4,0.6,493,1221,0,0,0,0,0,0,0
+64,Watkins,Aston Villa,FWD,8.5,6.5,6434,9783,80,0,0,1,0,3,2
+65,Redmond,Aston Villa,FWD,4.5,0.4,0,397,0,0,0,0,0,0,0
 66,Neto,Bournemouth,GKP,4.5,0.1,0,100,0,0,0,0,0,0,0
-67,Petrović,Bournemouth,GKP,4.5,5.7,10438,4810,90,0,0,0,0,3,1
-68,Dennis,Bournemouth,GKP,4.0,1.0,311,723,0,0,0,0,0,0,0
-69,McKenna,Bournemouth,GKP,4.0,0.2,54,151,0,0,0,0,0,0,0
-70,Paulsen,Bournemouth,GKP,4.0,0.1,0,56,0,0,0,0,0,0,0
+67,Petrović,Bournemouth,GKP,4.5,5.7,10477,4825,90,0,0,0,0,3,1
+68,Dennis,Bournemouth,GKP,4.0,1.0,312,727,0,0,0,0,0,0,0
+69,McKenna,Bournemouth,GKP,4.0,0.2,54,152,0,0,0,0,0,0,0
+70,Paulsen,Bournemouth,GKP,4.0,0.1,0,57,0,0,0,0,0,0,0
 71,Zabarnyi,Bournemouth,DEF,5.0,0.0,0,12,0,0,0,0,0,0,0
-72,Senesi,Bournemouth,DEF,5.0,25.9,23281,26037,90,0,0,0,0,0,2
-73,Smith,Bournemouth,DEF,4.4,0.2,109,137,9,0,0,0,0,3,1
-74,Truffert,Bournemouth,DEF,4.5,2.4,5101,3823,62,0,0,0,0,2,0
-75,Akinmboni,Bournemouth,DEF,3.9,0.3,7,731,0,0,0,0,0,0,0
-76,Bevan,Bournemouth,DEF,3.9,0.2,81,164,0,0,0,0,0,0,0
-77,Hill,Bournemouth,DEF,4.0,0.8,450,1473,0,0,0,0,0,0,0
-78,J.Araujo,Bournemouth,DEF,3.9,0.7,271,781,0,0,0,0,0,0,0
+72,Senesi,Bournemouth,DEF,5.0,25.9,23409,26131,90,0,0,0,0,0,2
+73,Smith,Bournemouth,DEF,4.4,0.2,110,141,9,0,0,0,0,3,1
+74,Truffert,Bournemouth,DEF,4.5,2.4,5119,3833,62,0,0,0,0,2,0
+75,Akinmboni,Bournemouth,DEF,3.9,0.3,7,734,0,0,0,0,0,0,0
+76,Bevan,Bournemouth,DEF,3.9,0.2,82,166,0,0,0,0,0,0,0
+77,Hill,Bournemouth,DEF,4.0,0.8,452,1477,0,0,0,0,0,0,0
+78,J.Araujo,Bournemouth,DEF,3.9,0.7,272,782,0,0,0,0,0,0,0
 79,Mepham,Bournemouth,DEF,4.0,0.1,0,70,0,0,0,0,0,0,0
-80,Soler,Bournemouth,DEF,4.0,0.2,157,251,0,0,0,0,0,0,0
-81,Kluivert,Bournemouth,MID,7.0,1.0,3673,4092,62,0,0,0,0,4,2
-82,Semenyo,Bournemouth,MID,8.1,64.2,30404,60988,90,0,0,0,0,-3,0
-83,O.Dango,Brentford,MID,6.0,0.5,2604,1354,90,0,1,0,0,13,4
-84,Tavernier,Bournemouth,MID,5.5,1.7,7895,4737,90,0,0,0,0,16,2
-85,Adams,Bournemouth,MID,5.0,0.5,2308,1059,90,0,0,0,0,8,2
-86,Brooks,Bournemouth,MID,5.0,0.2,153,419,13,0,0,0,0,3,1
+80,Soler,Bournemouth,DEF,4.0,0.2,158,252,0,0,0,0,0,0,0
+81,Kluivert,Bournemouth,MID,7.0,1.0,3692,4108,62,0,0,0,0,4,2
+82,Semenyo,Bournemouth,MID,8.1,64.2,30539,61177,90,0,0,0,0,-3,0
+83,O.Dango,Brentford,MID,6.0,0.5,2621,1356,90,0,1,0,0,13,4
+84,Tavernier,Bournemouth,MID,5.5,1.7,7932,4756,90,0,0,0,0,16,2
+85,Adams,Bournemouth,MID,5.0,0.5,2317,1066,90,0,0,0,0,8,2
+86,Brooks,Bournemouth,MID,5.0,0.2,153,420,13,0,0,0,0,3,1
 87,Christie,Bournemouth,MID,5.0,0.1,75,176,27,0,0,0,0,5,1
-88,Cook,Bournemouth,MID,4.9,0.0,108,87,45,0,0,0,0,2,1
+88,Cook,Bournemouth,MID,4.9,0.0,109,87,45,0,0,0,0,2,1
 89,Philip,Bournemouth,MID,4.9,0.0,0,13,0,0,0,0,0,0,0
-90,Scott,Bournemouth,MID,5.0,0.3,604,725,62,0,0,0,0,17,2
+90,Scott,Bournemouth,MID,5.0,0.3,607,726,62,0,0,0,0,17,2
 91,Sinisterra,Bournemouth,MID,5.0,0.0,0,8,0,0,0,0,0,0,0
 92,Faivre,Bournemouth,MID,4.5,0.1,0,90,0,0,0,0,0,0,0
-93,H.Traorè,Bournemouth,MID,4.5,0.4,0,688,0,0,0,0,0,0,0
+93,H.Traorè,Bournemouth,MID,4.5,0.4,0,689,0,0,0,0,0,0,0
 94,Sadi,Bournemouth,MID,4.5,0.0,0,48,0,0,0,0,0,0,0
 95,Silcott-Duberry,Bournemouth,MID,4.4,0.1,0,189,0,0,0,0,0,0,0
 96,Winterburn,Bournemouth,MID,4.5,0.0,0,59,0,0,0,0,0,0,0
-97,Evanilson,Bournemouth,FWD,7.0,1.4,3659,2939,76,0,0,0,0,2,2
-98,Enes Ünal,Bournemouth,FWD,5.4,0.0,325,149,0,0,0,0,0,0,0
-99,Adu-Adjei,Bournemouth,FWD,4.4,0.2,0,306,0,0,0,0,0,0,0
-100,Kroupi.Jr,Bournemouth,FWD,4.6,4.7,24155,15574,27,0,0,0,0,2,1
-101,Kelleher,Brentford,GKP,4.5,7.7,3264,6910,90,0,0,0,0,4,2
-102,Balcombe,Brentford,GKP,4.0,0.3,96,223,0,0,0,0,0,0,0
-103,Cox,Brentford,GKP,4.0,0.1,51,88,0,0,0,0,0,0,0
+97,Evanilson,Bournemouth,FWD,7.0,1.4,3675,2956,76,0,0,0,0,2,2
+98,Enes Ünal,Bournemouth,FWD,5.4,0.0,329,149,0,0,0,0,0,0,0
+99,Adu-Adjei,Bournemouth,FWD,4.4,0.2,0,310,0,0,0,0,0,0,0
+100,Kroupi.Jr,Bournemouth,FWD,4.6,4.7,24218,15633,27,0,0,0,0,2,1
+101,Kelleher,Brentford,GKP,4.5,7.7,3275,6942,90,0,0,0,0,4,2
+102,Balcombe,Brentford,GKP,4.0,0.3,96,224,0,0,0,0,0,0,0
+103,Cox,Brentford,GKP,4.0,0.1,51,89,0,0,0,0,0,0,0
 104,Eyestone,Brentford,GKP,4.0,0.1,37,62,0,0,0,0,0,0,0
-105,Valdimarsson,Brentford,GKP,3.9,0.7,1775,706,0,0,0,0,0,0,0
-106,Collins,Brentford,DEF,4.9,1.1,752,1520,90,0,0,0,0,7,2
-107,Lewis-Potter,Brentford,DEF,4.9,0.3,134,584,0,0,0,0,0,0,0
-108,Ajer,Brentford,DEF,4.4,0.2,96,342,0,0,0,0,0,0,0
-109,Henry,Brentford,DEF,4.3,0.1,73,134,20,0,0,0,0,4,1
-110,Kayode,Brentford,DEF,4.5,0.4,1413,619,90,0,1,0,0,23,4
+105,Valdimarsson,Brentford,GKP,3.9,0.7,1781,706,0,0,0,0,0,0,0
+106,Collins,Brentford,DEF,4.9,1.1,755,1526,90,0,0,0,0,7,2
+107,Lewis-Potter,Brentford,DEF,4.9,0.3,134,587,0,0,0,0,0,0,0
+108,Ajer,Brentford,DEF,4.4,0.2,96,343,0,0,0,0,0,0,0
+109,Henry,Brentford,DEF,4.3,0.1,73,136,20,0,0,0,0,4,1
+110,Kayode,Brentford,DEF,4.5,0.4,1422,620,90,0,1,0,0,23,4
 111,Pinnock,Brentford,DEF,4.3,0.1,70,168,0,0,0,0,0,0,0
 112,Roerslev,Brentford,DEF,4.5,0.0,0,3,0,0,0,0,0,0,0
-113,Van den Berg,Brentford,DEF,4.5,0.6,641,745,90,0,0,0,0,9,2
+113,Van den Berg,Brentford,DEF,4.5,0.6,647,749,90,0,0,0,0,9,2
 114,Arthur,Brentford,DEF,3.9,0.2,86,194,0,0,0,0,0,0,0
-115,Fredrick,Brentford,DEF,4.0,0.1,0,101,0,0,0,0,0,0,0
-116,Hickey,Brentford,DEF,4.0,0.3,348,316,69,0,0,0,0,13,2
+115,Fredrick,Brentford,DEF,4.0,0.1,0,103,0,0,0,0,0,0,0
+116,Hickey,Brentford,DEF,4.0,0.3,350,319,69,0,0,0,0,13,2
 117,Ji-soo,Brentford,DEF,3.9,0.1,0,135,0,0,0,0,0,0,0
 118,Meghoma,Brentford,DEF,4.0,0.1,0,30,0,0,0,0,0,0,0
-119,Mbeumo,Man Utd,MID,8.5,32.1,248825,6381,90,1,0,0,0,19,7
-120,Schade,Brentford,MID,7.0,0.8,10803,1674,90,1,0,0,1,25,8
-121,Damsgaard,Brentford,MID,5.8,0.6,1368,1367,83,0,0,0,0,9,2
-122,Milambo,Brentford,MID,5.2,0.0,11,54,0,0,0,0,0,0,0
+119,Mbeumo,Man Utd,MID,8.5,32.1,249507,6422,90,1,0,0,0,19,7
+120,Schade,Brentford,MID,7.0,0.8,10855,1681,90,1,0,0,1,25,8
+121,Damsgaard,Brentford,MID,5.8,0.6,1376,1373,83,0,0,0,0,9,2
+122,Milambo,Brentford,MID,5.2,0.0,12,54,0,0,0,0,0,0,0
 123,Carvalho,Brentford,MID,4.8,0.2,103,455,0,0,0,0,0,0,0
-124,Henderson,Brentford,MID,5.0,0.4,535,1019,90,0,0,0,0,11,2
+124,Henderson,Brentford,MID,5.0,0.4,536,1026,90,0,0,0,0,11,2
 125,Janelt,Brentford,MID,4.9,0.0,38,28,6,0,0,0,0,3,1
-126,Jensen,Brentford,MID,4.9,0.1,125,212,6,0,0,0,0,5,1
+126,Jensen,Brentford,MID,4.9,0.1,126,213,6,0,0,0,0,5,1
 127,Nunes,Brentford,MID,4.9,0.0,32,29,0,0,0,0,0,0,0
-128,Onyeka,Brentford,MID,4.9,0.1,25,66,0,0,0,0,0,0,0
-129,Yarmoliuk,Brentford,MID,5.0,0.1,83,142,83,0,0,0,0,20,4
-130,Donovan,Brentford,MID,4.5,0.1,158,196,0,0,0,0,0,0,0
-131,Konak,Brentford,MID,4.4,0.2,86,348,0,0,0,0,0,0,0
-132,Maghoma,Brentford,MID,4.5,0.0,63,38,0,0,0,0,0,0,0
+128,Onyeka,Brentford,MID,4.9,0.1,25,68,0,0,0,0,0,0,0
+129,Yarmoliuk,Brentford,MID,5.0,0.1,83,143,83,0,0,0,0,20,4
+130,Donovan,Brentford,MID,4.5,0.1,158,198,0,0,0,0,0,0,0
+131,Konak,Brentford,MID,4.4,0.2,86,350,0,0,0,0,0,0,0
+132,Maghoma,Brentford,MID,4.5,0.0,63,39,0,0,0,0,0,0,0
 133,Peart-Harris,Brentford,MID,4.4,0.0,50,43,0,0,0,0,0,0,0
 134,Trevitt,Brentford,MID,4.5,0.0,0,4,0,0,0,0,0,0,0
-135,Wissa,Newcastle,FWD,7.3,0.5,77,483,0,0,0,0,0,0,0
-136,Thiago,Brentford,FWD,6.3,10.2,176815,9014,90,2,0,0,3,54,13
-137,Morgan,Brentford,FWD,4.4,0.4,490,804,0,0,0,0,0,0,0
-138,Steele,Brighton,GKP,4.3,0.3,53,262,0,0,0,0,0,0,0
-139,Verbruggen,Brighton,GKP,4.4,4.0,2970,2893,90,0,0,1,0,30,6
-140,McGill,Brighton,GKP,4.0,0.3,108,254,0,0,0,0,0,0,0
+135,Wissa,Newcastle,FWD,7.3,0.5,78,486,0,0,0,0,0,0,0
+136,Thiago,Brentford,FWD,6.3,10.2,177540,9037,90,2,0,0,3,54,13
+137,Morgan,Brentford,FWD,4.4,0.4,491,810,0,0,0,0,0,0,0
+138,Steele,Brighton,GKP,4.3,0.3,53,263,0,0,0,0,0,0,0
+139,Verbruggen,Brighton,GKP,4.4,4.0,2984,2901,90,0,0,1,0,30,6
+140,McGill,Brighton,GKP,4.0,0.3,109,256,0,0,0,0,0,0,0
 141,Rushworth,Brighton,GKP,4.0,0.0,0,1,0,0,0,0,0,0,0
 142,Scherpen,Brighton,GKP,4.0,0.0,0,2,0,0,0,0,0,0,0
-143,Boscagli,Brighton,DEF,4.3,0.1,27,111,0,0,0,0,0,0,0
+143,Boscagli,Brighton,DEF,4.3,0.1,27,112,0,0,0,0,0,0,0
 144,Coppola,Brighton,DEF,4.3,0.1,12,48,0,0,0,0,0,0,0
-145,De Cuyper,Brighton,DEF,4.3,1.8,178,3439,5,0,0,0,0,3,1
-146,Dunk,Brighton,DEF,4.5,1.1,1162,940,90,0,0,1,0,24,6
+145,De Cuyper,Brighton,DEF,4.3,1.8,180,3449,5,0,0,0,0,3,1
+146,Dunk,Brighton,DEF,4.5,1.1,1172,947,90,0,0,1,0,24,6
 147,Estupiñan,Brighton,DEF,4.5,0.0,0,6,0,0,0,0,0,0,0
-148,F.Kadıoğlu,Brighton,DEF,4.4,0.2,415,175,90,0,0,1,0,29,6
-149,Igor,West Ham,DEF,4.5,0.1,98,115,7,0,0,0,0,-1,1
+148,F.Kadıoğlu,Brighton,DEF,4.4,0.2,418,176,90,0,0,1,0,29,6
+149,Igor,West Ham,DEF,4.5,0.1,99,115,7,0,0,0,0,-1,1
 150,Lamptey,Brighton,DEF,4.4,0.1,0,107,0,0,0,0,0,0,0
-151,Van Hecke,Brighton,DEF,4.4,1.3,3445,1417,90,0,0,1,0,25,5
-152,Veltman,Brighton,DEF,4.3,0.1,30,226,15,0,0,0,0,0,0
+151,Van Hecke,Brighton,DEF,4.4,1.3,3462,1423,90,0,0,1,0,25,5
+152,Veltman,Brighton,DEF,4.3,0.1,30,227,15,0,0,0,0,0,0
 153,Webster,Brighton,DEF,4.4,0.0,7,5,0,0,0,0,0,0,0
 154,Cashin,Brighton,DEF,4.0,0.0,0,3,0,0,0,0,0,0,0
 155,Slater,Brighton,DEF,4.0,0.1,0,116,0,0,0,0,0,0,0
-156,Tasker,Brighton,DEF,3.9,0.1,62,142,0,0,0,0,0,0,0
-157,Mitoma,Brighton,MID,6.2,2.0,65,6289,0,0,0,0,0,0,0
-158,Georginio,Brighton,MID,5.7,0.4,794,963,74,0,0,1,0,1,2
+156,Tasker,Brighton,DEF,3.9,0.1,62,144,0,0,0,0,0,0,0
+157,Mitoma,Brighton,MID,6.2,2.0,65,6319,0,0,0,0,0,0,0
+158,Georginio,Brighton,MID,5.7,0.4,800,969,74,0,0,1,0,1,2
 159,March,Brighton,MID,5.8,0.0,11,15,0,0,0,0,0,0,0
-160,Minteh,Brighton,MID,6.0,4.8,19160,7818,90,0,0,1,0,2,3
-161,Enciso,Brighton,MID,5.4,0.0,0,2,0,0,0,0,0,0,0
+160,Minteh,Brighton,MID,6.0,4.8,19223,7844,90,0,0,1,0,2,3
+161,Enciso,Brighton,MID,5.4,0.0,0,3,0,0,0,0,0,0,0
 162,Gruda,Brighton,MID,5.4,0.0,8,165,0,0,0,0,0,0,0
-163,Hinshelwood,Brighton,MID,5.1,0.0,4,39,0,0,0,0,0,0,0
-164,O'Riley,Brighton,MID,5.5,0.4,0,450,0,0,0,0,0,0,0
-165,Sima,Brighton,MID,5.4,0.0,0,11,0,0,0,0,0,0,0
-166,Ayari,Brighton,MID,4.9,0.3,245,752,90,0,0,1,0,13,3
-167,Baleba,Brighton,MID,4.7,2.0,2680,3479,74,0,0,1,0,3,2
+163,Hinshelwood,Brighton,MID,5.1,0.0,4,40,0,0,0,0,0,0,0
+164,O'Riley,Brighton,MID,5.5,0.4,0,454,0,0,0,0,0,0,0
+165,Sima,Brighton,MID,5.4,0.0,0,12,0,0,0,0,0,0,0
+166,Ayari,Brighton,MID,4.9,0.3,251,758,90,0,0,1,0,13,3
+167,Baleba,Brighton,MID,4.7,2.0,2689,3499,74,0,0,1,0,3,2
 168,Buonanotte,Chelsea,MID,4.7,0.1,73,159,0,0,0,0,0,0,0
-169,Gomez,Brighton,MID,4.9,0.2,2349,603,84,0,0,1,0,20,3
+169,Gomez,Brighton,MID,4.9,0.2,2363,609,84,0,0,1,0,20,3
 170,Milner,Brighton,MID,5.0,0.1,16,472,0,0,0,0,0,0,0
 171,Sarmiento,Brighton,MID,4.9,0.0,0,10,0,0,0,0,0,0,0
 172,Watson,Brighton,MID,4.9,0.0,30,47,0,0,0,0,0,0,0
-173,Wieffer,Brighton,MID,4.9,0.3,6126,720,90,0,0,1,0,16,3
+173,Wieffer,Brighton,MID,4.9,0.3,6151,724,90,0,0,1,0,16,3
 174,Yalcouye,Brighton,MID,5.0,0.0,0,2,0,0,0,0,0,0,0
 175,Knight,Brighton,MID,4.5,0.1,134,151,0,0,0,0,0,0,0
 176,Mazilu,Brighton,MID,4.5,0.0,0,30,0,0,0,0,0,0,0
 177,Moran,Brighton,MID,4.5,0.0,0,18,0,0,0,0,0,0,0
-178,Welbeck,Brighton,FWD,6.5,9.1,47936,21765,84,0,0,1,0,5,2
+178,Welbeck,Brighton,FWD,6.5,9.1,48071,21863,84,0,0,1,0,5,2
 179,Ferguson,Brighton,FWD,5.5,0.0,0,6,0,0,0,0,0,0,0
-180,Tzimas,Brighton,FWD,5.3,0.1,176,231,5,0,0,0,0,2,1
-181,Kostoulas,Brighton,FWD,4.8,0.3,777,650,15,0,0,0,0,4,1
-182,Trafford,Man City,GKP,4.7,1.1,88,1566,0,0,0,0,0,0,0
-183,Weiss,Burnley,GKP,4.4,0.1,58,134,0,0,0,0,0,0,0
-184,Green,Burnley,GKP,4.0,0.2,0,203,0,0,0,0,0,0,0
-185,Hladký,Burnley,GKP,4.0,0.2,48,131,0,0,0,0,0,0,0
+180,Tzimas,Brighton,FWD,5.3,0.1,178,232,5,0,0,0,0,2,1
+181,Kostoulas,Brighton,FWD,4.8,0.3,782,651,15,0,0,0,0,4,1
+182,Trafford,Man City,GKP,4.7,1.1,90,1574,0,0,0,0,0,0,0
+183,Weiss,Burnley,GKP,4.4,0.1,58,135,0,0,0,0,0,0,0
+184,Green,Burnley,GKP,4.0,0.2,0,204,0,0,0,0,0,0,0
+185,Hladký,Burnley,GKP,4.0,0.2,49,131,0,0,0,0,0,0,0
 186,Roberts,Burnley,DEF,4.4,0.0,9,36,0,0,0,0,0,0,0
-187,Walker,Burnley,DEF,4.4,1.6,1227,3887,90,0,0,0,0,6,0
-188,Delcroix,Burnley,DEF,3.9,0.2,61,271,0,0,0,0,0,0,0
-189,Dodgson,Burnley,DEF,4.0,0.0,0,6,0,0,0,0,0,0,0
-190,Ekdal,Burnley,DEF,4.0,1.1,133,2737,0,0,0,0,0,0,0
-191,Estève,Burnley,DEF,4.0,11.9,3660,13177,90,0,0,0,0,8,3
-192,Hartman,Burnley,DEF,4.0,1.0,3749,1909,80,0,0,0,0,8,1
+187,Walker,Burnley,DEF,4.4,1.6,1230,3905,90,0,0,0,0,6,0
+188,Delcroix,Burnley,DEF,3.9,0.2,61,275,0,0,0,0,0,0,0
+189,Dodgson,Burnley,DEF,4.0,0.0,0,7,0,0,0,0,0,0,0
+190,Ekdal,Burnley,DEF,4.0,1.1,136,2750,0,0,0,0,0,0,0
+191,Estève,Burnley,DEF,4.0,11.9,3675,13221,90,0,0,0,0,8,3
+192,Hartman,Burnley,DEF,4.0,1.0,3761,1917,80,0,0,0,0,8,1
 193,Humphreys,Burnley,DEF,4.0,0.1,36,108,0,0,0,0,0,0,0
 194,Jordan,Burnley,DEF,4.0,0.1,3,74,0,0,0,0,0,0,0
-195,Lucas Pires,Burnley,DEF,3.9,0.2,49,177,9,0,0,0,0,1,1
+195,Lucas Pires,Burnley,DEF,3.9,0.2,50,177,9,0,0,0,0,1,1
 196,Sambo,Burnley,DEF,4.0,0.0,0,23,0,0,0,0,0,0,0
 197,Sonne,Burnley,DEF,3.9,0.1,32,134,0,0,0,0,0,0,0
-198,Tuanzebe,Burnley,DEF,3.9,1.8,2816,1654,90,0,0,0,0,5,3
+198,Tuanzebe,Burnley,DEF,3.9,1.8,2828,1665,90,0,0,0,0,5,3
 199,Worrall,Burnley,DEF,3.9,0.2,37,285,0,0,0,0,0,0,0
-200,Anthony,Burnley,MID,5.6,5.5,2365,38465,80,0,0,0,0,8,2
+200,Anthony,Burnley,MID,5.6,5.5,2372,38576,80,0,0,0,0,8,2
 201,Benson,Burnley,MID,5.4,0.0,0,18,0,0,0,0,0,0,0
 202,Bruun Larsen,Burnley,MID,5.3,0.0,51,64,23,0,0,0,0,4,1
-203,Boateng,Burnley,MID,4.8,0.0,23,49,0,0,0,0,0,0,0
+203,Boateng,Burnley,MID,4.8,0.0,23,50,0,0,0,0,0,0,0
 204,Churlinov,Burnley,MID,4.9,0.0,0,7,0,0,0,0,0,0,0
-205,Cullen,Burnley,MID,5.0,2.3,10810,3252,90,1,0,0,3,35,10
-206,Edwards,Burnley,MID,4.7,0.1,85,118,9,0,0,0,0,5,1
-207,Hannibal,Burnley,MID,4.8,0.1,343,198,19,0,1,0,0,15,4
+205,Cullen,Burnley,MID,5.0,2.3,10855,3266,90,1,0,0,3,35,10
+206,Edwards,Burnley,MID,4.7,0.1,85,119,9,0,0,0,0,5,1
+207,Hannibal,Burnley,MID,4.8,0.1,343,199,19,0,1,0,0,15,4
 208,Koleosho,Burnley,MID,5.0,0.0,0,4,0,0,0,0,0,0,0
-209,Laurent,Burnley,MID,4.9,0.0,16,50,0,0,0,0,0,0,0
-210,Tchaouna,Burnley,MID,4.9,0.0,20,76,66,0,0,0,0,7,2
-211,A.Ramsey,Burnley,MID,4.4,2.1,0,3145,0,0,0,0,0,0,0
+209,Laurent,Burnley,MID,4.9,0.0,17,50,0,0,0,0,0,0,0
+210,Tchaouna,Burnley,MID,4.9,0.0,20,77,66,0,0,0,0,7,2
+211,A.Ramsey,Burnley,MID,4.4,2.1,0,3155,0,0,0,0,0,0,0
 212,Adewumi,Burnley,MID,4.5,0.0,0,7,0,0,0,0,0,0,0
 213,Banel,Burnley,MID,4.5,0.0,77,88,0,0,0,0,0,0,0
-214,Trésor,Burnley,MID,4.4,0.1,86,160,0,0,0,0,0,0,0
-215,Flemming,Burnley,FWD,5.3,0.3,5153,1262,70,1,0,0,0,24,5
+214,Trésor,Burnley,MID,4.4,0.1,87,160,0,0,0,0,0,0,0
+215,Flemming,Burnley,FWD,5.3,0.3,5164,1278,70,1,0,0,0,24,5
 216,Amdouni,Burnley,FWD,4.8,0.0,17,22,0,0,0,0,0,0,0
-217,Foster,Burnley,FWD,5.0,1.6,1949,7862,0,0,0,0,0,0,0
-218,Barnes,Burnley,FWD,4.3,1.3,1959,2517,0,0,0,0,0,0,0
-219,Obafemi,Burnley,FWD,4.4,0.1,0,182,0,0,0,0,0,0,0
-220,Sánchez,Chelsea,GKP,4.8,13.7,14673,8375,90,0,0,1,0,19,6
-221,Jörgensen,Chelsea,GKP,4.4,0.2,86,289,0,0,0,0,0,0,0
+217,Foster,Burnley,FWD,5.0,1.6,1959,7890,0,0,0,0,0,0,0
+218,Barnes,Burnley,FWD,4.3,1.3,1966,2528,0,0,0,0,0,0,0
+219,Obafemi,Burnley,FWD,4.4,0.1,0,183,0,0,0,0,0,0,0
+220,Sánchez,Chelsea,GKP,4.8,13.7,14727,8413,90,0,0,1,0,19,6
+221,Jörgensen,Chelsea,GKP,4.4,0.2,86,290,0,0,0,0,0,0,0
 222,Penders,Chelsea,GKP,4.0,0.0,0,1,0,0,0,0,0,0,0
-223,Slonina,Chelsea,GKP,3.9,0.1,229,173,0,0,0,0,0,0,0
-224,Cucurella,Chelsea,DEF,6.1,22.1,23258,12321,90,0,0,1,0,28,6
-225,James,Chelsea,DEF,5.6,8.6,14963,23729,13,0,0,0,0,2,1
-226,Chalobah,Chelsea,DEF,5.1,8.0,15171,5410,90,0,0,1,0,25,6
+223,Slonina,Chelsea,GKP,3.9,0.1,230,175,0,0,0,0,0,0,0
+224,Cucurella,Chelsea,DEF,6.1,22.1,23373,12381,90,0,0,1,0,28,6
+225,James,Chelsea,DEF,5.6,8.6,15027,23815,13,0,0,0,0,2,1
+226,Chalobah,Chelsea,DEF,5.1,8.0,15245,5434,90,0,0,1,0,25,6
 227,Colwill,Chelsea,DEF,4.8,0.1,20,80,0,0,0,0,0,0,0
-228,Gusto,Chelsea,DEF,4.9,1.1,10607,719,76,1,0,1,3,45,15
+228,Gusto,Chelsea,DEF,4.9,1.1,10675,724,76,1,0,1,3,45,15
 229,B.Badiashile,Chelsea,DEF,4.4,0.0,7,23,0,0,0,0,0,0,0
-230,Fofana,Chelsea,DEF,4.4,0.2,1303,203,90,0,0,1,0,29,6
+230,Fofana,Chelsea,DEF,4.4,0.2,1307,204,90,0,0,1,0,29,6
 231,M.Sarr,Chelsea,DEF,4.5,0.0,0,5,0,0,0,0,0,0,0
-232,Tosin,Chelsea,DEF,4.2,0.4,159,1327,0,0,0,0,0,0,0
-233,Acheampong,Chelsea,DEF,3.9,2.1,3954,7403,0,0,0,0,0,0,0
-234,Anselmino,Chelsea,DEF,4.0,0.1,0,31,0,0,0,0,0,0,0
-235,Palmer,Chelsea,MID,10.3,9.0,1577,9517,0,0,0,0,0,0,0
-236,Neto,Chelsea,MID,7.1,6.0,21489,18655,76,1,0,1,1,39,9
-237,Enzo,Chelsea,MID,6.7,14.3,6474,76620,82,0,0,1,0,19,3
-238,Estêvão,Chelsea,MID,6.5,2.5,12329,5538,26,0,1,0,0,17,4
-239,Gittens,Chelsea,MID,6.1,0.1,293,561,7,0,0,0,0,4,1
-240,Nkunku,Chelsea,MID,5.9,0.1,0,45,0,0,0,0,0,0,0
-241,Caicedo,Chelsea,MID,6.0,23.2,71996,25638,90,0,0,1,0,12,2
-242,Dewsbury-Hall,Everton,MID,4.9,2.8,4087,3779,88,0,1,1,1,34,9
+232,Tosin,Chelsea,DEF,4.2,0.4,159,1330,0,0,0,0,0,0,0
+233,Acheampong,Chelsea,DEF,3.9,2.1,3974,7420,0,0,0,0,0,0,0
+234,Anselmino,Chelsea,DEF,4.0,0.1,0,32,0,0,0,0,0,0,0
+235,Palmer,Chelsea,MID,10.3,9.0,1584,9550,0,0,0,0,0,0,0
+236,Neto,Chelsea,MID,7.1,6.0,21562,18733,76,1,0,1,1,39,9
+237,Enzo,Chelsea,MID,6.7,14.3,6482,76903,82,0,0,1,0,19,3
+238,Estêvão,Chelsea,MID,6.5,2.5,12380,5566,26,0,1,0,0,17,4
+239,Gittens,Chelsea,MID,6.1,0.1,296,562,7,0,0,0,0,4,1
+240,Nkunku,Chelsea,MID,5.9,0.1,0,46,0,0,0,0,0,0,0
+241,Caicedo,Chelsea,MID,6.0,23.2,72258,25735,90,0,0,1,0,12,2
+242,Dewsbury-Hall,Everton,MID,4.9,2.8,4097,3789,88,0,1,1,1,34,9
 243,George,Chelsea,MID,4.9,0.1,84,135,0,0,0,0,0,0,0
-244,Lavia,Chelsea,MID,4.9,0.0,5,190,0,0,0,0,0,0,0
+244,Lavia,Chelsea,MID,4.9,0.0,5,191,0,0,0,0,0,0,0
 245,Mudryk,Chelsea,MID,5.0,0.0,6,8,0,0,0,0,0,0,0
-246,Andrey Santos,Chelsea,MID,4.5,0.3,569,802,7,0,0,0,0,3,1
-247,D.Essugo,Chelsea,MID,4.3,0.1,254,253,0,0,0,0,0,0,0
+246,Andrey Santos,Chelsea,MID,4.5,0.3,571,806,7,0,0,0,0,3,1
+247,D.Essugo,Chelsea,MID,4.3,0.1,257,253,0,0,0,0,0,0,0
 248,Paez,Chelsea,MID,4.5,0.0,0,2,0,0,0,0,0,0,0
-249,João Pedro,Chelsea,FWD,7.5,48.4,84218,29115,82,1,0,1,1,39,7
-250,Delap,Chelsea,FWD,6.2,1.0,2140,1230,63,0,0,1,0,9,2
+249,João Pedro,Chelsea,FWD,7.5,48.4,84444,29234,82,1,0,1,1,39,7
+250,Delap,Chelsea,FWD,6.2,1.0,2144,1234,63,0,0,1,0,9,2
 251,N.Jackson,Chelsea,FWD,6.5,0.1,0,39,0,0,0,0,0,0,0
-252,Marc Guiu,Chelsea,FWD,4.2,7.0,14436,14390,13,0,0,0,0,-5,1
-253,Henderson,Crystal Palace,GKP,5.0,7.7,17870,4517,90,0,0,1,2,31,9
+252,Marc Guiu,Chelsea,FWD,4.2,7.0,14487,14450,13,0,0,0,0,-5,1
+253,Henderson,Crystal Palace,GKP,5.0,7.7,17949,4536,90,0,0,1,2,31,9
 254,Benitez,Crystal Palace,GKP,4.0,0.3,85,284,0,0,0,0,0,0,0
 255,Matthews,Crystal Palace,GKP,4.0,0.1,33,96,0,0,0,0,0,0,0
-256,Muñoz,Crystal Palace,DEF,5.7,16.0,51083,7721,90,0,0,1,0,19,6
-257,Lacroix,Crystal Palace,DEF,5.0,3.8,10648,3091,90,0,0,1,0,20,6
-258,Mitchell,Crystal Palace,DEF,5.0,2.2,5854,1604,90,0,0,1,3,38,11
-259,Sosa,Crystal Palace,DEF,4.8,0.1,176,171,0,0,0,0,0,0,0
-260,Guéhi,Crystal Palace,DEF,5.1,35.0,42659,50041,0,0,0,0,0,0,0
-261,Richards,Crystal Palace,DEF,4.5,3.4,10261,1805,90,0,0,1,0,28,8
-262,Chadi Riad,Crystal Palace,DEF,4.0,0.0,68,27,0,0,0,0,0,0,0
-263,Clyne,Crystal Palace,DEF,3.9,0.4,161,574,0,0,0,0,0,0,0
+256,Muñoz,Crystal Palace,DEF,5.7,16.0,51319,7762,90,0,0,1,0,19,6
+257,Lacroix,Crystal Palace,DEF,5.0,3.8,10710,3106,90,0,0,1,0,20,6
+258,Mitchell,Crystal Palace,DEF,5.0,2.2,5901,1607,90,0,0,1,3,38,11
+259,Sosa,Crystal Palace,DEF,4.8,0.1,177,172,0,0,0,0,0,0,0
+260,Guéhi,Crystal Palace,DEF,5.1,35.0,42726,50504,0,0,0,0,0,0,0
+261,Richards,Crystal Palace,DEF,4.5,3.4,10321,1811,90,0,0,1,0,28,8
+262,Chadi Riad,Crystal Palace,DEF,4.0,0.0,68,28,0,0,0,0,0,0,0
+263,Clyne,Crystal Palace,DEF,3.9,0.4,161,576,0,0,0,0,0,0,0
 264,Holding,Crystal Palace,DEF,4.0,0.0,0,16,0,0,0,0,0,0,0
-265,Kporha,Crystal Palace,DEF,4.0,0.0,6,14,0,0,0,0,0,0,0
-266,Eze,Arsenal,MID,7.6,13.5,9253,49565,87,0,0,0,0,14,2
-267,Sarr,Crystal Palace,MID,6.7,13.0,46531,16630,90,0,0,1,0,12,3
+265,Kporha,Crystal Palace,DEF,4.0,0.0,6,15,0,0,0,0,0,0,0
+266,Eze,Arsenal,MID,7.6,13.5,9282,49709,87,0,0,0,0,14,2
+267,Sarr,Crystal Palace,MID,6.7,13.0,46669,16699,90,0,0,1,0,12,3
 268,Doucouré,Crystal Palace,MID,4.9,0.0,2,6,0,0,0,0,0,0,0
-269,Esse,Crystal Palace,MID,4.7,0.1,169,221,0,0,0,0,0,0,0
-270,Hughes,Crystal Palace,MID,4.8,0.1,92,190,7,0,0,0,0,3,1
-271,Kamada,Crystal Palace,MID,5.0,0.2,587,424,82,0,0,1,0,7,3
-272,Lerma,Crystal Palace,MID,4.9,0.1,274,112,90,0,0,1,0,10,2
-273,Wharton,Crystal Palace,MID,5.0,0.4,686,716,65,0,0,1,0,8,3
+269,Esse,Crystal Palace,MID,4.7,0.1,169,223,0,0,0,0,0,0,0
+270,Hughes,Crystal Palace,MID,4.8,0.1,92,192,7,0,0,0,0,3,1
+271,Kamada,Crystal Palace,MID,5.0,0.2,591,426,82,0,0,1,0,7,3
+272,Lerma,Crystal Palace,MID,4.9,0.1,275,112,90,0,0,1,0,10,2
+273,Wharton,Crystal Palace,MID,5.0,0.4,690,718,65,0,0,1,0,8,3
 274,Agbinone,Crystal Palace,MID,4.4,0.1,49,74,0,0,0,0,0,0,0
 275,Ahamada,Crystal Palace,MID,4.4,0.0,41,68,0,0,0,0,0,0,0
-276,Devenny,Crystal Palace,MID,4.3,1.1,5120,2209,0,0,0,0,0,0,0
+276,Devenny,Crystal Palace,MID,4.3,1.1,5137,2217,0,0,0,0,0,0,0
 277,Ebiowei,Crystal Palace,MID,4.5,0.0,0,1,0,0,0,0,0,0,0
 278,J.Rak-Sakyi,Crystal Palace,MID,4.4,0.0,0,57,0,0,0,0,0,0,0
 279,M.França,Crystal Palace,MID,4.5,0.0,0,9,0,0,0,0,0,0,0
 280,Ozoh,Crystal Palace,MID,4.5,0.0,0,0,0,0,0,0,0,0,0
-281,Rodney,Crystal Palace,MID,4.5,0.0,88,87,0,0,0,0,0,0,0
+281,Rodney,Crystal Palace,MID,4.5,0.0,88,88,0,0,0,0,0,0,0
 282,Umeh,Crystal Palace,MID,4.5,0.0,0,25,0,0,0,0,0,0,0
-283,Mateta,Crystal Palace,FWD,8.0,28.9,134002,24175,90,0,0,1,0,9,2
-284,Nketiah,Crystal Palace,FWD,5.4,0.3,89,2397,0,0,0,0,0,0,0
-285,Édouard,Crystal Palace,FWD,5.0,0.2,0,258,0,0,0,0,0,0,0
-286,Marsh,Crystal Palace,FWD,4.5,0.3,685,755,0,0,0,0,0,0,0
-287,Pickford,Everton,GKP,5.5,9.6,3890,9258,90,0,0,1,0,33,7
+283,Mateta,Crystal Palace,FWD,8.0,28.9,134354,24266,90,0,0,1,0,9,2
+284,Nketiah,Crystal Palace,FWD,5.4,0.3,89,2414,0,0,0,0,0,0,0
+285,Édouard,Crystal Palace,FWD,5.0,0.2,0,259,0,0,0,0,0,0,0
+286,Marsh,Crystal Palace,FWD,4.5,0.3,690,759,0,0,0,0,0,0,0
+287,Pickford,Everton,GKP,5.5,9.6,3902,9300,90,0,0,1,0,33,7
 288,Travers,Everton,GKP,4.4,0.1,23,111,0,0,0,0,0,0,0
 289,Tyrer,Everton,GKP,3.9,0.1,148,73,0,0,0,0,0,0,0
 290,Branthwaite,Everton,DEF,5.3,0.2,28,206,0,0,0,0,0,0,0
-291,Tarkowski,Everton,DEF,5.4,6.0,2226,11539,90,0,0,1,0,23,5
-292,Mykolenko,Everton,DEF,4.9,0.4,566,523,90,0,0,1,0,28,6
-293,O'Brien,Everton,DEF,4.9,0.4,138,1184,1,0,0,0,0,3,1
+291,Tarkowski,Everton,DEF,5.4,6.0,2244,11586,90,0,0,1,0,23,5
+292,Mykolenko,Everton,DEF,4.9,0.4,568,530,90,0,0,1,0,28,6
+293,O'Brien,Everton,DEF,4.9,0.4,138,1188,1,0,0,0,0,3,1
 294,Coleman,Everton,DEF,4.3,0.1,68,184,0,0,0,0,0,0,0
-295,Keane,Everton,DEF,4.5,1.2,12939,1566,90,1,0,1,3,38,15
-296,Patterson,Everton,DEF,4.4,0.0,9,37,0,0,0,0,0,0,0
-297,Dixon,Everton,DEF,3.9,0.2,48,181,0,0,0,0,0,0,0
-298,Welch,Everton,DEF,3.9,0.1,26,134,0,0,0,0,0,0,0
-299,Ndiaye,Everton,MID,6.6,11.9,34348,20940,90,0,0,1,0,18,3
-300,McNeil,Everton,MID,5.5,0.1,109,271,0,0,0,0,0,0,0
-301,Alcaraz,Everton,MID,5.2,0.1,78,177,0,0,0,0,0,0,0
-302,Gana,Everton,MID,5.4,0.1,909,231,90,1,0,1,2,37,10
-303,Garner,Everton,MID,5.0,0.8,925,2987,90,0,0,1,0,17,3
-304,Iroegbunam,Everton,MID,4.9,0.0,41,30,66,0,1,1,0,18,5
+295,Keane,Everton,DEF,4.5,1.2,12981,1573,90,1,0,1,3,38,15
+296,Patterson,Everton,DEF,4.4,0.0,9,38,0,0,0,0,0,0,0
+297,Dixon,Everton,DEF,3.9,0.2,48,182,0,0,0,0,0,0,0
+298,Welch,Everton,DEF,3.9,0.1,26,135,0,0,0,0,0,0,0
+299,Ndiaye,Everton,MID,6.6,11.9,34438,21023,90,0,0,1,0,18,3
+300,McNeil,Everton,MID,5.5,0.1,109,274,0,0,0,0,0,0,0
+301,Alcaraz,Everton,MID,5.2,0.1,78,178,0,0,0,0,0,0,0
+302,Gana,Everton,MID,5.4,0.1,913,233,90,1,0,1,2,37,10
+303,Garner,Everton,MID,5.0,0.8,931,3003,90,0,0,1,0,17,3
+304,Iroegbunam,Everton,MID,4.9,0.0,42,31,66,0,1,1,0,18,5
 305,Armstrong,Everton,MID,4.5,0.1,0,74,0,0,0,0,0,0,0
-306,Bates,Everton,MID,4.4,0.1,98,120,0,0,0,0,0,0,0
+306,Bates,Everton,MID,4.4,0.1,98,121,0,0,0,0,0,0,0
 307,Ebere,Everton,MID,4.4,0.0,35,73,0,0,0,0,0,0,0
-308,Heath,Everton,MID,4.5,0.0,0,17,0,0,0,0,0,0,0
+308,Heath,Everton,MID,4.5,0.0,0,18,0,0,0,0,0,0,0
 309,Metcalfe,Everton,MID,4.5,0.0,0,0,0,0,0,0,0,0,0
-310,Barry,Everton,FWD,5.7,0.3,655,635,78,0,0,1,0,1,2
-311,Beto,Everton,FWD,5.2,3.1,2469,10469,11,0,0,0,0,0,1
+310,Barry,Everton,FWD,5.7,0.3,657,638,78,0,0,1,0,1,2
+311,Beto,Everton,FWD,5.2,3.1,2481,10498,11,0,0,0,0,0,1
 312,Y.Chermiti,Everton,FWD,4.9,0.1,0,45,0,0,0,0,0,0,0
 313,Sherif,Everton,FWD,4.4,0.1,0,153,0,0,0,0,0,0,0
-314,Leno,Fulham,GKP,5.0,1.5,852,2116,90,0,0,0,0,8,2
+314,Leno,Fulham,GKP,5.0,1.5,855,2122,90,0,0,0,0,8,2
 315,Benda,Fulham,GKP,4.0,0.0,0,5,0,0,0,0,0,0,0
-316,Robinson,Fulham,DEF,4.9,0.5,19,1226,0,0,0,0,0,0,0
-317,Andersen,Fulham,DEF,4.5,2.8,2025,2224,90,0,0,0,0,7,3
-318,Bassey,Fulham,DEF,4.5,0.6,420,1137,90,0,0,0,0,10,2
+316,Robinson,Fulham,DEF,4.9,0.5,19,1234,0,0,0,0,0,0,0
+317,Andersen,Fulham,DEF,4.5,2.8,2039,2227,90,0,0,0,0,7,3
+318,Bassey,Fulham,DEF,4.5,0.6,428,1138,90,0,0,0,0,10,2
 319,Castagne,Fulham,DEF,4.4,0.1,29,269,0,0,0,0,0,0,0
-320,Diop,Fulham,DEF,4.4,0.1,26,138,0,0,0,0,0,0,0
-321,J.Cuenca,Fulham,DEF,4.4,0.0,21,34,0,0,0,0,0,0,0
-322,Tete,Fulham,DEF,4.5,0.2,181,226,90,0,0,0,0,18,3
-323,Amissah,Fulham,DEF,3.9,0.1,42,146,0,0,0,0,0,0,0
-324,Iwobi,Fulham,MID,6.5,1.5,1428,5670,90,0,0,0,0,18,2
-325,Smith Rowe,Fulham,MID,5.6,0.4,394,792,3,0,0,0,0,2,1
-326,Adama,Fulham,MID,5.2,0.2,160,322,15,0,0,0,0,5,1
-327,Andreas,Fulham,MID,5.3,0.1,0,77,0,0,0,0,0,0,0
-328,Sessegnon,Fulham,MID,5.4,0.7,9151,2379,90,0,0,0,0,10,4
-329,Wilson,Fulham,MID,5.2,0.4,913,929,58,0,0,0,0,5,1
+320,Diop,Fulham,DEF,4.4,0.1,28,138,0,0,0,0,0,0,0
+321,J.Cuenca,Fulham,DEF,4.4,0.0,21,35,0,0,0,0,0,0,0
+322,Tete,Fulham,DEF,4.5,0.2,186,229,90,0,0,0,0,18,3
+323,Amissah,Fulham,DEF,3.9,0.1,44,147,0,0,0,0,0,0,0
+324,Iwobi,Fulham,MID,6.5,1.5,1432,5691,90,0,0,0,0,18,2
+325,Smith Rowe,Fulham,MID,5.6,0.4,396,793,3,0,0,0,0,2,1
+326,Adama,Fulham,MID,5.2,0.2,162,325,15,0,0,0,0,5,1
+327,Andreas,Fulham,MID,5.3,0.1,0,78,0,0,0,0,0,0,0
+328,Sessegnon,Fulham,MID,5.4,0.7,9189,2389,90,0,0,0,0,10,4
+329,Wilson,Fulham,MID,5.2,0.4,916,931,58,0,0,0,0,5,1
 330,Berge,Fulham,MID,4.9,0.1,77,107,90,0,0,0,0,18,2
 331,Cairney,Fulham,MID,4.9,0.0,17,43,0,0,0,0,0,0,0
-332,Lukić,Fulham,MID,5.0,0.1,16,533,45,0,0,0,0,0,0
+332,Lukić,Fulham,MID,5.0,0.1,16,535,45,0,0,0,0,0,0
 333,Godo,Fulham,MID,4.5,0.0,0,28,0,0,0,0,0,0,0
 334,Harris,Fulham,MID,4.5,0.0,0,3,0,0,0,0,0,0,0
-335,King,Fulham,MID,4.5,4.0,7482,8445,45,0,0,0,0,11,1
-336,Reed,Fulham,MID,4.3,0.2,1673,545,0,0,0,0,0,0,0
-337,Raúl,Fulham,FWD,6.2,0.9,1349,2189,57,0,0,0,0,5,1
-338,Muniz,Fulham,FWD,5.4,1.0,377,2702,16,0,0,0,0,5,1
-339,Meslier,Leeds,GKP,4.3,0.4,58,445,0,0,0,0,0,0,0
+335,King,Fulham,MID,4.5,4.0,7500,8475,45,0,0,0,0,11,1
+336,Reed,Fulham,MID,4.3,0.2,1683,545,0,0,0,0,0,0,0
+337,Raúl,Fulham,FWD,6.2,0.9,1357,2199,57,0,0,0,0,5,1
+338,Muniz,Fulham,FWD,5.4,1.0,381,2709,16,0,0,0,0,5,1
+339,Meslier,Leeds,GKP,4.3,0.4,58,446,0,0,0,0,0,0,0
 340,Cairns,Leeds,GKP,4.0,0.2,36,109,0,0,0,0,0,0,0
-341,Darlow,Leeds,GKP,4.0,2.3,482,2497,0,0,0,0,0,0,0
-342,Bogle,Leeds,DEF,4.5,0.2,86,485,90,0,0,0,0,-6,1
-343,Struijk,Leeds,DEF,4.4,0.3,66,674,8,0,0,0,0,-1,1
-344,Bijol,Leeds,DEF,3.9,0.1,608,289,81,0,0,0,0,9,1
-345,Bornauw,Leeds,DEF,3.9,0.1,12,182,0,0,0,0,0,0,0
+341,Darlow,Leeds,GKP,4.0,2.3,483,2510,0,0,0,0,0,0,0
+342,Bogle,Leeds,DEF,4.5,0.2,87,486,90,0,0,0,0,-6,1
+343,Struijk,Leeds,DEF,4.4,0.3,67,681,8,0,0,0,0,-1,1
+344,Bijol,Leeds,DEF,3.9,0.1,616,291,81,0,0,0,0,9,1
+345,Bornauw,Leeds,DEF,3.9,0.1,12,183,0,0,0,0,0,0,0
 346,Byram,Leeds,DEF,3.9,0.2,53,264,0,0,0,0,0,0,0
-347,Gudmundsson,Leeds,DEF,4.0,4.6,1176,6724,81,0,0,0,0,1,1
-348,Rodon,Leeds,DEF,4.1,6.4,6439,8576,90,0,0,0,0,4,1
+347,Gudmundsson,Leeds,DEF,4.0,4.6,1185,6747,81,0,0,0,0,1,1
+348,Rodon,Leeds,DEF,4.1,6.4,6466,8611,90,0,0,0,0,4,1
 349,Schmidt,Leeds,DEF,4.0,0.1,0,77,0,0,0,0,0,0,0
-350,Aaronson,Leeds,MID,5.4,0.2,790,575,73,0,1,0,0,18,7
-351,Gnonto,Leeds,MID,5.2,0.1,45,89,0,0,0,0,0,0,0
-352,Harrison,Leeds,MID,5.2,0.1,44,104,8,0,0,0,0,-2,1
-353,James,Leeds,MID,5.3,0.1,76,157,16,0,0,0,0,3,1
+350,Aaronson,Leeds,MID,5.4,0.2,794,577,73,0,1,0,0,18,7
+351,Gnonto,Leeds,MID,5.2,0.1,45,90,0,0,0,0,0,0,0
+352,Harrison,Leeds,MID,5.2,0.1,45,104,8,0,0,0,0,-2,1
+353,James,Leeds,MID,5.3,0.1,76,158,16,0,0,0,0,3,1
 354,Ampadu,Leeds,MID,4.9,0.1,66,166,90,0,0,0,0,11,2
 355,Greenwood,Leeds,MID,4.9,0.0,0,43,0,0,0,0,0,0,0
 356,Gruev,Leeds,MID,4.8,0.0,15,59,0,0,0,0,0,0,0
 357,Ramazani,Leeds,MID,4.9,0.0,0,9,0,0,0,0,0,0,0
-358,Tanaka,Leeds,MID,4.8,0.1,71,211,0,0,0,0,0,0,0
+358,Tanaka,Leeds,MID,4.8,0.1,72,212,0,0,0,0,0,0,0
 359,Crew,Leeds,MID,4.5,0.0,0,7,0,0,0,0,0,0,0
 360,Gelhardt,Leeds,MID,4.5,0.0,0,8,0,0,0,0,0,0,0
 361,Gyabi,Leeds,MID,4.5,0.0,0,43,0,0,0,0,0,0,0
-362,Piroe,Leeds,FWD,5.0,0.4,314,743,16,0,0,0,0,3,1
-363,Bamford,Leeds,FWD,4.9,0.4,0,532,0,0,0,0,0,0,0
-364,Mateo Joseph,Leeds,FWD,5.0,0.0,0,7,0,0,0,0,0,0,0
-365,Nmecha,Leeds,FWD,5.0,0.6,1373,1324,73,1,0,0,2,31,8
-366,A.Becker,Liverpool,GKP,5.4,5.5,695,11303,0,0,0,0,0,0,0
-367,Mamardashvili,Liverpool,GKP,4.3,1.1,10829,1497,90,0,0,0,0,8,7
-368,Pécsi,Liverpool,GKP,3.9,0.4,99,428,0,0,0,0,0,0,0
+362,Piroe,Leeds,FWD,5.0,0.4,315,748,16,0,0,0,0,3,1
+363,Bamford,Leeds,FWD,4.9,0.4,0,534,0,0,0,0,0,0,0
+364,Mateo Joseph,Leeds,FWD,5.0,0.0,0,8,0,0,0,0,0,0,0
+365,Nmecha,Leeds,FWD,5.0,0.6,1388,1332,73,1,0,0,2,31,8
+366,A.Becker,Liverpool,GKP,5.4,5.5,697,11349,0,0,0,0,0,0,0
+367,Mamardashvili,Liverpool,GKP,4.3,1.1,10875,1504,90,0,0,0,0,8,7
+368,Pécsi,Liverpool,GKP,3.9,0.4,99,430,0,0,0,0,0,0,0
 369,Woodman,Liverpool,GKP,3.9,0.2,198,304,0,0,0,0,0,0,0
-370,Frimpong,Liverpool,DEF,5.7,5.0,63,10305,0,0,0,0,0,0,0
-371,Kerkez,Liverpool,DEF,5.7,3.3,915,6682,34,0,0,0,0,3,1
-372,Robertson,Liverpool,DEF,5.8,1.0,1245,1007,55,0,0,0,0,-2,0
-373,Virgil,Liverpool,DEF,5.9,23.0,27155,29027,90,0,0,0,0,1,1
-374,Konaté,Liverpool,DEF,5.4,2.7,8014,4025,90,0,0,0,0,3,1
-375,Bradley,Liverpool,DEF,5.0,0.3,6980,965,82,0,0,0,0,5,0
-376,Gomez,Liverpool,DEF,4.9,0.1,109,199,7,0,0,0,0,2,1
-377,Tsimikas,Liverpool,DEF,4.8,0.1,0,57,0,0,0,0,0,0,0
-378,Nallo,Liverpool,DEF,3.8,0.4,1644,977,0,0,0,0,0,0,0
-379,R.Williams,Liverpool,DEF,3.8,0.2,962,582,0,0,0,0,0,0,0
-380,Ramsay,Liverpool,DEF,3.8,0.2,2193,470,0,0,0,0,0,0,0
-381,M.Salah,Liverpool,MID,14.2,24.0,8071,51730,90,0,0,0,0,4,2
-382,Wirtz,Liverpool,MID,8.0,7.1,4000,10011,82,0,0,0,0,9,2
+370,Frimpong,Liverpool,DEF,5.7,5.0,64,10353,0,0,0,0,0,0,0
+371,Kerkez,Liverpool,DEF,5.7,3.3,921,6711,34,0,0,0,0,3,1
+372,Robertson,Liverpool,DEF,5.8,1.0,1250,1016,55,0,0,0,0,-2,0
+373,Virgil,Liverpool,DEF,5.9,23.0,27267,29149,90,0,0,0,0,1,1
+374,Konaté,Liverpool,DEF,5.4,2.7,8049,4042,90,0,0,0,0,3,1
+375,Bradley,Liverpool,DEF,5.0,0.3,7011,968,82,0,0,0,0,5,0
+376,Gomez,Liverpool,DEF,4.9,0.1,111,204,7,0,0,0,0,2,1
+377,Tsimikas,Liverpool,DEF,4.8,0.1,0,58,0,0,0,0,0,0,0
+378,Nallo,Liverpool,DEF,3.8,0.4,1650,983,0,0,0,0,0,0,0
+379,R.Williams,Liverpool,DEF,3.8,0.2,965,585,0,0,0,0,0,0,0
+380,Ramsay,Liverpool,DEF,3.8,0.2,2203,473,0,0,0,0,0,0,0
+381,M.Salah,Liverpool,MID,14.2,24.0,8092,51939,90,0,0,0,0,4,2
+382,Wirtz,Liverpool,MID,8.0,7.1,4016,10070,82,0,0,0,0,9,2
 383,Luis Díaz,Liverpool,MID,8.0,0.0,0,19,0,0,0,0,0,0,0
-384,Gakpo,Liverpool,MID,7.5,13.1,23645,46852,34,0,0,0,0,-2,1
-385,Chiesa,Liverpool,MID,6.4,0.3,342,886,7,0,0,0,0,5,1
-386,Mac Allister,Liverpool,MID,6.3,1.2,3209,2030,73,0,0,0,0,8,1
-387,Szoboszlai,Liverpool,MID,6.6,5.0,50334,10388,90,0,0,0,0,9,1
-388,C.Jones,Liverpool,MID,5.4,0.1,163,131,16,0,0,0,0,-2,0
-389,Elliott,Aston Villa,MID,5.4,0.2,212,754,0,0,0,0,0,0,0
-390,Gravenberch,Liverpool,MID,5.6,4.7,35361,9514,90,0,0,0,0,10,2
+384,Gakpo,Liverpool,MID,7.5,13.1,23714,47006,34,0,0,0,0,-2,1
+385,Chiesa,Liverpool,MID,6.4,0.3,346,890,7,0,0,0,0,5,1
+386,Mac Allister,Liverpool,MID,6.3,1.2,3215,2043,73,0,0,0,0,8,1
+387,Szoboszlai,Liverpool,MID,6.6,5.0,50479,10457,90,0,0,0,0,9,1
+388,C.Jones,Liverpool,MID,5.4,0.1,165,133,16,0,0,0,0,-2,0
+389,Elliott,Aston Villa,MID,5.4,0.2,215,759,0,0,0,0,0,0,0
+390,Gravenberch,Liverpool,MID,5.6,4.7,35454,9570,90,0,0,0,0,10,2
 391,Gannon-Doak,Bournemouth,MID,4.9,0.0,34,79,0,0,0,0,0,0,0
-392,Endo,Liverpool,MID,4.9,0.1,111,149,0,0,0,0,0,0,0
-393,Bajcetic,Liverpool,MID,4.3,0.0,89,111,0,0,0,0,0,0,0
-394,McConnell,Liverpool,MID,4.4,0.0,0,25,0,0,0,0,0,0,0
-395,Morton,Liverpool,MID,4.5,0.0,0,3,0,0,0,0,0,0,0
-396,Nyoni,Liverpool,MID,4.3,0.6,1205,1915,0,0,0,0,0,0,0
+392,Endo,Liverpool,MID,4.9,0.1,111,150,0,0,0,0,0,0,0
+393,Bajcetic,Liverpool,MID,4.3,0.0,89,112,0,0,0,0,0,0,0
+394,McConnell,Liverpool,MID,4.4,0.0,0,26,0,0,0,0,0,0,0
+395,Morton,Liverpool,MID,4.5,0.0,0,4,0,0,0,0,0,0,0
+396,Nyoni,Liverpool,MID,4.3,0.6,1211,1921,0,0,0,0,0,0,0
 397,Darwin,Liverpool,FWD,6.5,0.1,0,30,0,0,0,0,0,0,0
-398,Danns,Liverpool,FWD,4.4,0.1,26,179,0,0,0,0,0,0,0
-399,Ederson M.,Man City,GKP,5.3,0.9,0,732,0,0,0,0,0,0,0
-400,Ortega Moreno,Man City,GKP,4.8,0.2,46,169,0,0,0,0,0,0,0
+398,Danns,Liverpool,FWD,4.4,0.1,26,180,0,0,0,0,0,0,0
+399,Ederson M.,Man City,GKP,5.3,0.9,0,733,0,0,0,0,0,0,0
+400,Ortega Moreno,Man City,GKP,4.8,0.2,46,171,0,0,0,0,0,0,0
 401,Bettinelli,Man City,GKP,4.0,0.1,42,121,0,0,0,0,0,0,0
-402,Aït-Nouri,Man City,DEF,5.8,4.7,954,6006,0,0,0,0,0,0,0
-403,Gvardiol,Man City,DEF,5.8,5.1,6301,6537,90,0,0,1,0,26,6
-404,Akanji,Man City,DEF,5.4,0.3,0,201,0,0,0,0,0,0,0
-405,Aké,Man City,DEF,5.3,0.6,269,995,0,0,0,0,0,0,0
-406,Khusanov,Man City,DEF,5.4,0.3,189,397,0,0,0,0,0,0,0
-407,Matheus N.,Man City,DEF,5.3,0.8,6995,1296,90,0,1,1,2,40,13
-408,Rúben,Man City,DEF,5.5,4.4,5808,4877,90,0,0,1,0,31,6
-409,Stones,Man City,DEF,5.4,0.7,373,1033,0,0,0,0,0,0,0
-410,Lewis,Man City,DEF,4.8,1.6,338,3458,0,0,0,0,0,0,0
-411,O’Reilly,Man City,DEF,4.9,1.7,55711,1716,90,0,1,1,0,33,11
+402,Aït-Nouri,Man City,DEF,5.8,4.7,956,6025,0,0,0,0,0,0,0
+403,Gvardiol,Man City,DEF,5.8,5.1,6335,6557,90,0,0,1,0,26,6
+404,Akanji,Man City,DEF,5.4,0.3,0,202,0,0,0,0,0,0,0
+405,Aké,Man City,DEF,5.3,0.6,271,1000,0,0,0,0,0,0,0
+406,Khusanov,Man City,DEF,5.4,0.3,189,400,0,0,0,0,0,0,0
+407,Matheus N.,Man City,DEF,5.3,0.8,7035,1302,90,0,1,1,2,40,13
+408,Rúben,Man City,DEF,5.5,4.4,5830,4896,90,0,0,1,0,31,6
+409,Stones,Man City,DEF,5.4,0.7,376,1036,0,0,0,0,0,0,0
+410,Lewis,Man City,DEF,4.8,1.6,339,3478,0,0,0,0,0,0,0
+411,O’Reilly,Man City,DEF,4.9,1.7,56075,1730,90,0,1,1,0,33,11
 412,Vitor Reis,Man City,DEF,5.0,0.0,0,0,0,0,0,0,0,0,0
-413,Marmoush,Man City,MID,8.3,2.6,1448,3775,16,0,0,0,0,4,1
-414,Foden,Man City,MID,8.0,4.5,16266,10961,90,0,0,1,0,14,3
-415,Savinho,Man City,MID,6.9,0.5,968,1053,37,0,0,0,0,8,1
-416,Bernardo,Man City,MID,6.3,0.5,874,822,90,0,1,1,0,18,5
-417,Cherki,Man City,MID,6.3,3.2,21392,7283,52,0,0,0,0,2,1
-418,Doku,Man City,MID,6.4,5.2,95286,9489,73,1,0,1,3,42,11
-419,Grealish,Everton,MID,6.8,16.4,9285,81388,90,0,0,1,0,12,3
+413,Marmoush,Man City,MID,8.3,2.6,1453,3803,16,0,0,0,0,4,1
+414,Foden,Man City,MID,8.0,4.5,16322,11006,90,0,0,1,0,14,3
+415,Savinho,Man City,MID,6.9,0.5,974,1062,37,0,0,0,0,8,1
+416,Bernardo,Man City,MID,6.3,0.5,876,824,90,0,1,1,0,18,5
+417,Cherki,Man City,MID,6.3,3.2,21442,7318,52,0,0,0,0,2,1
+418,Doku,Man City,MID,6.4,5.2,95798,9513,73,1,0,1,3,42,11
+419,Grealish,Everton,MID,6.8,16.3,9310,81605,90,0,0,1,0,12,3
 420,Gündoğan,Man City,MID,6.3,0.1,0,41,0,0,0,0,0,0,0
-421,Rodrigo,Man City,MID,6.3,0.4,31,936,0,0,0,0,0,0,0
+421,Rodrigo,Man City,MID,6.3,0.4,31,938,0,0,0,0,0,0,0
 422,Kovačić,Man City,MID,5.9,0.0,10,184,0,0,0,0,0,0,0
-423,N.Gonzalez,Man City,MID,5.9,0.1,2052,239,90,1,0,1,1,36,8
-424,Bobb,Man City,MID,5.3,0.3,233,856,0,0,0,0,0,0,0
+423,N.Gonzalez,Man City,MID,5.9,0.1,2062,242,90,1,0,1,1,36,8
+424,Bobb,Man City,MID,5.3,0.3,233,858,0,0,0,0,0,0,0
 425,Echeverri,Man City,MID,5.4,0.0,0,7,0,0,0,0,0,0,0
-426,McAtee,Nott'm Forest,MID,5.1,0.1,104,221,0,0,0,0,0,0,0
-427,Reijnders,Man City,MID,5.5,19.7,5528,95452,0,0,0,0,0,0,0
+426,McAtee,Nott'm Forest,MID,5.1,0.1,106,224,0,0,0,0,0,0,0
+427,Reijnders,Man City,MID,5.5,19.7,5546,95718,0,0,0,0,0,0,0
 428,Nypan,Man City,MID,5.0,0.0,0,4,0,0,0,0,0,0,0
 429,Phillips,Man City,MID,4.8,0.1,75,103,0,0,0,0,0,0,0
-430,Haaland,Man City,FWD,14.9,70.7,51716,3769,90,1,0,1,0,28,4
-431,Bayindir,Man Utd,GKP,4.8,0.3,140,552,0,0,0,0,0,0,0
-432,Onana,Man Utd,GKP,4.9,0.2,0,111,0,0,0,0,0,0,0
+430,Haaland,Man City,FWD,14.9,70.7,51927,3781,90,1,0,1,0,28,4
+431,Bayindir,Man Utd,GKP,4.8,0.3,140,554,0,0,0,0,0,0,0
+432,Onana,Man Utd,GKP,4.9,0.2,0,112,0,0,0,0,0,0,0
 433,Harrison,Man Utd,GKP,4.0,0.0,0,1,0,0,0,0,0,0,0
-434,Heaton,Man Utd,GKP,3.9,0.3,286,282,0,0,0,0,0,0,0
-435,Mee,Man Utd,GKP,3.9,0.1,120,98,0,0,0,0,0,0,0
-436,De Ligt,Man Utd,DEF,5.0,3.1,17132,1991,90,1,0,0,0,20,9
+434,Heaton,Man Utd,GKP,3.9,0.3,289,284,0,0,0,0,0,0,0
+435,Mee,Man Utd,GKP,3.9,0.1,123,98,0,0,0,0,0,0,0
+436,De Ligt,Man Utd,DEF,5.0,3.1,17221,2002,90,1,0,0,0,20,9
 437,Martinez,Man Utd,DEF,4.8,0.1,32,90,0,0,0,0,0,0,0
-438,Mazraoui,Man Utd,DEF,4.9,0.2,406,296,57,0,0,0,0,5,1
+438,Mazraoui,Man Utd,DEF,4.9,0.2,410,299,57,0,0,0,0,5,1
 439,D.Leon,Man Utd,DEF,4.2,0.1,70,101,0,0,0,0,0,0,0
-440,Dalot,Man Utd,DEF,4.4,1.0,550,2134,10,0,0,0,0,-5,0
-441,Dorgu,Man Utd,DEF,4.2,2.8,1622,3645,79,0,0,1,0,24,5
-442,Maguire,Man Utd,DEF,4.4,0.8,1279,2188,71,0,0,1,0,18,6
-443,Shaw,Man Utd,DEF,4.5,0.5,1851,1096,90,0,0,0,0,6,1
-444,Yoro,Man Utd,DEF,4.4,1.7,632,5050,18,0,0,0,0,-5,0
+440,Dalot,Man Utd,DEF,4.4,1.0,555,2141,10,0,0,0,0,-5,0
+441,Dorgu,Man Utd,DEF,4.2,2.8,1630,3657,79,0,0,1,0,24,5
+442,Maguire,Man Utd,DEF,4.4,0.8,1281,2195,71,0,0,1,0,18,6
+443,Shaw,Man Utd,DEF,4.5,0.5,1858,1103,90,0,0,0,0,6,1
+444,Yoro,Man Utd,DEF,4.4,1.7,635,5076,18,0,0,0,0,-5,0
 445,Amass,Man Utd,DEF,4.0,0.1,0,79,0,0,0,0,0,0,0
-446,Fredricson,Man Utd,DEF,3.9,0.1,25,164,0,0,0,0,0,0,0
-447,Heaven,Man Utd,DEF,3.8,1.2,9971,2457,0,0,0,0,0,0,0
-448,Malacia,Man Utd,DEF,3.9,0.3,100,486,0,0,0,0,0,0,0
-449,B.Fernandes,Man Utd,MID,8.9,16.2,23324,22540,90,0,1,0,0,20,5
-450,Cunha,Man Utd,MID,7.9,4.4,8954,10487,71,0,0,1,0,2,3
-451,Rashford,Man Utd,MID,7.0,0.0,0,1,0,0,0,0,0,0,0
-452,Amad,Man Utd,MID,6.3,1.6,24105,1758,90,0,1,0,3,28,8
-453,Garnacho,Chelsea,MID,6.4,0.8,34201,1157,90,0,2,1,2,41,11
+446,Fredricson,Man Utd,DEF,3.9,0.1,25,166,0,0,0,0,0,0,0
+447,Heaven,Man Utd,DEF,3.8,1.2,10009,2464,0,0,0,0,0,0,0
+448,Malacia,Man Utd,DEF,3.9,0.3,100,490,0,0,0,0,0,0,0
+449,B.Fernandes,Man Utd,MID,8.9,16.2,23401,22608,90,0,1,0,0,20,5
+450,Cunha,Man Utd,MID,7.9,4.4,8986,10525,71,0,0,1,0,2,3
+451,Rashford,Man Utd,MID,7.0,0.0,0,2,0,0,0,0,0,0,0
+452,Amad,Man Utd,MID,6.3,1.6,24168,1772,90,0,1,0,3,28,8
+453,Garnacho,Chelsea,MID,6.4,0.8,34296,1162,90,0,2,1,2,41,11
 454,Antony,Man Utd,MID,5.9,0.1,0,27,0,0,0,0,0,0,0
-455,Mount,Man Utd,MID,5.9,0.3,495,898,18,0,0,0,0,4,1
-456,Sancho,Aston Villa,MID,5.8,0.2,548,420,19,0,0,0,0,6,1
-457,Casemiro,Man Utd,MID,5.5,1.0,9556,6436,71,0,0,1,0,13,5
-458,Mainoo,Man Utd,MID,4.7,0.4,222,1763,0,0,0,0,0,0,0
-459,Ugarte,Man Utd,MID,4.8,0.1,211,340,18,0,0,0,0,8,1
+455,Mount,Man Utd,MID,5.9,0.3,498,901,18,0,0,0,0,4,1
+456,Sancho,Aston Villa,MID,5.8,0.2,549,423,19,0,0,0,0,6,1
+457,Casemiro,Man Utd,MID,5.5,1.0,9572,6471,71,0,0,1,0,13,5
+458,Mainoo,Man Utd,MID,4.7,0.4,222,1766,0,0,0,0,0,0,0
+459,Ugarte,Man Utd,MID,4.8,0.1,212,341,18,0,0,0,0,8,1
 460,Collyer,Man Utd,MID,4.5,0.0,0,38,0,0,0,0,0,0,0
 461,Fitzgerald,Man Utd,MID,4.4,0.0,29,71,0,0,0,0,0,0,0
 462,J.Fletcher,Man Utd,MID,4.4,0.1,34,85,0,0,0,0,0,0,0
 463,Kone,Man Utd,MID,4.4,0.1,70,153,0,0,0,0,0,0,0
 464,Moorhouse,Man Utd,MID,4.5,0.0,0,23,0,0,0,0,0,0,0
-465,Højlund,Man Utd,FWD,6.3,0.3,0,184,0,0,0,0,0,0,0
-466,Zirkzee,Man Utd,FWD,5.8,0.4,797,789,0,0,0,0,0,0,0
-467,Obi,Man Utd,FWD,4.3,1.5,1081,3347,0,0,0,0,0,0,0
+465,Højlund,Man Utd,FWD,6.3,0.3,0,187,0,0,0,0,0,0,0
+466,Zirkzee,Man Utd,FWD,5.8,0.4,801,797,0,0,0,0,0,0,0
+467,Obi,Man Utd,FWD,4.3,1.5,1086,3364,0,0,0,0,0,0,0
 468,Wheatley,Man Utd,FWD,4.5,0.1,0,110,0,0,0,0,0,0,0
-469,Pope,Newcastle,GKP,5.2,11.8,4457,31790,76,0,0,0,0,16,3
-470,Dúbravka,Burnley,GKP,4.0,34.4,10589,14040,90,0,0,0,0,2,2
+469,Pope,Newcastle,GKP,5.2,11.8,4469,31918,76,0,0,0,0,16,3
+470,Dúbravka,Burnley,GKP,4.0,34.4,10626,14098,90,0,0,0,0,2,2
 471,Gillespie,Newcastle,GKP,4.0,0.1,36,91,0,0,0,0,0,0,0
 472,Odysseas,Newcastle,GKP,4.0,0.0,0,19,0,0,0,0,0,0,0
-473,Hall,Newcastle,DEF,5.2,0.7,471,792,13,0,0,0,0,-3,0
-474,Schär,Newcastle,DEF,5.4,1.8,763,4448,0,0,0,0,0,0,0
-475,Botman,Newcastle,DEF,4.9,0.6,337,1684,90,0,0,0,0,8,3
-476,Burn,Newcastle,DEF,5.2,9.6,3854,72602,72,0,0,0,0,-15,0
-477,Livramento,Newcastle,DEF,4.9,2.8,83,9863,0,0,0,0,0,0,0
-478,Trippier,Newcastle,DEF,5.0,2.5,872,7596,90,0,0,0,0,-2,0
+473,Hall,Newcastle,DEF,5.2,0.7,475,796,13,0,0,0,0,-3,0
+474,Schär,Newcastle,DEF,5.4,1.8,769,4462,0,0,0,0,0,0,0
+475,Botman,Newcastle,DEF,4.9,0.6,340,1692,90,0,0,0,0,8,3
+476,Burn,Newcastle,DEF,5.2,9.6,3854,73045,72,0,0,0,0,-15,0
+477,Livramento,Newcastle,DEF,4.9,2.8,83,9890,0,0,0,0,0,0,0
+478,Trippier,Newcastle,DEF,5.0,2.5,878,7624,90,0,0,0,0,-2,0
 479,Krafth,Newcastle,DEF,4.3,0.0,28,57,0,0,0,0,0,0,0
 480,Lascelles,Newcastle,DEF,4.3,0.1,28,82,0,0,0,0,0,0,0
-481,A.Murphy,Newcastle,DEF,3.9,0.6,260,796,0,0,0,0,0,0,0
+481,A.Murphy,Newcastle,DEF,3.9,0.6,260,800,0,0,0,0,0,0,0
 482,Ashby,Newcastle,DEF,3.9,0.1,20,218,0,0,0,0,0,0,0
-483,Pivas,Newcastle,DEF,3.9,0.2,33,262,0,0,0,0,0,0,0
-484,Targett,Newcastle,DEF,4.0,0.2,0,227,0,0,0,0,0,0,0
-485,Gordon,Newcastle,MID,7.4,2.0,228,21535,0,0,0,0,0,0,0
-486,Elanga,Newcastle,MID,6.7,3.4,702,8266,13,0,0,0,0,1,1
-487,Barnes,Newcastle,MID,6.3,0.4,942,637,76,1,0,0,2,26,9
-488,Bruno G.,Newcastle,MID,6.6,3.6,5837,12997,90,0,0,0,0,18,4
-489,J.Murphy,Newcastle,MID,6.1,1.2,2438,3555,76,0,0,0,0,11,2
-490,Joelinton,Newcastle,MID,5.9,0.3,467,1218,23,0,0,0,0,3,1
-491,Tonali,Newcastle,MID,5.4,1.3,1412,3340,76,0,0,0,0,12,4
-492,Antoñito C.,Newcastle,MID,4.9,0.0,0,17,0,0,0,0,0,0,0
-493,Longstaff,Leeds,MID,4.9,1.0,716,4176,73,0,0,0,0,12,1
-494,Willock,Newcastle,MID,5.0,0.1,106,130,13,0,0,0,0,3,1
+483,Pivas,Newcastle,DEF,3.9,0.2,33,263,0,0,0,0,0,0,0
+484,Targett,Newcastle,DEF,4.0,0.2,0,228,0,0,0,0,0,0,0
+485,Gordon,Newcastle,MID,7.4,2.0,229,21603,0,0,0,0,0,0,0
+486,Elanga,Newcastle,MID,6.7,3.4,703,8299,13,0,0,0,0,1,1
+487,Barnes,Newcastle,MID,6.3,0.4,945,640,76,1,0,0,2,26,9
+488,Bruno G.,Newcastle,MID,6.6,3.6,5857,13040,90,0,0,0,0,18,4
+489,J.Murphy,Newcastle,MID,6.1,1.2,2446,3571,76,0,0,0,0,11,2
+490,Joelinton,Newcastle,MID,5.9,0.3,468,1227,23,0,0,0,0,3,1
+491,Tonali,Newcastle,MID,5.4,1.3,1421,3359,76,0,0,0,0,12,4
+492,Antoñito C.,Newcastle,MID,4.9,0.0,0,18,0,0,0,0,0,0,0
+493,Longstaff,Leeds,MID,4.9,1.0,718,4191,73,0,0,0,0,12,1
+494,Willock,Newcastle,MID,5.0,0.1,107,130,13,0,0,0,0,3,1
 495,Hayden,Newcastle,MID,4.5,0.0,0,4,0,0,0,0,0,0,0
 496,Kuol,Newcastle,MID,4.4,0.0,0,46,0,0,0,0,0,0,0
-497,L.Miley,Newcastle,MID,4.4,2.0,2642,4261,1,0,0,0,0,3,1
+497,L.Miley,Newcastle,MID,4.4,2.0,2653,4277,1,0,0,0,0,3,1
 498,White,Newcastle,MID,4.5,0.0,0,5,0,0,0,0,0,0,0
-499,Isak,Liverpool,FWD,10.4,4.6,1936,13557,0,0,0,0,0,0,0
-500,Osula,Newcastle,FWD,5.5,0.3,34,1780,0,0,0,0,0,0,0
-501,Neave,Newcastle,FWD,4.4,0.2,250,389,0,0,0,0,0,0,0
-502,Sels,Nott'm Forest,GKP,4.8,8.0,599,16359,90,0,0,0,0,10,2
+499,Isak,Liverpool,FWD,10.4,4.6,1947,13600,0,0,0,0,0,0,0
+500,Osula,Newcastle,FWD,5.5,0.3,34,1788,0,0,0,0,0,0,0
+501,Neave,Newcastle,FWD,4.4,0.2,251,390,0,0,0,0,0,0,0
+502,Sels,Nott'm Forest,GKP,4.8,8.0,602,16426,90,0,0,0,0,10,2
 503,C.Miguel,Nott'm Forest,GKP,4.0,0.1,0,81,0,0,0,0,0,0,0
 504,Turner,Nott'm Forest,GKP,4.0,0.1,0,82,0,0,0,0,0,0,0
-505,Milenković,Nott'm Forest,DEF,5.2,3.8,431,6936,90,0,0,0,0,16,4
-506,Murillo,Nott'm Forest,DEF,5.3,1.9,850,3002,90,0,0,0,0,4,1
-507,Aina,Nott'm Forest,DEF,4.7,2.4,15,4528,0,0,0,0,0,0,0
-508,N.Williams,Nott'm Forest,DEF,4.7,3.3,673,6336,90,0,0,0,0,21,2
+505,Milenković,Nott'm Forest,DEF,5.2,3.8,435,6967,90,0,0,0,0,16,4
+506,Murillo,Nott'm Forest,DEF,5.3,1.9,858,3015,90,0,0,0,0,4,1
+507,Aina,Nott'm Forest,DEF,4.7,2.4,15,4549,0,0,0,0,0,0,0
+508,N.Williams,Nott'm Forest,DEF,4.7,3.3,674,6349,90,0,0,0,0,21,2
 509,David Carmo,Nott'm Forest,DEF,4.5,0.0,0,20,0,0,0,0,0,0,0
-510,Jair Cunha,Nott'm Forest,DEF,4.3,0.1,27,76,0,0,0,0,0,0,0
-511,Morato,Nott'm Forest,DEF,4.4,0.1,28,95,2,0,0,0,0,5,1
+510,Jair Cunha,Nott'm Forest,DEF,4.3,0.1,27,77,0,0,0,0,0,0,0
+511,Morato,Nott'm Forest,DEF,4.4,0.1,28,97,2,0,0,0,0,5,1
 512,O.Richards,Nott'm Forest,DEF,4.5,0.0,0,20,0,0,0,0,0,0,0
 513,Abbott,Nott'm Forest,DEF,3.9,0.2,40,192,0,0,0,0,0,0,0
-514,Boly,Nott'm Forest,DEF,3.9,0.4,103,568,0,0,0,0,0,0,0
-515,Gibbs-White,Nott'm Forest,MID,7.3,3.2,7590,6375,87,1,0,0,3,34,10
-516,Hudson-Odoi,Nott'm Forest,MID,5.8,0.7,19,4618,0,0,0,0,0,0,0
-517,Anderson,Nott'm Forest,MID,5.3,3.0,4224,4513,90,1,0,0,0,25,9
+514,Boly,Nott'm Forest,DEF,3.9,0.4,106,570,0,0,0,0,0,0,0
+515,Gibbs-White,Nott'm Forest,MID,7.3,3.2,7626,6406,87,1,0,0,3,34,10
+516,Hudson-Odoi,Nott'm Forest,MID,5.8,0.7,19,4632,0,0,0,0,0,0,0
+517,Anderson,Nott'm Forest,MID,5.3,3.0,4246,4532,90,1,0,0,0,25,9
 518,Jota,Nott'm Forest,MID,5.4,0.0,0,41,0,0,0,0,0,0,0
 519,Dominguez,Nott'm Forest,MID,5.0,0.0,25,26,58,0,0,0,0,9,1
 520,O'Brien,Nott'm Forest,MID,5.0,0.0,0,1,0,0,0,0,0,0,0
-521,Sangaré,Nott'm Forest,MID,4.9,0.1,74,73,58,1,0,0,0,21,5
-522,Yates,Nott'm Forest,MID,4.7,0.1,418,234,31,0,0,0,0,7,1
+521,Sangaré,Nott'm Forest,MID,4.9,0.1,75,73,58,1,0,0,0,21,5
+522,Yates,Nott'm Forest,MID,4.7,0.1,420,236,31,0,0,0,0,7,1
 523,Da Silva Moreira,Nott'm Forest,MID,4.5,0.1,0,72,0,0,0,0,0,0,0
-524,Stamenic,Nott'm Forest,MID,4.5,0.0,0,23,0,0,0,0,0,0,0
-525,Wood,Nott'm Forest,FWD,7.2,6.0,95,18488,0,0,0,0,0,0,0
-526,Igor Jesus,Nott'm Forest,FWD,5.8,0.7,1841,3074,58,0,0,0,0,1,1
-527,Awoniyi,Nott'm Forest,FWD,5.2,0.4,479,691,31,0,0,0,0,2,1
-528,Patterson,Sunderland,GKP,4.3,0.2,133,229,0,0,0,0,0,0,0
-529,Moore,Sunderland,GKP,3.9,0.4,404,286,0,0,0,0,0,0,0
+524,Stamenic,Nott'm Forest,MID,4.5,0.0,0,24,0,0,0,0,0,0,0
+525,Wood,Nott'm Forest,FWD,7.2,6.0,95,18564,0,0,0,0,0,0,0
+526,Igor Jesus,Nott'm Forest,FWD,5.8,0.7,1849,3083,58,0,0,0,0,1,1
+527,Awoniyi,Nott'm Forest,FWD,5.2,0.4,483,696,31,0,0,0,0,2,1
+528,Patterson,Sunderland,GKP,4.3,0.2,134,230,0,0,0,0,0,0,0
+529,Moore,Sunderland,GKP,3.9,0.4,405,287,0,0,0,0,0,0,0
 530,Nna Noukeu,Sunderland,GKP,3.9,0.1,146,128,0,0,0,0,0,0,0
-531,Ballard,Sunderland,DEF,4.6,2.7,40310,1359,90,1,1,0,0,24,10
-532,Hume,Sunderland,DEF,4.5,0.4,780,877,90,0,0,0,0,7,1
+531,Ballard,Sunderland,DEF,4.6,2.7,40442,1367,90,1,1,0,0,24,10
+532,Hume,Sunderland,DEF,4.5,0.4,786,884,90,0,0,0,0,7,1
 533,Alese,Sunderland,DEF,4.0,0.0,3,5,0,0,0,0,0,0,0
-534,Anderson,Sunderland,DEF,3.9,0.4,220,631,0,0,0,0,0,0,0
+534,Anderson,Sunderland,DEF,3.9,0.4,220,635,0,0,0,0,0,0,0
 535,Cirkin,Sunderland,DEF,4.0,0.0,3,13,0,0,0,0,0,0,0
 536,Hjelde,Sunderland,DEF,4.0,0.0,4,10,0,0,0,0,0,0,0
-537,Huggins,Sunderland,DEF,4.0,0.1,0,90,0,0,0,0,0,0,0
-538,Johnson,Sunderland,DEF,3.9,0.3,79,352,0,0,0,0,0,0,0
-539,O'Nien,Sunderland,DEF,4.0,0.0,133,127,0,0,0,0,0,0,0
-540,Pembele,Sunderland,DEF,3.9,0.4,82,614,0,0,0,0,0,0,0
-541,Reinildo,Sunderland,DEF,4.0,4.3,2358,4845,90,0,0,0,0,-4,0
+537,Huggins,Sunderland,DEF,4.0,0.1,0,91,0,0,0,0,0,0,0
+538,Johnson,Sunderland,DEF,3.9,0.3,80,354,0,0,0,0,0,0,0
+539,O'Nien,Sunderland,DEF,4.0,0.0,136,129,0,0,0,0,0,0,0
+540,Pembele,Sunderland,DEF,3.9,0.4,82,616,0,0,0,0,0,0,0
+541,Reinildo,Sunderland,DEF,4.0,4.3,2363,4867,90,0,0,0,0,-4,0
 542,Seelt,Sunderland,DEF,4.0,0.1,0,100,0,0,0,0,0,0,0
-543,Adingra,Sunderland,MID,5.1,0.5,241,969,26,0,0,0,0,1,1
-544,Diarra,Sunderland,MID,5.3,0.0,10,70,0,0,0,0,0,0,0
-545,Roberts,Sunderland,MID,5.4,0.0,0,8,0,0,0,0,0,0,0
+543,Adingra,Sunderland,MID,5.1,0.5,243,972,26,0,0,0,0,1,1
+544,Diarra,Sunderland,MID,5.3,0.0,10,71,0,0,0,0,0,0,0
+545,Roberts,Sunderland,MID,5.4,0.0,0,9,0,0,0,0,0,0,0
 546,Aleksić,Sunderland,MID,4.9,0.0,0,17,0,0,0,0,0,0,0
-547,E.Le Fée,Sunderland,MID,4.9,0.4,818,723,63,0,0,0,0,5,2
+547,E.Le Fée,Sunderland,MID,4.9,0.4,821,723,63,0,0,0,0,5,2
 548,Mundle,Sunderland,MID,4.9,0.0,2,7,0,0,0,0,0,0,0
 549,Neil,Sunderland,MID,4.8,0.0,37,52,0,0,0,0,0,0,0
 550,Poveda,Sunderland,MID,4.8,0.0,23,30,0,0,0,0,0,0,0
-551,Rigg,Sunderland,MID,4.8,0.0,47,86,0,0,0,0,0,0,0
-552,Sadiki,Sunderland,MID,5.0,0.1,410,109,90,0,0,0,0,14,4
-553,Talbi,Sunderland,MID,5.0,0.3,448,825,26,0,0,0,0,4,1
-554,Ba,Sunderland,MID,4.3,0.5,4668,1699,0,0,0,0,0,0,0
-555,Browne,Sunderland,MID,4.5,0.0,0,33,0,0,0,0,0,0,0
+551,Rigg,Sunderland,MID,4.8,0.0,48,86,0,0,0,0,0,0,0
+552,Sadiki,Sunderland,MID,5.0,0.1,411,110,90,0,0,0,0,14,4
+553,Talbi,Sunderland,MID,5.0,0.3,450,827,26,0,0,0,0,4,1
+554,Ba,Sunderland,MID,4.3,0.5,4681,1709,0,0,0,0,0,0,0
+555,Browne,Sunderland,MID,4.5,0.0,0,34,0,0,0,0,0,0,0
 556,Ekwah,Sunderland,MID,4.5,0.0,0,5,0,0,0,0,0,0,0
-557,H.Jones,Sunderland,MID,4.4,0.1,87,101,0,0,0,0,0,0,0
-558,Matete,Sunderland,MID,4.4,0.2,298,457,0,0,0,0,0,0,0
+557,H.Jones,Sunderland,MID,4.4,0.1,88,103,0,0,0,0,0,0,0
+558,Matete,Sunderland,MID,4.4,0.2,298,459,0,0,0,0,0,0,0
 559,Triantis,Sunderland,MID,4.4,0.0,0,64,0,0,0,0,0,0,0
-560,Isidor,Sunderland,FWD,5.6,3.5,17024,13429,62,0,0,0,0,3,2
-561,Mayenda,Sunderland,FWD,5.4,0.7,519,1647,3,0,0,0,0,3,1
-562,Abdullahi,Sunderland,FWD,4.3,0.4,1135,882,0,0,0,0,0,0,0
-563,Luís Hemir,Sunderland,FWD,4.4,0.1,0,132,0,0,0,0,0,0,0
-564,Rusyn,Sunderland,FWD,4.4,0.1,0,107,0,0,0,0,0,0,0
-565,Vicario,Spurs,GKP,5.0,9.7,2317,30061,90,0,0,0,0,-1,1
-566,Austin,Spurs,GKP,3.9,0.3,271,289,0,0,0,0,0,0,0
-567,Kinsky,Spurs,GKP,3.9,1.9,1032,1919,0,0,0,0,0,0,0
-568,Pedro Porro,Spurs,DEF,5.5,17.4,4690,39946,66,0,0,0,0,7,2
-569,Romero,Spurs,DEF,5.0,4.0,1499,8424,87,0,0,0,0,7,1
-570,Danso,Spurs,DEF,4.3,0.1,137,409,2,0,0,0,0,-6,0
-571,Davies,Spurs,DEF,4.3,0.1,4,103,0,0,0,0,0,0,0
+560,Isidor,Sunderland,FWD,5.6,3.5,17093,13474,62,0,0,0,0,3,2
+561,Mayenda,Sunderland,FWD,5.4,0.7,521,1656,3,0,0,0,0,3,1
+562,Abdullahi,Sunderland,FWD,4.3,0.4,1140,886,0,0,0,0,0,0,0
+563,Luís Hemir,Sunderland,FWD,4.4,0.1,0,133,0,0,0,0,0,0,0
+564,Rusyn,Sunderland,FWD,4.4,0.1,0,109,0,0,0,0,0,0,0
+565,Vicario,Spurs,GKP,5.0,9.7,2321,30158,90,0,0,0,0,-1,1
+566,Austin,Spurs,GKP,3.9,0.3,272,290,0,0,0,0,0,0,0
+567,Kinsky,Spurs,GKP,3.9,1.9,1034,1926,0,0,0,0,0,0,0
+568,Pedro Porro,Spurs,DEF,5.5,17.4,4708,40067,66,0,0,0,0,7,2
+569,Romero,Spurs,DEF,5.0,4.0,1507,8453,87,0,0,0,0,7,1
+570,Danso,Spurs,DEF,4.3,0.1,138,409,2,0,0,0,0,-6,0
+571,Davies,Spurs,DEF,4.3,0.1,4,104,0,0,0,0,0,0,0
 572,Dragusin,Spurs,DEF,4.5,0.0,8,11,0,0,0,0,0,0,0
-573,Spence,Spurs,DEF,4.5,1.5,758,4209,90,0,0,0,0,8,1
-574,Udogie,Spurs,DEF,4.4,0.4,396,469,23,0,1,0,0,12,4
-575,Van de Ven,Spurs,DEF,4.8,33.4,42789,33983,90,0,0,0,0,4,1
+573,Spence,Spurs,DEF,4.5,1.5,762,4222,90,0,0,0,0,8,1
+574,Udogie,Spurs,DEF,4.4,0.4,397,472,23,0,1,0,0,12,4
+575,Van de Ven,Spurs,DEF,4.8,33.4,42975,34125,90,0,0,0,0,4,1
 576,Phillips,Spurs,DEF,4.0,0.0,0,15,0,0,0,0,0,0,0
 577,Takai,Spurs,DEF,4.0,0.1,5,67,0,0,0,0,0,0,0
-578,Vuskovic,Spurs,DEF,3.9,0.4,0,453,0,0,0,0,0,0,0
-579,Son,Spurs,MID,8.5,0.1,0,46,0,0,0,0,0,0,0
-580,Johnson,Spurs,MID,6.7,3.0,963,6536,90,0,0,0,0,9,1
+578,Vuskovic,Spurs,DEF,3.9,0.4,0,454,0,0,0,0,0,0,0
+579,Son,Spurs,MID,8.5,0.1,0,48,0,0,0,0,0,0,0
+580,Johnson,Spurs,MID,6.7,3.0,966,6561,90,0,0,0,0,9,1
 581,Maddison,Spurs,MID,6.9,0.1,26,74,0,0,0,0,0,0,0
-582,Kudus,Spurs,MID,6.5,22.0,847,251950,0,0,0,0,0,0,0
+582,Kudus,Spurs,MID,6.5,22.0,852,252607,0,0,0,0,0,0,0
 583,Kulusevski,Spurs,MID,6.4,0.0,18,25,0,0,0,0,0,0,0
-584,Tel,Spurs,MID,6.3,0.1,662,322,11,1,0,0,0,22,6
-585,Bentancur,Spurs,MID,5.3,0.4,873,2278,11,0,0,0,0,6,1
-586,Bergvall,Spurs,MID,5.4,0.3,33,1976,0,0,0,0,0,0,0
+584,Tel,Spurs,MID,6.3,0.1,663,323,11,1,0,0,0,22,6
+585,Bentancur,Spurs,MID,5.3,0.4,877,2288,11,0,0,0,0,6,1
+586,Bergvall,Spurs,MID,5.4,0.3,33,1981,0,0,0,0,0,0,0
 587,Bissouma,Spurs,MID,5.2,0.0,13,44,0,0,0,0,0,0,0
-588,Odobert,Spurs,MID,5.3,0.0,361,66,45,0,1,0,3,28,7
+588,Odobert,Spurs,MID,5.3,0.0,361,67,45,0,1,0,3,28,7
 589,Solomon,Spurs,MID,5.4,0.0,0,6,0,0,0,0,0,0,0
 590,Bryan,Spurs,MID,4.9,0.0,0,25,0,0,0,0,0,0,0
 591,Gray,Spurs,MID,4.8,0.1,7,280,0,0,0,0,0,0,0
 592,Moore,Spurs,MID,5.0,0.0,0,2,0,0,0,0,0,0,0
-593,P.M.Sarr,Spurs,MID,4.8,1.6,2203,4569,90,0,0,0,0,10,2
+593,P.M.Sarr,Spurs,MID,4.8,1.6,2211,4580,90,0,0,0,0,10,2
 594,Min-hyeok,Spurs,MID,4.5,0.0,0,9,0,0,0,0,0,0,0
-595,Olusesi,Spurs,MID,4.4,0.2,93,311,0,0,0,0,0,0,0
-596,Solanke,Spurs,FWD,7.2,0.9,53,745,0,0,0,0,0,0,0
-597,Richarlison,Spurs,FWD,6.4,7.7,7298,19148,90,1,0,0,1,25,6
+595,Olusesi,Spurs,MID,4.4,0.2,93,313,0,0,0,0,0,0,0
+596,Solanke,Spurs,FWD,7.2,0.9,54,751,0,0,0,0,0,0,0
+597,Richarlison,Spurs,FWD,6.4,7.7,7327,19223,90,1,0,0,1,25,6
 598,Lankshear,Spurs,FWD,4.5,0.0,0,17,0,0,0,0,0,0,0
-599,Scarlett,Spurs,FWD,4.3,0.7,2077,1354,0,0,0,0,0,0,0
-600,Areola,West Ham,GKP,4.3,2.1,901,2191,90,0,0,0,0,10,2
+599,Scarlett,Spurs,FWD,4.3,0.7,2082,1357,0,0,0,0,0,0,0
+600,Areola,West Ham,GKP,4.3,2.1,906,2209,90,0,0,0,0,10,2
 601,Foderingham,West Ham,GKP,4.0,0.3,0,377,0,0,0,0,0,0,0
-602,Hegyi,West Ham,GKP,3.9,0.2,633,174,0,0,0,0,0,0,0
-603,Diouf,West Ham,DEF,4.3,3.1,589,8065,90,0,0,0,0,12,1
-604,Emerson,West Ham,DEF,4.4,0.1,0,52,0,0,0,0,0,0,0
-605,Kilman,West Ham,DEF,4.3,0.2,69,376,90,0,0,0,0,5,1
+602,Hegyi,West Ham,GKP,3.9,0.2,635,175,0,0,0,0,0,0,0
+603,Diouf,West Ham,DEF,4.3,3.1,592,8101,90,0,0,0,0,12,1
+604,Emerson,West Ham,DEF,4.4,0.1,0,54,0,0,0,0,0,0,0
+605,Kilman,West Ham,DEF,4.3,0.2,70,379,90,0,0,0,0,5,1
 606,Mavropanos,West Ham,DEF,4.4,0.0,6,144,0,0,0,0,0,0,0
 607,N.Aguerd,West Ham,DEF,4.4,0.0,0,30,0,0,0,0,0,0,0
 608,Scarles,West Ham,DEF,4.4,0.0,3,50,0,0,0,0,0,0,0
-609,Todibo,West Ham,DEF,4.3,0.1,65,148,90,0,0,0,0,6,1
-610,Wan-Bissaka,West Ham,DEF,4.3,5.7,1132,4684,90,0,0,0,0,3,3
+609,Todibo,West Ham,DEF,4.3,0.1,65,149,90,0,0,0,0,6,1
+610,Wan-Bissaka,West Ham,DEF,4.3,5.7,1137,4711,90,0,0,0,0,3,3
 611,Casey,West Ham,DEF,4.0,0.1,0,90,0,0,0,0,0,0,0
-612,L.Paquetá,West Ham,MID,5.9,2.7,991,29231,82,0,1,0,0,22,4
-613,Souček,West Ham,MID,5.7,0.2,3421,286,28,1,1,0,3,35,12
-614,Ward-Prowse,West Ham,MID,5.6,0.2,226,418,0,0,0,0,0,0,0
-615,Summerville,West Ham,MID,5.5,0.1,496,422,82,0,1,0,0,11,5
-616,Álvarez,West Ham,MID,4.9,0.1,0,29,0,0,0,0,0,0,0
+612,L.Paquetá,West Ham,MID,5.9,2.7,991,29330,82,0,1,0,0,22,4
+613,Souček,West Ham,MID,5.7,0.2,3437,288,28,1,1,0,3,35,12
+614,Ward-Prowse,West Ham,MID,5.6,0.2,226,422,0,0,0,0,0,0,0
+615,Summerville,West Ham,MID,5.5,0.1,498,423,82,0,1,0,0,11,5
+616,Álvarez,West Ham,MID,4.9,0.1,0,30,0,0,0,0,0,0,0
 617,Cornet,West Ham,MID,4.9,0.0,0,8,0,0,0,0,0,0,0
-618,G.Rodriguez,West Ham,MID,4.8,0.0,37,61,0,0,0,0,0,0,0
+618,G.Rodriguez,West Ham,MID,4.8,0.0,37,63,0,0,0,0,0,0,0
 619,L.Guilherme,West Ham,MID,4.9,0.0,5,20,0,0,0,0,0,0,0
 620,Earthy,West Ham,MID,4.5,0.0,17,80,0,0,0,0,0,0,0
-621,Irving,West Ham,MID,4.4,0.3,186,742,0,0,0,0,0,0,0
+621,Irving,West Ham,MID,4.4,0.3,188,743,0,0,0,0,0,0,0
 622,Orford,West Ham,MID,4.4,0.1,0,67,0,0,0,0,0,0,0
-623,Potts,West Ham,MID,4.4,0.6,2603,992,61,0,0,0,0,19,4
-624,Bowen,West Ham,FWD,7.7,7.5,4186,46177,90,0,0,0,0,9,2
-625,Füllkrug,West Ham,FWD,5.6,0.7,25,1171,0,0,0,0,0,0,0
-626,Marshall,West Ham,FWD,4.4,0.7,418,1035,0,0,0,0,0,0,0
+623,Potts,West Ham,MID,4.4,0.6,2613,996,61,0,0,0,0,19,4
+624,Bowen,West Ham,FWD,7.7,7.5,4210,46308,90,0,0,0,0,9,2
+625,Füllkrug,West Ham,FWD,5.6,0.7,25,1173,0,0,0,0,0,0,0
+626,Marshall,West Ham,FWD,4.4,0.7,418,1037,0,0,0,0,0,0,0
 627,Johnstone,Wolves,GKP,4.5,0.1,105,205,90,0,0,0,0,10,2
-628,José Sá,Wolves,GKP,4.3,1.2,168,1683,0,0,0,0,0,0,0
-629,Bentley,Wolves,GKP,4.0,0.6,97,397,0,0,0,0,0,0,0
-630,King,Everton,GKP,3.9,1.4,5183,1457,0,0,0,0,0,0,0
-631,Agbadou,Wolves,DEF,4.3,0.2,40,318,0,0,0,0,0,0,0
+628,José Sá,Wolves,GKP,4.3,1.2,170,1688,0,0,0,0,0,0,0
+629,Bentley,Wolves,GKP,4.0,0.6,98,399,0,0,0,0,0,0,0
+630,King,Everton,GKP,3.9,1.4,5206,1460,0,0,0,0,0,0,0
+631,Agbadou,Wolves,DEF,4.3,0.2,41,319,0,0,0,0,0,0,0
 632,Doherty,Wolves,DEF,4.4,0.1,1,251,0,0,0,0,0,0,0
 633,H.Bueno,Wolves,DEF,4.4,0.1,53,169,90,0,0,0,0,-2,1
 634,Mosquera,Wolves,DEF,4.3,0.1,31,62,0,0,0,0,0,0,0
-635,R.Gomes,Wolves,DEF,4.5,0.1,6,271,0,0,0,0,0,0,0
-636,S.Bueno,Wolves,DEF,4.4,0.1,63,200,90,0,0,0,0,3,1
+635,R.Gomes,Wolves,DEF,4.5,0.1,6,272,0,0,0,0,0,0,0
+636,S.Bueno,Wolves,DEF,4.4,0.1,64,200,90,0,0,0,0,3,1
 637,Toti,Wolves,DEF,4.3,0.1,44,120,90,0,0,0,0,2,1
-638,Hoever,Wolves,DEF,3.9,0.9,260,1021,0,0,0,0,0,0,0
+638,Hoever,Wolves,DEF,3.9,0.9,260,1022,0,0,0,0,0,0,0
 639,Meupiyou,Wolves,DEF,4.0,0.0,0,7,0,0,0,0,0,0,0
-640,Pedro Lima,Wolves,DEF,4.0,0.5,0,591,0,0,0,0,0,0,0
-641,Pond,Wolves,DEF,3.9,1.4,570,1741,0,0,0,0,0,0,0
-642,Hee Chan,Wolves,MID,5.8,0.1,139,205,69,0,0,0,0,6,2
-643,André,Wolves,MID,5.3,0.1,37,114,90,0,0,0,0,3,1
-644,Bellegarde,Wolves,MID,5.2,0.0,30,61,69,0,0,0,0,8,2
+640,Pedro Lima,Wolves,DEF,4.0,0.5,0,596,0,0,0,0,0,0,0
+641,Pond,Wolves,DEF,3.9,1.4,573,1748,0,0,0,0,0,0,0
+642,Hee Chan,Wolves,MID,5.8,0.1,143,206,69,0,0,0,0,6,2
+643,André,Wolves,MID,5.3,0.1,37,115,90,0,0,0,0,3,1
+644,Bellegarde,Wolves,MID,5.2,0.0,30,62,69,0,0,0,0,8,2
 645,Fer López,Wolves,MID,5.2,0.0,10,38,0,0,0,0,0,0,0
-646,Gomes,Wolves,MID,5.3,0.1,59,189,90,0,0,0,0,11,2
+646,Gomes,Wolves,MID,5.3,0.1,59,190,90,0,0,0,0,11,2
 647,Guedes,Wolves,MID,5.5,0.0,0,1,0,0,0,0,0,0,0
 648,Munetsi,Wolves,MID,5.4,0.1,156,427,20,0,0,0,0,1,0
 649,B.Traore,Wolves,MID,5.0,0.0,0,1,0,0,0,0,0,0,0
-650,Chirewa,Wolves,MID,4.4,0.3,78,397,0,0,0,0,0,0,0
-651,Edozie,Wolves,MID,4.4,0.3,75,517,0,0,0,0,0,0,0
-652,Gonzalez,Wolves,MID,4.4,1.4,454,2286,0,0,0,0,0,0,0
+650,Chirewa,Wolves,MID,4.4,0.3,79,398,0,0,0,0,0,0,0
+651,Edozie,Wolves,MID,4.4,0.3,75,520,0,0,0,0,0,0,0
+652,Gonzalez,Wolves,MID,4.4,1.4,455,2298,0,0,0,0,0,0,0
 653,Hodge,Wolves,MID,4.5,0.0,0,35,0,0,0,0,0,0,0
-654,Strand Larsen,Wolves,FWD,6.3,1.2,572,2869,90,0,0,0,0,6,2
-655,Fábio Silva,Wolves,FWD,4.9,0.2,0,196,0,0,0,0,0,0,0
+654,Strand Larsen,Wolves,FWD,6.3,1.2,574,2886,90,0,0,0,0,6,2
+655,Fábio Silva,Wolves,FWD,4.9,0.2,0,198,0,0,0,0,0,0,0
 656,Kalajdžić,Wolves,FWD,4.9,0.1,0,34,0,0,0,0,0,0,0
-657,Chiwome,Wolves,FWD,4.4,0.0,33,42,0,0,0,0,0,0,0
-658,Fraser,Wolves,FWD,4.4,1.8,461,2937,0,0,0,0,0,0,0
-659,Walker-Peters,West Ham,DEF,4.3,0.3,293,216,7,1,0,0,0,17,7
-660,Stach,Leeds,MID,4.9,2.1,749,6447,90,0,0,0,0,13,4
-661,Ekitiké,Liverpool,FWD,8.6,15.5,32058,44281,55,0,0,0,0,3,1
-662,Mosquera,Arsenal,DEF,5.4,0.2,74,401,2,0,0,0,0,0,1
-663,J.Arias,Wolves,MID,5.1,0.2,35,441,0,0,0,0,0,0,0
+657,Chiwome,Wolves,FWD,4.4,0.0,33,43,0,0,0,0,0,0,0
+658,Fraser,Wolves,FWD,4.4,1.8,463,2944,0,0,0,0,0,0,0
+659,Walker-Peters,West Ham,DEF,4.3,0.3,295,218,7,1,0,0,0,17,7
+660,Stach,Leeds,MID,4.9,2.1,751,6461,90,0,0,0,0,13,4
+661,Ekitiké,Liverpool,FWD,8.6,15.5,32129,44438,55,0,0,0,0,3,1
+662,Mosquera,Arsenal,DEF,5.4,0.2,77,401,2,0,0,0,0,0,1
+663,J.Arias,Wolves,MID,5.1,0.2,35,444,0,0,0,0,0,0,0
 664,Lecomte,Fulham,GKP,4.0,0.6,41,398,0,0,0,0,0,0,0
-665,Perri,Leeds,GKP,4.5,0.2,150,266,90,0,0,0,0,7,2
-666,Gyökeres,Arsenal,FWD,8.9,13.8,1163,126087,0,0,0,0,0,0,0
-667,Aznou,Everton,DEF,4.3,0.1,22,72,0,0,0,0,0,0,0
-668,Xhaka,Sunderland,MID,5.1,6.1,53798,6225,90,0,0,0,0,15,3
-669,Ndoye,Nott'm Forest,MID,5.7,1.2,399,2923,90,0,1,0,0,21,5
-670,Roefs,Sunderland,GKP,4.7,7.3,35537,5799,90,0,0,0,0,16,2
-671,Wilson,West Ham,FWD,5.8,0.4,1680,652,70,1,0,0,1,33,7
-672,Hato,Chelsea,DEF,4.7,0.2,125,340,0,0,0,0,0,0,0
-673,J.Palhinha,Spurs,MID,5.5,1.8,5893,7470,78,0,0,0,0,18,3
-674,Ramsdale,Newcastle,GKP,4.8,0.6,179,701,13,0,0,0,0,-2,0
-675,Gunn,Nott'm Forest,GKP,4.0,1.4,35,1798,0,0,0,0,0,0,0
-676,Ugochukwu,Burnley,MID,5.0,0.1,394,494,70,0,1,0,0,16,5
-677,Guessand,Aston Villa,MID,6.2,0.0,143,106,4,0,0,0,0,6,1
-678,Masuaku,Sunderland,DEF,3.9,0.7,442,1022,0,0,0,0,0,0,0
-679,Hermansen,West Ham,GKP,4.4,0.2,45,284,0,0,0,0,0,0,0
+665,Perri,Leeds,GKP,4.5,0.2,151,267,90,0,0,0,0,7,2
+666,Gyökeres,Arsenal,FWD,8.9,13.8,1169,126435,0,0,0,0,0,0,0
+667,Aznou,Everton,DEF,4.3,0.1,22,73,0,0,0,0,0,0,0
+668,Xhaka,Sunderland,MID,5.1,6.1,53997,6241,90,0,0,0,0,15,3
+669,Ndoye,Nott'm Forest,MID,5.7,1.2,402,2936,90,0,1,0,0,21,5
+670,Roefs,Sunderland,GKP,4.7,7.3,35674,5824,90,0,0,0,0,16,2
+671,Wilson,West Ham,FWD,5.8,0.4,1684,657,70,1,0,0,1,33,7
+672,Hato,Chelsea,DEF,4.7,0.2,126,340,0,0,0,0,0,0,0
+673,J.Palhinha,Spurs,MID,5.5,1.8,5916,7501,78,0,0,0,0,18,3
+674,Ramsdale,Newcastle,GKP,4.8,0.6,180,710,13,0,0,0,0,-2,0
+675,Gunn,Nott'm Forest,GKP,4.0,1.4,35,1808,0,0,0,0,0,0,0
+676,Ugochukwu,Burnley,MID,5.0,0.1,394,496,70,0,1,0,0,16,5
+677,Guessand,Aston Villa,MID,6.2,0.0,144,107,4,0,0,0,0,6,1
+678,Masuaku,Sunderland,DEF,3.9,0.7,442,1025,0,0,0,0,0,0,0
+679,Hermansen,West Ham,GKP,4.4,0.2,46,287,0,0,0,0,0,0,0
 680,Broja,Burnley,FWD,5.2,0.1,145,233,19,0,0,0,0,4,1
-681,Šeško,Man Utd,FWD,7.3,4.6,1092,51775,32,0,0,0,0,-4,1
-682,Møller Wolfe,Wolves,DEF,4.4,0.1,11,70,0,0,0,0,0,0,0
-683,Alderete,Sunderland,DEF,4.1,4.8,442,30575,0,0,0,0,0,0,0
-684,Thiaw,Newcastle,DEF,4.9,0.5,613,1475,90,0,0,0,0,4,3
-685,Diakité,Bournemouth,DEF,4.5,0.4,241,1078,0,0,0,0,0,0,0
-686,Ngumoha,Liverpool,MID,4.5,0.5,587,1594,0,0,0,0,0,0,0
-687,Rees-Dottin,Bournemouth,MID,4.4,0.1,81,217,0,0,0,0,0,0,0
-688,Wright,Aston Villa,GKP,4.0,0.5,40,354,0,0,0,0,0,0,0
-689,Seung soo,Newcastle,MID,4.4,0.3,153,520,0,0,0,0,0,0,0
-690,Cardines,Crystal Palace,MID,4.4,0.4,12,1623,0,0,0,0,0,0,0
-691,Calvert-Lewin,Leeds,FWD,5.5,1.0,477,7815,16,0,0,0,0,-1,1
+681,Šeško,Man Utd,FWD,7.3,4.6,1092,51911,32,0,0,0,0,-4,1
+682,Møller Wolfe,Wolves,DEF,4.4,0.1,12,70,0,0,0,0,0,0,0
+683,Alderete,Sunderland,DEF,4.1,4.8,444,30662,0,0,0,0,0,0,0
+684,Thiaw,Newcastle,DEF,4.9,0.5,616,1485,90,0,0,0,0,4,3
+685,Diakité,Bournemouth,DEF,4.5,0.4,242,1082,0,0,0,0,0,0,0
+686,Ngumoha,Liverpool,MID,4.5,0.5,587,1600,0,0,0,0,0,0,0
+687,Rees-Dottin,Bournemouth,MID,4.4,0.1,82,217,0,0,0,0,0,0,0
+688,Wright,Aston Villa,GKP,4.0,0.5,40,356,0,0,0,0,0,0,0
+689,Seung soo,Newcastle,MID,4.4,0.3,155,522,0,0,0,0,0,0,0
+690,Cardines,Crystal Palace,MID,4.4,0.4,13,1632,0,0,0,0,0,0,0
+691,Calvert-Lewin,Leeds,FWD,5.5,1.0,483,7836,16,0,0,0,0,-1,1
 692,Leoni,Liverpool,DEF,4.9,0.0,11,22,0,0,0,0,0,0,0
-693,Hutchinson,Nott'm Forest,MID,5.4,0.0,147,68,31,0,2,0,1,28,8
-694,Mukiele,Sunderland,DEF,4.2,5.8,28722,4885,90,0,1,0,0,13,4
+693,Hutchinson,Nott'm Forest,MID,5.4,0.0,149,68,31,0,2,0,1,28,8
+694,Mukiele,Sunderland,DEF,4.2,5.8,28794,4910,90,0,1,0,0,13,4
 695,Tchatchoua,Wolves,DEF,4.5,0.0,31,48,90,0,0,0,0,-1,3
-696,Kalimuendo,Nott'm Forest,FWD,6.0,0.1,228,347,0,0,0,0,0,0,0
+696,Kalimuendo,Nott'm Forest,FWD,6.0,0.1,230,351,0,0,0,0,0,0,0
 697,Adli,Bournemouth,MID,5.4,0.0,69,94,27,0,0,0,0,2,1
-698,Okafor,Leeds,MID,5.5,0.2,275,1004,90,0,0,0,0,9,2
-699,Douglas Luiz,Nott'm Forest,MID,5.0,0.0,8,256,0,0,0,0,0,0,0
-700,Dowman,Arsenal,MID,4.3,0.4,4076,1755,0,0,0,0,0,0,0
+698,Okafor,Leeds,MID,5.5,0.2,276,1008,90,0,0,0,0,9,2
+699,Douglas Luiz,Nott'm Forest,MID,5.0,0.0,8,257,0,0,0,0,0,0,0
+700,Dowman,Arsenal,MID,4.3,0.4,4090,1757,0,0,0,0,0,0,0
 701,Rowe,Aston Villa,DEF,4.0,0.1,0,104,0,0,0,0,0,0,0
 702,Burrowes,Aston Villa,MID,4.5,0.1,43,106,0,0,0,0,0,0,0
-703,Proctor,Aston Villa,GKP,4.0,0.2,18,208,0,0,0,0,0,0,0
+703,Proctor,Aston Villa,GKP,4.0,0.2,19,209,0,0,0,0,0,0,0
 704,Onyango,Everton,MID,4.5,0.1,0,92,0,0,0,0,0,0,0
-705,Campbell,Everton,DEF,3.9,0.2,432,267,0,0,0,0,0,0,0
-706,Justin,Leeds,DEF,4.0,0.2,96,286,0,0,0,0,0,0,0
+705,Campbell,Everton,DEF,3.9,0.2,433,268,0,0,0,0,0,0,0
+706,Justin,Leeds,DEF,4.0,0.2,96,287,0,0,0,0,0,0,0
 707,Dibling,Everton,MID,5.4,0.0,38,88,0,0,0,0,0,0,0
-708,M.Fernandes,West Ham,MID,5.5,0.1,355,308,90,0,0,0,0,18,1
+708,M.Fernandes,West Ham,MID,5.5,0.1,362,310,90,0,0,0,0,18,1
 709,Krejčí,Wolves,DEF,4.5,0.1,48,160,90,0,0,0,0,0,1
-710,Patterson,Aston Villa,DEF,3.9,0.3,722,677,0,0,0,0,0,0,0
+710,Patterson,Aston Villa,DEF,3.9,0.3,725,677,0,0,0,0,0,0,0
 711,Harriman-Annous,Arsenal,MID,4.5,0.0,20,27,0,0,0,0,0,0,0
-712,Yeremy,Crystal Palace,MID,5.8,0.1,714,564,24,0,0,0,0,6,1
-713,A.Jimenez,Bournemouth,DEF,4.5,0.0,77,115,35,0,0,0,0,-7,-1
-714,Woltemade,Newcastle,FWD,7.4,21.8,19377,129946,90,0,1,0,0,12,5
-715,John,Nott'm Forest,GKP,4.0,0.3,85,418,0,0,0,0,0,0,0
+712,Yeremy,Crystal Palace,MID,5.8,0.1,717,566,24,0,0,0,0,6,1
+713,A.Jimenez,Bournemouth,DEF,4.5,0.0,77,116,35,0,0,0,0,-7,-1
+714,Woltemade,Newcastle,FWD,7.4,21.8,19443,130345,90,0,1,0,0,12,5
+715,John,Nott'm Forest,GKP,4.0,0.3,85,420,0,0,0,0,0,0,0
 716,Savona,Nott'm Forest,DEF,4.5,0.0,101,179,90,0,0,0,0,12,2
-717,Xavi,Spurs,MID,6.7,1.4,1605,7553,78,0,0,0,0,15,2
+717,Xavi,Spurs,MID,6.7,1.4,1616,7585,78,0,0,0,0,15,2
 718,S.Magassa,West Ham,MID,5.0,0.0,17,27,19,0,0,0,0,2,1
-719,Lindelöf,Aston Villa,DEF,4.5,0.0,102,128,0,0,0,0,0,0,0
-720,Tolu,Wolves,FWD,5.5,0.1,174,278,0,0,0,0,0,0,0
+719,Lindelöf,Aston Villa,DEF,4.5,0.0,103,129,0,0,0,0,0,0,0
+720,Tolu,Wolves,FWD,5.5,0.1,175,279,0,0,0,0,0,0,0
 721,Milosavljević,Bournemouth,DEF,4.5,0.0,69,66,90,0,0,0,0,6,2
-722,Florentino,Burnley,MID,5.0,0.1,125,192,90,0,0,0,0,27,4
-723,Canvot,Crystal Palace,DEF,4.5,0.0,164,27,90,0,0,1,2,31,10
-724,Geertruida,Sunderland,DEF,4.5,0.0,132,80,86,0,0,0,0,8,1
+722,Florentino,Burnley,MID,5.0,0.1,127,193,90,0,0,0,0,27,4
+723,Canvot,Crystal Palace,DEF,4.5,0.0,167,27,90,0,0,1,2,31,10
+724,Geertruida,Sunderland,DEF,4.5,0.0,133,80,86,0,0,0,0,8,1
 725,Hincapie,Arsenal,DEF,5.4,0.0,76,107,0,0,0,0,0,0,0
-726,Kolo Muani,Spurs,FWD,6.9,0.3,1416,1469,45,0,0,0,0,2,1
-727,Chukwueze,Fulham,MID,5.3,0.0,80,54,31,0,0,0,0,0,1
+726,Kolo Muani,Spurs,FWD,6.9,0.3,1424,1480,45,0,0,0,0,2,1
+727,Chukwueze,Fulham,MID,5.3,0.0,81,55,31,0,0,0,0,0,1
 728,Röhl,Everton,MID,5.0,0.0,25,27,23,0,0,0,0,3,1
 729,Cuiabano,Nott'm Forest,DEF,4.5,0.0,0,0,0,0,0,0,0,0,0
-730,Brobbey,Sunderland,FWD,5.5,0.1,4194,373,27,1,0,0,0,26,5
-731,Kevin,Fulham,MID,5.9,0.1,169,286,86,0,0,0,0,4,2
-732,Uche,Crystal Palace,FWD,5.5,0.0,245,138,0,0,0,0,0,0,0
-733,Lammens,Man Utd,GKP,5.0,1.4,9293,4473,90,0,0,0,0,5,1
+730,Brobbey,Sunderland,FWD,5.5,0.1,4210,374,27,1,0,0,0,26,5
+731,Kevin,Fulham,MID,5.9,0.1,171,287,86,0,0,0,0,4,2
+732,Uche,Crystal Palace,FWD,5.5,0.0,245,139,0,0,0,0,0,0,0
+733,Lammens,Man Utd,GKP,5.0,1.4,9327,4486,90,0,0,0,0,5,1
 734,Bakwa,Nott'm Forest,MID,6.0,0.0,21,60,0,0,0,0,0,0,0
-735,Traoré,Sunderland,MID,5.5,0.0,797,200,63,0,0,0,0,6,2
-736,Donnarumma,Man City,GKP,5.7,10.1,24670,11469,90,0,0,1,0,22,6
-737,Kusi-Asare,Fulham,FWD,4.5,0.1,210,218,0,0,0,0,0,0,0
+735,Traoré,Sunderland,MID,5.5,0.0,803,202,63,0,0,0,0,6,2
+736,Donnarumma,Man City,GKP,5.7,10.1,24761,11529,90,0,0,1,0,22,6
+737,Kusi-Asare,Fulham,FWD,4.5,0.1,211,218,0,0,0,0,0,0,0
 738,Fabianski,West Ham,GKP,4.5,0.0,27,234,0,0,0,0,0,0,0
-739,Mukasa,Man City,MID,4.5,0.0,36,64,0,0,0,0,0,0,0
+739,Mukasa,Man City,MID,4.5,0.0,36,65,0,0,0,0,0,0,0
 740,Mfuni,Man City,DEF,4.0,0.0,70,92,0,0,0,0,0,0,0
-741,Gray,Leeds,FWD,4.5,0.1,515,317,0,0,0,0,0,0,0
-742,McAidoo,Man City,MID,4.5,0.0,34,39,0,0,0,0,0,0,0
+741,Gray,Leeds,FWD,4.5,0.1,516,317,0,0,0,0,0,0,0
+742,McAidoo,Man City,MID,4.5,0.0,35,39,0,0,0,0,0,0,0
 743,Emenalo,Chelsea,MID,4.5,0.0,51,38,0,0,0,0,0,0,0
-744,Oriola,Brighton,MID,4.5,0.0,67,31,0,0,0,0,0,0,0
+744,Oriola,Brighton,MID,4.5,0.0,68,31,0,0,0,0,0,0,0
 745,Byfield,Spurs,DEF,4.0,0.0,30,50,0,0,0,0,0,0,0
 746,Morrison,Liverpool,MID,4.5,0.0,32,22,0,0,0,0,0,0,0
 747,Mayers,West Ham,DEF,4.0,0.0,46,24,0,0,0,0,0,0,0
 748,Dasilva,Brentford,MID,5.0,0.0,21,14,0,0,0,0,0,0,0
-749,Mané,Wolves,FWD,4.5,0.0,426,40,20,0,0,0,0,1,1
+749,Mané,Wolves,FWD,4.5,0.0,428,41,20,0,0,0,0,1,1
 750,Rowswell,Spurs,DEF,4.0,0.0,33,2,0,0,0,0,0,0,0
 751,Akhamrich,Spurs,MID,4.5,0.0,41,1,0,0,0,0,0,0,0
 752,Golambeckis,West Ham,DEF,4.0,0.0,24,2,0,0,0,0,0,0,0
