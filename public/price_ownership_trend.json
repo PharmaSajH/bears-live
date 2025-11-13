@@ -105223,7 +105223,5271 @@
       "player_id": 749,
       "now_cost": 4.5,
       "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 1,
+      "now_cost": 5.9,
+      "selected_percent": 32.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 2,
+      "now_cost": 4.2,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 3,
+      "now_cost": 4.0,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 4,
+      "now_cost": 4.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 5,
+      "now_cost": 6.6,
+      "selected_percent": 43.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 6,
+      "now_cost": 6.0,
+      "selected_percent": 11.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 7,
+      "now_cost": 5.8,
+      "selected_percent": 16.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 8,
+      "now_cost": 6.1,
+      "selected_percent": 25.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 9,
+      "now_cost": 5.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 10,
+      "now_cost": 5.1,
+      "selected_percent": 1.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 11,
+      "now_cost": 5.3,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 13,
+      "now_cost": 3.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 14,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 15,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 16,
+      "now_cost": 10.1,
+      "selected_percent": 17.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 17,
+      "now_cost": 7.8,
+      "selected_percent": 1.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 18,
+      "now_cost": 6.8,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 19,
+      "now_cost": 6.8,
+      "selected_percent": 0.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 20,
+      "now_cost": 6.9,
+      "selected_percent": 0.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 21,
+      "now_cost": 6.9,
+      "selected_percent": 20.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 22,
+      "now_cost": 5.9,
+      "selected_percent": 1.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 23,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 24,
+      "now_cost": 5.2,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 25,
+      "now_cost": 5.1,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 26,
+      "now_cost": 5.4,
+      "selected_percent": 2.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 28,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 29,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 30,
+      "now_cost": 7.3,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 31,
+      "now_cost": 6.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 266,
+      "now_cost": 7.6,
+      "selected_percent": 13.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 662,
+      "now_cost": 5.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 666,
+      "now_cost": 8.9,
+      "selected_percent": 13.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 700,
+      "now_cost": 4.3,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 711,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 725,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 32,
+      "now_cost": 5.0,
+      "selected_percent": 2.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 33,
+      "now_cost": 4.3,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 34,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 35,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 36,
+      "now_cost": 4.6,
+      "selected_percent": 5.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 37,
+      "now_cost": 4.5,
+      "selected_percent": 1.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 38,
+      "now_cost": 4.4,
+      "selected_percent": 8.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 39,
+      "now_cost": 4.2,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 40,
+      "now_cost": 4.4,
+      "selected_percent": 0.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 41,
+      "now_cost": 4.3,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 42,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 43,
+      "now_cost": 4.0,
+      "selected_percent": 2.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 44,
+      "now_cost": 4.0,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 45,
+      "now_cost": 3.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 46,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 47,
+      "now_cost": 6.8,
+      "selected_percent": 4.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 48,
+      "now_cost": 5.9,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 49,
+      "now_cost": 5.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 50,
+      "now_cost": 5.3,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 51,
+      "now_cost": 5.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 53,
+      "now_cost": 5.1,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 54,
+      "now_cost": 5.4,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 55,
+      "now_cost": 4.8,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 56,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 57,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 58,
+      "now_cost": 4.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 59,
+      "now_cost": 4.8,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 60,
+      "now_cost": 4.5,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 61,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 62,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 63,
+      "now_cost": 4.4,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 64,
+      "now_cost": 8.5,
+      "selected_percent": 6.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 65,
+      "now_cost": 4.5,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 389,
+      "now_cost": 5.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 456,
+      "now_cost": 5.8,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 677,
+      "now_cost": 6.2,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 688,
+      "now_cost": 4.0,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 701,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 702,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 703,
+      "now_cost": 4.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 710,
+      "now_cost": 3.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 719,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 183,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 184,
+      "now_cost": 4.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 185,
+      "now_cost": 4.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 186,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 187,
+      "now_cost": 4.4,
+      "selected_percent": 1.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 188,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 189,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 190,
+      "now_cost": 4.0,
+      "selected_percent": 1.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 191,
+      "now_cost": 4.0,
+      "selected_percent": 11.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 192,
+      "now_cost": 4.0,
+      "selected_percent": 1.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 193,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 194,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 195,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 196,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 197,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 198,
+      "now_cost": 3.9,
+      "selected_percent": 1.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 199,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 200,
+      "now_cost": 5.6,
+      "selected_percent": 5.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 201,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 202,
+      "now_cost": 5.3,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 203,
+      "now_cost": 4.8,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 204,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 205,
+      "now_cost": 5.0,
+      "selected_percent": 2.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 206,
+      "now_cost": 4.7,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 207,
+      "now_cost": 4.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 208,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 209,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 210,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 211,
+      "now_cost": 4.4,
+      "selected_percent": 2.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 212,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 213,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 214,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 215,
+      "now_cost": 5.3,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 216,
+      "now_cost": 4.8,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 217,
+      "now_cost": 5.0,
+      "selected_percent": 1.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 218,
+      "now_cost": 4.3,
+      "selected_percent": 1.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 219,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 470,
+      "now_cost": 4.0,
+      "selected_percent": 34.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 676,
+      "now_cost": 5.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 680,
+      "now_cost": 5.2,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 722,
+      "now_cost": 5.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 66,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 67,
+      "now_cost": 4.5,
+      "selected_percent": 5.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 68,
+      "now_cost": 4.0,
+      "selected_percent": 1.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 69,
+      "now_cost": 4.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 70,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 71,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 72,
+      "now_cost": 5.0,
+      "selected_percent": 25.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 73,
+      "now_cost": 4.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 74,
+      "now_cost": 4.5,
+      "selected_percent": 2.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 75,
+      "now_cost": 3.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 76,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 77,
+      "now_cost": 4.0,
+      "selected_percent": 0.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 78,
+      "now_cost": 3.9,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 79,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 80,
+      "now_cost": 4.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 81,
+      "now_cost": 7.0,
+      "selected_percent": 1.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 82,
+      "now_cost": 8.1,
+      "selected_percent": 64.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 84,
+      "now_cost": 5.5,
+      "selected_percent": 1.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 85,
+      "now_cost": 5.0,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 86,
+      "now_cost": 5.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 87,
+      "now_cost": 5.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 88,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 89,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 90,
+      "now_cost": 5.0,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 91,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 92,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 93,
+      "now_cost": 4.5,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 94,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 95,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 96,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 97,
+      "now_cost": 7.0,
+      "selected_percent": 1.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 98,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 99,
+      "now_cost": 4.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 100,
+      "now_cost": 4.6,
+      "selected_percent": 4.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 391,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 685,
+      "now_cost": 4.5,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 687,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 697,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 713,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 721,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 27,
+      "now_cost": 4.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 83,
+      "now_cost": 6.0,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 101,
+      "now_cost": 4.5,
+      "selected_percent": 7.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 102,
+      "now_cost": 4.0,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 103,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 104,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 105,
+      "now_cost": 3.9,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 106,
+      "now_cost": 4.9,
+      "selected_percent": 1.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 107,
+      "now_cost": 4.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 108,
+      "now_cost": 4.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 109,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 110,
+      "now_cost": 4.5,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 111,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 112,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 113,
+      "now_cost": 4.5,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 114,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 115,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 116,
+      "now_cost": 4.0,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 117,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 118,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 120,
+      "now_cost": 7.0,
+      "selected_percent": 0.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 121,
+      "now_cost": 5.8,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 122,
+      "now_cost": 5.2,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 123,
+      "now_cost": 4.8,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 124,
+      "now_cost": 5.0,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 125,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 126,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 127,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 128,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 129,
+      "now_cost": 5.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 130,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 131,
+      "now_cost": 4.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 132,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 133,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 134,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 136,
+      "now_cost": 6.3,
+      "selected_percent": 10.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 137,
+      "now_cost": 4.4,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 748,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 138,
+      "now_cost": 4.3,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 139,
+      "now_cost": 4.4,
+      "selected_percent": 4.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 140,
+      "now_cost": 4.0,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 141,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 142,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 143,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 144,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 145,
+      "now_cost": 4.3,
+      "selected_percent": 1.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 146,
+      "now_cost": 4.5,
+      "selected_percent": 1.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 147,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 148,
+      "now_cost": 4.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 150,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 151,
+      "now_cost": 4.4,
+      "selected_percent": 1.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 152,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 153,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 154,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 155,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 156,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 157,
+      "now_cost": 6.2,
+      "selected_percent": 2.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 158,
+      "now_cost": 5.7,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 159,
+      "now_cost": 5.8,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 160,
+      "now_cost": 6.0,
+      "selected_percent": 4.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 161,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 162,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 163,
+      "now_cost": 5.1,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 164,
+      "now_cost": 5.5,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 165,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 166,
+      "now_cost": 4.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 167,
+      "now_cost": 4.7,
+      "selected_percent": 2.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 169,
+      "now_cost": 4.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 170,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 171,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 172,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 173,
+      "now_cost": 4.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 174,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 175,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 176,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 177,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 178,
+      "now_cost": 6.5,
+      "selected_percent": 9.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 179,
+      "now_cost": 5.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 180,
+      "now_cost": 5.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 181,
+      "now_cost": 4.8,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 744,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 168,
+      "now_cost": 4.7,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 220,
+      "now_cost": 4.8,
+      "selected_percent": 13.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 221,
+      "now_cost": 4.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 222,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 223,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 224,
+      "now_cost": 6.1,
+      "selected_percent": 22.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 225,
+      "now_cost": 5.6,
+      "selected_percent": 8.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 226,
+      "now_cost": 5.1,
+      "selected_percent": 8.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 227,
+      "now_cost": 4.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 228,
+      "now_cost": 4.9,
+      "selected_percent": 1.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 229,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 230,
+      "now_cost": 4.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 231,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 232,
+      "now_cost": 4.2,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 233,
+      "now_cost": 3.9,
+      "selected_percent": 2.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 234,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 235,
+      "now_cost": 10.3,
+      "selected_percent": 9.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 236,
+      "now_cost": 7.1,
+      "selected_percent": 6.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 237,
+      "now_cost": 6.7,
+      "selected_percent": 14.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 238,
+      "now_cost": 6.5,
+      "selected_percent": 2.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 239,
+      "now_cost": 6.1,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 240,
+      "now_cost": 5.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 241,
+      "now_cost": 6.1,
+      "selected_percent": 23.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 243,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 244,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 245,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 246,
+      "now_cost": 4.5,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 247,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 248,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 249,
+      "now_cost": 7.5,
+      "selected_percent": 48.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 250,
+      "now_cost": 6.2,
+      "selected_percent": 1.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 251,
+      "now_cost": 6.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 252,
+      "now_cost": 4.2,
+      "selected_percent": 7.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 453,
+      "now_cost": 6.4,
+      "selected_percent": 0.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 672,
+      "now_cost": 4.7,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 743,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 253,
+      "now_cost": 5.0,
+      "selected_percent": 7.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 254,
+      "now_cost": 4.0,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 255,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 256,
+      "now_cost": 5.7,
+      "selected_percent": 16.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 257,
+      "now_cost": 5.0,
+      "selected_percent": 3.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 258,
+      "now_cost": 5.0,
+      "selected_percent": 2.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 259,
+      "now_cost": 4.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 260,
+      "now_cost": 5.1,
+      "selected_percent": 34.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 261,
+      "now_cost": 4.5,
+      "selected_percent": 3.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 262,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 263,
+      "now_cost": 3.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 264,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 265,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 267,
+      "now_cost": 6.7,
+      "selected_percent": 13.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 268,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 269,
+      "now_cost": 4.7,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 270,
+      "now_cost": 4.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 271,
+      "now_cost": 5.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 272,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 273,
+      "now_cost": 5.0,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 274,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 275,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 276,
+      "now_cost": 4.3,
+      "selected_percent": 1.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 277,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 278,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 279,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 280,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 281,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 282,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 283,
+      "now_cost": 8.1,
+      "selected_percent": 29.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 284,
+      "now_cost": 5.4,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 285,
+      "now_cost": 5.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 286,
+      "now_cost": 4.5,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 690,
+      "now_cost": 4.4,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 712,
+      "now_cost": 5.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 723,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 732,
+      "now_cost": 5.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 242,
+      "now_cost": 4.9,
+      "selected_percent": 2.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 287,
+      "now_cost": 5.5,
+      "selected_percent": 9.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 288,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 289,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 290,
+      "now_cost": 5.3,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 291,
+      "now_cost": 5.4,
+      "selected_percent": 5.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 292,
+      "now_cost": 4.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 293,
+      "now_cost": 4.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 294,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 295,
+      "now_cost": 4.5,
+      "selected_percent": 1.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 296,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 297,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 298,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 299,
+      "now_cost": 6.6,
+      "selected_percent": 11.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 300,
+      "now_cost": 5.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 301,
+      "now_cost": 5.2,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 302,
+      "now_cost": 5.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 303,
+      "now_cost": 5.0,
+      "selected_percent": 0.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 304,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 305,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 306,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 307,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 308,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 309,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 310,
+      "now_cost": 5.7,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 311,
+      "now_cost": 5.2,
+      "selected_percent": 3.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 312,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 313,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 419,
+      "now_cost": 6.8,
+      "selected_percent": 16.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 630,
+      "now_cost": 3.9,
+      "selected_percent": 1.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 667,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 704,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 705,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 707,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 728,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 314,
+      "now_cost": 5.0,
+      "selected_percent": 1.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 315,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 316,
+      "now_cost": 4.9,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 317,
+      "now_cost": 4.5,
+      "selected_percent": 2.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 318,
+      "now_cost": 4.5,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 319,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 320,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 321,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 322,
+      "now_cost": 4.5,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 323,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 324,
+      "now_cost": 6.5,
+      "selected_percent": 1.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 325,
+      "now_cost": 5.6,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 326,
+      "now_cost": 5.2,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 327,
+      "now_cost": 5.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 328,
+      "now_cost": 5.4,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 329,
+      "now_cost": 5.2,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 330,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 331,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 332,
+      "now_cost": 5.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 333,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 334,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 335,
+      "now_cost": 4.5,
+      "selected_percent": 4.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 336,
+      "now_cost": 4.3,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 337,
+      "now_cost": 6.2,
+      "selected_percent": 0.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 338,
+      "now_cost": 5.4,
+      "selected_percent": 1.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 664,
+      "now_cost": 4.0,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 727,
+      "now_cost": 5.3,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 731,
+      "now_cost": 5.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 737,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 339,
+      "now_cost": 4.3,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 340,
+      "now_cost": 4.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 341,
+      "now_cost": 4.0,
+      "selected_percent": 2.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 342,
+      "now_cost": 4.5,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 343,
+      "now_cost": 4.4,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 344,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 345,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 346,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 347,
+      "now_cost": 4.0,
+      "selected_percent": 4.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 348,
+      "now_cost": 4.1,
+      "selected_percent": 6.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 349,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 350,
+      "now_cost": 5.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 351,
+      "now_cost": 5.2,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 352,
+      "now_cost": 5.2,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 353,
+      "now_cost": 5.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 354,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 355,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 356,
+      "now_cost": 4.8,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 357,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 358,
+      "now_cost": 4.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 359,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 360,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 361,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 362,
+      "now_cost": 5.0,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 363,
+      "now_cost": 4.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 364,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 365,
+      "now_cost": 5.0,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 493,
+      "now_cost": 4.9,
+      "selected_percent": 1.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 660,
+      "now_cost": 4.9,
+      "selected_percent": 2.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 665,
+      "now_cost": 4.5,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 691,
+      "now_cost": 5.5,
+      "selected_percent": 1.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 698,
+      "now_cost": 5.5,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 706,
+      "now_cost": 4.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 741,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 366,
+      "now_cost": 5.4,
+      "selected_percent": 5.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 367,
+      "now_cost": 4.3,
+      "selected_percent": 1.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 368,
+      "now_cost": 3.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 369,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 370,
+      "now_cost": 5.7,
+      "selected_percent": 5.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 371,
+      "now_cost": 5.7,
+      "selected_percent": 3.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 372,
+      "now_cost": 5.8,
+      "selected_percent": 1.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 373,
+      "now_cost": 5.9,
+      "selected_percent": 23.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 374,
+      "now_cost": 5.4,
+      "selected_percent": 2.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 375,
+      "now_cost": 5.0,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 376,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 377,
+      "now_cost": 4.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 378,
+      "now_cost": 3.8,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 379,
+      "now_cost": 3.8,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 380,
+      "now_cost": 3.8,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 381,
+      "now_cost": 14.2,
+      "selected_percent": 23.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 382,
+      "now_cost": 8.0,
+      "selected_percent": 7.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 383,
+      "now_cost": 8.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 384,
+      "now_cost": 7.5,
+      "selected_percent": 13.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 385,
+      "now_cost": 6.4,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 386,
+      "now_cost": 6.3,
+      "selected_percent": 1.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 387,
+      "now_cost": 6.6,
+      "selected_percent": 5.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 388,
+      "now_cost": 5.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 390,
+      "now_cost": 5.6,
+      "selected_percent": 4.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 392,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 393,
+      "now_cost": 4.3,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 394,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 395,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 396,
+      "now_cost": 4.3,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 397,
+      "now_cost": 6.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 398,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 499,
+      "now_cost": 10.4,
+      "selected_percent": 4.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 661,
+      "now_cost": 8.6,
+      "selected_percent": 15.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 686,
+      "now_cost": 4.5,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 692,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 746,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 182,
+      "now_cost": 4.7,
+      "selected_percent": 1.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 399,
+      "now_cost": 5.3,
+      "selected_percent": 0.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 400,
+      "now_cost": 4.8,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 401,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 402,
+      "now_cost": 5.7,
+      "selected_percent": 4.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 403,
+      "now_cost": 5.8,
+      "selected_percent": 5.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 404,
+      "now_cost": 5.4,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 405,
+      "now_cost": 5.3,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 406,
+      "now_cost": 5.4,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 407,
+      "now_cost": 5.3,
+      "selected_percent": 0.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 408,
+      "now_cost": 5.5,
+      "selected_percent": 4.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 409,
+      "now_cost": 5.4,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 410,
+      "now_cost": 4.8,
+      "selected_percent": 1.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 411,
+      "now_cost": 4.9,
+      "selected_percent": 1.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 412,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 413,
+      "now_cost": 8.3,
+      "selected_percent": 2.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 414,
+      "now_cost": 8.0,
+      "selected_percent": 4.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 415,
+      "now_cost": 6.9,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 416,
+      "now_cost": 6.3,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 417,
+      "now_cost": 6.3,
+      "selected_percent": 3.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 418,
+      "now_cost": 6.4,
+      "selected_percent": 5.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 420,
+      "now_cost": 6.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 421,
+      "now_cost": 6.3,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 422,
+      "now_cost": 5.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 423,
+      "now_cost": 5.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 424,
+      "now_cost": 5.3,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 425,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 427,
+      "now_cost": 5.5,
+      "selected_percent": 19.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 428,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 429,
+      "now_cost": 4.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 430,
+      "now_cost": 14.9,
+      "selected_percent": 70.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 736,
+      "now_cost": 5.7,
+      "selected_percent": 10.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 739,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 740,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 742,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 119,
+      "now_cost": 8.5,
+      "selected_percent": 32.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 431,
+      "now_cost": 4.8,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 432,
+      "now_cost": 4.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 433,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 434,
+      "now_cost": 3.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 435,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 436,
+      "now_cost": 5.0,
+      "selected_percent": 3.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 437,
+      "now_cost": 4.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 438,
+      "now_cost": 4.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 439,
+      "now_cost": 4.2,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 440,
+      "now_cost": 4.4,
+      "selected_percent": 1.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 441,
+      "now_cost": 4.2,
+      "selected_percent": 2.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 442,
+      "now_cost": 4.4,
+      "selected_percent": 0.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 443,
+      "now_cost": 4.5,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 444,
+      "now_cost": 4.4,
+      "selected_percent": 1.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 445,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 446,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 447,
+      "now_cost": 3.8,
+      "selected_percent": 1.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 448,
+      "now_cost": 3.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 449,
+      "now_cost": 8.9,
+      "selected_percent": 16.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 450,
+      "now_cost": 7.9,
+      "selected_percent": 4.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 451,
+      "now_cost": 7.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 452,
+      "now_cost": 6.3,
+      "selected_percent": 1.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 454,
+      "now_cost": 5.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 455,
+      "now_cost": 5.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 457,
+      "now_cost": 5.5,
+      "selected_percent": 1.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 458,
+      "now_cost": 4.7,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 459,
+      "now_cost": 4.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 460,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 461,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 462,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 463,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 464,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 465,
+      "now_cost": 6.3,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 466,
+      "now_cost": 5.8,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 467,
+      "now_cost": 4.3,
+      "selected_percent": 1.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 468,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 681,
+      "now_cost": 7.3,
+      "selected_percent": 4.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 733,
+      "now_cost": 5.0,
+      "selected_percent": 1.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 52,
+      "now_cost": 5.3,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 135,
+      "now_cost": 7.3,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 469,
+      "now_cost": 5.2,
+      "selected_percent": 11.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 471,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 472,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 473,
+      "now_cost": 5.2,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 474,
+      "now_cost": 5.4,
+      "selected_percent": 1.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 475,
+      "now_cost": 4.9,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 476,
+      "now_cost": 5.2,
+      "selected_percent": 9.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 477,
+      "now_cost": 4.9,
+      "selected_percent": 2.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 478,
+      "now_cost": 5.0,
+      "selected_percent": 2.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 479,
+      "now_cost": 4.3,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 480,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 481,
+      "now_cost": 3.9,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 482,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 483,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 484,
+      "now_cost": 4.0,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 485,
+      "now_cost": 7.4,
+      "selected_percent": 1.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 486,
+      "now_cost": 6.7,
+      "selected_percent": 3.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 487,
+      "now_cost": 6.3,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 488,
+      "now_cost": 6.6,
+      "selected_percent": 3.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 489,
+      "now_cost": 6.1,
+      "selected_percent": 1.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 490,
+      "now_cost": 5.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 491,
+      "now_cost": 5.4,
+      "selected_percent": 1.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 492,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 494,
+      "now_cost": 5.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 495,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 496,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 497,
+      "now_cost": 4.4,
+      "selected_percent": 2.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 498,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 500,
+      "now_cost": 5.5,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 501,
+      "now_cost": 4.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 674,
+      "now_cost": 4.8,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 684,
+      "now_cost": 4.9,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 689,
+      "now_cost": 4.4,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 714,
+      "now_cost": 7.4,
+      "selected_percent": 21.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 12,
+      "now_cost": 4.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 426,
+      "now_cost": 5.1,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 502,
+      "now_cost": 4.8,
+      "selected_percent": 8.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 503,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 504,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 505,
+      "now_cost": 5.2,
+      "selected_percent": 3.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 506,
+      "now_cost": 5.3,
+      "selected_percent": 1.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 507,
+      "now_cost": 4.7,
+      "selected_percent": 2.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 508,
+      "now_cost": 4.7,
+      "selected_percent": 3.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 509,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 510,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 511,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 512,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 513,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 514,
+      "now_cost": 3.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 515,
+      "now_cost": 7.3,
+      "selected_percent": 3.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 516,
+      "now_cost": 5.8,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 517,
+      "now_cost": 5.3,
+      "selected_percent": 3.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 518,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 519,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 520,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 521,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 522,
+      "now_cost": 4.7,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 523,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 524,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 525,
+      "now_cost": 7.2,
+      "selected_percent": 5.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 526,
+      "now_cost": 5.8,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 527,
+      "now_cost": 5.2,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 669,
+      "now_cost": 5.7,
+      "selected_percent": 1.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 675,
+      "now_cost": 4.0,
+      "selected_percent": 1.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 693,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 696,
+      "now_cost": 6.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 699,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 715,
+      "now_cost": 4.0,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 716,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 729,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 734,
+      "now_cost": 6.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 528,
+      "now_cost": 4.3,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 529,
+      "now_cost": 3.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 530,
+      "now_cost": 3.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 531,
+      "now_cost": 4.6,
+      "selected_percent": 2.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 532,
+      "now_cost": 4.5,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 533,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 534,
+      "now_cost": 3.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 535,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 536,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 537,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 538,
+      "now_cost": 3.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 539,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 540,
+      "now_cost": 3.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 541,
+      "now_cost": 4.0,
+      "selected_percent": 4.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 542,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 543,
+      "now_cost": 5.1,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 544,
+      "now_cost": 5.3,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 545,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 546,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 547,
+      "now_cost": 4.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 548,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 549,
+      "now_cost": 4.8,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 550,
+      "now_cost": 4.8,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 551,
+      "now_cost": 4.8,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 552,
+      "now_cost": 5.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 553,
+      "now_cost": 5.0,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 554,
+      "now_cost": 4.3,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 555,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 556,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 557,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 558,
+      "now_cost": 4.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 559,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 560,
+      "now_cost": 5.6,
+      "selected_percent": 3.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 561,
+      "now_cost": 5.4,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 562,
+      "now_cost": 4.3,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 563,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 564,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 668,
+      "now_cost": 5.1,
+      "selected_percent": 6.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 670,
+      "now_cost": 4.7,
+      "selected_percent": 7.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 678,
+      "now_cost": 3.9,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 683,
+      "now_cost": 4.1,
+      "selected_percent": 4.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 694,
+      "now_cost": 4.2,
+      "selected_percent": 5.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 724,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 730,
+      "now_cost": 5.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 735,
+      "now_cost": 5.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 565,
+      "now_cost": 5.0,
+      "selected_percent": 9.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 566,
+      "now_cost": 3.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 567,
+      "now_cost": 3.9,
+      "selected_percent": 1.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 568,
+      "now_cost": 5.5,
+      "selected_percent": 17.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 569,
+      "now_cost": 5.0,
+      "selected_percent": 4.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 570,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 571,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 572,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 573,
+      "now_cost": 4.5,
+      "selected_percent": 1.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 574,
+      "now_cost": 4.4,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 575,
+      "now_cost": 4.8,
+      "selected_percent": 33.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 576,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 577,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 578,
+      "now_cost": 3.9,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 579,
+      "now_cost": 8.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 580,
+      "now_cost": 6.7,
+      "selected_percent": 3.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 581,
+      "now_cost": 6.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 582,
+      "now_cost": 6.5,
+      "selected_percent": 21.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 583,
+      "now_cost": 6.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 584,
+      "now_cost": 6.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 585,
+      "now_cost": 5.3,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 586,
+      "now_cost": 5.4,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 587,
+      "now_cost": 5.2,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 588,
+      "now_cost": 5.3,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 589,
+      "now_cost": 5.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 590,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 591,
+      "now_cost": 4.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 592,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 593,
+      "now_cost": 4.8,
+      "selected_percent": 1.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 594,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 595,
+      "now_cost": 4.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 596,
+      "now_cost": 7.2,
+      "selected_percent": 0.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 597,
+      "now_cost": 6.4,
+      "selected_percent": 7.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 598,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 599,
+      "now_cost": 4.3,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 673,
+      "now_cost": 5.5,
+      "selected_percent": 1.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 717,
+      "now_cost": 6.7,
+      "selected_percent": 1.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 726,
+      "now_cost": 6.9,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 745,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 750,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 751,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 149,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 600,
+      "now_cost": 4.3,
+      "selected_percent": 2.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 601,
+      "now_cost": 4.0,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 602,
+      "now_cost": 3.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 603,
+      "now_cost": 4.3,
+      "selected_percent": 3.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 604,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 605,
+      "now_cost": 4.3,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 606,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 607,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 608,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 609,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 610,
+      "now_cost": 4.3,
+      "selected_percent": 5.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 611,
+      "now_cost": 4.0,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 612,
+      "now_cost": 5.9,
+      "selected_percent": 2.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 613,
+      "now_cost": 5.7,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 614,
+      "now_cost": 5.6,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 615,
+      "now_cost": 5.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 616,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 617,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 618,
+      "now_cost": 4.8,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 619,
+      "now_cost": 4.9,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 620,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 621,
+      "now_cost": 4.4,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 622,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 623,
+      "now_cost": 4.4,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 624,
+      "now_cost": 7.7,
+      "selected_percent": 7.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 625,
+      "now_cost": 5.6,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 626,
+      "now_cost": 4.4,
+      "selected_percent": 0.7
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 659,
+      "now_cost": 4.3,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 671,
+      "now_cost": 5.8,
+      "selected_percent": 0.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 679,
+      "now_cost": 4.4,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 708,
+      "now_cost": 5.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 718,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 738,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 747,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 752,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 627,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 628,
+      "now_cost": 4.3,
+      "selected_percent": 1.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 629,
+      "now_cost": 4.0,
+      "selected_percent": 0.6
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 631,
+      "now_cost": 4.3,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 632,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 633,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 634,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 635,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 636,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 637,
+      "now_cost": 4.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 638,
+      "now_cost": 3.9,
+      "selected_percent": 0.9
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 639,
+      "now_cost": 4.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 640,
+      "now_cost": 4.0,
+      "selected_percent": 0.5
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 641,
+      "now_cost": 3.9,
+      "selected_percent": 1.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 642,
+      "now_cost": 5.8,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 643,
+      "now_cost": 5.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 644,
+      "now_cost": 5.2,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 645,
+      "now_cost": 5.2,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 646,
+      "now_cost": 5.3,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 647,
+      "now_cost": 5.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 648,
+      "now_cost": 5.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 649,
+      "now_cost": 5.0,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 650,
+      "now_cost": 4.4,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 651,
+      "now_cost": 4.4,
+      "selected_percent": 0.3
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 652,
+      "now_cost": 4.4,
+      "selected_percent": 1.4
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 653,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 654,
+      "now_cost": 6.3,
+      "selected_percent": 1.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 655,
+      "now_cost": 4.9,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 656,
+      "now_cost": 4.9,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 657,
+      "now_cost": 4.4,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 658,
+      "now_cost": 4.4,
+      "selected_percent": 1.8
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 663,
+      "now_cost": 5.1,
+      "selected_percent": 0.2
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 682,
+      "now_cost": 4.4,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 695,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 709,
+      "now_cost": 4.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 720,
+      "now_cost": 5.5,
+      "selected_percent": 0.1
+    },
+    {
+      "timestamp_utc": "2025-11-13T06:38:54.087547",
+      "gw": 11,
+      "player_id": 749,
+      "now_cost": 4.5,
+      "selected_percent": 0.0
     }
   ],
-  "generated_utc": "2025-11-13T02:03:35.453416"
+  "generated_utc": "2025-11-13T06:38:54.087547"
 }
