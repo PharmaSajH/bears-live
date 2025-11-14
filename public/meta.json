@@ -1,7 +1,6 @@
 {
-  "generated_at_utc": "2025-11-14T17:56:31.437Z",
+  "updated_utc": "2025-11-14T18:36:28.480872",
   "gw": 11,
-  "counts": {
-    "players": 752
-  }
+  "current_event": 11,
+  "live_available": true
 }
